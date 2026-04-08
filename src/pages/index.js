@@ -182,7 +182,7 @@ export default function Home() {
               rel="noreferrer"
               className="pill-banner-link"
             >
-              <span className=\"pill-banner-text\">\n                Follow me on X to explore insights on fintech, derivatives and market analysis\n              </span>
+              <span className="pill-banner-text">
                 Follow me on X to explore insights on fintech, derivatives and market analysis
               </span>
             </a>
