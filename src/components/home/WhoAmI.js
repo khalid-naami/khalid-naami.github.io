@@ -7,10 +7,7 @@ function WhoAmI({ isDesktop, isTablet }) {
   return (
     <Section title="Who am I?">
       <div className="text-xl">
-        Founder &amp; CEO at{' '}
-        <a target="_blank" rel="noreferrer" href="https://openbb.co/">
-          OpenBB
-        </a>
+        Multidisciplinary Professional | Software Dev &amp; Fintech 💻 | Strategic &amp; Geopolitical Analyst 🌍 | Expert in Python &amp; Financial Data
       </div>
       {!isDesktop ? (
         <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
@@ -90,11 +87,11 @@ function WhoAmI({ isDesktop, isTablet }) {
       )}
       <p className="text-center mt-4">
         You can reach me on{' '}
-        <a href="https://twitter.com/didier_lopes" target="_blank" rel="noreferrer">
+        <a href="https://x.com/GamesOfOptions" target="_blank" rel="noreferrer">
           X
         </a>{' '}
         and{' '}
-        <a href="https://www.linkedin.com/in/didier-lopes/" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/khalid-naami-a953263bb/" target="_blank" rel="noreferrer">
           LinkedIn
         </a>
         , where I post frequently.
