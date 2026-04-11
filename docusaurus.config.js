@@ -20,7 +20,7 @@ module.exports = async function createConfig() {
   url: 'https://khalidnaami3-wq.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-website-main/',
+  baseUrl: '/khalidnaami/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

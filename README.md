@@ -1,6 +1,6 @@
 # Khalid Website
 
-This my open source website: https://khalidnaami.com/
+This my open source website: https://khalidnaami.github.io/
 
 <p float="left">
   <img src="static/img/chat.png" width="500" />
