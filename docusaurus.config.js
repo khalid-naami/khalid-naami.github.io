@@ -17,10 +17,10 @@ module.exports = async function createConfig() {
     favicon: 'img/zoro-final.png',
 
   // Set the production url of your site here
-  url: 'https://khalidnaami3-wq.github.io',
+  url: 'https://khalid-naami.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/khalidnaami/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
