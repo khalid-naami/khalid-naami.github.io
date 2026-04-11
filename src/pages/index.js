@@ -37,10 +37,10 @@ export default function Home() {
   const [isDesktop, setIsDesktop] = useState(false);
   const [isTablet, setIsTablet] = useState(false);
   const [githubSrc, setGithubSrc] = useState(
-    'https://github-stats-alpha.vercel.app/api?username=khalidnaami3-wq&cc=fff&tc=000&ic=000&bc=000',
+    'https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000',
   );
   const [githubChartSrc, setGithubChartSrc] = useState(
-    'https://contribution.oooo.so/_/khalidnaami3-wq?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit&dark=true',
+    'https://contribution.oooo.so/_/khalid-naami?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit&dark=true',
   );
 
   useEffect(() => {
@@ -70,14 +70,14 @@ export default function Home() {
 
         setGithubSrc(
           isDarkTheme
-            ? 'https://github-stats-alpha.vercel.app/api?username=khalidnaami3-wq&cc=000&tc=fff&ic=fff&bc=fff'
-            : 'https://github-stats-alpha.vercel.app/api?username=khalidnaami3-wq&cc=fff&tc=000&ic=000&bc=000',
+            ? 'https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=000&tc=fff&ic=fff&bc=fff'
+            : 'https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000',
         );
 
         setGithubChartSrc(
           isDarkTheme
-            ? 'https://contribution.oooo.so/_/khalidnaami3-wq?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit&dark=true'
-            : 'https://contribution.oooo.so/_/khalidnaami3-wq?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit',
+            ? 'https://contribution.oooo.so/_/khalid-naami?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit&dark=true'
+            : 'https://contribution.oooo.so/_/khalid-naami?chart=3dbar&gap=0.6&scale=2&flatten=1&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=4&animation_loop=true&format=html&weeks=30&theme=blue_orbit',
         );
       };
 

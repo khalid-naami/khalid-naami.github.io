@@ -24,8 +24,8 @@ module.exports = async function createConfig() {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'khalidnaami3-wq', // Usually your GitHub org/user name.
-  projectName: 'my-website', // Usually your repo name.
+  organizationName: 'khalid-naami', // Usually your GitHub org/user name.
+  projectName: 'khalid-naami.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +50,7 @@ module.exports = async function createConfig() {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/khalidnaami3-wq/my-website/tree/main/',
+          editUrl: 'https://github.com/khalid-naami/khalid-naami.github.io/tree/main/',
         },
         blog: {
           blogTitle: 'Blog',
@@ -63,7 +63,7 @@ module.exports = async function createConfig() {
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/khalidnaami3-wq/my-website/tree/main/',
+          editUrl: 'https://github.com/khalid-naami/my-website/tree/main/',
           feedOptions: {
             type: 'all',
             limit: 2000,

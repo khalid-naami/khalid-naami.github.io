@@ -50,7 +50,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
               {/* fallback */}
               <img
                 alt="GitHub stats"
-                src="https://github-stats-alpha.vercel.app/api?username=khalidnaami3-wq&cc=fff&tc=000&ic=000&bc=000"
+                src="https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000"
                 style={{ width: '700px' }}
               />
             </picture>
@@ -71,7 +71,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
       </div>
       <p className="text-center mb-4">
         Follow my progress on{' '}
-        <a href="https://github.com/khalidnaami3-wq" target="_blank" rel="noreferrer">
+        <a href="https://github.com/khalid-naami" target="_blank" rel="noreferrer">
           GitHub
         </a>
         .

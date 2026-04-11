@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 
 export default function Subscribe(): JSX.Element {
   useEffect(() => {
-    window.location.href = 'https://substack.com/@khalidnaami3-wq';
+    window.location.href = 'https://substack.com/@khalid-naami';
   }, []);
 
   return (
@@ -16,7 +16,7 @@ export default function Subscribe(): JSX.Element {
           <h1>Redirecting to Newsletter...</h1>
           <p>
             If you are not redirected automatically,{' '}
-            <a href="https://substack.com/@khalidnaami3-wq">
+            <a href="https://substack.com/@khalid-naami">
               click here to subscribe
             </a>
             .

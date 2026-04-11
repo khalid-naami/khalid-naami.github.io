@@ -41,12 +41,12 @@ const journeyData = [
   {
     year: 2024,
     icon: "🐙",
-    description: <>This is one of the applications that explains Greek options; I only recently published it in a repository on GitHub - [<a href="https://github.com/khalidnaami3-wq/black-scholes-option" target="_blank" rel="noreferrer">black-scholes-option</a>].</>
+    description: <>This is one of the applications that explains Greek options; I only recently published it in a repository on GitHub - [<a href="https://github.com/khalid-naami/black-scholes-option" target="_blank" rel="noreferrer">black-scholes-option</a>].</>
   },
   {
     year: 2025,
     icon: "🌐",
-    description: <>This application contains several web applications, all compiled in one place, used for investment management - [<a href="https://github.com/khalidnaami3-wq/Financial-Dashboard" target="_blank" rel="noreferrer">Financial-Dashboard</a>].</>
+    description: <>This application contains several web applications, all compiled in one place, used for investment management - [<a href="https://github.com/khalid-naami/Financial-Dashboard" target="_blank" rel="noreferrer">Financial-Dashboard</a>].</>
   },
   {
     year: 2022,
