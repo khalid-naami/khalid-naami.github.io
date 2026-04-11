@@ -19,7 +19,7 @@ export default function NewsletterCTA({ variant = 'default' }: NewsletterCTAProp
         }}
       >
         <a
-          href="https://substack.com/@didierrlopes"
+          href="https://substack.com/@khnaami"
           target="_blank"
           rel="noopener noreferrer"
           className="mission-button"
@@ -85,7 +85,7 @@ export default function NewsletterCTA({ variant = 'default' }: NewsletterCTAProp
           </div>
         </div>
         <a
-          href="https://substack.com/@didierrlopes"
+          href="https://substack.com/@khnaami"
           target="_blank"
           rel="noopener noreferrer"
           className="mission-button"

@@ -64,7 +64,7 @@ const Clock = ({ color }: { color: string }) => {
     React.useEffect(() => {
         const timer = setInterval(() => {
             const now = new Date();
-            const options: Intl.DateTimeFormatOptions = { timeZone: 'America/New_York' };
+            const options: Intl.DateTimeFormatOptions = { timeZone: 'Africa/Casablanca' };
             
             const year = new Intl.DateTimeFormat('en', { year: 'numeric', ...options }).format(now);
             const month = new Intl.DateTimeFormat('en', { month: '2-digit', ...options }).format(now);
@@ -82,8 +82,8 @@ const Clock = ({ color }: { color: string }) => {
     }, []);
 
     return (
-        <div style={{ position: 'absolute', top: '-25px', right: '0px', fontSize: '0.9em', color }}>
-            NYC {icon}, {dateTime}
+        <div style={{ position: 'absolute', top: '-25px', right: '0px', fontSize: '0.6em', color }}>
+            Morocco {icon}, {dateTime}
         </div>
     );
 };
@@ -104,7 +104,7 @@ const StatusCircle = ({ status }: { status: 'online' | 'offline' | 'pending' }) 
     );
 };
 
-const IndexingProgress = ({ title, progress, isDark }) => {
+const IndexingProgress = ({ title, progress, isDark }: { title: string, progress: number, isDark: boolean }) => {
     const textColor = isDark ? 'white' : 'black';
     const subtleGrey = isDark ? '#4A4A4A' : '#E0E0E0';
     return (
@@ -141,7 +141,7 @@ const IndexingProgress = ({ title, progress, isDark }) => {
     );
 };
 
-const StyledButton = ({ onClick, disabled, children, style: propStyle = {} }) => {
+const StyledButton = ({ onClick, disabled, children, style: propStyle = {} }: { onClick: () => void, disabled?: boolean, children: React.ReactNode, style?: React.CSSProperties }) => {
     const { colorMode } = useColorMode();
     const isDark = colorMode === 'dark';
 
@@ -193,7 +193,7 @@ function stripHtml(html: string): string {
     return doc.body.textContent || "";
 }
 
-const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Didier Lopes. Founder, builder, and product thinker at the intersection of open source, AI and finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
+const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami. Founder, builder, and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
 
 const RAG_SYSTEM_PROMPT = 'When you answer a question that has used context from one of the indexed blog posts, you should add a [source](blog_url) link at the end of your answer.';
 
@@ -270,17 +270,17 @@ const CommandSnippet = ({ command }: { command: string }) => {
     );
 };
 
-const GokuStates = ({ indexing, indexingResult }) => {
+const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingResult: boolean }) => {
     return (
         <>
             <img
-                src="/img/goku_waiting_for_embeds.webp"
-                alt="Goku waiting for embeddings"
+                src="/img/zoro_waiting_pixel.png"
+                alt="Zoro waiting for embeddings"
                 style={{
                     position: 'absolute',
                     bottom: 'calc(100% - 15px)',
-                    left: '10px',
-                    height: '130px',
+                    left: '-15px',
+                    height: '100px',
                     opacity: !indexing && !indexingResult ? 1 : 0,
                     transition: 'opacity 0.5s ease-in-out',
                     pointerEvents: 'none',
@@ -290,21 +290,21 @@ const GokuStates = ({ indexing, indexingResult }) => {
             <div
                 className="thought-bubble"
                 style={{
-                    bottom: 'calc(100% + 75px)',
-                    left: '110px',
+                    bottom: 'calc(100% + 110px)',
+                    left: '65px',
                     opacity: !indexing && !indexingResult ? 1 : 0,
                 }}
             >
-                where my embeddings at?
+                where are my swords? (and my data?)
             </div>
             <img
-                src="/img/goku_indexing_embeddings.webp"
-                alt="Goku indexing"
+                src="/img/zoro_waiting_pixel.png"
+                alt="Zoro indexing"
                 style={{
                     position: 'absolute',
                     bottom: 'calc(100% - 15px)',
-                    left: '10px',
-                    height: '130px',
+                    left: '-15px',
+                    height: '100px',
                     opacity: indexing ? 1 : 0,
                     transition: 'opacity 0.5s ease-in-out',
                     pointerEvents: 'none',
@@ -314,21 +314,21 @@ const GokuStates = ({ indexing, indexingResult }) => {
             <div
                 className="thought-bubble thought-bubble--indexing"
                 style={{
-                    bottom: 'calc(100% + 75px)',
-                    left: '110px',
+                    bottom: 'calc(100% + 110px)',
+                    left: '65px',
                     opacity: indexing ? 1 : 0,
                 }}
             >
-                SOMETHING IS HAPPENING!
+                THREE SWORD STYLE... INDEXING!
             </div>
             <img
-                src="/img/goku_has_embeddings.webp"
-                alt="Goku has embeddings"
+                src="/img/zoro_ready_pixel.png"
+                alt="Zoro has embeddings"
                 style={{
                     position: 'absolute',
                     bottom: 'calc(100% - 15px)',
-                    left: '10px',
-                    height: '130px',
+                    left: '-15px',
+                    height: '100px',
                     opacity: !indexing && indexingResult ? 1 : 0,
                     transition: 'opacity 0.5s ease-in-out',
                     pointerEvents: 'none',
@@ -338,12 +338,12 @@ const GokuStates = ({ indexing, indexingResult }) => {
             <div
                 className="thought-bubble"
                 style={{
-                    bottom: 'calc(100% + 75px)',
-                    left: '110px',
+                    bottom: 'calc(100% + 110px)',
+                    left: '65px',
                     opacity: !indexing && indexingResult ? 1 : 0,
                 }}
             >
-                i'm smort now
+                ready to cut through the noise.
             </div>
         </>
     );
@@ -421,7 +421,7 @@ const OllamaSetupInstructions = () => {
                         <p style={{ margin: '0.5rem 0' }}>1. Add the environment variable to the systemd unit:</p>
                         <CommandSnippet command="sudo systemctl edit ollama.service" />
                         <p style={{ margin: '0.5rem 0' }}>2. This will open an editor. Add the following lines, then save and close the file:</p>
-                        <pre style={{ background: isDark ? '#111' : '#EEE', padding: '0.5rem', borderRadius: '4px', marginTop: '0.5rem', fontSize: '0.85em' }}>[Service]<br/>Environment="OLLAMA_ORIGINS=https://didierlopes.com"</pre>
+                        <pre style={{ background: isDark ? '#111' : '#EEE', padding: '0.5rem', borderRadius: '4px', marginTop: '0.5rem', fontSize: '0.85em' }}>[Service]<br/>Environment="OLLAMA_ORIGINS=https://khalid-options.com"</pre>
                         <p style={{ margin: '1rem 0 0 0' }}>3. Restart the Ollama service to apply the changes:</p>
                         <CommandSnippet command="sudo systemctl restart ollama" />
                     </div>
@@ -534,7 +534,7 @@ const OllamaSetupInstructions = () => {
                     </div>
                     <p style={{ marginTop: '1rem', marginBottom: '1rem' }}>
                         To allow this website to connect to your local Ollama, you must configure CORS.
-                        This tells Ollama to accept requests from <strong>https://didierlopes.com</strong>.
+                        This tells Ollama to accept requests from <strong>https://khalid-options.com</strong>.
                     </p>
                     {renderCorsInstructions()}
                 </div>
@@ -804,7 +804,7 @@ const ChatInterface = () => {
         setIndexingResult(null);
 
         try {
-            const feedResponse = await fetch('https://didierlopes.com/blog/feed.json');
+            const feedResponse = await fetch('https://khalid-options.com/blog/feed.json');
             if (!feedResponse.ok) throw new Error('Failed to fetch blog feed');
             const feedData = await feedResponse.json();
             const posts = feedData.items;
@@ -1085,7 +1085,7 @@ const ChatInterface = () => {
                             </div>
                         ) : (
                             indexingResult && (
-                                <span style={{ fontSize: '0.8em', color: isDark ? '#AAA' : '#555', marginLeft: '1rem' }}>
+                                <span style={{ fontSize: '0.7em', color: isDark ? '#AAA' : '#555', marginLeft: '1rem' }}>
                                     {indexingResult.count} posts indexed at {indexingResult.timestamp?.toLocaleTimeString()}
                                 </span>
                             )
@@ -1095,7 +1095,7 @@ const ChatInterface = () => {
             </div>
 
             <div style={{ position: 'relative', width: '60%', marginTop: '4rem' }}>
-                <GokuStates indexing={indexing} indexingResult={!!indexingResult} />
+                <ZoroStates indexing={indexing} indexingResult={!!indexingResult} />
                 <Clock color={aiTextColor} />
                 <Terminal 
                     history={history} 

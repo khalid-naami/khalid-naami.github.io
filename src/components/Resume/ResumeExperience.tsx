@@ -3,90 +3,62 @@ import ExperienceList from "../General/ExperienceList";
 
 const data = [
 	{
-		company: "OpenBB",
+		company: "Dashboard Options",
 		title: "Founder & CEO",
-		link: "https://openbb.co",
-		daterange: "September 2021 - Present",
+		link: "#",
+		daterange: "2026",
 		summary: `
-- Raised **$10M in funding** from an open source project I started in my spare time.
-- Built a team of **20 people** from scratch in less than 1 year, including: engineering, product, marketing, design and finance departments.
-- Launched [OpenBB Workspace](https://pro.openbb.co/), the AI workspace for Finance.
-- The [Open Data Platform](https://github.com/OpenBB-finance/OpenBB) became the most popular finance project on GitHub with more than **50k stars**.
+- Engineered and bootstrapped a premier high-frequency options analytics platform from the ground up, integrating real-time data feeds from **CBOE, OPRA, Binance, and Deribit**.
+- Developed advanced algorithmic models to calculate and visualize **"The Greeks"** (Delta, Gamma, Vega, Theta) with institutional-grade accuracy and sub-millisecond execution speeds.
+- Leveraged the AI revolution to enhance predictive analytics, scaling the platform independently into a global benchmark for volatility analysis.
 		`,
 	},
 	{
-		company: "Universidade Europeia",
-		title: "ML Guest Lecturer",
-		link: "https://www.europeia.pt",
-		daterange: "April 2024 - Present",
+		company: "Remote Canadian University",
+		title: "Big Data & Financial Analytics Specialization",
+		link: "#",
+		daterange: "September 2024 - Present",
 		summary: `
-Invited to teach a course in "Big Data and Data Analytics" focusing on Supervised Learning.
-
-I gave 4 hours of classes, divided into:
-- Supervised Learning - Theory
-- Supervised Learning - Practice
-
-and graded student's coursework on supervised learning.
-
-Then I also gave a 2h seminar in:
-- Data Analytics in Financial Markets
-- AI in Financial Markets
-
-I open sourced the syllabus and content about Supervised Learning here: [github.com/DidierRLopes/supervised-learning](https://github.com/DidierRLopes/supervised-learning)
+- Pursuing an advanced academic specialization in **Big Data Science**, focused on optimizing large-scale datasets within the **Medical** and **Quantitative Finance** domains.
+- Developing expertise in **Supervised Learning** frameworks, specializing in predictive modeling and pattern recognition for complex market data.
+- Actively engaged in high-level data auditing and session analysis, translating theoretical coursework into practical, high-precision evaluation models.
+- Consistently demonstrating academic excellence through rigorous examination-based assessments and practical lab-based certifications.
 		`,
 	},
 	{
-		company: "NURVV",
-		title: "Sensor Fusion Engineer",
-		link: "https://www.nurvv.com/en-gb/",
-		daterange: "November 2020 - October 2021",
+		company: "Open-Source Financial Ecosystems",
+		title: "Quant Software Architect",
+		link: "#",
+		daterange: "September 2025 - Present",
 		summary: `
-**My biggest contributions have been:**
-- Improving the time-to-first-fix of the GNSS receiver
-- Re-designing the concept of altitude estimation using Kalman Filter
-- Adding a GPS filtering algorithm for outliers, including an approach to pick a valid start point
-- Work on a new way of calibrating insoles to increase their life span and accuracy
-- Create and clean Nurvv running dataset. This allowed to implement a new footstrike detection and INS algorithm to improve distance covered and speed reported to users
-
-All of these tasks had a major research/simulation component carried through python in jupyter notebook environment.
-
-**In addition I have:**
-- Developed a python data analyzer that processes the data from a running session and produces a html report, which allows us to assess the state of the product, and helps us in development to make sure the product is behaving as expected
-- Developed a python sensor analyzer that allows to analyze the raw samples seen by the trackers over a running session, to understand - at a low level - if something unexpected is happening
-- Started the development of a python internal tool, similar to the app, to be used by the firmware team to communicate with the product
+- **Multi-disciplinary Engineering:** Specializing in high-performance software development by seamlessly integrating **C, C++, Python, and JavaScript**.
+- **Financial Synthesis:** Bridging the gap between **Global Macroeconomic analysis** and robust financial engineering to build sophisticated trading infrastructures.
+- **Open-Source Leadership:** Driving the creation of institutional-grade financial software, empowering the global community with transparent and scalable data analysis tools.
+- **Full-Stack Data Science:** Combining low-latency systems (C++) with flexible analytical modules (Python) to architect next-generation financial ecosystems.
 		`,
 	},
 	{
-		company: "NURVV",
-		title: "Embedded Firmware Engineer",
-		link: "https://www.nurvv.com/en-gb/",
-		daterange: "March 2020 - November 2020",
+		company: "Confidential Financial Institution",
+		title: "Proprietary Financial Systems Engineer",
+		link: "#",
+		daterange: "March 2026 - Present",
 		summary: `
-The primary tasks of the job are working on software development and automated systems. The job requires proficiency with C and C++ programming language and Python scripting; Some knowledge on Wireless communications (BLE, ANT), Communication protocols (SPI, I2C) and Sensor technologies (drivers). In addition, expertise in INS and GPS systems.
-
-As part of a new firmware team of 3 engineers, we managed to get several bug fixes and features (e.g. auto-pause) in the latest release of the product.
+- **Collaborative Engineering:** Partnering with cross-functional engineering teams to architect and maintain mission-critical financial software and high-performance application interfaces (APIs).
+- **Institutional-Grade Solutions:** Developed and optimized secure middleware for Tier-1 financial institutions, ensuring high data integrity and seamless system integration.
+- **Security & Compliance:** Managing highly confidential, closed-source codebases with a focus on internal financial data processing and sensitive transaction monitoring.
+- **Architecture Maintenance:** Ensuring the operational excellence of robust financial frameworks designed for high-security environments.
 		`,
 	},
 	{
-		company: "U-blox",
-		title: "Software Design Engineer",
-		link: "https://www.u-blox.com/en",
-		daterange: "November 2018 - February 2020",
+		company: "Financial Engineering Mentorship",
+		title: "Quantitative Finance Mentor",
+		link: "#",
+		daterange: "2026 - Present",
 		summary: `
-The primary tasks of the job include designing and maintaining the internal and external customer-facing features, taking part in the whole embedded software development life cycle, in order to release state of the art GNSS receivers for this innovative IoT semiconductor company. Within my team responsibilities I was more keen towards Sensor Fusion and Inertial Navigation Systems.
-
-The job requires: Proficiency in programming and scripting languages (C, C++, MATLAB and Perl); Knowledge in software testing, test automation and continuous integration concepts; Project tracking and collaboration (e.g. Jira); Agile software development processes; Experience with integrated development environments (e.g. Visual Studio Code), revision control systems (e.g. Git) and Linux computing.
-		`,
-	},
-	{
-		company: "Faculty of Sciences and Technology, New University of Lisbon",
-		title: "Teacher Assistant",
-		link: "https://www.fct.unl.pt",
-		daterange: "January 2016 - June 2016",
-		summary: `
-My main activity was helping students to comprehend their MATLAB/Octave laboratory work and help them understanding the program of the course. I was responsible for 75 students, organized by 3 classes of 2 hours per week.
-
-The program of the course was Signal and Systems; Linear, time invariant systems; The Laplace transform; Z transform; Periodic signals and the Fourier series (DFT); Discrete-time Fourier transform and The continuous-time Fourier Transform.
+- **Expert Mentorship:** Leveraging deep scientific market experience to train the next generation of quantitative traders and financial engineers in mastering complex derivatives.
+- **Curriculum Development:** Designed and delivered specialized training on **The Greeks** (risk metrics), Python for Finance, and the most powerful analytical libraries (e.g., Pandas, NumPy, Scipy).
+- **Practical Application:** Empowering students with the tools to bridge the gap between financial theory and algorithmic execution through high-fidelity modeling and backtesting.
+- **Knowledge Synthesis:** Translating years of market exposure into structured educational masterclasses focused on volatility surfaces and strategic options management.
 		`,
 	},
 ];

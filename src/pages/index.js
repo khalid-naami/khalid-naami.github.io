@@ -113,7 +113,7 @@ export default function Home() {
   const [allPosts, setAllPosts] = useState([]);
 
   useEffect(() => {
-    fetch(`${siteUrl}/blog/feed.json`)
+    fetch('/latest-blog-posts.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
@@ -134,7 +134,7 @@ export default function Home() {
   return (
     <Layout
       title="Homepage"
-      description="Didier Rodrigues Lopes personal website"
+      description="Khalid Naami personal website"
     >
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
@@ -142,7 +142,7 @@ export default function Home() {
           property="og:description"
           content="Where you can find my posts, projects and insights on technology, finance and markets."
         />
-        <meta property="og:image" content={`${siteUrl}/img/goku_pixel.png`} />
+        <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
         <meta property="og:url" content="https://khalidnaami.com" />
 
         {/* Add X-specific meta tags */}
@@ -157,23 +157,21 @@ export default function Home() {
           name="twitter:description"
           content="Specializing in the intersection of technology and finance - Python expert, derivatives analyst"
         />
-        <meta name="twitter:image" content={`${siteUrl}/img/goku.png`} />
+        <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
       </Head>
       <main>
-        {/*}
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
             <a
-              href="https://substack.com/@didierrlopes"
+              href="https://substack.com/@khnaami"
               target="_blank"
               rel="noreferrer"
               className="pill-banner-link"
             >
-              <span className="pill-banner-text">I write weekly about AI, open source, startups and finance</span>
+              <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
             </a>
           </div>
         </div>
-        */}
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
             <a

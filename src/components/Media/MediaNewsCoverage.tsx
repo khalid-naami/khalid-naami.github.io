@@ -3,55 +3,44 @@ import NewsMentionsList from "../General/NewsList";
 
 const data = [
 	{
-		title: "2024 Best New Quant Research & Analytics Product",
-		link: "https://www.rebellionresearch.com/2024-best-new-quant-research-analytics-product",
-		magazine: "Rebellion Research",
-		date: "2024-12-30",
-		img: "/media/rebellion-research-2024-december.png",
+		title: "Intuitive Interface",
+		subtitle: "Flexible Expiration Selection: From the full option complex to near-term 0DTE (zero days to expiration) contracts, we accommodate all trading preferences, allowing you to tailor your approach for different market conditions.",
+		link: "#",
+		magazine: "Dashboard Options Showcase",
+		date: "2026-04-11",
+		imgs: ["/img/gex dex.png", "/img/charm and vanna.png"],
+		summary: [
+			"Make quick decisions with our all-in-one Greeks",
+			"Delta, Gamma, Charm, Vanna visualized clearly",
+			"Open Interest visuals designed for easy interpretation"
+		]
 	},
 	{
-		title:
-			"Fintech OpenBB aims to be more than an 'open source Bloomberg Terminal'",
-		link: "https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/",
-		magazine: "TechCrunch",
-		date: "2024-10-08",
-		img: "/media/tech-crunch-2024-october.png",
+		title: "GEX Dashboard",
+		subtitle: "Real-Time Data: We provide real-time data to keep you informed about the latest market movements in spot price and the associated impact on market structure.",
+		link: "#",
+		magazine: "Dashboard Options Showcase",
+		date: "2026-04-11",
+		imgs: ["/img/slv (2).png", "/img/xag.png"],
+		summary: [
+			"Real-time gamma exposure on Total, Weekly, and O DTE time frames",
+			"Identify option dealer supply & demand levels",
+			"Real-time O DTE GEX Flow Data"
+		]
 	},
 	{
-		title: "OpenBB: I am Not Uncertain",
-		link: "https://ted-merz.com/2024/03/07/openbb-i-am-not-uncertain/",
-		magazine: "Ted Merz",
-		date: "2024-03-24",
-	},
-	{
-		title:
-			"OpenBB Releases Its Second Generation Open Source Investment Research Platform With a Software Development Kit (SDK) and an AI/ML Toolkit",
-		link: "https://www.newswire.com/news/openbb-releases-its-second-generation-open-source-investment-research-21885626",
-		magazine: "Newswire",
-		date: "2022-11-29",
-	},
-	{
-		title: "OpenBB wants to be an open source challenger to Bloomberg Terminal",
-		link: "https://venturebeat.com/data-infrastructure/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/",
-		magazine: "Venture Beat",
-		date: "2022-03-30",
-		img: "/media/venture-beats-2022-march.png",
-	},
-	{
-		title: "Português cria versão gratuita de terminal da Bloomberg",
-		link: "https://visao.pt/exameinformatica/2022-03-29-portugues-cria-versao-gratuita-do-terminal-da-bloomberg/#google_vignette",
-		magazine: "Visão",
-		date: "2022-03-29",
-		img: "/media/visao-2022-march.jpg",
-	},
-	{
-		title:
-			"Gamestonk Terminal Is a DIY, Meme Stock Version of Bloomberg Terminal",
-		link: "https://www.vice.com/en/article/qjp9vp/gamestonk-terminal-is-a-diy-meme-stock-version-of-bloomberg-terminal",
-		magazine: "VICE Magazine",
-		date: "2021-03-01",
-		img: "/media/vice-magazine-2021-march.png",
-	},
+		title: "Complete Trading Hub: Institutional Flow & Market Maker Positions",
+		subtitle: "Access to Stocks, ETFs & Crypto: You'll have access to all stocks, ETFs, and cryptocurrencies with an underlying options market. Whether you trade SPX, BTC, or XAU, the entire trading world is at your fingertips.",
+		link: "#",
+		magazine: "Dashboard Options Showcase",
+		date: "2026-04-10",
+		img: "/img/Dashboard Options Showcase.png",
+		summary: [
+			"Turning complex options data into actionable signals",
+			"Decode market maker positions & key transition zones",
+			"Expose institutional flow for a clear, undeniable edge"
+		]
+	}
 ];
 
 export default function NewsMentions() {

@@ -104,7 +104,17 @@ export default function ExperienceList({ experience }: ExperienceListProps) {
                   {companyGroup.roles[0].daterange}
                 </div>
                 <div className="text-base mb-4">
-                  <strong>{companyGroup.roles[0].title}</strong> @ <a href={companyGroup.link} rel="noopener noreferrer" target="_blank" className="text-mission-text-color hover:underline">{companyGroup.company}</a>
+                  <strong>{companyGroup.roles[0].title}</strong>
+                  {index === 0 ? (
+                    <>
+                      {" @ "}
+                      <a href={companyGroup.link} rel="noopener noreferrer" target="_blank" className="text-mission-text-color hover:underline">
+                        {companyGroup.company}
+                      </a>
+                    </>
+                  ) : (
+                    <> {companyGroup.company}</>
+                  )}
                 </div>
                 {renderSummary(companyGroup.roles[0].summary)}
               </>

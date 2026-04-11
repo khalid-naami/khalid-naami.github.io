@@ -3,27 +3,24 @@ import ArticlesList from "../General/ArticlesList";
 
 const data = [
 	{
-		title:
-			"Energy savings from an Eco-Cooperative Adaptive Cruise Control: a BEV platoon investigation",
-		link: "https://ieeexplore.ieee.org/abstract/document/8796226",
-		conference: "2019, 18th European Control Conference (ECC)",
+		title: "The Power of Gamma: Managing Explosive Options Risk",
+		link: "/blog/the-power-of-gamma",
+		conference: "Published on Khalid Naami Blog",
 	},
 	{
-		title: "Step Detection using SVM on NURVV Trackers",
-		link: "https://ieeexplore.ieee.org/document/9680024",
-		conference:
-			"2021, 20th IEEE International Conference on Machine Learning and Applications (ICMLA)",
+		title: "Delta Dynamics: Mastering Directional Risk in Modern Markets",
+		link: "/blog/delta-dynamics-directional-risk",
+		conference: "Technical Analysis Series",
 	},
 	{
-		title:
-			"Forecasting models for time-series: a comparative study between classical methodologies and Deep Learning",
-		link: "https://ciencia.iscte-iul.pt/publications/forecasting-models-for-time-series-a-comparative-study-between-classical-methodologies-and-deep/83651",
-		conference: "2021, XXV Portuguese Statistical Society (SPE)",
+		title: "Vanna: The Critical Bridge Between Price and Volatility",
+		link: "/blog/vanna-price-volatility-bridge",
+		conference: "Advanced Risk Management",
 	},
 	{
-		title: "Maze Runner - Autonomous exploration of unknown environments",
-		link: "https://www.researchgate.net/publication/317065914_Maze_Runner_-_Autonomous_exploration_of_unknown_environments",
-		conference: "2017",
+		title: "Charm: Decoding the Invisible Decay of Options Delta",
+		link: "/blog/charm-the-invisible-delta-decay",
+		conference: "Quantitative Insights",
 	},
 ];
 

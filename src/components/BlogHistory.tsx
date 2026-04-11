@@ -18,6 +18,7 @@ interface Post {
 	summary: string;
 	date_modified: string;
 	tags: string[];
+	image?: string;
 }
 
 interface BlogHistoryProps {
@@ -122,11 +123,11 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 				const doc = parser.parseFromString(post.content_html, 'text/html');
 				
 				// First, remove codeblocks from markdown-style ``` blocks
-				let htmlContent = post.content_html;
+				let htmlContent = post.content_html || '';
 				// Remove markdown code blocks (```...```)
-				htmlContent = htmlContent.replace(/```[\s\S]*?```/g, '');
+				htmlContent = htmlContent.replace?.(/```[\s\S]*?```/g, '') || htmlContent;
 				// Remove inline code blocks (`...`)
-				htmlContent = htmlContent.replace(/`[^`]*`/g, '');
+				htmlContent = htmlContent.replace?.(/`[^`]*`/g, '') || htmlContent;
 				
 				// Re-parse the cleaned HTML
 				const cleanDoc = parser.parseFromString(htmlContent, 'text/html');
@@ -306,15 +307,7 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 												>
 													<img
 														className="rounded-xl w-full h-full"
-														src={
-															post.content_html.match(
-																/<img.*?src="(.*?)"/,
-															)?.[1] || (() => {
-															const d = new Date(post.date_modified);
-															const slug = post.id?.split('/blog/')?.[1];
-															return slug ? `/blog/${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}-${slug}.webp` : "";
-														})()
-														}
+														src={post.image || ""}
 														alt={post.title}
 														style={{
 															objectFit: "cover",

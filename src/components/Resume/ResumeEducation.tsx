@@ -3,35 +3,36 @@ import EducationList from '../General/EducationList';
 
 const data = [
   {
-    school: 'Imperial College London, United Kingdom 🇬🇧',
-    link: 'https://www.imperial.ac.uk/study/courses/postgraduate-taught/control-optimisation/',
-    degree: 'MSc. in Control Systems, Distinction',
-    date: 'October 2017 - October 2018',
+    school: 'Advanced Software Technology (USA - Remote) 🇺🇸',
+    link: '#',
+    degree: 'Specialization in Programming Languages & Tech Architecture',
+    date: '2024 - Present',
     summary: [
-      'Mathematics for Signals and Systems, System Identification, Optimisation, Predictive Control, Estimation and Fault Detection, Pattern Recognition and Machine Learning for Computer Vision.',
-      'The overall examination mark was 75.4 / 100.',
-      'Achieved 83.4 / 100 on thesis: "Energy savings from an Ecological Cooperative Adaptive Cruise Control: a Battery Electric Vehicle platoon investigation".',
+      'Advanced mastery of C, C++, Python, and JavaScript integration.',
+      'Developing low-latency financial systems and scalable cloud architectures.',
+      'Emphasis on cross-language software engineering and data structures.',
     ],
   },
   {
-    school: 'Delft University of Technology, The Netherlands 🇳🇱',
-    link: 'https://www.tudelft.nl/en/education/programmes/masters/systems-control/msc-systems-control/programme',
-    degree: 'Student Exchange Program',
-    date: 'February 2017 - July 2017',
+    school: 'Big Data Science Institute (Canada - Remote) 🇨🇦',
+    link: '#',
+    degree: 'Specialization in Big Data Science & Data Intelligence',
+    date: '2024 - Present',
     summary: [
-      'Adaptive and Predictive Control, Modelling and Control of Hybrid Systems, Knowledge Based Control Systems, Networked and Distributed Control Systems, Integration Project Systems and Control and Space Robotics.',
-      'Finished with 7.6 out of 10.',
+      'Specialized in processing large-scale datasets and financial data forensics.',
+      'In-depth study of Supervised Learning, predictive modeling, and pattern recognition.',
+      'Applying big data science to solve complex challenges in Financial and Medical data domains.',
     ],
   },
   {
-    school:
-      'Faculty of Sciences and Technology, New University of Lisbon, Portugal 🇵🇹',
-    link: 'https://guia.unl.pt/en/2020/fct/program/853#structure',
-    degree: 'BSc. in Electrical and Computer Engineering, Top 1',
-    date: 'September 2013 - January 2017',
+    school: 'Business Administration & Global Macroeconomics',
+    link: '#',
+    degree: 'BSc. / Professional Diploma',
+    date: 'Graduated 2023',
     summary: [
-      'Mathematics, Physics, Energy, Telecommunication, Digital Systems, Electronics, Robotics and Control Systems.',
-      'Finished the degree with 17.4 out of 20 being top 1 out of 96 students.',
+      'Core focus on Global Macroeconomic cycles, market indicators, and business strategy.',
+      'Analytical foundation for combining macro-trends with quantitative financial engineering.',
+      'Completed comprehensive studies on international finance and business operational excellence.',
     ],
   },
 ];

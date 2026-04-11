@@ -1,10 +1,10 @@
-# Didier Website
+# Khalid Website
 
 This my open source website: https://khalidnaami.com/
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/e612733d-ce97-447c-80cf-8287a6203142" width="500" />
-  <img src="https://github.com/user-attachments/assets/03325f5b-a6d7-4270-8b95-6aa574534957" width="460" />
+  <img src="static/img/chat.png" width="500" />
+  <img src="static/img/intteligence.png" width="460" />
 </p>
 
 ---

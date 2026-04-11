@@ -3,7 +3,7 @@ import { useHistory } from '@docusaurus/router';
 
 export default function Newsletter() {
   useEffect(() => {
-    window.location.href = 'https://substack.com/@didierrlopes';
+    window.location.href = 'https://substack.com/@khnaami';
   }, []);
 
   return null;

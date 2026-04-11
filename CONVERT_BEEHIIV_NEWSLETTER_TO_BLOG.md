@@ -4,8 +4,8 @@ A comprehensive guide for converting Substack (or Beehiiv) newsletter posts into
 
 ## Supported Platforms
 
-- **Substack** (primary): `https://didierrlopes.substack.com/p/<slug>` or `https://substack.com/home/post/p-<id>`
-- **Beehiiv** (legacy): `https://didierlopes.beehiiv.com/p/<slug>`
+- **Substack** (primary): `https://khalidnaami.substack.com/p/<slug>` or `https://substack.com/home/post/p-<id>`
+- **Beehiiv** (legacy): `https://khalidnaami.beehiiv.com/p/<slug>`
 
 ## Prerequisites
 
@@ -47,18 +47,18 @@ mcp__fetch__imageFetch --url <newsletter-url> --images '{"output": "file", "layo
 **Format:** `YYYY-MM-DD`
 
 **Substack:**
-- Fetch the archive page: `https://didierrlopes.substack.com/archive`
+- Fetch the archive page: `https://khalidnaami.substack.com/archive`
 - Extract post titles and dates (dates appear as "Feb 24", "Mar 6" etc.)
 - **Do NOT trust date suffixes in Substack slugs** - they may not match the actual publication date
 - Always verify against the archive page
 
 **Beehiiv:**
-- Extract from https://didierlopes.beehiiv.com/ main page
+- Extract from https://khalidnaami.beehiiv.com/ main page
 
 **Rules:**
 - Never use today's date - always use the actual publication date
 - Create slug from title: lowercase, replace spaces with hyphens, remove special characters
-- Example: "The trampoline job: Optimize your career for growth" → `2025-09-19-the-trampoline-job-optimize-your-career-for-growth.md`
+- Example: "The trampoline job: Optimize your career for growth" → `2026-04-10-the-power-of-gamma.md`
 
 ### 3. Create Front Matter
 
@@ -266,11 +266,11 @@ Before finalizing:
 
 ## Example Conversions
 
-**Substack URL:** `https://didierrlopes.substack.com/p/the-context-wars-in-financial-services`
-**Converted to:** `/blog/2026-02-13-the-context-wars-in-financial-services.md`
+**Substack URL:** `https://khalidnaami.substack.com/p/delta-dynamics-directional-risk`
+**Converted to:** `/blog/2026-04-10-delta-dynamics-directional-risk.md`
 
-**Beehiiv URL:** `https://didierlopes.beehiiv.com/p/the-trampoline-job-optimize-your-career-for-growth`
-**Converted to:** `/blog/2025-09-19-the-trampoline-job-optimize-your-career-for-growth.md`
+**Beehiiv URL:** `https://khalidnaami.beehiiv.com/p/the-power-of-gamma`
+**Converted to:** `/blog/2026-04-10-the-power-of-gamma.md`
 
 **Key transformations:**
 - Extracted images and converted to WebP
@@ -298,4 +298,4 @@ For batch conversions:
 - Don't include email-specific formatting (table layouts for email clients)
 - Don't forget the `<!-- truncate -->` marker for blog preview
 - Don't trust date suffixes in Substack slugs - always verify against the archive page
-- Don't use `substack.com/home/post/p-<id>` URLs for content extraction - prefer `didierrlopes.substack.com/p/<slug>`
+- Don't use `substack.com/home/post/p-<id>` URLs for content extraction - prefer `khalidnaami.substack.com/p/<slug>`

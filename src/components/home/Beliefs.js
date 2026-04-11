@@ -4,8 +4,8 @@ import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
-  const subtitleDesktop = 'Building an open-source legacy, one commit at a time.';
-  const subtitleMobile = 'Building an open-source legacy,\none commit at a time.';
+  const subtitleDesktop = 'Continuous learning to build a legacy that benefits everyone, step by step.';
+  const subtitleMobile = 'Continuous learning to build a legacy\nthat benefits everyone, step by step.';
 
   return (
     <Section title="What I believe in" subtitle={isTablet || isDesktop ? subtitleDesktop : subtitleMobile} className="px-4">
@@ -50,7 +50,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
               {/* fallback */}
               <img
                 alt="GitHub stats"
-                src="https://github-stats-alpha.vercel.app/api?username=DidierRLopes&cc=fff&tc=000&ic=000&bc=000"
+                src="https://github-stats-alpha.vercel.app/api?username=khalidnaami3-wq&cc=fff&tc=000&ic=000&bc=000"
                 style={{ width: '700px' }}
               />
             </picture>
@@ -71,7 +71,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
       </div>
       <p className="text-center mb-4">
         Follow my progress on{' '}
-        <a href="https://github.com/DidierRLopes" target="_blank" rel="noreferrer">
+        <a href="https://github.com/khalidnaami3-wq" target="_blank" rel="noreferrer">
           GitHub
         </a>
         .

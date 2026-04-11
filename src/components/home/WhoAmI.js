@@ -7,7 +7,7 @@ function WhoAmI({ isDesktop, isTablet }) {
   return (
     <Section title="Who am I?">
       <div className="text-xl">
-        Multidisciplinary Professional | Software Dev &amp; Fintech 💻 | Strategic &amp; Geopolitical Analyst 🌍 | Expert in Python &amp; Financial Data
+        Founder & CEO at
       </div>
       {!isDesktop ? (
         <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
@@ -46,42 +46,42 @@ function WhoAmI({ isDesktop, isTablet }) {
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/me_timegpt.webp"
-                alt="Time-GPT event from Nixtla"
+                src="img/khalid_profile.jpg"
+                alt="Khalid Naami Profile"
               />
             </div>
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/tattoo.webp"
-                alt="OpenBB Tattoo"
+                src="img/greeks_anatomy.png"
+                alt="Greeks Options Platform Anatomy"
               />
             </div>
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/bridge_sticker.webp"
-                alt="OpenBB bridge sticker"
+                src="img/khalid_mastermind.png"
+                alt="Khalid Strategic Mastermind"
               />
             </div>
           </Carousel>
         </div>
       ) : (
-        <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
+        <div className="flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
           <img
-            className="rounded-xl max-h-[300px] mx-auto"
-            src="img/tattoo.webp"
-            alt="OpenBB Tattoo"
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
+            src="img/greeks_anatomy.png"
+            alt="Greeks Options Platform Anatomy"
           />
           <img
-            className="rounded-xl max-h-[300px] mx-auto"
-            src="img/me_timegpt.webp"
-            alt="Time-GPT event from Nixtla"
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
+            src="img/khalid_profile.jpg"
+            alt="Khalid Naami Profile"
           />
           <img
-            className="rounded-xl max-h-[300px] mx-auto"
-            src="img/bridge_sticker.webp"
-            alt="OpenBB bridget sticker"
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
+            src="img/khalid_mastermind.png"
+            alt="Khalid Strategic Mastermind"
           />
         </div>
       )}

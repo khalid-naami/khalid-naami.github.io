@@ -3,7 +3,7 @@ import React from 'react';
 interface Article {
   title: string;
   conference: string;
-  link: string;
+  link?: string;
 }
 
 interface ArticleListProps {
@@ -23,16 +23,18 @@ export default function ArticlesList({ articles }: ArticleListProps) {
               {article.title}
             </div>
           </div>
-          <div className="mission-buttons">
-            <a
-              href={article.link}
-              rel="noopener noreferrer"
-              target="_blank"
-              className="mission-button mission-button--join"
-            >
-              Learn more
-            </a>
-          </div>
+          {article.link && (
+            <div className="mission-buttons">
+              <a
+                href={article.link}
+                rel="noopener noreferrer"
+                target="_blank"
+                className="mission-button mission-button--join"
+              >
+                Learn more
+              </a>
+            </div>
+          )}
         </div>
       ))}
     </div>

@@ -2,80 +2,73 @@ import React from 'react';
 
 const journeyData = [
   {
-    year: 2024,
-    icon: "🗽",
-    description: <>Moved with family again to be closer to customers in NYC.</>
+    year: 2009,
+    icon: "🇲🇦",
+    description: <>Since moving from the city of Laayoune, I have settled in the capital.</>
   },
   {
     year: 2023,
-    icon: "🇺🇸",
-    description: <>Moved with family to the Bay area, to be closer to tech founders and investors.</>
+    icon: "🎓",
+    description: <>I completed my studies in Business Administration and Global Macroeconomics. At the same time, I was learning Python and JavaScript.</>
+  },
+  {
+    year: 2026,
+    icon: "📈",
+    description: <>Announced Dashboard Options to the world for use in market analysis.</>
+  },
+  {
+    year: 2024,
+    icon: "📊",
+    description: <>Since I started working on the project, no one has helped me financially; all the budget was from me.</>
+  },
+  {
+    year: 2025,
+    icon: "🧪",
+    description: <>I finished the project in the summer of 2025, then I started testing it until it was ready for launch.</>
+  },
+
+
+  {
+    year: 2023,
+    icon: "🚀",
+    description: <>I started developing applications in 2023, including this one which analyzes seasonality and historical price data - [<a href="https://seasonality-data.streamlit.app/" target="_blank" rel="noreferrer">Seasonality-data</a>].</>
+  },
+  {
+    year: 2023,
+    icon: "🤖",
+    description: <>I had many ideas that I failed to implement, but with the recent artificial intelligence revolution, I reached my peak in many areas.</>
+  },
+  {
+    year: 2024,
+    icon: "🐙",
+    description: <>This is one of the applications that explains Greek options; I only recently published it in a repository on GitHub - [<a href="https://github.com/khalidnaami3-wq/black-scholes-option" target="_blank" rel="noreferrer">black-scholes-option</a>].</>
+  },
+  {
+    year: 2025,
+    icon: "🌐",
+    description: <>This application contains several web applications, all compiled in one place, used for investment management - [<a href="https://github.com/khalidnaami3-wq/Financial-Dashboard" target="_blank" rel="noreferrer">Financial-Dashboard</a>].</>
   },
   {
     year: 2022,
-    icon: "🦋",
-    description: <>Announced OpenBB to the world and rebranded the terminal - [<a href="https://openbb.co/blog/gme-didnt-take-me-to-the-moon-but-gamestonk-terminal-did" target="_blank" rel="noreferrer">announcement</a>].</>
+    icon: "🧠",
+    description: <>Ever since artificial intelligence emerged, I've been interested in it, particularly in its latest revolutionary aspects; it has elevated the world of software to another dimension.</>
   },
   {
-    year: 2021,
-    icon: "📈",
-    description: <>We raised $8.9M in a seed round to democratize investment research.</>
+    year: 2023,
+    icon: "🤝",
+    description: <>After I finished my studies in 2023, I met many people from JPM and CBOE and learned a lot from them.</>
   },
   {
-    year: 2021,
-    icon: "🦍",
-    description: <>Gamestonk Terminal was open source and went viral on <a href="https://www.reddit.com/r/Superstonk/comments/mx2cjh/move_over_bloomberg_terminal_here_comes_gamestonk/" target="_blank" rel="noreferrer">Reddit</a> and <a href="https://news.ycombinator.com/item?id=26258773" target="_blank" rel="noreferrer">HackerNews</a>.</>
+    year: 2024,
+    icon: "💻",
+    description: <>I studied data science and software development remotely at some technology universities in America and Canada.</>
   },
   {
-    year: 2020,
-    icon: "🦠",
-    description: <>During Xmas my flight got cancelled. So started building a financial terminal.</>
-  },
-  {
-    year: 2020,
-    icon: "😤",
-    description: <>Performing own investment research and frustrated by how time-consuming it was.</>
-  },
-  {
-    year: 2020,
-    icon: "🏃",
-    description: <>Joined startup NURVV and worked as Sensor Fusion Engineer [<a href="https://ieeexplore.ieee.org/document/9680024" target="_blank" rel="noreferrer">paper</a>].</>
-  },
-  {
-    year: 2019,
-    icon: "🎓",
-    description: <>Wrote code behind my math teacher's thesis on <a href="https://github.com/DidierRLopes/UnivariateTimeSeriesForecast" target="_blank" rel="noreferrer">Forecasting of Financial timeseries</a>.</>
-  },
-  {
-    year: 2018,
-    icon: "🚗",
-    description: <>Excited about AI and self-driving cars, worked as Software Engineer at u-blox.</>
-  },
-  {
-    year: 2017,
-    icon: "🇬🇧",
-    description: <>Moved to London for a MSc. in Control Systems at Imperial College London [<a href="https://ieeexplore.ieee.org/document/8796226" target="_blank" rel="noreferrer">paper</a>].</>
-  },
-  {
-    year: 2016,
-    icon: "🇳🇱",
-    description: <>Did a semester in TU Delft and learned about self-driving cars.</>
-  },
-  {
-    year: 2013,
+    year: 2026,
     icon: "📚",
-    description: <>BSc. in Electrical and Computer Engineering at FCT-UNL.</>
+    description: <>I have completed many studies and learned many things, and I am still learning to this day in order to make further progress.</>
   },
-  {
-    year: 2003,
-    icon: "🇵🇹",
-    description: <>Moved to Portugal when I was 8yo.</>
-  },
-  {
-    year: 1995,
-    icon: "🇨🇭",
-    description: <>I was born in Switzerland, but both my parents are Portuguese emigrants.</>
-  }
+
 ];
 
 const Timeline = () => {

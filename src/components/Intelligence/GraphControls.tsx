@@ -84,13 +84,13 @@ export const GraphControls: FC<GraphControlsProps> = ({
       color: isDarkTheme ? 'white' : 'black',
     },
     select: {
-      container: (base) => ({ ...base, position: 'relative', zIndex: 10 }),
-      control: (base) => ({ ...base, backgroundColor: isDarkTheme ? '#2D3748' : '#F7FAFC', borderColor: isDarkTheme ? '#4A5568' : '#E2E8F0' }),
-      input: (base) => ({...base, color: isDarkTheme ? '#E2E8F0' : '#1A202C'}),
-      menu: (base) => ({ ...base, backgroundColor: isDarkTheme ? '#2D3748' : '#F7FAFC' }),
-      multiValue: (base) => ({ ...base, backgroundColor: isDarkTheme ? '#4A5568' : '#E2E8F0' }),
-      multiValueLabel: (base) => ({ ...base, color: isDarkTheme ? 'white' : '#1A202C' }),
-      option: (base, { isFocused }) => ({
+      container: (base: any) => ({ ...base, position: 'relative', zIndex: 10 }),
+      control: (base: any) => ({ ...base, backgroundColor: isDarkTheme ? '#2D3748' : '#F7FAFC', borderColor: isDarkTheme ? '#4A5568' : '#E2E8F0' }),
+      input: (base: any) => ({...base, color: isDarkTheme ? '#E2E8F0' : '#1A202C'}),
+      menu: (base: any) => ({ ...base, backgroundColor: isDarkTheme ? '#2D3748' : '#F7FAFC' }),
+      multiValue: (base: any) => ({ ...base, backgroundColor: isDarkTheme ? '#4A5568' : '#E2E8F0' }),
+      multiValueLabel: (base: any) => ({ ...base, color: isDarkTheme ? 'white' : '#1A202C' }),
+      option: (base: any, { isFocused }: { isFocused: boolean }) => ({
         ...base,
         backgroundColor: isFocused
           ? (isDarkTheme ? '#4A5568' : '#E2E8F0')

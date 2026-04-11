@@ -7,13 +7,18 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 // Construct hero image URL from post date and slug
 // Pattern: /blog/YYYY-MM-DD-slug.webp
 const getHeroImage = (post) => {
+  // Priority 1: Use the image field from the post metadata if available (JSON Feed standard)
+  if (post.image) return post.image;
+  if (post.banner_image) return post.banner_image;
+
+  // Priority 2: Fallback to the automated path used by the previous owner
   if (!post.date_modified || !post.id) return null;
   const date = new Date(post.date_modified);
   // Use UTC methods to avoid timezone issues
   const yyyy = date.getUTCFullYear();
   const mm = String(date.getUTCMonth() + 1).padStart(2, '0');
   const dd = String(date.getUTCDate()).padStart(2, '0');
-  // Extract slug from URL like "https://didierlopes.com/blog/my-slug"
+  // Extract slug from URL like "https://khalid-options.com/blog/my-slug"
   const slug = post.id.split('/blog/')[1];
   if (!slug) return null;
   return `/blog/${yyyy}-${mm}-${dd}-${slug}.webp`;
@@ -34,7 +39,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
       {isDesktop ? (
         <div className="relative overflow-hidden max-w-[814px] mx-auto">
           <div className="flex animate-scroll gap-8">
-            {highlights.concat(highlights).map((post, index) => (
+            {(highlights.length > 3 ? highlights.concat(highlights) : highlights).map((post, index) => (
               <div
                 key={`${post.id}-${index}`}
                 className="flex-shrink-0 w-[250px]"

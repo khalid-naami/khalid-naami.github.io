@@ -11,10 +11,10 @@ function IntelligencePage() {
       description="A visual 'second brain' showcasing the connections between blog posts."
     >
       <Head>
-        <title>Intelligence | Didier Lopes</title>
+        <title>Intelligence | Khalid Naami</title>
         <meta
           property="og:title"
-          content="Intelligence | Second Brain by Didier Lopes"
+          content="Intelligence | Second Brain by Khalid Naami"
         />
         <meta
           name="description"

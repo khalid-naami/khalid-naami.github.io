@@ -18,13 +18,7 @@ export default function BlogListPageWrapper(props) {
       imagePath = `${imagePath}.png`;
     }
     
-    // Special handling for known problematic images
-    const fileName = imagePath?.split('/').pop();
-    if (fileName === '2025-05-28-openbb-is-underrated.png') {
-      imagePath = '/blog/2025-05-28-openbb-is-underrated.jpeg';
-    } else if (fileName === '2025-03-18-my-first-half-marathon.png') {
-      imagePath = '/blog/2025-03-18-my-first-half-marathon.JPG';
-    }
+
     
     return {
       id: item.content.metadata.permalink,

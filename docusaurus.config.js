@@ -6,17 +6,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const path = require('node:path');
 const fs = require('node:fs');
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'Khalid Naami',
-  tagline: 'Building an open source legacy one commit at a time.',
-  favicon: 'img/favicon.ico',
+/** @type {() => Promise<import('@docusaurus/types').Config>} */
+module.exports = async function createConfig() {
+  const remarkMath = (await import('remark-math')).default;
+  const rehypeKatex = (await import('rehype-katex')).default;
+
+  return {
+    title: 'Khalid Naami',
+    tagline: 'Building an open source legacy one commit at a time.',
+    favicon: 'img/zoro-final.png',
 
   // Set the production url of your site here
-  url: 'https://khalidnaami.com',
+  url: 'https://khalidnaami3-wq.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/my-website-main/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -55,6 +59,8 @@ const config = {
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
           showReadingTime: true,
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/khalidnaami3-wq/my-website/tree/main/',
@@ -62,14 +68,6 @@ const config = {
             type: 'all',
             limit: 2000,
             copyright: `Copyright © ${new Date().getFullYear()} Khalid Naami.`,
-            // createFeedItems: async (params) => {
-            //   const { blogPosts, defaultCreateFeedItems, ...rest } = params;
-            //   return defaultCreateFeedItems({
-            //     // keep only the 10 most recent blog posts in the feed
-            //     blogPosts: blogPosts, //.filter((item, index) => index < 10),
-            //     ...rest,
-            //   });
-            // },
           },
         },
         theme: {
@@ -83,12 +81,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/goku_pixel.png',
+      image: 'img/khalid_zoro_pixel.jpg',
       navbar: {
         title: 'Khalid Naami',
         logo: {
           alt: 'Khalid Naami logo',
-          src: 'img/goku_pixel.png',
+          src: 'img/khalid_zoro_pixel.jpg',
           href: '/',
           target: '_self',
         },
@@ -106,7 +104,7 @@ const config = {
           {
             position: 'left',
             label: 'Media',
-            to: '/media/on-stage',
+            to: '/media/interviews',
           },
           {
             position: 'left',
@@ -198,9 +196,25 @@ const config = {
         loadContent: async () => {
           const { siteDir } = context;
           const blogDir = path.join(siteDir, 'blog');
+          /** @type {any[]} */
           const blogContent = [];
 
+          /**
+           * Helper to extract frontmatter values via simple regex
+           * @param {string} content
+           * @param {string} key
+           */
+          const getFrontmatterValue = (content, key) => {
+            const regex = new RegExp(`^${key}:\\s*(.*)$`, 'm');
+            const match = content.match(regex);
+            if (!match) return null;
+            let val = match[1].trim();
+            // Remove quotes if present
+            return val.replace(/^["'](.*)["']$/, '$1');
+          };
+
           // recursive function to get all blog files
+          /** @param {string} dir */
           const getBlogFiles = async (dir) => {
             const entries = await fs.promises.readdir(dir, {
               withFileTypes: true,
@@ -216,9 +230,35 @@ const config = {
               ) {
                 try {
                   const content = await fs.promises.readFile(fullPath, 'utf8');
+                  const title = getFrontmatterValue(content, 'title') || entry.name.replace(/\.mdx?$/, '');
+                  const description = getFrontmatterValue(content, 'description') || '';
+                  const image = getFrontmatterValue(content, 'image') || null;
+                  
+                  // Extract tags: tags: [tag1, tag2]
+                  const tagsMatch = content.match(/^tags:\s*\[(.*)\]/m);
+                  const tags = tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/^["'](.*)["']$/, '$1')) : [];
+
+                  // Extract date from filename if possible (YYYY-MM-DD-slug)
+                  const dateMatch = entry.name.match(/^(\d{4})-(\d{2})-(\d{2})/);
+                  const date = dateMatch 
+                    ? new Date(parseInt(dateMatch[1]), parseInt(dateMatch[2]) - 1, parseInt(dateMatch[3])).toISOString() 
+                    : new Date().toISOString();
+
+                  const slug = entry.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.mdx?$/, '');
+                  const id = dateMatch 
+                    ? `/blog/${dateMatch[1]}/${dateMatch[2]}/${dateMatch[3]}/${slug}`
+                    : `/blog/${slug}`;
+
                   blogContent.push({
                     path: path.relative(blogDir, fullPath),
-                    content,
+                    id,
+                    url: id,
+                    title,
+                    summary: description,
+                    image,
+                    date_modified: date,
+                    tags,
+                    content_html: content, // The component expects this for word count
                   });
                 } catch (err) {
                   console.error(`Error processing file ${fullPath}:`, err);
@@ -228,6 +268,18 @@ const config = {
           };
 
           await getBlogFiles(blogDir);
+
+          // Sort by date descending
+          blogContent.sort((a, b) => new Date(b.date_modified).getTime() - new Date(a.date_modified).getTime());
+
+          // Save latest 5 posts to static folder for homepage to consume in dev/prod
+          const latestPosts = blogContent.slice(0, 5).map(({ id, url, title, summary, image, date_modified, tags, content_html }) => ({
+            id, url, title, summary, image, date_modified, tags, content_html
+          }));
+
+          const fullFeedPath = path.join(siteDir, 'static', 'blog-intelligence-feed.json');
+          await fs.promises.writeFile(fullFeedPath, JSON.stringify({ items: blogContent }, null, 2));
+
           return { blogContent };
         },
         postBuild: async ({ content, outDir }) => {
@@ -294,7 +346,7 @@ const config = {
     // [
     //   'docusaurus-plugin-simple-analytics',
     //   {
-    //     domain: 'didierlopes.com'
+    //     domain: 'khalidnaami.com'
     //   }
     // ],
     async function myPlugin(context, options) {
@@ -310,7 +362,16 @@ const config = {
     },
   ],
 
-  stylesheets: ['src/css/custom.css'],
+  stylesheets: [
+    'src/css/custom.css',
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQWUrDUFEZEZA8Fin8IEKEUAZITG/+u7joGOOLUs',
+      crossorigin: 'anonymous',
+    },
+  ],
 
   markdown: {
     mermaid: true,
@@ -319,5 +380,4 @@ const config = {
     },
   },
 };
-
-module.exports = config;
+};

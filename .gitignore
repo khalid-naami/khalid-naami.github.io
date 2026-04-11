@@ -22,3 +22,10 @@ yarn-error.log*
 
 static/blog/llms-full.txt
 static/blog/llms.txt
+# Generated Feeds
+static/blog-intelligence-feed.json
+static/latest-blog-posts.json
+
+# Python
+__pycache__/
+*.py[cod]!*.ipynb

@@ -17,8 +17,8 @@ A comprehensive guide for converting Substack (or Beehiiv) newsletter posts into
 
 ## Supported Platforms
 
-- **Substack** (primary): `https://didierrlopes.substack.com/p/<slug>` or `https://substack.com/home/post/p-<id>`
-- **Beehiiv** (legacy): `https://didierlopes.beehiiv.com/p/<slug>`
+- **Substack** (primary): `https://khalidnaami.substack.com/p/<slug>` or `https://substack.com/home/post/p-<id>`
+- **Beehiiv** (legacy): `https://khalidnaami.beehiiv.com/p/<slug>`
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ mcp__fetch__imageFetch with url=<newsletter-url> and images={"output": "file", "
 **Substack:**
 - Content is usually well-extracted via imageFetch in markdown mode
 - For posts accessed via `substack.com/home/post/p-<id>`, the content may be embedded in JSON within the HTML. Use `raw=true` and extract the `body_html` field from the embedded JSON
-- Clean Substack tracking params: remove `?utm_source=didierlopes.beehiiv.com&utm_medium=newsletter&utm_campaign=...` from URLs
+- Clean Substack tracking params: remove `?utm_source=khalidnaami.beehiiv.com&utm_medium=newsletter&utm_campaign=...` from URLs
 - Substack image URLs follow the pattern: `https://substackcdn.com/image/fetch/.../https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F<uuid>_<dimensions>.<ext>`
 - To download high-res images, construct URL: `https://substackcdn.com/image/fetch/w_1200,c_limit,f_png,q_auto:good/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F<uuid>_<dimensions>.<ext>`
 
@@ -66,14 +66,14 @@ mcp__fetch__imageFetch with url=<newsletter-url> and images={"output": "file", "
 **Format:** `YYYY-MM-DD`
 
 **Substack:**
-- Fetch the archive page: `https://didierrlopes.substack.com/archive`
+- Fetch the archive page: `https://khalidnaami.substack.com/archive`
 - Use raw mode and extract post titles alongside dates with pattern matching
 - Dates appear as short format (e.g., "Feb 24", "Mar 6") next to post titles
 - The slug may contain a date suffix (e.g., `the-era-of-on-demand-software-26-01-31`) but **do NOT use it** - it may not match the actual publication date
 - Always verify against the archive page
 
 **Beehiiv:**
-- Extract the publication date from https://didierlopes.beehiiv.com/ main page
+- Extract the publication date from https://khalidnaami.beehiiv.com/ main page
 - Find the newsletter post by title and get its publication date
 
 **Rules:**
@@ -114,8 +114,8 @@ hideSidebar: true
 **Image Handling Rules:**
 
 1. **Hero Image**
-   - **Substack:** Fetch from the archive page (`https://didierrlopes.substack.com/archive`). Extract thumbnail image URLs which follow the pattern with `public%2Fimages%2F<uuid>`. Download at high resolution using: `https://substackcdn.com/image/fetch/w_1200,c_limit,f_png,q_auto:good/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F<uuid>_<dimensions>.<ext>`
-   - **Beehiiv:** Fetch the hero image from https://didierlopes.beehiiv.com/ main page
+   - **Substack:** Fetch from the archive page (`https://khalidnaami.substack.com/archive`). Extract thumbnail image URLs which follow the pattern with `public%2Fimages%2F<uuid>`. Download at high resolution using: `https://substackcdn.com/image/fetch/w_1200,c_limit,f_png,q_auto:good/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F<uuid>_<dimensions>.<ext>`
+   - **Beehiiv:** Fetch the hero image from https://khalidnaami.beehiiv.com/ main page
    - Some posts may use YouTube thumbnails as cover images (URL pattern: `https://substackcdn.com/image/youtube/w_728,c_limit/<video_id>`)
    - Download to `/static/blog/YYYY-MM-DD-slug.png` (or `.jpg`) first, then convert to WebP
    - Note: The image must be saved in the `static/blog/` directory, not just `/blog/`
@@ -191,7 +191,7 @@ hideSidebar: true
    - **Beehiiv:** Convert Beehiiv tracking URLs to original URLs
    - Format: `[link text](url)`
    - For tweets/social embeds, reference as: `This [post](url)`
-   - Convert links to other newsletter posts to internal blog links if already converted (e.g., `https://didierlopes.com/blog/<slug>`)
+   - Convert links to other newsletter posts to internal blog links if already converted (e.g., `https://khalidnaami.com/blog/<slug>`)
 
 6. **Emphasis**
    - Bold text: `**text**`
@@ -290,10 +290,10 @@ Before finalizing:
 
 ## Example Conversions
 
-**Substack URL:** `https://didierrlopes.substack.com/p/the-context-wars-in-financial-services`
+**Substack URL:** `https://khalidnaami.substack.com/p/the-context-wars-in-financial-services`
 **Converted to:** `/blog/2026-02-13-the-context-wars-in-financial-services.md`
 
-**Beehiiv URL:** `https://didierlopes.beehiiv.com/p/the-trampoline-job-optimize-your-career-for-growth`
+**Beehiiv URL:** `https://khalidnaami.beehiiv.com/p/the-trampoline-job-optimize-your-career-for-growth`
 **Converted to:** `/blog/2025-09-19-the-trampoline-job-optimize-your-career-for-growth.md`
 
 **Key transformations:**
@@ -311,4 +311,4 @@ Before finalizing:
 - Don't include email-specific formatting (table layouts for email clients)
 - Don't forget the `<!-- truncate -->` marker for blog preview
 - Don't trust date suffixes in Substack slugs - always verify against the archive page
-- Don't use `substack.com/home/post/p-<id>` URLs directly for content extraction - try `didierrlopes.substack.com/p/<slug>` first as it renders better
+- Don't use `substack.com/home/post/p-<id>` URLs directly for content extraction - try `khalidnaami.substack.com/p/<slug>` first as it renders better

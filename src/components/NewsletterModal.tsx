@@ -91,7 +91,7 @@ export default function NewsletterModal() {
           Get updates on AI, open source, startups and finance.
         </p>
         <a
-          href="https://substack.com/@didierrlopes"
+          href="https://substack.com/@khalidnaami3-wq"
           target="_blank"
           rel="noopener noreferrer"
           className="mission-button"
