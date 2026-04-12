@@ -151,45 +151,14 @@ module.exports = async function createConfig() {
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
-      algolia: {
-        appId: 'CTGM87XQE8',
-        apiKey: '2b554638ed8ab85e38243a8386111965',
-        indexName: 'khalidnaami',
-        contextualSearch: true,
-        searchParameters: {},
-        searchPagePath: 'search',
-      },
       footer: {
         style: 'dark',
-      },
-      scripts: [
-        {
-          src: 'https://scripts.simpleanalyticscdn.com/latest.js',
-          async: true,
-          defer: true,
-        },
-      ],
-      themeConfig: {
-        // ... other theme configurations
-        headTags: [
-          {
-            tagName: 'noscript',
-            innerHTML:
-              '<img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />',
-          },
-        ],
       },
     }),
 
   clientModules: [require.resolve('./src/js/navbar-active-links.js')],
 
   plugins: [
-    [
-      '@docusaurus/plugin-google-tag-manager',
-      {
-        containerId: 'GTM-PL77JR5L',
-      },
-    ],
     async function blogLlmsPlugin(context) {
       return {
         name: 'blog-llms-plugin',
