@@ -50,6 +50,7 @@ export default function TickerTape() {
           { proName: 'NASDAQ:MSFT', title: 'Microsoft' },
           { proName: 'NASDAQ:NVDA', title: 'Nvidia' },
           { proName: 'NASDAQ:AMZN', title: 'Amazon' },
+          { proName: 'TVC:GOLD', title: 'Gold' },
         ],
         showSymbolLogo: true,
         isTransparent: true,
