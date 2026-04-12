@@ -151,6 +151,14 @@ module.exports = async function createConfig() {
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
+      algolia: {
+        appId: 'CTGM87XQE8',
+        apiKey: '2b554638ed8ab85e38243a8386111965',
+        indexName: 'khalidnaami',
+        contextualSearch: true,
+        searchParameters: {},
+        searchPagePath: 'search',
+      },
       footer: {
         style: 'dark',
       },
