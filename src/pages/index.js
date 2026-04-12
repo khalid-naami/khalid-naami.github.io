@@ -113,7 +113,7 @@ export default function Home() {
   const [allPosts, setAllPosts] = useState([]);
 
   useEffect(() => {
-    fetch('/latest-blog-posts.json')
+    fetch('/blog-intelligence-feed.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
@@ -143,7 +143,7 @@ export default function Home() {
           content="Where you can find my posts, projects and insights on technology, finance and markets."
         />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
-        <meta property="og:url" content="https://khalidnaami.com" />
+        <meta property="og:url" content="https://khalid-naami.github.io" />
 
         {/* Add X-specific meta tags */}
         <meta name="twitter:card" content="summary_large_image" />
