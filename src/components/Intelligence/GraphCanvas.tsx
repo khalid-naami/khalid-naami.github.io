@@ -1,7 +1,7 @@
 import React, { type FC, useRef, useEffect, useState, useCallback } from 'react';
 import * as d3 from 'd3';
 import type { EnrichedBlogItem } from '../../types/blog';
-import { trackEvent } from '../../lib/analytics';
+import { trackEvent } from '../../lib/events';
 
 // Define interfaces for graph elements
 interface GraphNode extends d3.SimulationNodeDatum {
