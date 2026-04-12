@@ -113,7 +113,7 @@ export default function Home() {
   const [allPosts, setAllPosts] = useState([]);
 
   useEffect(() => {
-    fetch('/blog-intelligence-feed.json')
+    fetch('/graph-data.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
