@@ -1,6 +1,6 @@
 import { type FC, useState, useEffect, useCallback } from 'react';
 import Select, { type MultiValue } from 'react-select';
-import { trackEvent } from '../../lib/analytics';
+import { trackEvent } from '../../lib/events';
 import { useColorMode } from '@docusaurus/theme-common';
 
 interface Option {

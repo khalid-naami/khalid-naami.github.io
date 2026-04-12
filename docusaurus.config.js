@@ -63,7 +63,7 @@ module.exports = async function createConfig() {
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/khalid-naami/my-website/tree/main/',
+          editUrl: 'https://github.com/khalid-naami/khalid-naami.github.io/tree/main/',
           feedOptions: {
             type: 'all',
             limit: 2000,
@@ -162,34 +162,11 @@ module.exports = async function createConfig() {
       footer: {
         style: 'dark',
       },
-      scripts: [
-        {
-          src: 'https://scripts.simpleanalyticscdn.com/latest.js',
-          async: true,
-          defer: true,
-        },
-      ],
-      themeConfig: {
-        // ... other theme configurations
-        headTags: [
-          {
-            tagName: 'noscript',
-            innerHTML:
-              '<img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" />',
-          },
-        ],
-      },
     }),
 
   clientModules: [require.resolve('./src/js/navbar-active-links.js')],
 
   plugins: [
-    [
-      '@docusaurus/plugin-google-tag-manager',
-      {
-        containerId: 'GTM-PL77JR5L',
-      },
-    ],
     async function blogLlmsPlugin(context) {
       return {
         name: 'blog-llms-plugin',
@@ -277,7 +254,7 @@ module.exports = async function createConfig() {
             id, url, title, summary, image, date_modified, tags, content_html
           }));
 
-          const fullFeedPath = path.join(siteDir, 'static', 'blog-intelligence-feed.json');
+          const fullFeedPath = path.join(siteDir, 'static', 'graph-data.json');
           await fs.promises.writeFile(fullFeedPath, JSON.stringify({ items: blogContent }, null, 2));
 
           return { blogContent };
@@ -346,7 +323,7 @@ module.exports = async function createConfig() {
     // [
     //   'docusaurus-plugin-simple-analytics',
     //   {
-    //     domain: 'khalidnaami.com'
+    //     domain: 'khalid-naami.github.io'
     //   }
     // ],
     async function myPlugin(context, options) {

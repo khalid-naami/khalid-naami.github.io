@@ -403,7 +403,7 @@ const OllamaSetupInstructions = () => {
                 return (
                     <div>
                         <p style={{ margin: '0.5rem 0' }}>1. Run this command in your terminal:</p>
-                        <CommandSnippet command='launchctl setenv OLLAMA_ORIGINS "https://khalidnaami.com"' />
+                        <CommandSnippet command='launchctl setenv OLLAMA_ORIGINS "https://khalid-naami.github.io"' />
                         <p style={{ margin: '1rem 0 0 0' }}>2. <strong>Quit and restart the Ollama application</strong> from the menu bar for the change to take effect.</p>
                     </div>
                 );
@@ -411,7 +411,7 @@ const OllamaSetupInstructions = () => {
                 return (
                     <div>
                         <p style={{ margin: '0.5rem 0' }}>1. Run this command in PowerShell (as Administrator):</p>
-                        <CommandSnippet command='setx OLLAMA_ORIGINS "https://khalidnaami.com" /m' />
+                        <CommandSnippet command='setx OLLAMA_ORIGINS "https://khalid-naami.github.io" /m' />
                         <p style={{ margin: '1rem 0 0 0' }}>2. <strong>Quit and restart the Ollama application</strong> for the change to take effect.</p>
                     </div>
                 );
@@ -421,7 +421,7 @@ const OllamaSetupInstructions = () => {
                         <p style={{ margin: '0.5rem 0' }}>1. Add the environment variable to the systemd unit:</p>
                         <CommandSnippet command="sudo systemctl edit ollama.service" />
                         <p style={{ margin: '0.5rem 0' }}>2. This will open an editor. Add the following lines, then save and close the file:</p>
-                        <pre style={{ background: isDark ? '#111' : '#EEE', padding: '0.5rem', borderRadius: '4px', marginTop: '0.5rem', fontSize: '0.85em' }}>[Service]<br/>Environment="OLLAMA_ORIGINS=https://khalid-options.com"</pre>
+                        <pre style={{ background: isDark ? '#111' : '#EEE', padding: '0.5rem', borderRadius: '4px', marginTop: '0.5rem', fontSize: '0.85em' }}>[Service]<br/>Environment="OLLAMA_ORIGINS=https://khalid-naami.github.io"</pre>
                         <p style={{ margin: '1rem 0 0 0' }}>3. Restart the Ollama service to apply the changes:</p>
                         <CommandSnippet command="sudo systemctl restart ollama" />
                     </div>
@@ -534,7 +534,7 @@ const OllamaSetupInstructions = () => {
                     </div>
                     <p style={{ marginTop: '1rem', marginBottom: '1rem' }}>
                         To allow this website to connect to your local Ollama, you must configure CORS.
-                        This tells Ollama to accept requests from <strong>https://khalid-options.com</strong>.
+                        This tells Ollama to accept requests from <strong>https://khalid-naami.github.io</strong>.
                     </p>
                     {renderCorsInstructions()}
                 </div>
