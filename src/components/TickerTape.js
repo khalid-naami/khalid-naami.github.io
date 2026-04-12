@@ -51,6 +51,7 @@ export default function TickerTape() {
           { proName: 'NASDAQ:NVDA', title: 'Nvidia' },
           { proName: 'NASDAQ:AMZN', title: 'Amazon' },
           { proName: 'TVC:GOLD', title: 'Gold' },
+          { proName: 'TVC:SILVER', title: 'Silver' },
         ],
         showSymbolLogo: true,
         isTransparent: true,
