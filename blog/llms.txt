@@ -1,0 +1,9 @@
+# Blog Posts
+
+- [2026-04-10-charm-the-invisible-delta-decay](https://khalid-naami.github.io/blog/2026-04-10-charm-the-invisible-delta-decay)
+- [2026-04-10-delta-dynamics-directional-risk](https://khalid-naami.github.io/blog/2026-04-10-delta-dynamics-directional-risk)
+- [2026-04-10-options-physics-synergy](https://khalid-naami.github.io/blog/2026-04-10-options-physics-synergy)
+- [2026-04-10-strategic-quartet-integrating-four-greeks](https://khalid-naami.github.io/blog/2026-04-10-strategic-quartet-integrating-four-greeks)
+- [2026-04-10-the-power-of-gamma](https://khalid-naami.github.io/blog/2026-04-10-the-power-of-gamma)
+- [2026-04-10-vanna-charm-risk-management-synergy](https://khalid-naami.github.io/blog/2026-04-10-vanna-charm-risk-management-synergy)
+- [2026-04-10-vanna-price-volatility-bridge](https://khalid-naami.github.io/blog/2026-04-10-vanna-price-volatility-bridge)

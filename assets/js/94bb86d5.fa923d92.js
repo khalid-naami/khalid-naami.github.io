@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[531],{5517:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});var u=s(96540);function n(){return(0,u.useEffect)(()=>{window.location.href="https://substack.com/@khnaami"},[]),null}}}]);
