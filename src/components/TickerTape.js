@@ -52,7 +52,6 @@ export default function TickerTape() {
           { proName: 'NASDAQ:AMZN', title: 'Amazon' },
           { proName: 'TVC:GOLD', title: 'Gold' },
           { proName: 'TVC:SILVER', title: 'Silver' },
-          { proName: 'TVC:DXY', title: 'US Dollar Index' },
           { proName: 'TVC:USOIL', title: 'WTI Crude Oil' },
         ],
         showSymbolLogo: true,
