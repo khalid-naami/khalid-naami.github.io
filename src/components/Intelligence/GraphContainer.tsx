@@ -3,7 +3,7 @@ import { useBlogFeed } from '../../hooks/useBlogFeed';
 import { GraphCanvas } from './GraphCanvas';
 import { GraphControls } from './GraphControls';
 import type { EnrichedBlogItem } from '../../types/blog';
-import { trackEvent } from '../../lib/analytics';
+import { trackEvent } from '../../lib/events';
 import { useColorMode } from '@docusaurus/theme-common';
 
 // simple debounce hook
