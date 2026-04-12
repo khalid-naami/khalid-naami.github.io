@@ -63,7 +63,7 @@ module.exports = async function createConfig() {
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/khalid-naami/my-website/tree/main/',
+          editUrl: 'https://github.com/khalid-naami/khalid-naami.github.io/tree/main/',
           feedOptions: {
             type: 'all',
             limit: 2000,
@@ -346,7 +346,7 @@ module.exports = async function createConfig() {
     // [
     //   'docusaurus-plugin-simple-analytics',
     //   {
-    //     domain: 'khalidnaami.com'
+    //     domain: 'khalid-naami.github.io'
     //   }
     // ],
     async function myPlugin(context, options) {
