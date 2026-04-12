@@ -1,6 +1,5 @@
 import type { BlogItem, EnrichedBlogItem } from '../types/blog';
-
-const FEED_URL = '/blog-intelligence-feed.json';
+const FEED_URL = '/graph-data.json';
 
 function countWords(html: string): number {
   const text = html.replace(/<[^>]*>/g, '');
