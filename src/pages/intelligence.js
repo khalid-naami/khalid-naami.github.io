@@ -4,6 +4,8 @@ import Head from '@docusaurus/Head';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import ThemedImage from '@theme/ThemedImage';
 
+import GraphContainer from '../components/Intelligence/GraphContainer';
+
 function IntelligencePage() {
   return (
     <Layout
@@ -28,10 +30,7 @@ function IntelligencePage() {
         <div className="intelligence-page-desktop">
             <div style={{ width: '60%', margin: '0 auto' }}>
                 <BrowserOnly fallback={<div>Loading graph...</div>}>
-                    {() => {
-                        const GraphContainer = require('../components/Intelligence/GraphContainer').default;
-                        return <GraphContainer />;
-                    }}
+                    {() => <GraphContainer />}
                 </BrowserOnly>
             </div>
         </div>
