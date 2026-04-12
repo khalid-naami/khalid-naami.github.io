@@ -254,7 +254,7 @@ module.exports = async function createConfig() {
             id, url, title, summary, image, date_modified, tags, content_html
           }));
 
-          const fullFeedPath = path.join(siteDir, 'static', 'blog-intelligence-feed.json');
+          const fullFeedPath = path.join(siteDir, 'static', 'graph-data.json');
           await fs.promises.writeFile(fullFeedPath, JSON.stringify({ items: blogContent }, null, 2));
 
           return { blogContent };
