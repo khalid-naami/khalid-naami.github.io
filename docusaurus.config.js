@@ -85,8 +85,8 @@ module.exports = async function createConfig() {
       navbar: {
         title: 'Khalid Naami',
         logo: {
-          alt: 'Khalid Naami logo',
-          src: 'img/zoro-final.png',
+          alt: '',
+          src: '/img/zoro-final.png',
           href: '/',
           target: '_self',
         },
