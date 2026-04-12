@@ -97,7 +97,7 @@ export default function KhalidTravelMap() {
           </svg>
         </div>
         <div className="map-header-icon">
-          <img src="/img/zoro-final.png" alt="Zoro Avatar" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+          <img src="/img/zoro ronono.jpg" alt="Zoro Avatar" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
         </div>
         <div className="map-header-info">
           <span className="map-header-title">Travels</span>
