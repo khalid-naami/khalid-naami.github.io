@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2026-04-10-charm-the-invisible-delta-decay.md",
-      "id": "/blog/2026/04/10/charm-the-invisible-delta-decay",
-      "url": "/blog/2026/04/10/charm-the-invisible-delta-decay",
+      "id": "/blog/charm-the-invisible-delta-decay",
+      "url": "/blog/charm-the-invisible-delta-decay",
       "title": "Charm: The Invisible Erosion of Directional Exposure",
       "summary": "Understand how the silent passage of time slowly shifts your Delta, and why \"Charm\" is the secret to managing overnight risk.",
       "image": "/img/charm.png",
@@ -20,8 +20,8 @@
     },
     {
       "path": "2026-04-10-delta-dynamics-directional-risk.md",
-      "id": "/blog/2026/04/10/delta-dynamics-directional-risk",
-      "url": "/blog/2026/04/10/delta-dynamics-directional-risk",
+      "id": "/blog/delta-dynamics-directional-risk",
+      "url": "/blog/delta-dynamics-directional-risk",
       "title": "Delta Dynamics: The Directional Compass of Options Trading",
       "summary": "Master the most fundamental Greek—Delta—and learn how to reach price sensitivity and probability in the options market.",
       "image": "/img/Delta%20spx.png",
@@ -74,8 +74,8 @@
     },
     {
       "path": "2026-04-10-the-power-of-gamma.md",
-      "id": "/blog/2026/04/10/the-power-of-gamma",
-      "url": "/blog/2026/04/10/the-power-of-gamma",
+      "id": "/blog/the-power-of-gamma",
+      "url": "/blog/the-power-of-gamma",
       "title": "The Power of Gamma: Why It Rules the Options Market",
       "summary": "What is Gamma and why is it one of the most important derivatives in options trading?",
       "image": "/img/Screenshot%202026-04-10%20142251.png",
@@ -109,8 +109,8 @@
     },
     {
       "path": "2026-04-10-vanna-price-volatility-bridge.md",
-      "id": "/blog/2026/04/10/vanna-price-volatility-bridge",
-      "url": "/blog/2026/04/10/vanna-price-volatility-bridge",
+      "id": "/blog/vanna-price-volatility-bridge",
+      "url": "/blog/vanna-price-volatility-bridge",
       "title": "Vanna: The Bridge Between Price and Volatility",
       "summary": "Discover how Vanna links Delta and Vega to reveal the hidden mechanics of institutional hedging and market liquidity.",
       "image": "/img/vanna.png",

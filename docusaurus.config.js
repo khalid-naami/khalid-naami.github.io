@@ -221,10 +221,17 @@ module.exports = async function createConfig() {
                     ? new Date(parseInt(dateMatch[1]), parseInt(dateMatch[2]) - 1, parseInt(dateMatch[3])).toISOString() 
                     : new Date().toISOString();
 
-                  const slug = entry.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.mdx?$/, '');
-                  const id = dateMatch 
-                    ? `/blog/${dateMatch[1]}/${dateMatch[2]}/${dateMatch[3]}/${slug}`
-                    : `/blog/${slug}`;
+                  const customSlug = getFrontmatterValue(content, 'slug');
+                  let finalSlug = customSlug || entry.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.mdx?$/, '');
+                  // For Docusaurus, custom slugs replace the whole date path
+                  let id;
+                  if (customSlug) {
+                    id = `/blog/${customSlug}`;
+                  } else if (dateMatch) {
+                    id = `/blog/${dateMatch[1]}/${dateMatch[2]}/${dateMatch[3]}/${finalSlug}`;
+                  } else {
+                    id = `/blog/${finalSlug}`;
+                  }
 
                   blogContent.push({
                     path: path.relative(blogDir, fullPath),
