@@ -86,7 +86,7 @@ module.exports = async function createConfig() {
         title: 'Khalid Naami',
         logo: {
           alt: 'Khalid Naami logo',
-          src: 'img/khalid_zoro_pixel.jpg',
+          src: 'img/zoro-final.png',
           href: '/',
           target: '_self',
         },
