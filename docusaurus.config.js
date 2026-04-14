@@ -67,7 +67,15 @@ module.exports = async function createConfig() {
             "@type": "WebSite",
             "@id": "https://khalid-naami.github.io/#website",
             "url": "https://khalid-naami.github.io",
-            "name": "Khalid Naami - Trading & Tech Blog",
+            "name": "Khalid Naami - Personal Website",
+            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+          },
+          {
+            "@type": "Blog",
+            "@id": "https://khalid-naami.github.io/blog/#blog",
+            "url": "https://khalid-naami.github.io/blog",
+            "name": "Trading & Tech Blog",
+            "description": "Exploration of Options Greeks, Finance AI, and Data Science.",
             "publisher": { "@id": "https://khalid-naami.github.io/#person" }
           }
         ]
