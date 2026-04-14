@@ -3,12 +3,15 @@ title: "The Strategic Quartet: Integrating Delta, Gamma, Vanna, and Charm"
 description: Discover how the four pillars of derivatives trading—Delta, Gamma, Vanna, and Charm—work in unison to provide a holistic strategic vision of the financial markets.
 authors: [khalid]
 tags: [options, delta, gamma, vanna, charm, strategy, risk-management]
+keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
 image: /img/gamma%20and%20delta.png
 ---
 
 # The Strategic Quartet: Integrating Delta, Gamma, Vanna, and Charm
 
 Throughout this series, we have dissected the individual mechanics of the "Greeks." We looked at speed, acceleration, volatility sensitivity, and time decay. But in the real world of professional trading, these Greeks never act in isolation. They form a **Strategic Quartet**—a synchronized system of risk that defines the architectural structure of the market.
+
+<!-- truncate -->
 
 To master the market is to understand how these four pillars complete each other.
 
