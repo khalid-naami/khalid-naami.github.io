@@ -3,6 +3,7 @@ title: "The Physics of Options: Synergy Between Delta and Gamma"
 description: Master the powerful synergy between Delta and Gamma using physics analogies like velocity and acceleration to master market timing. 
 authors: [khalid]
 tags: [options, delta, gamma, physics, greeks, risk-management]
+keywords: [options, delta, gamma, physics, greeks, risk-management]
 image: /img/gamma%20and%20delta.png
 ---
 
@@ -10,6 +11,8 @@ image: /img/gamma%20and%20delta.png
 
 > [!NOTE]
 > Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professional risk management.
+
+<!-- truncate -->
 
 Many traders view the "Greeks" as abstract mathematical formulas hidden behind complex models. However, if you understand the basic physics of movement—**Velocity** and **Acceleration**—you already understand **Delta** and **Gamma** better than most.
 
