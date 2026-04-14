@@ -152,7 +152,7 @@ module.exports = async function createConfig() {
       navbar: {
         title: 'Khalid Naami',
         logo: {
-          alt: '',
+          alt: 'Zoro Logo - Symbolizing strength and mastery built through disciplined study and consistent hard work.',
           src: '/img/zoro-final.png',
           href: '/',
           target: '_self',
