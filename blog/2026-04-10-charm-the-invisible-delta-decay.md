@@ -3,6 +3,7 @@ title: "Charm: The Invisible Erosion of Directional Exposure"
 description: Understand how the silent passage of time slowly shifts your Delta, and why "Charm" is the secret to managing overnight risk.
 authors: [khalid]
 tags: [options, charm, greeks, time-decay, spx, risk-management]
+keywords: [options, charm, greeks, time-decay, spx, risk-management]
 image: /img/charm.png
 slug: charm-the-invisible-delta-decay
 ---
@@ -10,6 +11,8 @@ slug: charm-the-invisible-delta-decay
 # Charm: The Invisible Erosion of Directional Exposure
 
 While Theta is the well-known Greek that measures the loss of an option's value over time, there is a more subtle "time-related" Greek that professional risk managers watch closely: **Charm**. 
+
+<!-- truncate -->
 
 Also known as **Delta Decay** or **Delta Bleed**, Charm reveals the silent shifts in your directional exposure as the clock ticks forward.
 
