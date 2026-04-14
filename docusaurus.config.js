@@ -101,7 +101,7 @@ module.exports = async function createConfig() {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           path: 'content',
-          routeBasePath: 'intelligence',
+          routeBasePath: '/',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
