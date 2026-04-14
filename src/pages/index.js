@@ -158,6 +158,16 @@ export default function Home() {
           content="Specializing in the intersection of technology and finance - Python expert, derivatives analyst"
         />
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
+        
+        {/* Desktop Performance Optimization: Preload LCP Images */}
+        <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.jpg`} />
+        <link rel="preload" as="image" href={`${siteUrl}/img/terminal_bg_dark.png`} />
+
+        {/* Apple Identity & Mobile Optimization */}
+        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.png`} />
+        <meta name="apple-mobile-web-app-title" content="Khalid Naami" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Head>
       <main>
         <div className="w-full py-3 sm:py-4">
