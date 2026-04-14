@@ -53,13 +53,14 @@ module.exports = async function createConfig() {
             "@id": "https://khalid-naami.github.io/#person",
             "name": "Khalid Naami",
             "url": "https://khalid-naami.github.io",
-            "jobTitle": "Financial Analyst & Quantitative Trader",
-            "description": "Professional trader specializing in options Greeks, market dynamics, and technological project development.",
+            "jobTitle": "Founder and CEO @ Dashboard options",
+            "description": "Founder and CEO @ Dashboard options. Expert in Finance AI, open source data science, and technology. specializing in financial services, data provision, and quantitative trading with mastery in options Greeks, fundamental, and intermarket analysis.",
             "sameAs": [
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
               "https://share.streamlit.io/user/khalidnaami3-wq",
-              "https://cal.com/khnaami"
+              "https://cal.com/khnaami",
+              "https://substack.com/@khnaami"
             ]
           },
           {
