@@ -57,7 +57,9 @@ module.exports = async function createConfig() {
             "description": "Professional trader specializing in options Greeks, market dynamics, and technological project development.",
             "sameAs": [
               "https://github.com/khalid-naami",
-              "https://linkedin.com/in/khalid-naami",
+              "https://www.linkedin.com/in/khalid-naami-a953263bb/",
+              "https://share.streamlit.io/user/khalidnaami3-wq",
+              "https://cal.com/khnaami"
             ]
           },
           {
