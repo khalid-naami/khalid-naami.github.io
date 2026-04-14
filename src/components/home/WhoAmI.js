@@ -7,7 +7,12 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
   return (
     <Section title="Who am I?" level={level}>
       <div className="text-xl">
-        Founder & CEO at Dashboard Options. Specializing in the fusion of Finance AI and Open Source technology, I bridge the gap between complex intermarket analysis and actionable data science. As a strategic quant analyst and financial data provider, I am dedicated to delivering high-precision options data and fundamental insights for the modern trader.
+        Founder & CEO at Dashboard Options.
+      </div>
+      {/* Hidden SEO bio - not visible in UI but indexed by search engines */}
+      <div className="visually-hidden">
+        Specializing in the fusion of Finance AI and Open Source technology, I bridge the gap between complex intermarket analysis and actionable data science. As a strategic quant analyst and financial data provider, I am dedicated to delivering high-precision options data and fundamental insights for the modern trader. 
+        Possessing premium financial data for CBOE, OPRA, Deribit, and Binance, I empower market participants with professional-grade analytics.
       </div>
       {!isDesktop ? (
         <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
