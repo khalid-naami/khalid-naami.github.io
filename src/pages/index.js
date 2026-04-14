@@ -187,7 +187,7 @@ export default function Home() {
           </div>
         </div>
         {/* Home Sections */}
-        <WhoAmI isDesktop={isDesktop} isTablet={isTablet} />
+        <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
 
         <Beliefs
           isDesktop={isDesktop}
