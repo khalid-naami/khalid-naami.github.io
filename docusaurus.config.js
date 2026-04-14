@@ -39,16 +39,59 @@ module.exports = async function createConfig() {
     locales: ['en'],
   },
 
-  // headTags: [
-  //   {
-  //     tagName: 'script',
-  //     attributes: {
-  //       id: 'cookieyes',
-  //       type: 'text/javascript',
-  //       src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
-  //     },
-  //   },
-  // ],
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Person",
+            "@id": "https://khalid-naami.github.io/#person",
+            "name": "Khalid Naami",
+            "url": "https://khalid-naami.github.io",
+            "jobTitle": "Founder and CEO @ Dashboard options",
+            "description": "Founder and CEO @ Dashboard options. Expert in Finance AI, open source data science, and technology. specializing in financial services, data provision, and quantitative trading with mastery in options Greeks, fundamental, and intermarket analysis.",
+            "sameAs": [
+              "https://github.com/khalid-naami",
+              "https://www.linkedin.com/in/khalid-naami-a953263bb/",
+              "https://share.streamlit.io/user/khalidnaami3-wq",
+              "https://cal.com/khnaami",
+              "https://substack.com/@khnaami"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://khalid-naami.github.io/#website",
+            "url": "https://khalid-naami.github.io",
+            "name": "Khalid Naami - Personal Website",
+            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+          },
+          {
+            "@type": "Blog",
+            "@id": "https://khalid-naami.github.io/blog/#blog",
+            "url": "https://khalid-naami.github.io/blog",
+            "name": "Trading & Tech Blog",
+            "description": "Exploration of Options Greeks, Finance AI, and Data Science.",
+            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+          }
+        ]
+      }),
+    },
+    /* 
+    {
+      tagName: 'script',
+      attributes: {
+        id: 'cookieyes',
+        type: 'text/javascript',
+        src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
+      },
+    },
+    */
+  ],
 
   presets: [
     [
