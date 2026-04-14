@@ -39,6 +39,17 @@ module.exports = async function createConfig() {
     locales: ['en'],
   },
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        id: 'cookieyes',
+        type: 'text/javascript',
+        src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
+      },
+    },
+  ],
+
   presets: [
     [
       'classic',
