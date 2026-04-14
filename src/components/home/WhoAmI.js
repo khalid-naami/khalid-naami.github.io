@@ -3,11 +3,11 @@ import Section from '../common/Section';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-function WhoAmI({ isDesktop, isTablet }) {
+function WhoAmI({ isDesktop, isTablet, level = 2 }) {
   return (
-    <Section title="Who am I?">
+    <Section title="Who am I?" level={level}>
       <div className="text-xl">
-        Founder & CEO at
+        Founder & CEO at Dashboard Options. Specializing in the fusion of Finance AI and Open Source technology, I bridge the gap between complex intermarket analysis and actionable data science. As a strategic quant analyst and financial data provider, I am dedicated to delivering high-precision options data and fundamental insights for the modern trader.
       </div>
       {!isDesktop ? (
         <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
@@ -47,21 +47,21 @@ function WhoAmI({ isDesktop, isTablet }) {
               <img
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_profile.jpg"
-                alt="Khalid Naami Profile"
+                alt="Wolf of Wall Street Spirit - Khalid Naami, Founder & CEO, embodying the philosophy that he who owns the data, owns the market."
               />
             </div>
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
                 src="img/greeks_anatomy.png"
-                alt="Greeks Options Platform Anatomy"
+                alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
               />
             </div>
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_mastermind.png"
-                alt="Khalid Strategic Mastermind"
+                alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
               />
             </div>
           </Carousel>
@@ -71,17 +71,17 @@ function WhoAmI({ isDesktop, isTablet }) {
           <img
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/greeks_anatomy.png"
-            alt="Greeks Options Platform Anatomy"
+            alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
           />
           <img
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/khalid_profile.jpg"
-            alt="Khalid Naami Profile"
+            alt="Wolf of Wall Street Spirit - Khalid Naami, Founder & CEO, embodying the philosophy that he who owns the data, owns the market."
           />
           <img
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/khalid_mastermind.png"
-            alt="Khalid Strategic Mastermind"
+            alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
           />
         </div>
       )}
