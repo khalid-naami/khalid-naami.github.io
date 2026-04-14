@@ -13,7 +13,7 @@ module.exports = async function createConfig() {
 
   return {
     title: 'Khalid Naami',
-    tagline: 'Building an open source legacy one commit at a time.',
+    tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
     favicon: 'img/zoro-final.png',
 
   // Set the production url of your site here
@@ -54,7 +54,7 @@ module.exports = async function createConfig() {
             "name": "Khalid Naami",
             "url": "https://khalid-naami.github.io",
             "jobTitle": "Founder and CEO @ Dashboard options",
-            "description": "Founder and CEO @ Dashboard options. Expert in Finance AI, open source data science, and technology. specializing in financial services, data provision, and quantitative trading with mastery in options Greeks, fundamental, and intermarket analysis.",
+            "description": "Founder and CEO @ Dashboard options. Financial service data provider specializing in Finance AI, open source data science, and technology. Expert in financial services and data provision from CBOE, OPRA, Deribit, and Binance, with mastery in options Greeks, fundamental, and quantitative analysis.",
             "sameAs": [
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
@@ -102,11 +102,15 @@ module.exports = async function createConfig() {
           sidebarPath: require.resolve('./sidebars.js'),
           path: 'content',
           routeBasePath: '/',
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/khalid-naami/khalid-naami.github.io/tree/main/',
         },
         blog: {
+          path: 'blog',
+          routeBasePath: 'blog',
           blogTitle: 'Blog',
           blogDescription:
             'This is where I drop my thoughts in the form of blogposts!',
@@ -138,6 +142,11 @@ module.exports = async function createConfig() {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {name: 'keywords', content: 'Khalid Naami, Finance AI, Options Greeks, Quantitative Trading, Financial Data, CBOE, OPRA, Deribit, Binance, Data Science, Python, Intermarket Analysis, Strategic Analyst, Trading Algorithms, Blockchain, Fintech, Dashboard Options'},
+        {name: 'description', content: 'Explore the junction of finance and technology with Khalid Naami. Financial intelligence, options trading strategies, macro-analysis, and open source AI projects.'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       // Replace with your project's social card
       image: 'img/khalid_zoro_pixel.jpg',
       navbar: {
@@ -219,6 +228,7 @@ module.exports = async function createConfig() {
       },
       footer: {
         style: 'dark',
+        copyright: `Copyright © ${new Date().getFullYear()} Khalid Naami | Founder & CEO @ Dashboard Options. Built with Financial Intelligence.`,
       },
     }),
 
