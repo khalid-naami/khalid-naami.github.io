@@ -39,16 +39,48 @@ module.exports = async function createConfig() {
     locales: ['en'],
   },
 
-  // headTags: [
-  //   {
-  //     tagName: 'script',
-  //     attributes: {
-  //       id: 'cookieyes',
-  //       type: 'text/javascript',
-  //       src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
-  //     },
-  //   },
-  // ],
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Person",
+            "@id": "https://khalid-naami.github.io/#person",
+            "name": "Khalid Naami",
+            "url": "https://khalid-naami.github.io",
+            "jobTitle": "Financial Analyst & Quantitative Trader",
+            "description": "Professional trader specializing in options Greeks, market dynamics, and technological project development.",
+            "sameAs": [
+              "https://github.com/khalid-naami",
+              "https://linkedin.com/in/khalid-naami",
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://khalid-naami.github.io/#website",
+            "url": "https://khalid-naami.github.io",
+            "name": "Khalid Naami - Trading & Tech Blog",
+            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+          }
+        ]
+      }),
+    },
+    /* 
+    {
+      tagName: 'script',
+      attributes: {
+        id: 'cookieyes',
+        type: 'text/javascript',
+        src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
+      },
+    },
+    */
+  ],
 
   presets: [
     [
