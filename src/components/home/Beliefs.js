@@ -8,7 +8,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
   const subtitleMobile = 'Continuous learning to build a legacy\nthat benefits everyone, step by step.';
 
   return (
-    <Section title="What I believe in" subtitle={isTablet || isDesktop ? subtitleDesktop : subtitleMobile} className="px-4">
+    <Section title="What I believe in" subtitle="Mastery is a journey, not a destination. Despite my deep expertise in quantitative finance and technology, I maintain a student's mindset. My core belief is that constant evolution and daily self-development are the only ways to stay ahead in an ever-changing world—because in the realm of innovation, learning never truly ends." className="px-4">
       <div className="mb-2">
         <Carousel
           showThumbs={false}
