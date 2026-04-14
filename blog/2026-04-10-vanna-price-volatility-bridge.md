@@ -3,6 +3,7 @@ title: "Vanna: The Bridge Between Price and Volatility"
 description: Discover how Vanna links Delta and Vega to reveal the hidden mechanics of institutional hedging and market liquidity.
 authors: [khalid]
 tags: [options, vanna, greeks, volatility, spx, risk-management]
+keywords: [options, vanna, greeks, volatility, spx, risk-management]
 image: /img/vanna.png
 slug: vanna-price-volatility-bridge
 ---
@@ -10,6 +11,8 @@ slug: vanna-price-volatility-bridge
 # Vanna: The Bridge Between Price and Volatility
 
 As traders move beyond the primary Greeks (Delta, Gamma, Theta, Vega), they enter the world of **Second-Order and Cross-Greeks**. Among these, **Vanna** is perhaps the most critical for understanding how institutional liquidity providers manage their risk in volatile markets.
+
+<!-- truncate -->
 
 If Delta is the directional propeller and Gamma is the accelerator, Vanna is the steering wheel that adjusts based on the "weather"—the implied volatility.
 
