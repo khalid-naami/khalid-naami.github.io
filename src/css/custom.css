@@ -1519,3 +1519,16 @@ article header h1 {
   height: auto;
   filter: drop-shadow(0 0 10px rgba(0, 255, 0, 0.5));
 }
+
+/* Utility for hiding content from visual UI but keeping it for SEO/Accessibility */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
