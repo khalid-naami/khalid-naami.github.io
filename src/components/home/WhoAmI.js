@@ -53,6 +53,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_profile.jpg"
                 alt="Wolf of Wall Street Spirit - Khalid Naami, Founder & CEO, embodying the philosophy that he who owns the data, owns the market."
+                loading="lazy"
               />
             </div>
             <div>
@@ -60,6 +61,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/greeks_anatomy.png"
                 alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
+                loading="lazy"
               />
             </div>
             <div>
@@ -67,6 +69,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_mastermind.png"
                 alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
+                loading="lazy"
               />
             </div>
           </Carousel>
@@ -77,16 +80,19 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/greeks_anatomy.png"
             alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
+            loading="lazy"
           />
           <img
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/khalid_profile.jpg"
             alt="Wolf of Wall Street Spirit - Khalid Naami, Founder & CEO, embodying the philosophy that he who owns the data, owns the market."
+            loading="lazy"
           />
           <img
             className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
             src="img/khalid_mastermind.png"
             alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
+            loading="lazy"
           />
         </div>
       )}
