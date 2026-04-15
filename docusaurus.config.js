@@ -228,6 +228,17 @@ module.exports = async function createConfig() {
       },
       footer: {
         style: 'dark',
+        links: [
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Privacy Policy',
+                to: '/privacy',
+              },
+            ],
+          },
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} Khalid Naami | Founder & CEO @ Dashboard Options. Built with Financial Intelligence.`,
       },
     }),
