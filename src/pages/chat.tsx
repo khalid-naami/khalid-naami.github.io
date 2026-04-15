@@ -765,8 +765,9 @@ const ChatInterface = () => {
         const checkOllamaStatusAndFetchModels = async () => {
             setOllamaStatus('pending');
             setStatusError(null);
+            const sanitizedUrl = ollamaUrl.replace(/\/+$/, ''); // Trim trailing slashes
             try {
-                const response = await fetch(`${ollamaUrl}/api/tags`);
+                const response = await fetch(`${sanitizedUrl}/api/tags`);
                 if (!response.ok) throw new Error(`Server responded with status: ${response.status}`);
                 const data = await response.json();
                 const allModels = data.models.map((m: { name: string }) => m.name);
@@ -822,7 +823,8 @@ const ChatInterface = () => {
                     const imageMatch = post.content_html.match(/<img.*?src=\"(.*?)\"/);
                     const thumbnailUrl = imageMatch ? imageMatch[1] : '';
                     
-                    const embeddingResponse = await fetch(`${ollamaUrl}/api/embeddings`, {
+                    const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
+                    const embeddingResponse = await fetch(`${sanitizedUrl}/api/embeddings`, {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({ model: embeddingModel, prompt: content }),
@@ -884,7 +886,8 @@ const ChatInterface = () => {
         if (vectorStore.length > 0 && embeddingModel) {
             try {
                 // 1. Embed the user's query
-                const queryEmbeddingResponse = await fetch(`${ollamaUrl}/api/embeddings`, {
+                const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
+                const queryEmbeddingResponse = await fetch(`${sanitizedUrl}/api/embeddings`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ model: embeddingModel, prompt: message }),
@@ -930,7 +933,8 @@ const ChatInterface = () => {
         ];
 
         try {
-          const chatResponse = await fetch(`${ollamaUrl}/api/chat`, {
+          const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
+          const chatResponse = await fetch(`${sanitizedUrl}/api/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -940,7 +944,7 @@ const ChatInterface = () => {
             }),
           });
 
-          const response = chatResponse.status === 404 ? await fetch(`${ollamaUrl}/api/generate`, {
+          const response = chatResponse.status === 404 ? await fetch(`${sanitizedUrl}/api/generate`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
