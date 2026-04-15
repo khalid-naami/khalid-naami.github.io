@@ -193,7 +193,7 @@ function stripHtml(html: string): string {
     return doc.body.textContent || "";
 }
 
-const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami. Founder, builder, and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
+const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami, Founder & CEO at Dashboard Options. Builder and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
 
 const RAG_SYSTEM_PROMPT = 'When you answer a question that has used context from one of the indexed blog posts, you should add a [source](blog_url) link at the end of your answer.';
 
@@ -804,7 +804,7 @@ const ChatInterface = () => {
         setIndexingResult(null);
 
         try {
-            const feedResponse = await fetch('https://khalid-options.com/blog/feed.json');
+            const feedResponse = await fetch('/graph-data.json');
             if (!feedResponse.ok) throw new Error('Failed to fetch blog feed');
             const feedData = await feedResponse.json();
             const posts = feedData.items;
@@ -1023,6 +1023,37 @@ const ChatInterface = () => {
 
     return (
         <CenteredContainer>
+            {ollamaStatus !== 'online' && (
+                <div style={{
+                    width: '60%',
+                    padding: '1rem',
+                    marginBottom: '1rem',
+                    backgroundColor: isDark ? '#442b2d' : '#f8d7da',
+                    border: `1px solid ${isDark ? '#dc3545' : '#f5c6cb'}`,
+                    borderRadius: '5px',
+                    color: isDark ? '#f8d7da' : '#721c24',
+                    fontSize: '0.9em',
+                    textAlign: 'center'
+                }}>
+                    <strong>Ollama is Offline.</strong> To chat with Khalid's AI, please ensure Ollama is running on your machine and configured correctly. 
+                    Refer to the <strong>Setup Instructions</strong> below.
+                </div>
+            )}
+            {ollamaStatus === 'online' && !indexingResult && (
+                <div style={{
+                    width: '60%',
+                    padding: '1rem',
+                    marginBottom: '1rem',
+                    backgroundColor: isDark ? '#1c3041' : '#cce5ff',
+                    border: `1px solid ${isDark ? '#004085' : '#b8daff'}`,
+                    borderRadius: '5px',
+                    color: isDark ? '#cce5ff' : '#004085',
+                    fontSize: '0.9em',
+                    textAlign: 'center'
+                }}>
+                    <strong>Blog not indexed.</strong> Click <strong>"Index my blog"</strong> below so the AI can answer questions based on Khalid's articles (like "Gamma").
+                </div>
+            )}
             <div style={{ marginBottom: '2rem', width: '60%'}}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
                     <div>

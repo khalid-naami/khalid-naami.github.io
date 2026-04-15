@@ -56,7 +56,7 @@ function MapContent({ selectedCity }) {
       />
       <MapController city={selectedCity} />
       {cities.map((city) => (
-        <Marker key={city.name} position={city.coords}>
+        <Marker key={city.name} position={city.coords} alt={`Travel marker for ${city.name}`}>
           <Popup>
             <div style={{ textAlign: 'center', color: '#333' }}>
               <strong style={{ display: 'block', marginBottom: city.photo ? '8px' : '6px' }}>{city.name}</strong>
