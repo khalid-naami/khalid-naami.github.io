@@ -710,7 +710,7 @@ const ChatInterface = () => {
 
     const [ollamaUrl, setOllamaUrl] = React.useState('http://localhost:11434');
     const [inputUrl, setInputUrl] = React.useState('http://localhost:11434');
-    const [model, setModel] = React.useState('llama3.1:8b');
+    const [model, setModel] = React.useState('llama3.2:3b');
     const [availableModels, setAvailableModels] = React.useState<string[]>([]);
     const [embeddingModel, setEmbeddingModel] = React.useState<string>('');
     const [availableEmbeddingModels, setAvailableEmbeddingModels] = React.useState<string[]>([]);
@@ -719,6 +719,7 @@ const ChatInterface = () => {
     const [isClearing, setIsClearing] = React.useState(false);
     const [hasBeenCleared, setHasBeenCleared] = React.useState(false);
     const [ollamaStatus, setOllamaStatus] = React.useState<'online' | 'offline' | 'pending'>('pending');
+    const [statusError, setStatusError] = React.useState<string | null>(null);
     
     const [indexing, setIndexing] = React.useState(false);
     const [progress, setProgress] = React.useState(0);
@@ -763,9 +764,10 @@ const ChatInterface = () => {
     useEffect(() => {
         const checkOllamaStatusAndFetchModels = async () => {
             setOllamaStatus('pending');
+            setStatusError(null);
             try {
                 const response = await fetch(`${ollamaUrl}/api/tags`);
-                if (!response.ok) throw new Error('Server not responding');
+                if (!response.ok) throw new Error(`Server responded with status: ${response.status}`);
                 const data = await response.json();
                 const allModels = data.models.map((m: { name: string }) => m.name);
                 
@@ -777,13 +779,14 @@ const ChatInterface = () => {
 
                 const embeddingModels = allModels.filter((name: string) => name.includes('embed'));
                 setAvailableEmbeddingModels(embeddingModels);
-                if (embeddingModels.length > 0) {
+                if (embeddingModels.length > 0 && !embeddingModel) {
                     setEmbeddingModel(embeddingModels[0]);
                 }
                 setOllamaStatus('online');
             } catch (error) {
                 console.error("Failed to fetch Ollama models:", error);
                 setOllamaStatus('offline');
+                setStatusError((error as Error).message);
                 setAvailableModels([]);
                 setAvailableEmbeddingModels([]);
             }
@@ -1066,8 +1069,24 @@ const ChatInterface = () => {
                             type="text"
                             value={inputUrl}
                             onChange={handleUrlChange}
-                            style={{ width: '250px', marginLeft: '8px' }}
+                            placeholder="e.g. https://...trycloudflare.com"
+                            style={{ 
+                                width: '300px', 
+                                marginLeft: '8px',
+                                border: statusError ? '1px solid #dc3545' : undefined 
+                            }}
                         />
+                        {statusError && (
+                            <div style={{ 
+                                color: '#dc3545', 
+                                fontSize: '0.75em', 
+                                marginLeft: '100px', 
+                                marginTop: '4px',
+                                fontWeight: 'bold' 
+                            }}>
+                                Error: {statusError}
+                            </div>
+                        )}
                     </div>
                     <div>
                         <label htmlFor="ollama-model">Model: </label>
