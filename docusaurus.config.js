@@ -60,7 +60,8 @@ module.exports = async function createConfig() {
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
               "https://substack.com/@khnaami",
               "https://share.streamlit.io/user/khalidnaami3-wq",
-              "https://cal.com/khnaami"
+              "https://cal.com/khnaami",
+              "https://www.youtube.com/@DashboardOptions"
             ]
           },
           {
