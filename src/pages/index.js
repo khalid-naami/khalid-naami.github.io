@@ -170,6 +170,7 @@ export default function Home() {
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Head>
       <main>
+        <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
             <a
