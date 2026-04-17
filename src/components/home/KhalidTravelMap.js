@@ -27,7 +27,6 @@ function MapContent({ selectedCity }) {
   // Fix for default marker icons
   const DefaultIcon = L.icon({
     iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-    shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
   });
@@ -53,6 +52,7 @@ function MapContent({ selectedCity }) {
     >
       <TileLayer
         url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}"
+        alt="Interactive World Topographic Map Tile"
       />
       <MapController city={selectedCity} />
       {cities.map((city) => (

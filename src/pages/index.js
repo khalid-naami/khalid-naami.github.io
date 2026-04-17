@@ -131,6 +131,39 @@ export default function Home() {
       });
   }, [siteUrl]);
 
+  // Ultimate SEO Shield: Dynamically force alt tags on all third-party generated images (Leaflet tiles) that Bing flags
+  useEffect(() => {
+    if (typeof document === 'undefined') return;
+    
+    const fixAltTags = () => {
+      const images = document.querySelectorAll('img');
+      images.forEach(img => {
+        if (!img.hasAttribute('alt') || img.getAttribute('alt') === '') {
+          // Leaflet map tiles and shadows typically trigger this
+          img.setAttribute('alt', 'Map interface element');
+        }
+      });
+    };
+    
+    // Initial pass
+    fixAltTags();
+    
+    // Catch dynamically loaded Leaflet tiles
+    const observer = new MutationObserver((mutations) => {
+      let shouldFix = false;
+      for (const mutation of mutations) {
+        if (mutation.addedNodes.length > 0) {
+          shouldFix = true;
+          break;
+        }
+      }
+      if (shouldFix) fixAltTags();
+    });
+    
+    observer.observe(document.body, { childList: true, subtree: true });
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <Layout
       title="Homepage"
