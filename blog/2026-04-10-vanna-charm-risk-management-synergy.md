@@ -2,7 +2,7 @@
 title: "The Vol-Time Synergy: Integrating Charm and Vanna for Portfolio Protection"
 description: Learn how the lethal combination of Vanna and Charm dictates market crashes and rallies, and how to use this knowledge to shield your portfolio from violent swings.
 authors: [khalid]
-tags: [options, vanna, charm, risk-management, hedging, portfolio-protection]
+tags: [Dashboard Options, options, vanna, charm, risk-management, hedging, portfolio-protection]
 keywords: [options, vanna, charm, risk-management, hedging, portfolio-protection]
 image: /img/charm%20and%20vanna.png
 ---
