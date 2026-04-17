@@ -10,6 +10,78 @@
   margin-bottom: 3rem;
 }
 
+.strategicCategories {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-primary);
+}
+
+.categoriesTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.categoriesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.categoryCard {
+  background-color: var(--background-primary);
+  border: 1px solid var(--border-primary);
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.categoryCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-color: var(--ds-blue-primary);
+}
+
+@media (prefers-color-scheme: dark) {
+  .categoryCard:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.categoryCardActive {
+  border-color: var(--ds-blue-primary);
+  background-color: var(--ifm-color-primary-lightest);
+  box-shadow: inset 0 0 0 1px var(--ds-blue-primary);
+}
+
+@media (prefers-color-scheme: dark) {
+  .categoryCardActive {
+    background-color: rgba(37, 99, 235, 0.1); /* Subtle blue tint */
+  }
+}
+
+.categoryName {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+.categoryCardActive .categoryName {
+  color: var(--ifm-color-primary-dark);
+}
+
+.categoryDesc {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
 .searchContainer {
   margin-bottom: 4rem;
 }
@@ -312,8 +384,13 @@
   transition: transform 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
-.postThumbnail:hover {
-  /* No hover effect */
+.postThumbnail {
+  height: 100px;
+  width: 150px;
+  border-radius: 8px;
+  object-fit: cover;
+  border: 2px solid var(--ifm-color-emphasis-200);
+  transition: transform 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
 .placeholderThumbnail {
@@ -461,6 +538,7 @@
   font-size: var(--ds-font-size-md);
   text-align: center;
   -moz-appearance: textfield; /* Firefox */
+  appearance: textfield;
 }
 
 .readingTimeInput:focus {
@@ -472,6 +550,7 @@
 .readingTimeInput::-webkit-outer-spin-button,
 .readingTimeInput::-webkit-inner-spin-button {
   -webkit-appearance: none;
+  appearance: none;
   margin: 0;
 }
 
