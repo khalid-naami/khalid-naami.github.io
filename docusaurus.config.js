@@ -16,11 +16,11 @@ module.exports = async function createConfig() {
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
     favicon: 'img/zoro-final.png',
 
-  // Set the production url of your site here
   url: 'https://khalid-naami.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -427,7 +427,6 @@ module.exports = async function createConfig() {
   ],
 
   stylesheets: [
-    'src/css/custom.css',
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
       type: 'text/css',
