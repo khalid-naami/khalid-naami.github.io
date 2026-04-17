@@ -202,6 +202,35 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
 
   return (
     <div className={styles.terminal}>
+      <div className={styles.strategicCategories}>
+        <h3 className={styles.categoriesTitle}>Strategic Analysis Sectors</h3>
+        <div className={styles.categoriesGrid}>
+          {[
+            { tag: 'Dashboard Options', desc: 'Platform & Operations' },
+            { tag: 'Science & Technology', desc: 'Programming, Data Science & AI' },
+            { tag: 'Global Economy', desc: 'Global Macroeconomics' },
+            { tag: 'Political Economy', desc: 'Geopolitics & Hidden Markets' }
+          ].map(category => (
+            <button
+              type="button"
+              key={category.tag}
+              onClick={() => {
+                // If it's already the only selected tag, clear filters. Otherwise, select only this tag.
+                if (selectedTags.includes(category.tag) && selectedTags.length === 1) {
+                  clearAllFilters();
+                } else {
+                  updateUrlParams({ search: undefined, tags: [category.tag] });
+                }
+              }}
+              className={`${styles.categoryCard} ${selectedTags.includes(category.tag) && selectedTags.length === 1 ? styles.categoryCardActive : ''}`}
+            >
+              <div className={styles.categoryName}>{category.tag}</div>
+              <div className={styles.categoryDesc}>{category.desc}</div>
+            </button>
+          ))}
+        </div>
+      </div>
+
       <div className={styles.searchContainer}>
         <div className={styles.topBar}>
           <div className={styles.searchWrapper}>
