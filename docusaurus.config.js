@@ -54,15 +54,14 @@ module.exports = async function createConfig() {
             "name": "Khalid Naami",
             "url": "https://khalid-naami.github.io",
             "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder & CEO at Dashboard Options. Specializing in the fusion of Finance AI and Open Source technology. Expert financial data provider for CBOE, OPRA, Deribit, and Binance, with mastery in options Greeks and quantitative analysis.",
-            "worksFor": { "@id": "https://khalid-naami.github.io/#organization" },
+            "description": "Khalid Naami is the owner and founder of the Dashboard Options platform. Specialist in Finance AI, Options Greeks, and Quantitative Trading.",
             "sameAs": [
-              "https://github.com/khalid-naami",
+              "https://khalid-naami.github.io/",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
-              "https://substack.com/@khnaami",
+              "https://github.com/khalid-naami",
+              "https://www.youtube.com/@DashboardOptions",
               "https://share.streamlit.io/user/khalidnaami3-wq",
-              "https://cal.com/khnaami",
-              "https://www.youtube.com/@DashboardOptions"
+              "https://cal.com/khnaami"
             ]
           },
           {
@@ -71,7 +70,6 @@ module.exports = async function createConfig() {
             "name": "Dashboard Options",
             "url": "https://khalid-naami.github.io",
             "logo": "https://khalid-naami.github.io/img/zoro-final.png",
-            "description": "Financial analytics and intermarket data platform specializing in Options Greeks and Quantitative Trading tools.",
             "founder": { "@id": "https://khalid-naami.github.io/#person" }
           },
           {
@@ -86,7 +84,6 @@ module.exports = async function createConfig() {
             "@id": "https://khalid-naami.github.io/blog/#blog",
             "url": "https://khalid-naami.github.io/blog",
             "name": "Trading & Tech Blog",
-            "description": "Exploration of Options Greeks, Finance AI, and Data Science.",
             "publisher": { "@id": "https://khalid-naami.github.io/#person" }
           }
         ]
