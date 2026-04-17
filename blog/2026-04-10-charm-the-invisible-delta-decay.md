@@ -2,7 +2,7 @@
 title: "Charm: The Invisible Erosion of Directional Exposure"
 description: Understand how the silent passage of time slowly shifts your Delta, and why "Charm" is the secret to managing overnight risk.
 authors: [khalid]
-tags: [options, charm, greeks, time-decay, spx, risk-management]
+tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-management]
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
 image: /img/charm.png
 slug: charm-the-invisible-delta-decay

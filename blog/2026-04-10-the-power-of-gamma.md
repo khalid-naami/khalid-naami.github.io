@@ -2,7 +2,7 @@
 title: "The Power of Gamma: Why It Rules the Options Market"
 description: What is Gamma and why is it one of the most important derivatives in options trading?
 authors: [khalid]
-tags: [options, trading, derivatives, gamma, greeks]
+tags: [Dashboard Options, options, trading, derivatives, gamma, greeks]
 keywords: [options, trading, derivatives, gamma, greeks]
 image: /img/Screenshot%202026-04-10%20142251.png
 slug: the-power-of-gamma
