@@ -1,6 +1,6 @@
 # Khalid Website
 
-This my open source website: https://khalid-naami.github.io/
+This is my open source website: https://khalidnaami.com/
 
 <p float="left">
   <img src="static/img/chat.png" width="500" />
@@ -9,7 +9,7 @@ This my open source website: https://khalid-naami.github.io/
 
 ---
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
