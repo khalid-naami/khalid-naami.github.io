@@ -199,6 +199,8 @@ module.exports = async function createConfig() {
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
           showReadingTime: true,
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
@@ -218,9 +220,16 @@ module.exports = async function createConfig() {
           anonymizeIP: true,
         },
         sitemap: {
+          lastmod: 'date',
           changefreq: 'weekly',
           priority: 0.5,
-          ignorePatterns: ['/tags/**'],
+          ignorePatterns: [
+            '/tags/**', 
+            '/search', 
+            '/markdown-page', 
+            '/pokemon-tcg-wanted',
+            '/design-system'
+          ],
           filename: 'sitemap.xml',
         },
       }),
