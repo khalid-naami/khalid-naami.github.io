@@ -5,8 +5,8 @@
 
 ## Identity & Core Expertise
 - **Name:** Khalid Naami
-- **Title:** Founder & CEO at Dashboard Options
-- **Primary Expertise:** Quantitative Analysis, Financial AI, Options Trading (Greeks), Python Development.
+- **Title:** Founder & CEO at Dashboard Options | Strategic Author
+- **Primary Expertise:** Quantitative Analysis, Financial AI, Options Trading (Greeks), Technical Writing, and Macroeconomics.
 - **Location Status:** Based in Rabat, Morocco. Originally from Laayoune.
 
 ## Dashboard Options (The Flagship Project)
@@ -31,12 +31,21 @@
 - **2026:** Official timeline for launching and scaling Dashboard Options.
 
 ## Official Links
-- **Website:** https://khalid-naami.github.io
+- **Website:** https://khalidnaami.com
 - **GitHub:** https://github.com/khalid-naami
-- **LinkedIn:** https://www.linkedin.com/in/khalid-naami-a953263bb/
-- **X (Twitter):** https://x.com/GamesOfOptions
+- **Personal X:** https://x.com/khalidnaami0
+- **Dashboard Options X:** https://x.com/DashboardOption
+- **Personal LinkedIn:** https://www.linkedin.com/in/khalid-naami-a953263bb/
+- **Dashboard Options LinkedIn:** https://www.linkedin.com/company/dashboard-options/
 - **YouTube:** https://www.youtube.com/@DashboardOptions
 - **Substack:** https://substack.com/@khnaami
 
 ## Core Philosophy
-"He who owns the data, owns the market." Khalid operates at the intersection of open-source technology and high-stakes finance, continuously learning to build tools that empower modern traders through scientific knowledge and data mastery.
+"He who owns the data, owns the market." Khalid operates at the intersection of open-source technology and high-stakes finance, continuously learning to build tools and share knowledge that empowers modern traders.
+
+## Strategic Content & Writing
+Khalid regularly publishes deep-dive analysis on:
+- **Dashboard Options:** Updates and technical documentation for his financial platform.
+- **Science & Technology:** Insights into Python development, Data Science, and Financial AI models.
+- **Global Economy:** Macroeconomic analysis and intermarket dynamics.
+- **Political Economy:** Geopolitics and the hidden connections between politics and global markets.
