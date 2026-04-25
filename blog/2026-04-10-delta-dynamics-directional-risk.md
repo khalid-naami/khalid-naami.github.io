@@ -1,5 +1,5 @@
 ---
-title: "Delta Dynamics: The Directional Compass of Options Trading"
+title: "Delta Dynamics: The Compass of Options Trading"
 description: Master the most fundamental Greek—Delta—and learn how to reach price sensitivity and probability in the options market.
 authors: [khalid]
 tags: [Dashboard Options, options, delta, greeks, risk-management, spx]
