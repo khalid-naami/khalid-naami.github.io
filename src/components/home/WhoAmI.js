@@ -18,6 +18,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
           <li><strong>Expertise:</strong> Financial AI, Quantitative Trading, Options Greeks, and Python development.</li>
           <li><strong>Data Sources:</strong> CBOE, OPRA, Deribit, and Binance.</li>
           <li><strong>Mission:</strong> Bridging the gap between complex intermarket analysis and actionable data science.</li>
+          <li><strong>Education:</strong> Business Administration, Global Macroeconomics, Programming, and Data Analysis (Studied via American and Canadian institutes).</li>
           <li><strong>Content Creation:</strong> Strategic author of articles on Options Greeks, Data Science, Global Macroeconomics, and Geopolitics.</li>
         </ul>
       </div>
