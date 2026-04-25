@@ -124,7 +124,12 @@ module.exports = async function createConfig() {
             "url": "https://khalidnaami.com",
             "name": "Khalid Naami - Financial Intelligence Platform",
             "publisher": { "@id": "https://khalidnaami.com/#person" },
-            "inLanguage": "en-US"
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://khalidnaami.com/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
           },
           {
             "@type": "Blog",
@@ -133,20 +138,41 @@ module.exports = async function createConfig() {
             "name": "Khalid Naami's Strategic Analysis Blog",
             "description": "In-depth exploration of Options Greeks, Finance AI, Data Science, and Global Macroeconomics.",
             "publisher": { "@id": "https://khalidnaami.com/#person" }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://khalidnaami.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://khalidnaami.com"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://khalidnaami.com/blog"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Intelligence",
+                "item": "https://khalidnaami.com/intelligence"
+              }
+            ]
           }
         ]
       }),
     },
-    /* 
     {
-      tagName: 'script',
+      tagName: 'meta',
       attributes: {
-        id: 'cookieyes',
-        type: 'text/javascript',
-        src: 'https://cdn-cookieyes.com/client_data/68dfe4108d25a8e90527dfa6/script.js',
+        name: 'google-site-verification',
+        content: 'PUT_YOUR_CODE_HERE',
       },
     },
-    */
   ],
 
   presets: [
