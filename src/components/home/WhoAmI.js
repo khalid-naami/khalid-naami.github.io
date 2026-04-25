@@ -85,21 +85,27 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
       ) : (
         <div className="flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
           <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
-            src="img/greeks_anatomy.png"
-            alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
-            loading="lazy"
-          />
-          <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover shadow-lg"
             src="img/khalid_profile.jpg"
-            alt="Wolf of Wall Street Spirit - Khalid Naami, Founder & CEO, embodying the philosophy that he who owns the data, owns the market."
+            alt="Khalid Naami - Founder & CEO"
+            width={220}
+            height={300}
+            fetchpriority="high"
+          />
+          <img
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+            src="img/greeks_anatomy.png"
+            alt="Greeks Options Platform Anatomy"
+            width={220}
+            height={300}
             loading="lazy"
           />
           <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover"
+            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
             src="img/khalid_mastermind.png"
-            alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
+            alt="Strategic Mastermind"
+            width={220}
+            height={300}
             loading="lazy"
           />
         </div>
