@@ -1,13 +1,13 @@
 const https = require('https');
 
 const data = JSON.stringify({
-  host: "khalid-naami.github.io",
+  host: "khalidnaami.com",
   key: "f1e7d8c9b0a1f2e3d4c5b6a7f8e9d0c1",
-  keyLocation: "https://khalid-naami.github.io/f1e7d8c9b0a1f2e3d4c5b6a7f8e9d0c1.txt",
+  keyLocation: "https://khalidnaami.com/f1e7d8c9b0a1f2e3d4c5b6a7f8e9d0c1.txt",
   urlList: [
-    "https://khalid-naami.github.io/",
-    "https://khalid-naami.github.io/blog",
-    "https://khalid-naami.github.io/intelligence"
+    "https://khalidnaami.com/",
+    "https://khalidnaami.com/blog",
+    "https://khalidnaami.com/intelligence"
   ]
 });
 
