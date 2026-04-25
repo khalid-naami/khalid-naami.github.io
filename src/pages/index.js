@@ -171,13 +171,12 @@ export default function Home() {
     >
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
-        <meta
-          property="og:description"
-          content="Where you can find my posts, projects and insights on technology, finance and markets."
-        />
+        <meta property="og:description" content="Khalid Naami's official platform for Finance AI, Options Greeks, and Global Macroeconomics analysis." />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
         <meta property="og:url" content="https://khalidnaami.com" />
-
+        <meta name="author" content="Khalid Naami" />
+        <meta name="copyright" content="Khalid Naami" />
+        
         {/* Canonical Link */}
         <link rel="canonical" href="https://khalidnaami.com" />
 
@@ -234,7 +233,7 @@ export default function Home() {
           </div>
         </div>
         {/* Home Sections */}
-        <WhoAmI isDesktop={isDesktop} isTablet={isTablet} />
+        <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
 
         <Beliefs
           isDesktop={isDesktop}
