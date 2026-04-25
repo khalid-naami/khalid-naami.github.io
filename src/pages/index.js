@@ -205,7 +205,7 @@ export default function Home() {
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Head>
-      <main>
+      <main suppressHydrationWarning>
         <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
@@ -227,9 +227,7 @@ export default function Home() {
               rel="noreferrer"
               className="pill-banner-link"
             >
-              <span className="pill-banner-text">
-                Follow me on X to explore insights on fintech, derivatives and market analysis
-              </span>
+              <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
             </a>
           </div>
         </div>
