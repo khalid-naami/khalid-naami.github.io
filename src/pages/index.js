@@ -207,44 +207,51 @@ export default function Home() {
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Head>
       <main suppressHydrationWarning>
-        <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
-        <div className="w-full py-3 sm:py-4">
-          <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-            <a
-              href="https://substack.com/@khnaami"
-              target="_blank"
-              rel="noreferrer"
-              className="pill-banner-link"
-            >
-              <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
-            </a>
-          </div>
-        </div>
-        <div className="w-full py-3 sm:py-4">
-          <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-            <a
-              href="https://x.com/khalidnaami0"
-              target="_blank"
-              rel="noreferrer"
-              className="pill-banner-link"
-            >
-              <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
-            </a>
-          </div>
-        </div>
-        {/* Home Sections - Wrapped in BrowserOnly for total hydration stability */}
         <BrowserOnly fallback={
-          <div className="flex flex-col items-center justify-center py-20 opacity-50">
-            <p className="text-gray-600 dark:text-gray-400">Loading intelligence dashboard...</p>
-            {/* Hidden content for SEO fallback if needed */}
-            <div className="hidden">
-              <h1>Khalid Naami - Quantitative Analyst & Options Trading</h1>
-              <p>Explore fintech, derivatives, and AI insights.</p>
+          <>
+            <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
+            <div className="w-full py-3 sm:py-4 opacity-50">
+              <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+                <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
+              </div>
             </div>
-          </div>
+            <div className="w-full py-3 sm:py-4 opacity-50">
+              <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+                <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
+              </div>
+            </div>
+            <div className="flex flex-col items-center justify-center py-20 opacity-50">
+              <p className="text-gray-600 dark:text-gray-400">Loading intelligence dashboard...</p>
+            </div>
+          </>
         }>
           {() => (
             <>
+              <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
+              <div className="w-full py-3 sm:py-4">
+                <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+                  <a
+                    href="https://substack.com/@khnaami"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="pill-banner-link"
+                  >
+                    <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
+                  </a>
+                </div>
+              </div>
+              <div className="w-full py-3 sm:py-4">
+                <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+                  <a
+                    href="https://x.com/khalidnaami0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="pill-banner-link"
+                  >
+                    <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
+                  </a>
+                </div>
+              </div>
               <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
               <Beliefs
                 isDesktop={isDesktop}
