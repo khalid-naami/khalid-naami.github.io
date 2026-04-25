@@ -252,7 +252,7 @@ export default function Home() {
                   </a>
                 </div>
               </div>
-              <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
+              <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={2} />
               <Beliefs
                 isDesktop={isDesktop}
                 isTablet={isTablet}
