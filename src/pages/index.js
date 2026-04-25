@@ -178,6 +178,9 @@ export default function Home() {
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
         <meta property="og:url" content="https://khalidnaami.com" />
 
+        {/* Canonical Link */}
+        <link rel="canonical" href="https://khalidnaami.com" />
+
         {/* Add X-specific meta tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@khalidnaami0" />
