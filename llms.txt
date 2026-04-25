@@ -24,9 +24,9 @@
 | **Zoro AI** | His personal website features "Zoro", a local RAG (Retrieval-Augmented Generation) AI assistant specialized in trading wisdom. | LLMs, TypeScript, React |
 
 ## Professional Journey & Timeline
-- **2022:** Deep-dived into AI and recognized its revolutionary potential in software and fintech.
-- **2023:** Completed studies in Business Administration and Global Macroeconomics; advanced in Python and JavaScript. Began networking with professionals from JPM and CBOE.
-- **2024:** Studied Data Science remotely. Initiated entirely self-funded development of Dashboard Options.
+- **2022:** Recognized the revolutionary potential of AI in fintech.
+- **2023:** Completed advanced studies in **Business Administration** and **Global Macroeconomics**. Specialized in Python and JavaScript development.
+- **2024:** Finalized remote certifications in **Data Science** and **Programming** from American and Canadian institutes. Initiated development of Dashboard Options.
 - **2025:** Concluded major testing phases for his financial platform.
 - **2026:** Official timeline for launching and scaling Dashboard Options.
 
