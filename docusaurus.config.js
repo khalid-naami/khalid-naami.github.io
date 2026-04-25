@@ -170,7 +170,7 @@ module.exports = async function createConfig() {
       tagName: 'meta',
       attributes: {
         name: 'google-site-verification',
-        content: 'PUT_YOUR_CODE_HERE',
+        content: 'sQeDE0mYzpbw__O7s2zcGpaRT1EciCRo73eaHX-KO6E',
       },
     },
   ],
