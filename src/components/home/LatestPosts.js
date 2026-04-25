@@ -50,7 +50,10 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                       className="w-full h-[180px] object-cover transition-transform duration-300 hover:scale-110"
                       src={post.image}
                       alt={post.title}
+                      width={250}
+                      height={180}
                       loading="lazy"
+                      decoding="async"
                     />
                   </div>
                   <h3 className="text-left text-sm font-semibold">{post.title}</h3>
@@ -72,7 +75,10 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                     className="w-full h-[180px] object-cover transition-transform duration-300 group-hover:scale-110"
                     src={post.image}
                     alt={post.title}
+                    width={250}
+                    height={180}
                     loading="lazy"
+                    decoding="async"
                   />
                 </div>
                 <h3 className="text-left text-sm font-semibold group-hover:text-blue-500 transition-colors duration-300">
@@ -125,7 +131,10 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                   className="rounded-xl h-[120px] mx-auto object-cover"
                   src={post.image}
                   alt={post.title}
+                  width={260}
+                  height={120}
                   loading="lazy"
+                  decoding="async"
                 />
                 <h3 className="text-center text-sm font-semibold mt-2 group-hover:text-blue-500 transition-colors duration-300">
                   {post.title}
