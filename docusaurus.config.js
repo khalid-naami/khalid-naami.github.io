@@ -16,7 +16,7 @@ module.exports = async function createConfig() {
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
     favicon: 'img/zoro-final.png',
 
-  url: 'https://khalid-naami.github.io',
+  url: 'https://khalidnaami.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -50,15 +50,16 @@ module.exports = async function createConfig() {
         "@graph": [
           {
             "@type": "Person",
-            "@id": "https://khalid-naami.github.io/#person",
+            "@id": "https://khalidnaami.com/#person",
             "name": "Khalid Naami",
-            "url": "https://khalid-naami.github.io",
+            "url": "https://khalidnaami.com",
             "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder & CEO at Dashboard Options. Specializing in the fusion of Finance AI and Open Source technology. Expert financial data provider for CBOE, OPRA, Deribit, and Binance, with mastery in options Greeks and quantitative analysis.",
-            "worksFor": { "@id": "https://khalid-naami.github.io/#organization" },
+            "description": "Founder & CEO at Dashboard Options and Strategic Technical Writer & Blog Author. Specializing in the fusion of Finance AI, Options Trading, and Global Macroeconomics. Regularly publishes deep-dives on intermarket dynamics, global macroeconomics, and data science on the khalidnaami.com blog.",
+            "worksFor": { "@id": "https://khalidnaami.com/#organization" },
             "sameAs": [
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
+              "https://x.com/khalidnaami0",
               "https://substack.com/@khnaami",
               "https://share.streamlit.io/user/khalidnaami3-wq",
               "https://cal.com/khnaami",
@@ -67,27 +68,32 @@ module.exports = async function createConfig() {
           },
           {
             "@type": "Organization",
-            "@id": "https://khalid-naami.github.io/#organization",
+            "@id": "https://khalidnaami.com/#organization",
             "name": "Dashboard Options",
-            "url": "https://khalid-naami.github.io",
-            "logo": "https://khalid-naami.github.io/img/zoro-final.png",
+            "url": "https://khalidnaami.com",
+            "logo": "https://khalidnaami.com/img/zoro-final.png",
             "description": "Financial analytics and intermarket data platform specializing in Options Greeks and Quantitative Trading tools.",
-            "founder": { "@id": "https://khalid-naami.github.io/#person" }
+            "founder": { "@id": "https://khalidnaami.com/#person" },
+            "sameAs": [
+              "https://x.com/DashboardOption",
+              "https://www.linkedin.com/company/dashboard-options/",
+              "https://www.youtube.com/@DashboardOptions"
+            ]
           },
           {
             "@type": "WebSite",
-            "@id": "https://khalid-naami.github.io/#website",
-            "url": "https://khalid-naami.github.io",
+            "@id": "https://khalidnaami.com/#website",
+            "url": "https://khalidnaami.com",
             "name": "Khalid Naami - Personal Website",
-            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+            "publisher": { "@id": "https://khalidnaami.com/#person" }
           },
           {
             "@type": "Blog",
-            "@id": "https://khalid-naami.github.io/blog/#blog",
-            "url": "https://khalid-naami.github.io/blog",
+            "@id": "https://khalidnaami.com/blog/#blog",
+            "url": "https://khalidnaami.com/blog",
             "name": "Trading & Tech Blog",
             "description": "Exploration of Options Greeks, Finance AI, and Data Science.",
-            "publisher": { "@id": "https://khalid-naami.github.io/#person" }
+            "publisher": { "@id": "https://khalidnaami.com/#person" }
           }
         ]
       }),
@@ -240,6 +246,31 @@ module.exports = async function createConfig() {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'Community & Social',
+            items: [
+              {
+                label: 'Personal X',
+                href: 'https://x.com/khalidnaami0',
+              },
+              {
+                label: 'Dashboard Options X',
+                href: 'https://x.com/DashboardOption',
+              },
+              {
+                label: 'Personal LinkedIn',
+                href: 'https://www.linkedin.com/in/khalid-naami-a953263bb/',
+              },
+              {
+                label: 'Dashboard Options LinkedIn',
+                href: 'https://www.linkedin.com/company/dashboard-options/',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@DashboardOptions',
+              },
+            ],
+          },
           {
             title: 'Legal',
             items: [
