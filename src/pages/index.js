@@ -1,3 +1,4 @@
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import Head from '@docusaurus/Head';
 import Layout from '@theme/Layout';
@@ -231,25 +232,40 @@ export default function Home() {
             </a>
           </div>
         </div>
-        {/* Home Sections */}
-        <WhoAmI isDesktop={hasMounted ? isDesktop : false} isTablet={hasMounted ? isTablet : false} level={1} />
-        <Beliefs
-          isDesktop={hasMounted ? isDesktop : false}
-          isTablet={hasMounted ? isTablet : false}
-          githubSrc={githubSrc}
-          githubChartSrc={githubChartSrc}
-        />
-        <LatestPosts
-          allPosts={allPosts}
-          postsHighlight={postsHighlight}
-          isDesktop={hasMounted ? isDesktop : false}
-          isTablet={hasMounted ? isTablet : false}
-        />
-        <Section className="max-w-[880px] px-4 !mt-0">
-          <NewsletterCTA variant="compact" />
-        </Section>
-        <OutsideWork isDesktop={hasMounted ? isDesktop : false} />
-        <Journey />
+        {/* Home Sections - Wrapped in BrowserOnly for total hydration stability */}
+        <BrowserOnly fallback={
+          <div className="flex flex-col items-center justify-center py-20 opacity-50">
+            <p className="text-gray-600 dark:text-gray-400">Loading intelligence dashboard...</p>
+            {/* Hidden content for SEO fallback if needed */}
+            <div className="hidden">
+              <h1>Khalid Naami - Quantitative Analyst & Options Trading</h1>
+              <p>Explore fintech, derivatives, and AI insights.</p>
+            </div>
+          </div>
+        }>
+          {() => (
+            <>
+              <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
+              <Beliefs
+                isDesktop={isDesktop}
+                isTablet={isTablet}
+                githubSrc={githubSrc}
+                githubChartSrc={githubChartSrc}
+              />
+              <LatestPosts
+                allPosts={allPosts}
+                postsHighlight={postsHighlight}
+                isDesktop={isDesktop}
+                isTablet={isTablet}
+              />
+              <Section className="max-w-[880px] px-4 !mt-0">
+                <NewsletterCTA variant="compact" />
+              </Section>
+              <OutsideWork isDesktop={isDesktop} />
+              <Journey />
+            </>
+          )}
+        </BrowserOnly>
       </main>
     </Layout>
   );
