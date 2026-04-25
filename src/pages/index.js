@@ -176,12 +176,12 @@ export default function Home() {
           content="Where you can find my posts, projects and insights on technology, finance and markets."
         />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
-        <meta property="og:url" content="https://khalid-naami.github.io" />
+        <meta property="og:url" content="https://khalidnaami.com" />
 
         {/* Add X-specific meta tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@GamesOfOptions" />
-        <meta name="twitter:creator" content="@GamesOfOptions" />
+        <meta name="twitter:site" content="@khalidnaami0" />
+        <meta name="twitter:creator" content="@khalidnaami0" />
         <meta
           name="twitter:title"
           content="Khalid Naami - Fintech & Software Developer"
@@ -219,7 +219,7 @@ export default function Home() {
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
             <a
-              href="https://x.com/GamesOfOptions"
+              href="https://x.com/khalidnaami0"
               target="_blank"
               rel="noreferrer"
               className="pill-banner-link"
