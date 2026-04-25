@@ -191,6 +191,12 @@ module.exports = async function createConfig() {
           trackingID: 'G-Z026EQ121W',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
