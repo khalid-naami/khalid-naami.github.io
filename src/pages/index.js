@@ -34,6 +34,7 @@ if (typeof window !== 'undefined') {
 }
 
 export default function Home() {
+  const [hasMounted, setHasMounted] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
   const [isTablet, setIsTablet] = useState(false);
   const [githubSrc, setGithubSrc] = useState(
@@ -44,6 +45,7 @@ export default function Home() {
   );
 
   useEffect(() => {
+    setHasMounted(true);
     if (ExecutionEnvironment.canUseDOM) {
       const handleResize = () => {
         // Using 576px as the mobile breakpoint and 992px as the tablet breakpoint
@@ -232,29 +234,23 @@ export default function Home() {
           </div>
         </div>
         {/* Home Sections */}
-        <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={1} />
-
+        <WhoAmI isDesktop={hasMounted ? isDesktop : false} isTablet={hasMounted ? isTablet : false} level={1} />
         <Beliefs
-          isDesktop={isDesktop}
-          isTablet={isTablet}
+          isDesktop={hasMounted ? isDesktop : false}
+          isTablet={hasMounted ? isTablet : false}
           githubSrc={githubSrc}
           githubChartSrc={githubChartSrc}
         />
-
         <LatestPosts
           allPosts={allPosts}
           postsHighlight={postsHighlight}
-          isDesktop={isDesktop}
-          isTablet={isTablet}
+          isDesktop={hasMounted ? isDesktop : false}
+          isTablet={hasMounted ? isTablet : false}
         />
-
-        {/* Newsletter CTA */}
         <Section className="max-w-[880px] px-4 !mt-0">
           <NewsletterCTA variant="compact" />
         </Section>
-
-        <OutsideWork isDesktop={isDesktop} />
-
+        <OutsideWork isDesktop={hasMounted ? isDesktop : false} />
         <Journey />
       </main>
     </Layout>
