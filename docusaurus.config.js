@@ -542,9 +542,6 @@ module.exports = async function createConfig() {
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
       type: 'text/css',
-      integrity:
-        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQWUrDUFEZEZA8Fin8IEKEUAZITG/+u7joGOOLUs',
-      crossorigin: 'anonymous',
     },
   ],
 
