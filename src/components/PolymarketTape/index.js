@@ -62,7 +62,7 @@ const PolymarketTape = () => {
 
         setMarkets(formattedMarkets);
       } catch (error) {
-        console.error('Failed to fetch Polymarket data:', error);
+        // Silent failure to avoid Google Search Console noise
       } finally {
         setLoading(false);
       }
