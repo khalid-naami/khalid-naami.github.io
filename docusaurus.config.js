@@ -54,7 +54,42 @@ module.exports = async function createConfig() {
             "name": "Khalid Naami",
             "url": "https://khalidnaami.com",
             "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder & CEO at Dashboard Options and Strategic Technical Writer & Blog Author. Specializing in the fusion of Finance AI, Options Trading, and Global Macroeconomics. Regularly publishes deep-dives on intermarket dynamics, global macroeconomics, and data science on the khalidnaami.com blog.",
+            "description": "Founder & CEO at Dashboard Options and Strategic Technical Writer. Khalid Naami is a specialist at the intersection of Finance AI, Options Greeks, and Quantitative Analysis, with a background in Business Administration and Global Macroeconomics.",
+            "knowsLanguage": ["Arabic", "English"],
+            "gender": "Male",
+            "nationality": "Moroccan",
+            "birthPlace": {
+              "@type": "Place",
+              "name": "Laayoune"
+            },
+            "homeLocation": {
+              "@type": "Place",
+              "name": "Rabat, Morocco"
+            },
+            "hasOccupation": {
+              "@type": "Occupation",
+              "name": "Financial Technologist & Quantitative Analyst",
+              "description": "Designing and developing intermarket data platforms and financial AI models for options trading.",
+              "skills": "Options Trading, Quantitative Finance, Python Development, Financial Data Analysis, Global Macroeconomic Strategy"
+            },
+            "alumniOf": [
+              {
+                "@type": "EducationalOrganization",
+                "name": "American and Canadian Institutes (Remote Education)",
+                "description": "Advanced studies in Programming, Data Analysis, and Global Macroeconomics."
+              },
+              {
+                "@type": "EducationalOrganization",
+                "name": "Business Administration Academy",
+                "description": "Specialization in Business Administration and Management."
+              }
+            ],
+            "knowsAbout": [
+              "Options Greeks", "Quantitative Trading", "Financial AI", "Data Science", 
+              "Global Macroeconomics", "Intermarket Analysis", "Python Programming", 
+              "Options Pricing Models", "Black-Scholes", "Volatility Surface", 
+              "Algorithmic Trading", "Fintech System Architecture", "Political Economy"
+            ],
             "worksFor": { "@id": "https://khalidnaami.com/#organization" },
             "sameAs": [
               "https://github.com/khalid-naami",
@@ -72,8 +107,11 @@ module.exports = async function createConfig() {
             "name": "Dashboard Options",
             "url": "https://khalidnaami.com",
             "logo": "https://khalidnaami.com/img/zoro-final.png",
-            "description": "Financial analytics and intermarket data platform specializing in Options Greeks and Quantitative Trading tools.",
+            "alternateName": "DashboardOptions.com",
+            "description": "A high-precision financial analytics and intermarket data platform specializing in Options Greeks, Quantitative Trading tools, and Finance AI solutions.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
+            "foundingDate": "2024",
+            "knowsAbout": ["Options Trading", "Quantitative Analysis", "Financial Infrastructure", "Market Intelligence"],
             "sameAs": [
               "https://x.com/DashboardOption",
               "https://www.linkedin.com/company/dashboard-options/",
@@ -84,15 +122,16 @@ module.exports = async function createConfig() {
             "@type": "WebSite",
             "@id": "https://khalidnaami.com/#website",
             "url": "https://khalidnaami.com",
-            "name": "Khalid Naami - Personal Website",
-            "publisher": { "@id": "https://khalidnaami.com/#person" }
+            "name": "Khalid Naami - Financial Intelligence Platform",
+            "publisher": { "@id": "https://khalidnaami.com/#person" },
+            "inLanguage": "en-US"
           },
           {
             "@type": "Blog",
             "@id": "https://khalidnaami.com/blog/#blog",
             "url": "https://khalidnaami.com/blog",
-            "name": "Trading & Tech Blog",
-            "description": "Exploration of Options Greeks, Finance AI, and Data Science.",
+            "name": "Khalid Naami's Strategic Analysis Blog",
+            "description": "In-depth exploration of Options Greeks, Finance AI, Data Science, and Global Macroeconomics.",
             "publisher": { "@id": "https://khalidnaami.com/#person" }
           }
         ]
