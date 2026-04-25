@@ -1,6 +1,10 @@
 # Khalid Website
 
+<<<<<<< HEAD
 This is my open source website: https://khalidnaami.com/
+=======
+This my open source website: https://khalidnaami.com
+>>>>>>> ec812e31a9031d6d1101b9b8c0626b8d37785409
 
 <p float="left">
   <img src="static/img/chat.png" width="500" />
