@@ -207,52 +207,47 @@ export default function Home() {
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Head>
       <main suppressHydrationWarning>
+        <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
+        
+        {/* Top Section: High Priority for LCP */}
         <BrowserOnly fallback={
-          <>
-            <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
-            <div className="w-full py-3 sm:py-4 opacity-50">
-              <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
-              </div>
-            </div>
-            <div className="w-full py-3 sm:py-4 opacity-50">
-              <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
-              </div>
-            </div>
-            <div className="flex flex-col items-center justify-center py-20 opacity-50">
-              <p className="text-gray-600 dark:text-gray-400">Loading intelligence dashboard...</p>
-            </div>
-          </>
+          <div className="flex flex-col items-center py-10">
+            <div className="text-xl mb-4">Founder & CEO at Dashboard Options.</div>
+            <img 
+              src="img/khalid_profile.jpg" 
+              alt="Khalid Naami" 
+              width={220} 
+              height={300} 
+              className="rounded-xl shadow-lg"
+              style={{ maxHeight: '300px', objectCover: 'cover' }}
+            />
+          </div>
         }>
           {() => (
             <>
-              <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
               <div className="w-full py-3 sm:py-4">
                 <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                  <a
-                    href="https://substack.com/@khnaami"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="pill-banner-link"
-                  >
+                  <a href="https://substack.com/@khnaami" target="_blank" rel="noreferrer" className="pill-banner-link">
                     <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
                   </a>
                 </div>
               </div>
               <div className="w-full py-3 sm:py-4">
                 <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                  <a
-                    href="https://x.com/khalidnaami0"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="pill-banner-link"
-                  >
+                  <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
                     <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
                   </a>
                 </div>
               </div>
               <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={2} />
+            </>
+          )}
+        </BrowserOnly>
+
+        {/* Middle Section: Beliefs & Posts */}
+        <BrowserOnly fallback={<div className="py-20 text-center opacity-50">Loading data...</div>}>
+          {() => (
+            <>
               <Beliefs
                 isDesktop={isDesktop}
                 isTablet={isTablet}
@@ -268,6 +263,14 @@ export default function Home() {
               <Section className="max-w-[880px] px-4 !mt-0">
                 <NewsletterCTA variant="compact" />
               </Section>
+            </>
+          )}
+        </BrowserOnly>
+
+        {/* Bottom Section: Heavy Components (Map, Journey) */}
+        <BrowserOnly fallback={<div className="py-10 text-center opacity-50">...</div>}>
+          {() => (
+            <>
               <OutsideWork isDesktop={isDesktop} />
               <Journey />
             </>
