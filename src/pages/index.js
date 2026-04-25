@@ -194,9 +194,8 @@ export default function Home() {
         />
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
         
-        {/* Desktop Performance Optimization: Preload LCP Images */}
+        {/* Desktop Performance Optimization: Preload LCP Image */}
         <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.jpg`} />
-        <link rel="preload" as="image" href={`${siteUrl}/img/terminal_bg_dark.png`} />
 
         {/* Apple Identity & Mobile Optimization */}
         <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.png`} />
