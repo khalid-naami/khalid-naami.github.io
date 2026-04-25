@@ -214,7 +214,7 @@ module.exports = async function createConfig() {
           customCss: ['./src/css/custom.css'],
         },
         gtag: {
-          trackingID: 'G-Z026EQ121W',
+          trackingID: 'G-N31CFZW849',
           anonymizeIP: true,
         },
         sitemap: {
