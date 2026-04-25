@@ -14,7 +14,7 @@ const { chromium } = require('playwright');
     console.log(`[pageerror] ${err.message}`);
   });
 
-  await page.goto('https://khalid-naami.github.io/intelligence/', { waitUntil: 'networkidle' });
+  await page.goto('https://khalidnaami.com/intelligence/', { waitUntil: 'networkidle' });
   
   // Wait a bit to ensure React finishes hydrating and tries to load chunks
   await page.waitForTimeout(3000);
