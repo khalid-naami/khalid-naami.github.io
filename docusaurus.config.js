@@ -296,11 +296,6 @@ module.exports = async function createConfig() {
           },
           {
             position: 'left',
-            label: 'Daily Analysis',
-            to: '/daily-analysis',
-          },
-          {
-            position: 'left',
             label: 'Blog',
             to: '/blog',
             className: 'navbar__center-item',
