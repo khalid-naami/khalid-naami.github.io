@@ -257,6 +257,12 @@ module.exports = async function createConfig() {
         {name: 'keywords', content: 'Khalid Naami, Finance AI, Options Greeks, Quantitative Trading, Financial Data, CBOE, OPRA, Deribit, Binance, Data Science, Python, Intermarket Analysis, Strategic Analyst, Trading Algorithms, Blockchain, Fintech, Dashboard Options'},
         {name: 'description', content: 'Explore the junction of finance and technology with Khalid Naami. Financial intelligence, options trading strategies, macro-analysis, and open source AI projects.'},
         {name: 'twitter:card', content: 'summary_large_image'},
+        {property: 'og:image:width', content: '1200'},
+        {property: 'og:image:height', content: '630'},
+        {property: 'og:type', content: 'website'},
+        {property: 'og:site_name', content: 'Khalid Naami - Financial Intelligence'},
+        {property: 'og:image:type', content: 'image/jpeg'},
+        {property: 'og:image:alt', content: 'Khalid Naami - Financial Intelligence & Options Greeks Analysis'},
       ],
       // Replace with your project's social card
       image: 'img/khalid_zoro_pixel.jpg',
