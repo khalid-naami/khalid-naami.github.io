@@ -206,9 +206,9 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
         <h3 className={styles.categoriesTitle}>Strategic Analysis Sectors</h3>
         <div className={styles.categoriesGrid}>
           {[
-            { tag: 'Daily Analysis', desc: 'Market Insights & Daily Strategy' },
-            { tag: 'Dashboard Options', desc: 'Platform & Operations' },
             { tag: 'Science & Technology', desc: 'Programming, Data Science & AI' },
+            { tag: 'Dashboard Options', desc: 'Platform & Operations' },
+            { tag: 'Daily Analysis', desc: 'Market Insights & Daily Strategy' },
             { tag: 'Global Economy', desc: 'Global Macroeconomics' },
             { tag: 'Political Economy', desc: 'Geopolitics & Hidden Markets' }
           ].map(category => (
