@@ -235,8 +235,8 @@ module.exports = async function createConfig() {
         },
         sitemap: {
           lastmod: 'date',
-          changefreq: 'weekly',
-          priority: 0.5,
+          changefreq: 'daily',
+          priority: 1.0,
           ignorePatterns: [
             '/tags/**', 
             '/search', 
