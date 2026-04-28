@@ -4,6 +4,7 @@
 - [2026-04-28-dashboard-options-exposure-heatmap-visual-analytics](https://khalidnaami.com/blog/2026-04-28-dashboard-options-exposure-heatmap-visual-analytics)
 - [2026-04-28-dashboard-options-implied-probabilities-market-moves](https://khalidnaami.com/blog/2026-04-28-dashboard-options-implied-probabilities-market-moves)
 - [2026-04-28-dashboard-options-iv-surface-market-expectations](https://khalidnaami.com/blog/2026-04-28-dashboard-options-iv-surface-market-expectations)
+- [2026-04-28-dashboard-options-technical-historical-analysis-quant-edge](https://khalidnaami.com/blog/2026-04-28-dashboard-options-technical-historical-analysis-quant-edge)
 - [2026-04-28-options-color-gamma-decay-risk](https://khalidnaami.com/blog/2026-04-28-options-color-gamma-decay-risk)
 - [2026-04-28-options-delta-adjusted-exposure-true-risk](https://khalidnaami.com/blog/2026-04-28-options-delta-adjusted-exposure-true-risk)
 - [2026-04-28-options-max-pain-theory-market-gravity](https://khalidnaami.com/blog/2026-04-28-options-max-pain-theory-market-gravity)
