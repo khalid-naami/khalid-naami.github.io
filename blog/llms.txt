@@ -1,5 +1,6 @@
 # Blog Posts
 
+- [2026-04-28-dashboard-options-3d-gamma-surface-risk-topography](https://khalidnaami.com/blog/2026-04-28-dashboard-options-3d-gamma-surface-risk-topography)
 - [2026-04-28-dashboard-options-exposure-heatmap-visual-analytics](https://khalidnaami.com/blog/2026-04-28-dashboard-options-exposure-heatmap-visual-analytics)
 - [2026-04-28-options-color-gamma-decay-risk](https://khalidnaami.com/blog/2026-04-28-options-color-gamma-decay-risk)
 - [2026-04-28-options-delta-adjusted-exposure-true-risk](https://khalidnaami.com/blog/2026-04-28-options-delta-adjusted-exposure-true-risk)
