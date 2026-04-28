@@ -1,6 +1,7 @@
 # Blog Posts
 
 - [2026-04-28-options-color-gamma-decay-risk](https://khalidnaami.com/blog/2026-04-28-options-color-gamma-decay-risk)
+- [2026-04-28-options-delta-adjusted-exposure-true-risk](https://khalidnaami.com/blog/2026-04-28-options-delta-adjusted-exposure-true-risk)
 - [2026-04-28-options-speed-gamma-of-gamma](https://khalidnaami.com/blog/2026-04-28-options-speed-gamma-of-gamma)
 - [2026-04-28-options-vomma-convexity-of-vega](https://khalidnaami.com/blog/2026-04-28-options-vomma-convexity-of-vega)
 - [2026-04-10-charm-the-invisible-delta-decay](https://khalidnaami.com/blog/2026-04-10-charm-the-invisible-delta-decay)
