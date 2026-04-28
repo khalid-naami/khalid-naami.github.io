@@ -1,5 +1,6 @@
 # Blog Posts
 
+- [2026-04-28-options-speed-gamma-of-gamma](https://khalidnaami.com/blog/2026-04-28-options-speed-gamma-of-gamma)
 - [2026-04-10-charm-the-invisible-delta-decay](https://khalidnaami.com/blog/2026-04-10-charm-the-invisible-delta-decay)
 - [2026-04-10-delta-dynamics-directional-risk](https://khalidnaami.com/blog/2026-04-10-delta-dynamics-directional-risk)
 - [2026-04-10-options-physics-synergy](https://khalidnaami.com/blog/2026-04-10-options-physics-synergy)
