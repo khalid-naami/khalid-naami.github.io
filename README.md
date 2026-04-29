@@ -3,8 +3,8 @@
 This is my open source website: https://khalidnaami.com/
 
 <p float="left">
-  <img src="static/img/chat.png" width="500" />
-  <img src="static/img/intteligence.png" width="460" />
+  <img src="static/img/chat.webp" width="500" />
+  <img src="static/img/intteligence.webp" width="460" />
 </p>
 
 ---
