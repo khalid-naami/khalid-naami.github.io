@@ -65,23 +65,24 @@ endpoints.forEach(endpoint => {
     res.on('end', () => {
       if (res.statusCode === 200) {
         console.log(`✅ Success! ${endpoint.name} has been notified.`);
+      } else if (res.statusCode === 202) {
+        console.log(`✅ ${endpoint.name} accepted the request (Status 202).`);
       } else {
-        console.error(`❌ ${endpoint.name} request failed (Status: ${res.statusCode}).`);
+        console.warn(`⚠️ ${endpoint.name} responded with status: ${res.statusCode}`);
+        console.warn(`Response: ${responseData}`);
       }
     });
   });
 
   req.on('error', (error) => {
-    console.error(`Error sending IndexNow request to ${endpoint.name}:`, error);
+    console.error(`❌ Error sending IndexNow request to ${endpoint.name}:`, error.message);
   });
 
   req.write(data);
   req.end();
 });
 
-req.on('error', (error) => {
-  console.error('Error sending IndexNow request:', error);
+process.on('uncaughtException', (err) => {
+  console.error('An unexpected error occurred in IndexNow script:', err);
+  process.exit(0); 
 });
-
-req.write(data);
-req.end();
