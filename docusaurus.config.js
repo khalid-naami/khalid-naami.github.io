@@ -131,12 +131,7 @@ module.exports = async function createConfig() {
             "url": "https://khalidnaami.com",
             "name": "Khalid Naami - Financial Intelligence Platform",
             "publisher": { "@id": "https://khalidnaami.com/#person" },
-            "inLanguage": "en-US",
-            "potentialAction": {
-              "@type": "SearchAction",
-              "target": "https://khalidnaami.com/search?q={search_term_string}",
-              "query-input": "required name=search_term_string"
-            }
+            "inLanguage": "en-US"
           },
           {
             "@type": "Blog",
