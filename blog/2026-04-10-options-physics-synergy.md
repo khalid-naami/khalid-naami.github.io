@@ -4,7 +4,7 @@ description: Master the powerful synergy between Delta and Gamma using physics a
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, physics, greeks, risk-management]
 keywords: [options, delta, gamma, physics, greeks, risk-management]
-image: /img/gamma%20and%20delta.png
+image: /img/gamma%20and%20delta.webp
 ---
 
 # The Physics of Options: Synergy Between Delta and Gamma
@@ -16,7 +16,7 @@ image: /img/gamma%20and%20delta.png
 
 Many traders view the "Greeks" as abstract mathematical formulas hidden behind complex models. However, if you understand the basic physics of movement—**Velocity** and **Acceleration**—you already understand **Delta** and **Gamma** better than most.
 
-![Delta and Gamma Synergy](/img/gamma%20and%20delta.png)
+![Delta and Gamma Synergy](/img/gamma%20and%20delta.webp)
 *Visualizing the relationship between Delta and Gamma.*
 
 ## The Physics Analogy: The Accelerating Car
