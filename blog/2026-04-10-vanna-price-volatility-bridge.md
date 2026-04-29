@@ -4,7 +4,7 @@ description: Discover how Vanna links Delta and Vega to reveal the hidden mechan
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, greeks, volatility, spx, risk-management]
 keywords: [options, vanna, greeks, volatility, spx, risk-management]
-image: /img/vanna.png
+image: /img/vanna.webp
 slug: vanna-price-volatility-bridge
 ---
 
@@ -38,7 +38,7 @@ When volatility spikes during a market sell-off, Vanna dictates that call option
 ### 2. Strategic Positioning
 Professional traders look at Vanna "walls" to identify levels where institutional hedging will likely provide support or resistance. 
 
-![SPX Vanna Exposure](/img/vanna.png)
+![SPX Vanna Exposure](/img/vanna.webp)
 *Typical Vanna exposure across SPX strikes.*
 
 As shown in the chart above, Vanna clustering at specific strike prices (like significant put walls) can act as a magnet for price action or a hard floor during high-volatility events.
