@@ -4,7 +4,7 @@ description: Understand how the silent passage of time slowly shifts your Delta,
 authors: [khalid]
 tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-management]
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
-image: /img/charm.png
+image: /img/charm.webp
 slug: charm-the-invisible-delta-decay
 ---
 
@@ -36,7 +36,7 @@ Market makers and institutional desks are hypersensitive to Charm. As expiration
 ### 2. Market Magnetism
 Large clusters of Charm can act as "magnets" or "repellers" for price action. As time passes, the changing hedge requirements of large institutions can create predictable flows in the market.
 
-![SPX Charm Analysis](/img/charm.png)
+![SPX Charm Analysis](/img/charm.webp)
 *Analysis of Charm exposure and its impact on S&P 500 hedging levels.*
 
 The chart above illustrates how Charm exposure shifts across different strike prices in the SPX. Understanding these levels allows a trader to predict where liquidity might dry up or spike as time runs out on a contract.
