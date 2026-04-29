@@ -4,7 +4,7 @@ description: Learn how the lethal combination of Vanna and Charm dictates market
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, charm, risk-management, hedging, portfolio-protection]
 keywords: [options, vanna, charm, risk-management, hedging, portfolio-protection]
-image: /img/charm%20and%20vanna.png
+image: /img/charm%20and%20vanna.webp
 ---
 
 # The Vol-Time Synergy: Integrating Charm and Vanna for Portfolio Protection
@@ -38,7 +38,7 @@ How do you use this knowledge to protect your investment portfolio?
 ### 1. Identifying "Safe Havens"
 By analyzing the clustering of Vanna and Charm (as seen in the chart below), you can identify "Liquidity Pockets" where hedging flows will likely support the market rather than collapse it.
 
-![Charm and Vanna Synergy](/img/charm%20and%20vanna.png)
+![Charm and Vanna Synergy](/img/charm%20and%20vanna.webp)
 *Visualizing the intersection of Vanna and Charm exposure levels.*
 
 ### 2. Strategic Strike Selection
