@@ -49,7 +49,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                     <img
                       className="w-full h-[180px] object-cover transition-transform duration-300 hover:scale-110"
                       src={post.image}
-                      alt={post.title}
+                      alt={`Strategic visualization of: ${post.title}`}
                       width={250}
                       height={180}
                       loading="lazy"
@@ -74,7 +74,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                   <img
                     className="w-full h-[180px] object-cover transition-transform duration-300 group-hover:scale-110"
                     src={post.image}
-                    alt={post.title}
+                    alt={`Strategic visualization of: ${post.title}`}
                     width={250}
                     height={180}
                     loading="lazy"
@@ -130,7 +130,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                 <img
                   className="rounded-xl h-[120px] mx-auto object-cover"
                   src={post.image}
-                  alt={post.title}
+                  alt={`Strategic visualization of: ${post.title}`}
                   width={260}
                   height={120}
                   loading="lazy"
