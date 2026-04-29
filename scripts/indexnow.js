@@ -32,7 +32,8 @@ const data = JSON.stringify({
 
 const endpoints = [
   { name: 'Bing', host: 'api.indexnow.org' },
-  { name: 'Yandex', host: 'yandex.com' }
+  { name: 'Yandex', host: 'yandex.com' },
+  { name: 'Seznam', host: 'search.seznam.cz' }
 ];
 
 async function notifyEngine(endpoint) {
