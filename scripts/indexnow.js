@@ -8,30 +8,21 @@ const KEY = "a31a32eb95c34faba5e1d89d75bdc5a4";
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 const SITEMAP_PATH = path.join(__dirname, '../build/sitemap.xml');
 
-/**
- * Extracts URLs from sitemap.xml
- */
 function getUrlsFromSitemap() {
   try {
     if (!fs.existsSync(SITEMAP_PATH)) {
-      console.warn(`Sitemap not found at ${SITEMAP_PATH}. Make sure to run 'npm run build' first.`);
+      console.warn(`⚠️ Sitemap not found. Using default homepage.`);
       return ["https://khalidnaami.com/"];
     }
-
     const content = fs.readFileSync(SITEMAP_PATH, 'utf8');
     const urlMatches = content.match(/<loc>(.*?)<\/loc>/g);
-    
-    if (!urlMatches) return ["https://khalidnaami.com/"];
-
-    return urlMatches.map(match => match.replace(/<\/?loc>/g, ''));
+    return urlMatches ? urlMatches.map(match => match.replace(/<\/?loc>/g, '')) : ["https://khalidnaami.com/"];
   } catch (error) {
-    console.error('Error reading sitemap:', error);
     return ["https://khalidnaami.com/"];
   }
 }
 
 const urls = getUrlsFromSitemap();
-
 const data = JSON.stringify({
   host: HOST,
   key: KEY,
@@ -44,45 +35,48 @@ const endpoints = [
   { name: 'Yandex', host: 'yandex.com' }
 ];
 
-endpoints.forEach(endpoint => {
-  const options = {
-    hostname: endpoint.host,
-    port: 443,
-    path: '/indexnow',
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json; charset=utf-8',
-      'Content-Length': Buffer.byteLength(data)
-    }
-  };
-
-  console.log(`Sending IndexNow update to ${endpoint.name} with ${urls.length} URLs...`);
-
-  const req = https.request(options, (res) => {
-    let responseData = '';
-    res.on('data', (chunk) => { responseData += chunk; });
-    
-    res.on('end', () => {
-      if (res.statusCode === 200) {
-        console.log(`✅ Success! ${endpoint.name} has been notified.`);
-      } else if (res.statusCode === 202) {
-        console.log(`✅ ${endpoint.name} accepted the request (Status 202).`);
-      } else {
-        console.warn(`⚠️ ${endpoint.name} responded with status: ${res.statusCode}`);
-        console.warn(`Response: ${responseData}`);
+async function notifyEngine(endpoint) {
+  return new Promise((resolve) => {
+    const options = {
+      hostname: endpoint.host,
+      port: 443,
+      path: '/indexnow',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+        'Content-Length': Buffer.byteLength(data)
       }
+    };
+
+    console.log(`📡 Sending update to ${endpoint.name}...`);
+
+    const req = https.request(options, (res) => {
+      res.on('data', () => {});
+      res.on('end', () => {
+        if (res.statusCode === 200 || res.statusCode === 202) {
+          console.log(`✅ ${endpoint.name} notified successfully.`);
+        } else {
+          console.warn(`⚠️ ${endpoint.name} returned status ${res.statusCode}.`);
+        }
+        resolve();
+      });
     });
+
+    req.on('error', (err) => {
+      console.error(`❌ Error notifying ${endpoint.name}: ${err.message}`);
+      resolve();
+    });
+
+    req.write(data);
+    req.end();
   });
+}
 
-  req.on('error', (error) => {
-    console.error(`❌ Error sending IndexNow request to ${endpoint.name}:`, error.message);
-  });
+async function run() {
+  for (const endpoint of endpoints) {
+    await notifyEngine(endpoint);
+  }
+  console.log('🏁 Indexing process completed.');
+}
 
-  req.write(data);
-  req.end();
-});
-
-process.on('uncaughtException', (err) => {
-  console.error('An unexpected error occurred in IndexNow script:', err);
-  process.exit(0); 
-});
+run().catch(console.error);
