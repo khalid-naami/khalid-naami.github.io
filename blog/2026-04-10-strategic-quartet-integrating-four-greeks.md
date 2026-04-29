@@ -4,7 +4,7 @@ description: Discover how the four pillars of derivatives trading—Delta, Gamma
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, vanna, charm, strategy, risk-management]
 keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
-image: /img/gamma%20and%20delta.png
+image: /img/gamma%20and%20delta.webp
 ---
 
 # The Strategic Quartet: Integrating Delta, Gamma, Vanna, and Charm
@@ -15,7 +15,7 @@ Throughout this series, we have dissected the individual mechanics of the "Greek
 
 To master the market is to understand how these four pillars complete each other.
 
-![Delta and Gamma Synergy](/img/gamma%20and%20delta.png)
+![Delta and Gamma Synergy](/img/gamma%20and%20delta.webp)
 *The foundational relationship between price movement and directional sensitivity.*
 
 ## The Interconnected Engine: How They Complete Each Other
@@ -36,7 +36,7 @@ By integrating all four Greeks, you gain a 360-degree vision:
 *   You don't just see a consolidation; you see a **Charm Drift** where your exposure is slowly neutralizing before a breakout.
 *   You don't just see a rally; you see **Gamma Acceleration** that will eventually lead to a "blow-off" top as hedges a replenished.
 
-![Charm and Vanna Synergy](/img/charm%20and%20vanna.png)
+![Charm and Vanna Synergy](/img/charm%20and%20vanna.webp)
 *The advanced interplay between volatility shifts and time decay.*
 
 ## The Grand Physics Finale: The Racing Car Revisited
