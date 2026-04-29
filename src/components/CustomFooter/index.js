@@ -44,7 +44,7 @@ export default function CustomFooter() {
         <div className="container container-fluid">
           <div className="row flex justify-center items-center">
             <div className="col text-center">
-              <h4 className="mb-4">Let's stay in touch.</h4>
+              <h2 className="mb-4 text-xl font-bold">Let's stay in touch.</h2>
               <div className="flex justify-center space-x-4">
                 {/* Personal Socials */}
                 <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="text-black dark:text-white hover:text-ds-blue-primary dark:hover:text-ds-blue-accent" title="Personal X" aria-label="Follow Khalid Naami on X">
