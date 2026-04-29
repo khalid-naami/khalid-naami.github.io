@@ -4,7 +4,7 @@ description: Why is raw notional value misleading in options trading? Learn how 
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, delta, risk-management, exposure]
 keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, notional value, risk management]
-image: /img/Delta-Adjusted.png
+image: /img/Delta-Adjusted.webp
 slug: options-delta-adjusted-exposure-true-risk
 ---
 
@@ -35,7 +35,7 @@ $$
 \text{Synthetic Shares} = (\text{Number of Contracts} \times \text{Multiplier}) \times \text{Delta}
 $$
 
-![Delta-Adjusted Exposure Analysis](/img/Delta-Adjusted.png)
+![Delta-Adjusted Exposure Analysis](/img/Delta-Adjusted.webp)
 *Delta-Adjusted exposure visualization: Comparing raw notional values to the actual directional risk across different strikes.*
 
 ## Why It Matters for Risk Management
