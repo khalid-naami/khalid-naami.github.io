@@ -33,7 +33,7 @@ export default function NotFound() {
             </div>
             <div className="mt-12 opacity-50">
               <img 
-                src="/img/zoro-final.png" 
+                src="/img/zoro-final.webp" 
                 alt="Zoro Logo" 
                 style={{ width: '150px', filter: 'grayscale(100%)' }}
                 className="mx-auto"
