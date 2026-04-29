@@ -39,32 +39,44 @@ const data = JSON.stringify({
   urlList: urls
 });
 
-const options = {
-  hostname: 'api.indexnow.org',
-  port: 443,
-  path: '/indexnow',
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json; charset=utf-8',
-    'Content-Length': Buffer.byteLength(data)
-  }
-};
+const endpoints = [
+  { name: 'Bing', host: 'api.indexnow.org' },
+  { name: 'Yandex', host: 'yandex.com' }
+];
 
-console.log(`Sending IndexNow update to Bing with ${urls.length} URLs...`);
-
-const req = https.request(options, (res) => {
-  let responseData = '';
-  res.on('data', (chunk) => { responseData += chunk; });
-  
-  res.on('end', () => {
-    console.log(`Status Code: ${res.statusCode}`);
-    if (res.statusCode === 200) {
-      console.log('✅ Success! Bing/IndexNow has been notified of all your site updates.');
-    } else {
-      console.error('❌ IndexNow request failed.');
-      console.error('Response:', responseData);
+endpoints.forEach(endpoint => {
+  const options = {
+    hostname: endpoint.host,
+    port: 443,
+    path: '/indexnow',
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json; charset=utf-8',
+      'Content-Length': Buffer.byteLength(data)
     }
+  };
+
+  console.log(`Sending IndexNow update to ${endpoint.name} with ${urls.length} URLs...`);
+
+  const req = https.request(options, (res) => {
+    let responseData = '';
+    res.on('data', (chunk) => { responseData += chunk; });
+    
+    res.on('end', () => {
+      if (res.statusCode === 200) {
+        console.log(`✅ Success! ${endpoint.name} has been notified.`);
+      } else {
+        console.error(`❌ ${endpoint.name} request failed (Status: ${res.statusCode}).`);
+      }
+    });
   });
+
+  req.on('error', (error) => {
+    console.error(`Error sending IndexNow request to ${endpoint.name}:`, error);
+  });
+
+  req.write(data);
+  req.end();
 });
 
 req.on('error', (error) => {
