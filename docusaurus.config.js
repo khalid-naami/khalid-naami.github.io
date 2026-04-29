@@ -41,6 +41,13 @@ module.exports = async function createConfig() {
 
   headTags: [
     {
+      tagName: 'meta',
+      attributes: {
+        name: 'yandex-verification',
+        content: '655a0e854986edb9',
+      },
+    },
+    {
       tagName: 'script',
       attributes: {
         type: 'application/ld+json',
