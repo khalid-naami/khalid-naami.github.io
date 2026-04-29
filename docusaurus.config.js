@@ -48,6 +48,13 @@ module.exports = async function createConfig() {
       },
     },
     {
+      tagName: 'meta',
+      attributes: {
+        name: 'naver-site-verification',
+        content: '66dc9fe4eddd309ec33ad537910bf29a9aa2006a',
+      },
+    },
+    {
       tagName: 'script',
       attributes: {
         type: 'application/ld+json',
