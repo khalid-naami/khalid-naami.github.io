@@ -4,5 +4,8 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
+User-agent: PetalBot
+Allow: /
+
 # Sitemap Location
 Sitemap: https://khalidnaami.com/sitemap.xml
