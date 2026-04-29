@@ -4,7 +4,7 @@ description: What is the Max Pain point and how does it influence stock prices n
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, max-pain, expiration, market-mechanics]
 keywords: [options, trading, derivatives, max-pain, maximum pain theory, expiration, market makers, pinning]
-image: /img/Max-pain.png
+image: /img/Max-pain.webp
 slug: options-max-pain-theory-market-gravity
 ---
 
@@ -28,7 +28,7 @@ To find the Max Pain point, analysts calculate the total "dollar value" of all o
 3.  Sum these values.
 4.  The strike with the **lowest total value** is the Max Pain point.
 
-![Max Pain Visualization](/img/Max-pain.png)
+![Max Pain Visualization](/img/Max-pain.webp)
 *Typical Max Pain chart: The valley in the center represents the strike price where the least amount of capital is paid out to option holders.*
 
 ## The Role of Market Maker Hedging
