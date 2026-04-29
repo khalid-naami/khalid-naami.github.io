@@ -4,7 +4,7 @@ description: What is Options Speed and why is it one of the most critical third-
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, speed, gamma, greeks]
 keywords: [options, trading, derivatives, speed, gamma, greeks, hedging, risk management]
-image: /img/speed.png
+image: /img/speed.webp
 slug: options-speed-gamma-of-gamma
 ---
 
@@ -32,7 +32,7 @@ Gamma tells us how Delta will change, but Gamma itself is not static. it increas
 
 Speed measures the pace of this increase or decrease. For risk managers, Speed is the early warning signal that tells them their Gamma hedge (Gamma-Neutral position) might become ineffective very quickly if the market moves.
 
-![Options Speed Analysis](/img/speed.png)
+![Options Speed Analysis](/img/speed.webp)
 *Visual analysis of Options Speed and its impact on the Gamma curve.*
 
 ## The Role of Speed in Hedging
