@@ -109,8 +109,15 @@ export default function KhalidTravelMap() {
         {/* Toggleable Sidebar */}
         <div className={`map-sidebar ${!isSidebarOpen ? 'map-sidebar-hidden' : ''}`}>
           <div className="map-sidebar-header">
-            <input type="checkbox" checked readOnly style={{ cursor: 'default' }} />
-            <span>Visits</span>
+            <input 
+              id="map-visits-status"
+              type="checkbox" 
+              checked 
+              readOnly 
+              style={{ cursor: 'default' }} 
+              aria-label="Visits indicator"
+            />
+            <label htmlFor="map-visits-status">Visits</label>
           </div>
           <div className="map-sidebar-list">
             {cities.map((city) => (
