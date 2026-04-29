@@ -175,7 +175,7 @@ export default function Home() {
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
         <meta property="og:description" content="Khalid Naami's official platform for Finance AI, Options Greeks, and Global Macroeconomics analysis." />
-        <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
+        <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         <meta property="og:url" content="https://khalidnaami.com" />
         <meta name="author" content="Khalid Naami" />
         <meta name="copyright" content="Khalid Naami" />
@@ -195,13 +195,13 @@ export default function Home() {
           name="twitter:description"
           content="Specializing in the intersection of technology and finance - Python expert, derivatives analyst"
         />
-        <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.jpg`} />
+        <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         
         {/* Desktop Performance Optimization: Preload LCP Image */}
-        <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.jpg`} />
+        <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.webp`} />
 
         {/* Apple Identity & Mobile Optimization */}
-        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.png`} />
+        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.webp`} />
         <meta name="apple-mobile-web-app-title" content="Khalid Naami" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
