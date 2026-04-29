@@ -73,14 +73,11 @@ const journeyData = [
 
 const Timeline = () => {
   return (
-    <ul className="mt-4 text-left pr-2">
-      {journeyData.map((item) => (
-        <React.Fragment key={item.year}>
-          <p>
-            <strong>{item.year}</strong> {item.icon} {item.description}
-          </p>
-          <br />
-        </React.Fragment>
+    <ul className="mt-4 text-left pr-2 list-none">
+      {journeyData.map((item, index) => (
+        <li key={`${item.year}-${index}`} className="mb-4">
+          <strong>{item.year}</strong> {item.icon} {item.description}
+        </li>
       ))}
     </ul>
   );
