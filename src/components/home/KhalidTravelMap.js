@@ -78,6 +78,9 @@ export default function KhalidTravelMap() {
 
   return (
     <div className="map-card-container">
+      <Head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+      </Head>
       {/* Header with Toggle Button */}
       <div className="map-header">
         <div 
