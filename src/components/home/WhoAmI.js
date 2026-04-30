@@ -10,97 +10,61 @@ function WhoAmI({ level = 2 }) {
         Founder & CEO at Dashboard Options.
       </div>
       
-      {/* Mobile/Tablet Version - Hidden on Desktop via CSS */}
+      {/* Mobile/Tablet Version - Native CSS Scroller for Instant LCP Render (0ms Delay) */}
       <div className="md:hidden mt-4">
         <div 
-          className="flex items-center content-center mx-auto align-center justify-center flex-wrap gap-8 mb-4"
-          style={{ minHeight: '300px' }}
+          className="flex overflow-x-auto snap-x snap-mandatory gap-4 pb-4 hide-scrollbar"
+          style={{ minHeight: '300px', scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}
         >
-          <Carousel
-            showThumbs={false}
-            showStatus={false}
-            showIndicators={false}
-            infiniteLoop={true}
-            dynamicHeight={false}
-            renderArrowPrev={(clickHandler, hasPrev) =>
-              hasPrev && (
-                <button
-                  type="button"
-                  onClick={clickHandler}
-                  className="absolute left-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                  aria-label="Previous slide"
-                >
-                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                  </svg>
-                </button>
-              )
-            }
-            renderArrowNext={(clickHandler, hasNext) =>
-              hasNext && (
-                <button
-                  type="button"
-                  onClick={clickHandler}
-                  className="absolute right-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                  aria-label="Next slide"
-                >
-                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
-              )
-            }
-          >
-            <div>
-              <img
-                className="rounded-xl max-w-[220px]"
-                src="/img/khalid_profile.webp"
-                alt="Khalid Naami - Founder & CEO"
-                width={220}
-                height={218}
-                style={{ aspectRatio: '220/218' }}
-                fetchPriority="high"
-              />
-            </div>
-            <div>
-              <img
-                className="rounded-xl max-w-[220px]"
-                src="/img/greeks_anatomy.webp"
-                alt="Greeks Options Platform Anatomy"
-                width={220}
-                height={220}
-                style={{ aspectRatio: '220/220' }}
-                loading="lazy"
-              />
-            </div>
-            <div>
-              <img
-                className="rounded-xl max-w-[220px]"
-                src="/img/khalid_mastermind.webp"
-                alt="Strategic Mastermind"
-                width={220}
-                height={220}
-                style={{ aspectRatio: '220/220' }}
-                loading="lazy"
-              />
-            </div>
-          </Carousel>
+          <div className="snap-center shrink-0 w-[220px]">
+            <img
+              className="rounded-xl w-[220px] h-[300px] object-cover"
+              src="/img/khalid_profile.webp"
+              alt="Khalid Naami - Founder & CEO"
+              width={220}
+              height={300}
+              style={{ aspectRatio: '220/300' }}
+              fetchPriority="high"
+            />
+          </div>
+          <div className="snap-center shrink-0 w-[220px]">
+            <img
+              className="rounded-xl w-[220px] h-[300px] object-cover"
+              src="/img/greeks_anatomy.webp"
+              alt="Greeks Options Platform Anatomy"
+              width={220}
+              height={300}
+              style={{ aspectRatio: '220/300' }}
+              loading="lazy"
+            />
+          </div>
+          <div className="snap-center shrink-0 w-[220px]">
+            <img
+              className="rounded-xl w-[220px] h-[300px] object-cover"
+              src="/img/khalid_mastermind.webp"
+              alt="Strategic Mastermind"
+              width={220}
+              height={300}
+              style={{ aspectRatio: '220/300' }}
+              loading="lazy"
+            />
+          </div>
         </div>
       </div>
 
       {/* Desktop Version - Hidden on Mobile via CSS */}
       <div className="hidden md:flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
         <img
-          className="rounded-xl max-h-[300px] object-cover shadow-lg"
+          className="rounded-xl max-h-[300px] w-[220px] object-cover shadow-lg"
           src="/img/khalid_profile.webp"
           alt="Khalid Naami - Founder & CEO"
           width={220}
-          height={218}
-          style={{ aspectRatio: '220/218' }}
+          height={300}
+          style={{ aspectRatio: '220/300' }}
           fetchPriority="high"
         />
         <img
-          className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+          className="rounded-xl max-h-[300px] w-[220px] object-cover opacity-90 hover:opacity-100 transition-opacity"
           src="/img/greeks_anatomy.webp"
           alt="Greeks Options Platform Anatomy"
           width={220}
@@ -109,7 +73,7 @@ function WhoAmI({ level = 2 }) {
           loading="lazy"
         />
         <img
-          className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+          className="rounded-xl max-h-[300px] w-[220px] object-cover opacity-90 hover:opacity-100 transition-opacity"
           src="/img/khalid_mastermind.webp"
           alt="Strategic Mastermind"
           width={220}
@@ -118,6 +82,7 @@ function WhoAmI({ level = 2 }) {
           loading="lazy"
         />
       </div>
+
 
       <p className="text-center mt-4">
         You can reach me on{' '}
