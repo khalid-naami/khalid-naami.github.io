@@ -15,6 +15,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
           <Carousel
             showThumbs={false}
             showStatus={false}
+            showIndicators={false}
             renderArrowPrev={(clickHandler, hasPrev) =>
               hasPrev && (
                 <button
