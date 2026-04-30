@@ -213,8 +213,8 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
         
         {/* Resource Hints for Performance */}
-        <link rel="preconnect" href="https://www.googletagmanager.com" />
-        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://server.arcgisonline.com" />
+        <link rel="dns-prefetch" href="https://github-stats-alpha.vercel.app" />
       </Head>
       <main>
         <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
