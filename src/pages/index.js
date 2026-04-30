@@ -247,6 +247,7 @@ export default function Home() {
               height={300} 
               className="rounded-xl shadow-lg"
               style={{ maxHeight: '300px', objectFit: 'cover', aspectRatio: '220/300' }}
+              fetchpriority="high"
             />
           </div>
         }>
