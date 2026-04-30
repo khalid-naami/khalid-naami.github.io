@@ -54,14 +54,16 @@ const PolymarketTape = () => {
           processData(data);
         }
       } catch (error) {
-        console.error('Polymarket fetch error:', error);
-        setLoading(false);
+        console.error('Polymarket fetch error, retrying in 5s...', error);
+        // Silently retry after 5 seconds
+        setTimeout(fetchMarkets, 5000);
       }
     };
 
     const processData = (data) => {
-      if (!data || !Array.isArray(data)) {
-        setLoading(false);
+      if (!data || !Array.isArray(data) || data.length === 0) {
+        // Retry if we got empty data
+        setTimeout(fetchMarkets, 5000);
         return;
       }
 
@@ -87,19 +89,19 @@ const PolymarketTape = () => {
         }
       }).filter(Boolean);
 
-      setMarkets(formattedMarkets);
-      setLoading(false);
+      if (formattedMarkets.length === 0) {
+        setTimeout(fetchMarkets, 5000);
+      } else {
+        setMarkets(formattedMarkets);
+        setLoading(false);
+      }
     };
 
     fetchMarkets();
   }, [shouldLoad]);
 
-  if (!shouldLoad || (loading && !markets.length)) {
-    return <div className={styles.tapeContainer} style={{ minHeight: '52px', backgroundColor: 'transparent' }} />;
-  }
-
-  if (!markets.length) {
-    return null;
+  if (!shouldLoad || markets.length === 0) {
+    return <div className={styles.tapeContainer} style={{ minHeight: '64px', backgroundColor: 'transparent' }} />;
   }
   
   const duplicatedMarkets = [...markets, ...markets];
