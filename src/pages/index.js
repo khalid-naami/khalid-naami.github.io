@@ -3,7 +3,7 @@ import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import Head from '@docusaurus/Head';
 import Layout from '@theme/Layout';
 import React, { useState, useEffect, Suspense } from 'react';
-import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a loader
+
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Section from '../components/common/Section';
 import WhoAmI from '../components/home/WhoAmI';
