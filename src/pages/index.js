@@ -205,6 +205,13 @@ export default function Home() {
         <meta name="apple-mobile-web-app-title" content="Khalid Naami" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        
+        {/* Resource Hints for Performance */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://server.arcgisonline.com" />
+        <link rel="preconnect" href="https://corsproxy.io" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://server.arcgisonline.com" />
       </Head>
       <main>
         <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
