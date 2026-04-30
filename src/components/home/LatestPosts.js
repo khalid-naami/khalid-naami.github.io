@@ -96,6 +96,8 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
           showThumbs={false}
           showStatus={false}
           showIndicators={false}
+          infiniteLoop={true}
+          dynamicHeight={false}
           autoPlay
           interval={5000}
           renderArrowPrev={(clickHandler, hasPrev) =>
