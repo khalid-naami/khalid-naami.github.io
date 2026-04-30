@@ -23,8 +23,8 @@ function MapContent({ selectedCity }) {
   // Fix for default marker icons
   const DefaultIcon = L.icon({
     iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-    iconSize: [48, 78], // Max size to strictly meet the 48px touch target requirement
-    iconAnchor: [24, 78], // Adjusted anchor for the new larger size
+    iconSize: [28, 46], // Balanced size for aesthetics (was 48x78)
+    iconAnchor: [14, 46], // Adjusted anchor
   });
   L.Marker.prototype.options.icon = DefaultIcon;
 
@@ -40,8 +40,8 @@ function MapContent({ selectedCity }) {
 
   return (
     <MapContainer 
-      center={[30, 15]} 
-      zoom={2} 
+      center={[35, 10]} 
+      zoom={3.5} 
       scrollWheelZoom={false}
       style={{ height: '100%', width: '100%' }}
       attributionControl={false}
