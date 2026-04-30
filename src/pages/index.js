@@ -202,10 +202,10 @@ export default function Home() {
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         
         {/* Desktop Performance Optimization: Preload LCP Image */}
-        <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.webp`} />
+        <link rel="preload" as="image" href={`${siteUrl}/img/opt_khalid_profile.webp`} />
 
         {/* Apple Identity & Mobile Optimization */}
-        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.webp`} />
+        <link rel="apple-touch-icon" href={`${siteUrl}/img/opt_zoro-final.webp`} />
         <meta name="apple-mobile-web-app-title" content="Khalid Naami" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
