@@ -246,7 +246,7 @@ export default function Home() {
               width={220} 
               height={300} 
               className="rounded-xl shadow-lg"
-              style={{ maxHeight: '300px', objectFit: 'cover' }}
+              style={{ maxHeight: '300px', objectFit: 'cover', aspectRatio: '220/300' }}
             />
           </div>
         }>
