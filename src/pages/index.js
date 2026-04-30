@@ -2,16 +2,18 @@ import BrowserOnly from '@docusaurus/BrowserOnly';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import Head from '@docusaurus/Head';
 import Layout from '@theme/Layout';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Suspense } from 'react';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a loader
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Section from '../components/common/Section';
 import WhoAmI from '../components/home/WhoAmI';
 import Beliefs from '../components/home/Beliefs';
-import LatestPosts from '../components/home/LatestPosts';
-import OutsideWork from '../components/home/OutsideWork';
-import Journey from '../components/home/Journey';
 import NewsletterCTA from '../components/NewsletterCTA';
+
+// Lazy load only the heaviest components that are further down the page
+const LatestPosts = React.lazy(() => import('../components/home/LatestPosts'));
+const OutsideWork = React.lazy(() => import('../components/home/OutsideWork'));
+const Journey = React.lazy(() => import('../components/home/Journey'));
 
 if (typeof window !== 'undefined') {
   // Prevent TradingView cross-origin "Script error." from triggering the dev-server overlay
@@ -279,12 +281,16 @@ export default function Home() {
                 githubSrc={githubSrc}
                 githubChartSrc={githubChartSrc}
               />
-              <LatestPosts
-                allPosts={allPosts}
-                postsHighlight={postsHighlight}
-                isDesktop={isDesktop}
-                isTablet={isTablet}
-              />
+              
+              <Suspense fallback={<div className="py-10 text-center opacity-50">Loading posts...</div>}>
+                <LatestPosts
+                  allPosts={allPosts}
+                  postsHighlight={postsHighlight}
+                  isDesktop={isDesktop}
+                  isTablet={isTablet}
+                />
+              </Suspense>
+
               <Section className="max-w-[880px] px-4 !mt-0">
                 <NewsletterCTA variant="compact" />
               </Section>
@@ -293,14 +299,16 @@ export default function Home() {
         </BrowserOnly>
 
         {/* Bottom Section: Heavy Components (Map, Journey) */}
-        <BrowserOnly fallback={<div className="py-10 text-center opacity-50">...</div>}>
-          {() => (
-            <>
-              <OutsideWork isDesktop={isDesktop} />
-              <Journey />
-            </>
-          )}
-        </BrowserOnly>
+        <Suspense fallback={<div className="py-10 text-center opacity-50">...</div>}>
+          <BrowserOnly>
+            {() => (
+              <>
+                <OutsideWork isDesktop={isDesktop} />
+                <Journey />
+              </>
+            )}
+          </BrowserOnly>
+        </Suspense>
       </main>
     </Layout>
   );
