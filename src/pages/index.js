@@ -236,41 +236,22 @@ export default function Home() {
           </ul>
         </div>
         
-        {/* Top Section: High Priority for LCP */}
-        <BrowserOnly fallback={
-          <div className="flex flex-col items-center py-10">
-            <div className="text-xl mb-4 text-center">Founder & CEO at Dashboard Options.</div>
-            <img 
-              src="img/khalid_profile.webp" 
-              alt="Khalid Naami - Founder & CEO" 
-              width={220} 
-              height={300} 
-              className="rounded-xl shadow-lg"
-              style={{ maxHeight: '300px', objectFit: 'cover', aspectRatio: '220/300' }}
-              fetchpriority="high"
-            />
+        {/* Top Section: High Priority for LCP - Moved out of BrowserOnly for SSR Discovery */}
+        <div className="w-full py-3 sm:py-4">
+          <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+            <a href="https://substack.com/@khnaami" target="_blank" rel="noreferrer" className="pill-banner-link">
+              <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
+            </a>
           </div>
-        }>
-          {() => (
-            <>
-              <div className="w-full py-3 sm:py-4">
-                <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                  <a href="https://substack.com/@khnaami" target="_blank" rel="noreferrer" className="pill-banner-link">
-                    <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
-                  </a>
-                </div>
-              </div>
-              <div className="w-full py-3 sm:py-4">
-                <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-                  <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
-                    <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
-                  </a>
-                </div>
-              </div>
-              <WhoAmI isDesktop={isDesktop} isTablet={isTablet} level={2} />
-            </>
-          )}
-        </BrowserOnly>
+        </div>
+        <div className="w-full py-3 sm:py-4">
+          <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
+            <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
+              <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
+            </a>
+          </div>
+        </div>
+        <WhoAmI level={2} />
 
         {/* Middle Section: Beliefs & Posts */}
         <BrowserOnly fallback={<div className="py-20 text-center opacity-50">Loading data...</div>}>
