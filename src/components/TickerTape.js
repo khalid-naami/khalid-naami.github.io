@@ -66,9 +66,21 @@ export default function TickerTape() {
       container.current.appendChild(script);
     };
 
-    const timer = setTimeout(() => {
+    const startWidget = () => {
       createWidget();
-    }, 2000);
+      cleanupListeners();
+    };
+
+    const cleanupListeners = () => {
+      window.removeEventListener('scroll', startWidget);
+      window.removeEventListener('mousemove', startWidget);
+      window.removeEventListener('touchstart', startWidget);
+    };
+
+    // Only load the heavy widget after the user starts interacting with the page
+    window.addEventListener('scroll', startWidget, { passive: true });
+    window.addEventListener('mousemove', startWidget, { passive: true });
+    window.addEventListener('touchstart', startWidget, { passive: true });
 
     // Update widget when theme changes
     const observer = new MutationObserver((mutations) => {
@@ -89,7 +101,7 @@ export default function TickerTape() {
 
     return () => {
       observer.disconnect();
-      clearTimeout(timer);
+      cleanupListeners();
     };
   }, []);
 
