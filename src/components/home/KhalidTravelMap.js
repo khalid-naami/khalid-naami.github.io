@@ -27,8 +27,8 @@ function MapContent({ selectedCity }) {
   // Fix for default marker icons
   const DefaultIcon = L.icon({
     iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-    iconSize: [32, 52], // Increased size for better touch target (was 25x41)
-    iconAnchor: [16, 52], // Adjusted anchor point
+    iconSize: [48, 78], // Max size to strictly meet the 48px touch target requirement
+    iconAnchor: [24, 78], // Adjusted anchor for the new larger size
   });
   L.Marker.prototype.options.icon = DefaultIcon;
 
