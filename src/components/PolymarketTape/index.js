@@ -103,7 +103,7 @@ const PolymarketTape = () => {
   }, []);
 
   if (loading) {
-    return <div className={styles.tapeContainer} style={{ opacity: 0.5 }}>Loading Polymarket...</div>;
+    return <div className={styles.tapeContainer} style={{ minHeight: '52px', display: 'flex', alignItems: 'center', justifyContent: 'center', opacity: 0.5 }}>Loading Polymarket...</div>;
   }
 
   if (!markets.length) {
