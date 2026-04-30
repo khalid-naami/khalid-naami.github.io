@@ -83,7 +83,23 @@ const PolymarketTape = () => {
       setLoading(false);
     };
 
-    fetchMarkets();
+    const startFetch = () => {
+      fetchMarkets();
+      cleanupListeners();
+    };
+
+    const cleanupListeners = () => {
+      window.removeEventListener('scroll', startFetch);
+      window.removeEventListener('mousemove', startFetch);
+      window.removeEventListener('touchstart', startFetch);
+    };
+
+    // Only fetch data after the user starts interacting with the page
+    window.addEventListener('scroll', startFetch, { passive: true });
+    window.addEventListener('mousemove', startFetch, { passive: true });
+    window.addEventListener('touchstart', startFetch, { passive: true });
+
+    return () => cleanupListeners();
   }, []);
 
   if (loading) {
