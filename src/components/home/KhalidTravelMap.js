@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import Head from '@docusaurus/Head';
 
 const cities = [
   { name: 'Rabat', coords: [34.0209, -6.8416], photo: 'img/travel/rabat.webp' },
