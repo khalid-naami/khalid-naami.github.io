@@ -51,7 +51,9 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
               <img
                 alt="GitHub stats"
                 src="https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000"
-                style={{ width: '700px' }}
+                width={700}
+                height={380}
+                style={{ width: '700px', height: 'auto' }}
               />
             </picture>
           </div>
