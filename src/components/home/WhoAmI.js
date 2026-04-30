@@ -57,8 +57,8 @@ function WhoAmI({ level = 2 }) {
                 src="/img/khalid_profile.webp"
                 alt="Khalid Naami - Founder & CEO"
                 width={220}
-                height={300}
-                style={{ aspectRatio: '220/300' }}
+                height={218}
+                style={{ aspectRatio: '220/218' }}
                 fetchPriority="high"
               />
             </div>
@@ -95,8 +95,8 @@ function WhoAmI({ level = 2 }) {
           src="/img/khalid_profile.webp"
           alt="Khalid Naami - Founder & CEO"
           width={220}
-          height={300}
-          style={{ aspectRatio: '220/300' }}
+          height={218}
+          style={{ aspectRatio: '220/218' }}
           fetchPriority="high"
         />
         <img
