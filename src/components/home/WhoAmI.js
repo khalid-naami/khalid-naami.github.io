@@ -50,6 +50,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_profile.webp"
                 alt="Khalid Naami - Founder & CEO"
+                width={220}
+                height={218}
                 loading="lazy"
               />
             </div>
@@ -58,6 +60,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/greeks_anatomy.webp"
                 alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
+                width={220}
+                height={220}
                 loading="lazy"
               />
             </div>
@@ -66,6 +70,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 className="rounded-xl max-w-[220px]"
                 src="img/khalid_mastermind.webp"
                 alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
+                width={220}
+                height={220}
                 loading="lazy"
               />
             </div>
