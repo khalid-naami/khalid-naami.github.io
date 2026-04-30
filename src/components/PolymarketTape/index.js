@@ -20,7 +20,7 @@ const PolymarketTape = () => {
     const fetchMarkets = async () => {
       // Use CORS proxy by default to avoid console noise and direct fetch failures
       const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=10';
-      const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(apiUrl)}`;
+      const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(apiUrl)}`;
 
       try {
         const response = await fetch(proxyUrl);
