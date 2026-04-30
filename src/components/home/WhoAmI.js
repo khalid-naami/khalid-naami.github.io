@@ -95,7 +95,7 @@ function WhoAmI({ level = 2 }) {
           width={220}
           height={300}
           style={{ aspectRatio: '220/300' }}
-          fetchpriority="high"
+          fetchPriority="high"
         />
         <img
           className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
