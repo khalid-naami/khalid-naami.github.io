@@ -1,7 +1,6 @@
 import React from 'react';
 import Section from '../common/Section';
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
+
 
 function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
   const subtitleDesktop = 'Continuous learning to build a legacy that benefits everyone, step by step.';
@@ -24,41 +23,8 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
   return (
     <Section title="What I believe in" subtitle="Mastery is a journey, not a destination. Despite my deep expertise in quantitative finance and technology, I maintain a student's mindset. My core belief is that constant evolution and daily self-development are the only ways to stay ahead in an ever-changing world—because in the realm of innovation, learning never truly ends." className="px-4">
       <div className="mb-2">
-        <Carousel
-          showThumbs={false}
-          showStatus={false}
-          showIndicators={false}
-          interval={5000}
-          renderArrowPrev={(clickHandler, hasPrev) =>
-            hasPrev && (
-              <button
-                type="button"
-                onClick={clickHandler}
-                className="absolute left-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                aria-label="Previous slide"
-              >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-              </button>
-            )
-          }
-          renderArrowNext={(clickHandler, hasNext) =>
-            hasNext && (
-              <button
-                type="button"
-                onClick={clickHandler}
-                className="absolute right-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                aria-label="Next slide"
-              >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </button>
-            )
-          }
-        >
-          <div className="flex items-center justify-center w-full h-full">
+        <div className="flex overflow-x-auto snap-x snap-mandatory gap-8 pb-4" style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}>
+          <div className="snap-center shrink-0 w-full flex items-center justify-center">
             <picture className="flex justify-center">
               <source srcSet={githubSrc} />
               {/* fallback */}
@@ -67,11 +33,11 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
                 src="https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000"
                 width={700}
                 height={380}
-                style={{ width: '700px', height: 'auto' }}
+                style={{ width: '700px', height: 'auto', maxWidth: '100%' }}
               />
             </picture>
           </div>
-          <div className="flex items-center justify-center w-full h-full">
+          <div className="snap-center shrink-0 w-full flex items-center justify-center">
             {showChart ? (
               <iframe
                 title="GitHub contribution chart"
@@ -82,6 +48,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
                   height: isDesktop ? '380px' : isTablet ? '320px' : '260px',
                   border: 'none',
                   margin: 'auto',
+                  maxWidth: '100%',
                 }}
               />
             ) : (
@@ -92,13 +59,14 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
                 alignItems: 'center',
                 justifyContent: 'center',
                 background: 'rgba(0,0,0,0.05)',
-                borderRadius: '8px'
+                borderRadius: '8px',
+                maxWidth: '100%',
               }}>
                 Interactive chart loads on scroll...
               </div>
             )}
           </div>
-        </Carousel>
+        </div>
       </div>
       <p className="text-center mb-4">
         Follow my progress on{' '}
