@@ -57,7 +57,7 @@ function WhoAmI({ level = 2 }) {
                 width={220}
                 height={300}
                 style={{ aspectRatio: '220/300' }}
-                fetchpriority="high"
+                fetchPriority="high"
               />
             </div>
             <div>
