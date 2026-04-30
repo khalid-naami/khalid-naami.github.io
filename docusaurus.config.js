@@ -120,7 +120,7 @@ module.exports = async function createConfig() {
             "@id": "https://khalidnaami.com/#organization",
             "name": "Dashboard Options",
             "url": "https://khalidnaami.com",
-            "logo": "https://khalidnaami.com/img/opt_zoro-final.webp",
+            "logo": "https://khalidnaami.com/img/zoro-final.webp",
             "alternateName": "DashboardOptions.com",
             "description": "A high-precision financial analytics and intermarket data platform specializing in Options Greeks, Quantitative Trading tools, and Finance AI solutions.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
@@ -282,7 +282,7 @@ module.exports = async function createConfig() {
         title: 'Khalid Naami',
         logo: {
           alt: 'Zoro Logo - Symbolizing strength and mastery built through disciplined study and consistent hard work.',
-          src: '/img/opt_zoro-final.webp',
+          src: '/img/zoro-final.webp',
           width: 32,
           height: 32,
           href: '/',
