@@ -212,14 +212,14 @@ export default function Home() {
         {/* Top Section: High Priority for LCP */}
         <BrowserOnly fallback={
           <div className="flex flex-col items-center py-10">
-            <div className="text-xl mb-4">Founder & CEO at Dashboard Options.</div>
+            <div className="text-xl mb-4 text-center">Founder & CEO at Dashboard Options.</div>
             <img 
-              src="img/khalid_profile.jpg" 
-              alt="Khalid Naami" 
+              src="img/khalid_profile.webp" 
+              alt="Khalid Naami - Founder & CEO" 
               width={220} 
               height={300} 
               className="rounded-xl shadow-lg"
-              style={{ maxHeight: '300px', objectCover: 'cover' }}
+              style={{ maxHeight: '300px', objectFit: 'cover' }}
             />
           </div>
         }>
