@@ -3,17 +3,18 @@ import Section from '../common/Section';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-function WhoAmI({ isDesktop, isTablet, level = 2 }) {
+function WhoAmI({ level = 2 }) {
   return (
     <Section title="Who am I?" level={level}>
       <div className="text-xl">
         Founder & CEO at Dashboard Options.
       </div>
-      {/* SEO/GEO content moved to index.js for better hydration */}
-      {!isDesktop ? (
+      
+      {/* Mobile/Tablet Version - Hidden on Desktop via CSS */}
+      <div className="md:hidden mt-4">
         <div 
-          className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4"
-          style={{ minHeight: '300px' }} // Reserve space for carousel
+          className="flex items-center content-center mx-auto align-center justify-center flex-wrap gap-8 mb-4"
+          style={{ minHeight: '300px' }}
         >
           <Carousel
             showThumbs={false}
@@ -51,7 +52,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/khalid_profile.webp"
+                src="/img/khalid_profile.webp"
                 alt="Khalid Naami - Founder & CEO"
                 width={220}
                 height={300}
@@ -62,8 +63,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/greeks_anatomy.webp"
-                alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
+                src="/img/greeks_anatomy.webp"
+                alt="Greeks Options Platform Anatomy"
                 width={220}
                 height={220}
                 style={{ aspectRatio: '220/220' }}
@@ -73,8 +74,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
             <div>
               <img
                 className="rounded-xl max-w-[220px]"
-                src="img/khalid_mastermind.webp"
-                alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
+                src="/img/khalid_mastermind.webp"
+                alt="Strategic Mastermind"
                 width={220}
                 height={220}
                 style={{ aspectRatio: '220/220' }}
@@ -83,37 +84,39 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
             </div>
           </Carousel>
         </div>
-      ) : (
-        <div className="flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
-          <img
-            className="rounded-xl max-h-[300px] object-cover shadow-lg"
-            src="img/khalid_profile.webp"
-            alt="Khalid Naami - Founder & CEO"
-            width={220}
-            height={300}
-            style={{ aspectRatio: '220/300' }}
-            fetchpriority="high"
-          />
-          <img
-            className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
-            src="img/greeks_anatomy.webp"
-            alt="Greeks Options Platform Anatomy"
-            width={220}
-            height={300}
-            style={{ aspectRatio: '220/300' }}
-            loading="lazy"
-          />
-          <img
-            className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
-            src="img/khalid_mastermind.webp"
-            alt="Strategic Mastermind"
-            width={220}
-            height={300}
-            style={{ aspectRatio: '220/300' }}
-            loading="lazy"
-          />
-        </div>
-      )}
+      </div>
+
+      {/* Desktop Version - Hidden on Mobile via CSS */}
+      <div className="hidden md:flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
+        <img
+          className="rounded-xl max-h-[300px] object-cover shadow-lg"
+          src="/img/khalid_profile.webp"
+          alt="Khalid Naami - Founder & CEO"
+          width={220}
+          height={300}
+          style={{ aspectRatio: '220/300' }}
+          fetchpriority="high"
+        />
+        <img
+          className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+          src="/img/greeks_anatomy.webp"
+          alt="Greeks Options Platform Anatomy"
+          width={220}
+          height={300}
+          style={{ aspectRatio: '220/300' }}
+          loading="lazy"
+        />
+        <img
+          className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+          src="/img/khalid_mastermind.webp"
+          alt="Strategic Mastermind"
+          width={220}
+          height={300}
+          style={{ aspectRatio: '220/300' }}
+          loading="lazy"
+        />
+      </div>
+
       <p className="text-center mt-4">
         You can reach me on{' '}
         <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer">
@@ -129,4 +132,4 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
   );
 }
 
-export default WhoAmI; 
+export default WhoAmI;
