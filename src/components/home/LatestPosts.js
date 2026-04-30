@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import Section from '../common/Section';
-import BlogHistory from '../BlogHistory';
+
+const BlogHistory = React.lazy(() => import('../BlogHistory'));
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
@@ -34,7 +35,9 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
   return (
     <Section title="Latest posts." subtitle="I write so I can think and communicate better.">
       {allPosts && allPosts.length > 0 && (
-        <BlogHistory posts={allPosts} isDesktop={isDesktop} />
+        <Suspense fallback={<div className="h-[200px] flex items-center justify-center">Loading History...</div>}>
+          <BlogHistory posts={allPosts} isDesktop={isDesktop} />
+        </Suspense>
       )}
       {isDesktop ? (
         <div className="relative overflow-hidden max-w-[814px] mx-auto">
