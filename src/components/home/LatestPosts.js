@@ -2,8 +2,6 @@ import React, { Suspense } from 'react';
 import Section from '../common/Section';
 
 const BlogHistory = React.lazy(() => import('../BlogHistory'));
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 // Construct hero image URL from post date and slug
 // Pattern: /blog/YYYY-MM-DD-slug.webp
