@@ -35,10 +35,10 @@ export default function CustomFooter() {
   return (
     <div className="mt-4">
       {shouldShowTapes && (
-        <>
+        <div style={{ minHeight: '116px' }}>
           <PolymarketTape />
           <TickerTape />
-        </>
+        </div>
       )}
       <footer className="bg-[#f8f9fa] dark:bg-[#000] text-[var(--ifm-footer-color)] pb-8">
         <div className="container container-fluid">
