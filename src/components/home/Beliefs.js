@@ -61,6 +61,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
             <iframe
               title="GitHub contribution chart"
               src={githubChartSrc}
+              loading="lazy"
               style={{
                 width: isDesktop ? '700px' : isTablet ? '500px' : '300px',
                 height: isDesktop ? '380px' : isTablet ? '320px' : '260px',
