@@ -179,13 +179,6 @@ module.exports = async function createConfig() {
       tagName: 'link',
       attributes: {
         rel: 'preconnect',
-        href: 'https://substack.com',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
         href: 'https://www.google-analytics.com',
       },
     },
