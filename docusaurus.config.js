@@ -178,13 +178,7 @@ module.exports = async function createConfig() {
     {
       tagName: 'link',
       attributes: {
-        rel: 'preconnect',
-        href: 'https://www.google-analytics.com',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
+
         rel: 'preconnect',
         href: 'https://cdn.jsdelivr.net',
         crossorigin: 'anonymous',
