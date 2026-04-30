@@ -11,7 +11,10 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
       </div>
       {/* SEO/GEO content moved to index.js for better hydration */}
       {!isDesktop ? (
-        <div className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4">
+        <div 
+          className="flex items-center content-center mx-auto align-center justify-center flex-wrap mt-4 gap-8 mb-4"
+          style={{ minHeight: '300px' }} // Reserve space for carousel
+        >
           <Carousel
             showThumbs={false}
             showStatus={false}
@@ -51,7 +54,8 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 src="img/khalid_profile.webp"
                 alt="Khalid Naami - Founder & CEO"
                 width={220}
-                height={218}
+                height={300}
+                style={{ aspectRatio: '220/300' }}
                 loading="lazy"
               />
             </div>
@@ -62,6 +66,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 alt="Greeks Options Platform Anatomy - A financial data bridge providing real-time technical infrastructure for global exchanges like CBOE, OPRA, Deribit, and Binance."
                 width={220}
                 height={220}
+                style={{ aspectRatio: '220/220' }}
                 loading="lazy"
               />
             </div>
@@ -72,6 +77,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 alt="Strategic Mastermind - Khalid Naami as the architect of the future, controlling the financial game through scientific knowledge and data mastery."
                 width={220}
                 height={220}
+                style={{ aspectRatio: '220/220' }}
                 loading="lazy"
               />
             </div>
@@ -80,27 +86,30 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
       ) : (
         <div className="flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
           <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover shadow-lg"
+            className="rounded-xl max-h-[300px] object-cover shadow-lg"
             src="img/khalid_profile.webp"
             alt="Khalid Naami - Founder & CEO"
             width={220}
             height={300}
+            style={{ aspectRatio: '220/300' }}
             fetchpriority="high"
           />
           <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+            className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
             src="img/greeks_anatomy.webp"
             alt="Greeks Options Platform Anatomy"
             width={220}
             height={300}
+            style={{ aspectRatio: '220/300' }}
             loading="lazy"
           />
           <img
-            className="rounded-xl max-h-[250px] md:max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
+            className="rounded-xl max-h-[300px] object-cover opacity-90 hover:opacity-100 transition-opacity"
             src="img/khalid_mastermind.webp"
             alt="Strategic Mastermind"
             width={220}
             height={300}
+            style={{ aspectRatio: '220/300' }}
             loading="lazy"
           />
         </div>
