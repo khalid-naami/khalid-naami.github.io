@@ -214,10 +214,7 @@ export default function Home() {
         
         {/* Resource Hints for Performance */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
-        <link rel="preconnect" href="https://server.arcgisonline.com" />
-        <link rel="preconnect" href="https://corsproxy.io" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
-        <link rel="dns-prefetch" href="https://server.arcgisonline.com" />
       </Head>
       <main>
         <h1 className="visually-hidden">Khalid Naami - Quantitative Analyst & Options Trading</h1>
