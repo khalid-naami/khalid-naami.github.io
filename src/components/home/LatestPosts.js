@@ -92,48 +92,12 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
           ))}
         </div>
       ) : (
-        <Carousel
-          showThumbs={false}
-          showStatus={false}
-          showIndicators={false}
-          infiniteLoop={true}
-          dynamicHeight={false}
-          autoPlay
-          interval={5000}
-          renderArrowPrev={(clickHandler, hasPrev) =>
-            hasPrev && (
-              <button
-                type="button"
-                onClick={clickHandler}
-                className="absolute left-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                aria-label="Previous slide"
-              >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-              </button>
-            )
-          }
-          renderArrowNext={(clickHandler, hasNext) =>
-            hasNext && (
-              <button
-                type="button"
-                onClick={clickHandler}
-                className="absolute right-0 z-10 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-                aria-label="Next slide"
-              >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </button>
-            )
-          }
-        >
+        <div className="flex overflow-x-auto snap-x snap-mandatory gap-4 pb-4 hide-scrollbar" style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}>
           {highlights.map((post) => (
-            <div key={post.id} className="!max-w-[260px] mx-auto text-center">
-              <a href={`${post.id}`} className="group block pt-12">
+            <div key={post.id} className="snap-center shrink-0 w-[260px] mx-auto text-center">
+              <a href={`${post.id}`} className="group block pt-4">
                 <img
-                  className="rounded-xl h-[120px] mx-auto object-cover"
+                  className="rounded-xl h-[120px] w-full object-cover"
                   src={post.image}
                   alt={`Strategic visualization of: ${post.title}`}
                   width={260}
@@ -147,7 +111,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
               </a>
             </div>
           ))}
-        </Carousel>
+        </div>
       )}
     </Section>
   );
