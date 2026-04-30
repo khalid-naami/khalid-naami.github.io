@@ -179,7 +179,7 @@ module.exports = async function createConfig() {
       tagName: 'link',
       attributes: {
 
-        rel: 'preconnect',
+        rel: 'dns-prefetch',
         href: 'https://cdn.jsdelivr.net',
         crossorigin: 'anonymous',
       },
