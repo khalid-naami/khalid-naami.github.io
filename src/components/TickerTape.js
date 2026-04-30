@@ -66,7 +66,9 @@ export default function TickerTape() {
       container.current.appendChild(script);
     };
 
-    createWidget();
+    const timer = setTimeout(() => {
+      createWidget();
+    }, 2000);
 
     // Update widget when theme changes
     const observer = new MutationObserver((mutations) => {
@@ -85,7 +87,10 @@ export default function TickerTape() {
       attributeFilter: ['data-theme'],
     });
 
-    return () => observer.disconnect();
+    return () => {
+      observer.disconnect();
+      clearTimeout(timer);
+    };
   }, []);
 
   return (
