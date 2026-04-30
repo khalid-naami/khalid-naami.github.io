@@ -1,7 +1,5 @@
 import React from 'react';
 import Section from '../common/Section';
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 function WhoAmI({ level = 2 }) {
   return (
