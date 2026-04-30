@@ -326,62 +326,12 @@ blockquote {
 }
 
 /* Enhanced cyberpunk aesthetic for both themes */
-/* Light mode cyberpunk enhancements */
-[data-theme='light'] body {
-  /* Add subtle scan lines effect for light mode */
-  background-image: 
-    linear-gradient(90deg, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
-  background-size: 4px 4px;
-}
 
-/* Dark mode cyberpunk enhancements */
-[data-theme='dark'] body {
-  /* Add subtle scan lines effect for dark mode */
-  background-image: 
-    linear-gradient(90deg, transparent 50%, rgba(255, 255, 255, 0.02) 50%);
-  background-size: 4px 4px;
-}
 
 /* Terminal-style focus states */
 *:focus {
   outline: 1px solid var(--ifm-color-primary);
   outline-offset: 2px;
-}
-
-/* Cyberpunk table styling */
-table {
-  border-collapse: separate;
-  border-spacing: 0;
-  border: 1px solid var(--border-primary);
-}
-
-table th,
-table td {
-  border-right: 1px solid var(--border-secondary);
-  border-bottom: 1px solid var(--border-secondary);
-  padding: 8px 12px;
-}
-
-table th {
-  background: var(--background-secondary);
-  font-family: var(--ds-font-primary);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-size: 12px;
-}
-
-/* Enhanced input styling */
-input, textarea, select {
-  background: var(--background-secondary);
-  border: 1px solid var(--border-primary);
-  color: var(--text-primary);
-  font-family: var(--ds-font-primary);
-  border-radius: 0;
-}
-
-input:focus, textarea:focus, select:focus {
-  border-color: var(--ifm-color-primary);
-  box-shadow: 0 0 0 1px var(--ifm-color-primary);
 }
 
 /* Design System Base Typography - Responsive to Theme */
@@ -406,8 +356,6 @@ html {
   background-color: var(--background-primary);
   min-height: 100vh;
 }
-
-
 
 /* Mission Container Card Styles */
 .mission-container {
