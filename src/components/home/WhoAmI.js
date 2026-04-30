@@ -56,7 +56,7 @@ function WhoAmI({ isDesktop, isTablet, level = 2 }) {
                 width={220}
                 height={300}
                 style={{ aspectRatio: '220/300' }}
-                loading="lazy"
+                fetchpriority="high"
               />
             </div>
             <div>
