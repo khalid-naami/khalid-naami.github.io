@@ -190,6 +190,14 @@ module.exports = async function createConfig() {
       },
     },
     {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://cdn.jsdelivr.net',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
       tagName: 'meta',
       attributes: {
         name: 'google-site-verification',
@@ -585,6 +593,8 @@ module.exports = async function createConfig() {
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
       type: 'text/css',
+      media: 'print',
+      onload: "this.media='all'",
     },
   ],
 
