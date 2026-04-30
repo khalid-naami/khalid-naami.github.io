@@ -20,6 +20,8 @@ function WhoAmI({ level = 2 }) {
             showThumbs={false}
             showStatus={false}
             showIndicators={false}
+            infiniteLoop={true}
+            dynamicHeight={false}
             renderArrowPrev={(clickHandler, hasPrev) =>
               hasPrev && (
                 <button
