@@ -2,14 +2,10 @@ import React, { useState } from 'react';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 
 const cities = [
-  { name: 'Rabat', coords: [34.0209, -6.8416], photo: 'img/travel/rabat.png' },
-  { name: 'Casablanca', coords: [33.5731, -7.5898] },
+  { name: 'Rabat', coords: [34.0209, -6.8416], photo: 'img/travel/rabat.webp' },
   { name: 'Marrakech', coords: [31.6295, -7.9811] },
   { name: 'Tangier', coords: [35.7595, -5.8340] },
-  { name: 'Fes', coords: [34.0333, -5.0000] },
   { name: 'Laayoune', coords: [27.1500, -13.2033] },
-  { name: 'Al Hoceima', coords: [35.2472, -3.9317] },
-  { name: 'Meknes', coords: [33.8935, -5.5473] },
   { name: 'Madrid', coords: [40.4168, -3.7038] },
   { name: 'Barcelona', coords: [41.3851, 2.1734] },
   { name: 'Paris', coords: [48.8566, 2.3522] },
