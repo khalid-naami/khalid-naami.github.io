@@ -202,7 +202,7 @@ export default function Home() {
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         
         {/* Desktop Performance Optimization: Preload LCP Image */}
-        <link rel="preload" as="image" href={`${siteUrl}/img/khalid_profile.webp`} />
+        <link rel="preload" as="image" href="/img/khalid_profile.webp" />
 
         {/* Apple Identity & Mobile Optimization */}
         <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.webp`} />
