@@ -242,6 +242,9 @@ module.exports = async function createConfig() {
           trackingID: 'G-N31CFZW849',
           anonymizeIP: true,
         },
+        googleTagManager: {
+          containerId: 'GTM-XXXXXXX', // Replace with your GTM ID if different
+        },
         sitemap: {
           lastmod: 'date',
           changefreq: 'daily',
