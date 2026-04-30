@@ -10,27 +10,43 @@ const getGaugeColor = (percentage) => {
 
 const PolymarketTape = () => {
   const [markets, setMarkets] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
+  const [shouldLoad, setShouldLoad] = useState(false);
 
   useEffect(() => {
-    if (!ExecutionEnvironment.canUseDOM) {
-      return;
-    }
+    if (!ExecutionEnvironment.canUseDOM || shouldLoad) return;
 
+    const handleInteraction = () => {
+      setShouldLoad(true);
+      window.removeEventListener('scroll', handleInteraction);
+      window.removeEventListener('mousemove', handleInteraction);
+      window.removeEventListener('touchstart', handleInteraction);
+    };
+
+    window.addEventListener('scroll', handleInteraction, { passive: true });
+    window.addEventListener('mousemove', handleInteraction, { passive: true });
+    window.addEventListener('touchstart', handleInteraction, { passive: true });
+
+    return () => {
+      window.removeEventListener('scroll', handleInteraction);
+      window.removeEventListener('mousemove', handleInteraction);
+      window.removeEventListener('touchstart', handleInteraction);
+    };
+  }, [shouldLoad]);
+
+  useEffect(() => {
+    if (!shouldLoad) return;
+
+    setLoading(true);
     const fetchMarkets = async () => {
       const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=10';
-      
-      // Try direct fetch first (more reliable if API allows)
-      // If fails, try proxy fallback
       try {
         let response = await fetch(apiUrl);
-        
         if (!response.ok) {
           const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(apiUrl)}`;
           const proxyResponse = await fetch(proxyUrl);
           if (!proxyResponse.ok) throw new Error('Proxy failed');
           const proxyData = await proxyResponse.json();
-          // allOrigins wraps data in a 'contents' string
           const data = JSON.parse(proxyData.contents);
           processData(data);
         } else {
@@ -52,20 +68,12 @@ const PolymarketTape = () => {
       const formattedMarkets = data.map(event => {
         try {
           const market = event.markets?.[0];
-          if (!market || !market.outcomes || !market.outcomePrices) {
-            return null;
-          }
-          
+          if (!market || !market.outcomes || !market.outcomePrices) return null;
           const outcomes = typeof market.outcomes === 'string' ? JSON.parse(market.outcomes) : market.outcomes;
           const outcomePrices = typeof market.outcomePrices === 'string' ? JSON.parse(market.outcomePrices) : market.outcomePrices;
-
-          if (!outcomes.length || !outcomePrices.length) {
-            return null;
-          }
-          
+          if (!outcomes.length || !outcomePrices.length) return null;
           const price = Number.parseFloat(outcomePrices[0]);
           const percentage = Math.round(price * 100);
-
           return {
             id: event.id,
             title: event.title,
@@ -83,27 +91,11 @@ const PolymarketTape = () => {
       setLoading(false);
     };
 
-    const startFetch = () => {
-      fetchMarkets();
-      cleanupListeners();
-    };
+    fetchMarkets();
+  }, [shouldLoad]);
 
-    const cleanupListeners = () => {
-      window.removeEventListener('scroll', startFetch);
-      window.removeEventListener('mousemove', startFetch);
-      window.removeEventListener('touchstart', startFetch);
-    };
-
-    // Only fetch data after the user starts interacting with the page
-    window.addEventListener('scroll', startFetch, { passive: true });
-    window.addEventListener('mousemove', startFetch, { passive: true });
-    window.addEventListener('touchstart', startFetch, { passive: true });
-
-    return () => cleanupListeners();
-  }, []);
-
-  if (loading) {
-    return <div className={styles.tapeContainer} style={{ minHeight: '52px', display: 'flex', alignItems: 'center', justifyContent: 'center', opacity: 0.5 }}>Loading Polymarket...</div>;
+  if (!shouldLoad || (loading && !markets.length)) {
+    return <div className={styles.tapeContainer} style={{ minHeight: '52px', backgroundColor: 'transparent' }} />;
   }
 
   if (!markets.length) {
