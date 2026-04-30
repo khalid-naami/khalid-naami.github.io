@@ -18,60 +18,79 @@ const PolymarketTape = () => {
     }
 
     const fetchMarkets = async () => {
-      // Use CORS proxy by default to avoid console noise and direct fetch failures
       const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=10';
-      const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(apiUrl)}`;
-
+      
+      // Try direct fetch first (more reliable if API allows)
+      // If fails, try proxy fallback
       try {
-        const response = await fetch(proxyUrl);
-        if (!response.ok) {
-          throw new Error(`Network response was not ok: ${response.statusText}`);
-        }
-        const data = await response.json();
+        let response = await fetch(apiUrl);
         
-        const formattedMarkets = data.map(event => {
-          try {
-            const market = event.markets[0];
-            if (!market || !market.outcomes || !market.outcomePrices) {
-              return null;
-            }
-            
-            const outcomes = JSON.parse(market.outcomes);
-            const outcomePrices = JSON.parse(market.outcomePrices);
-
-            if (outcomes.length === 0 || outcomePrices.length === 0) {
-              return null;
-            }
-            
-            const price = Number.parseFloat(outcomePrices[0]);
-            const percentage = Math.round(price * 100);
-
-            return {
-              id: event.id,
-              title: event.title,
-              image: event.image,
-              url: `https://polymarket.com/event/${event.slug}`,
-              outcomePercentage: percentage,
-              gaugeColor: getGaugeColor(percentage),
-            };
-          } catch (e) {
-            console.error('Failed to parse market data for event:', event.id, e);
-            return null;
-          }
-        }).filter(Boolean);
-
-        setMarkets(formattedMarkets);
+        if (!response.ok) {
+          const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(apiUrl)}`;
+          const proxyResponse = await fetch(proxyUrl);
+          if (!proxyResponse.ok) throw new Error('Proxy failed');
+          const proxyData = await proxyResponse.json();
+          // allOrigins wraps data in a 'contents' string
+          const data = JSON.parse(proxyData.contents);
+          processData(data);
+        } else {
+          const data = await response.json();
+          processData(data);
+        }
       } catch (error) {
-        // Silent failure to avoid Google Search Console noise
-      } finally {
+        console.error('Polymarket fetch error:', error);
         setLoading(false);
       }
+    };
+
+    const processData = (data) => {
+      if (!data || !Array.isArray(data)) {
+        setLoading(false);
+        return;
+      }
+
+      const formattedMarkets = data.map(event => {
+        try {
+          const market = event.markets?.[0];
+          if (!market || !market.outcomes || !market.outcomePrices) {
+            return null;
+          }
+          
+          const outcomes = typeof market.outcomes === 'string' ? JSON.parse(market.outcomes) : market.outcomes;
+          const outcomePrices = typeof market.outcomePrices === 'string' ? JSON.parse(market.outcomePrices) : market.outcomePrices;
+
+          if (!outcomes.length || !outcomePrices.length) {
+            return null;
+          }
+          
+          const price = Number.parseFloat(outcomePrices[0]);
+          const percentage = Math.round(price * 100);
+
+          return {
+            id: event.id,
+            title: event.title,
+            image: event.image,
+            url: `https://polymarket.com/event/${event.slug}`,
+            outcomePercentage: percentage,
+            gaugeColor: getGaugeColor(percentage),
+          };
+        } catch (e) {
+          return null;
+        }
+      }).filter(Boolean);
+
+      setMarkets(formattedMarkets);
+      setLoading(false);
     };
 
     fetchMarkets();
   }, []);
 
-  if (loading || !markets.length) {
+  if (loading) {
+    return <div className={styles.tapeContainer} style={{ opacity: 0.5 }}>Loading Polymarket...</div>;
+  }
+
+  if (!markets.length) {
     return null;
   }
   
