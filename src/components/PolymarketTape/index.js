@@ -41,18 +41,25 @@ const PolymarketTape = () => {
     const fetchMarkets = async () => {
       const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=10';
       try {
-        let response = await fetch(apiUrl);
-        if (!response.ok) {
+        let response;
+        try {
+          response = await fetch(apiUrl);
+          if (!response.ok) throw new Error('Direct fetch returned non-200');
+        } catch (err) {
+          // CORS error or network failure, use proxy
           const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(apiUrl)}`;
-          const proxyResponse = await fetch(proxyUrl);
-          if (!proxyResponse.ok) throw new Error('Proxy failed');
-          const proxyData = await proxyResponse.json();
+          response = await fetch(proxyUrl);
+          if (!response.ok) throw new Error('Proxy fetch failed');
+          
+          const proxyData = await response.json();
           const data = JSON.parse(proxyData.contents);
           processData(data);
-        } else {
-          const data = await response.json();
-          processData(data);
+          return;
         }
+
+        // If direct fetch succeeded
+        const data = await response.json();
+        processData(data);
       } catch (error) {
         console.error('Polymarket fetch error, retrying in 5s...', error);
         // Silently retry after 5 seconds
