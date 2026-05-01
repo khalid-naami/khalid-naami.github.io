@@ -1,5 +1,5 @@
 ---
-title: "Dashboard Options Exposure Heatmap: Visualizing Multi-Dimensional Greek Risk"
+title: "Exposure Heatmap: Visualizing Multi-Dimensional Greek Risk"
 description: Tired of looking at raw option chains? Discover how the Exposure Heatmap transforms complex Greek data into a visual map of institutional flows and risk zones.
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
