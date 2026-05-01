@@ -1,69 +1,52 @@
-const { BetaAnalyticsDataClient } = require('@google-analytics/data');
 const fs = require('fs');
 const path = require('path');
 
-const propertyId = '534513191';
-const keyFilePath = path.join(__dirname, '..', 'analytics-key.json');
+const csvFilePath = path.join(__dirname, '..', 'views.csv');
 const graphDataPath = path.join(__dirname, '..', 'static', 'graph-data.json');
 
-async function updatePopularPosts() {
-  console.log('Fetching top articles from Google Analytics 4...');
+async function updatePopularPostsFromCSV() {
+  console.log('Reading views from views.csv...');
   
-  if (!fs.existsSync(keyFilePath)) {
-    console.error('Error: analytics-key.json not found! Cannot update popular posts.');
+  if (!fs.existsSync(csvFilePath)) {
+    console.log('No views.csv found. Skipping popular posts update.');
+    console.log('To update popular posts, download the CSV from Google Analytics and save it as views.csv in the project root.');
     return;
   }
 
-  // Set the environment variable for authentication
-  process.env.GOOGLE_APPLICATION_CREDENTIALS = keyFilePath;
-
-  const analyticsDataClient = new BetaAnalyticsDataClient();
-
   try {
-    const [response] = await analyticsDataClient.runReport({
-      property: `properties/${propertyId}`,
-      dateRanges: [
-        {
-          startDate: '90daysAgo',
-          endDate: 'today',
-        },
-      ],
-      dimensions: [
-        {
-          name: 'pagePath',
-        },
-      ],
-      metrics: [
-        {
-          name: 'screenPageViews',
-        },
-      ],
-      orderBys: [
-        {
-          desc: true,
-          metric: {
-            metricName: 'screenPageViews',
-          },
-        },
-      ],
-      limit: 100,
-    });
-
-    console.log('Successfully fetched data from GA4.');
-
-    // Create a map of URL -> Views
+    const csvContent = fs.readFileSync(csvFilePath, 'utf-8');
+    const lines = csvContent.split('\n');
+    
     const viewsMap = {};
-    response.rows.forEach(row => {
-      let pagePath = row.dimensionValues[0].value;
-      const views = parseInt(row.metricValues[0].value, 10);
-      
-      // Clean the path (remove trailing slash if any, to match graph-data.json formats)
-      if (pagePath.endsWith('/')) {
-        pagePath = pagePath.slice(0, -1);
+
+    // Skip the first line (header)
+    for (let i = 1; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line) continue;
+
+      // Split by comma. GA4 CSV usually has: "Page path","Views" or similar
+      // We will remove quotes and split
+      const parts = line.replace(/"/g, '').split(',');
+      if (parts.length >= 2) {
+        let pagePath = parts[0].trim();
+        // Sometimes views are in the second or third column depending on the export
+        // We will look for the first number we can find after the path
+        let views = 0;
+        for (let j = 1; j < parts.length; j++) {
+          const parsed = parseInt(parts[j].replace(/,/g, ''), 10); // remove commas from numbers like 1,000
+          if (!isNaN(parsed)) {
+            views = parsed;
+            break;
+          }
+        }
+
+        if (pagePath.endsWith('/')) {
+          pagePath = pagePath.slice(0, -1);
+        }
+        
+        viewsMap[pagePath] = views;
       }
-      
-      viewsMap[pagePath] = views;
-    });
+    }
 
     // Read existing graph-data.json
     const graphDataRaw = fs.readFileSync(graphDataPath, 'utf-8');
@@ -71,18 +54,18 @@ async function updatePopularPosts() {
 
     // Sort the items based on views
     graphData.items.sort((a, b) => {
-      const viewsA = viewsMap[a.id] || 0;
-      const viewsB = viewsMap[b.id] || 0;
+      const viewsA = viewsMap[a.id] || viewsMap[a.url] || 0;
+      const viewsB = viewsMap[b.id] || viewsMap[b.url] || 0;
       return viewsB - viewsA; // Descending order
     });
 
     // Write back to graph-data.json
     fs.writeFileSync(graphDataPath, JSON.stringify(graphData, null, 2));
-    console.log('Successfully updated static/graph-data.json with the most popular posts!');
+    console.log('Successfully updated static/graph-data.json using views.csv!');
     
   } catch (err) {
-    console.error('Error fetching analytics data:', err);
+    console.error('Error processing views.csv:', err);
   }
 }
 
-updatePopularPosts();
+updatePopularPostsFromCSV();
