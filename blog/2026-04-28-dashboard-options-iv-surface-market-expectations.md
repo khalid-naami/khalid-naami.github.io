@@ -1,5 +1,5 @@
 ---
-title: "The Implied Volatility Surface: Decoding the Market's Future Expectations"
+title: "The IV Surface: Decoding the Market's Future Expectations"
 description: Volatility is not a single number; it's a surface. Explore the IV Surface tool in Dashboard Options and learn how to read the market's hidden roadmap of fear and greed.
 authors: [khalid]
 tags: [Dashboard Options, analytics, iv-surface, implied-volatility, skew, term-structure]
