@@ -1,5 +1,5 @@
 ---
-title: "Understanding Options Speed: Mastering the Gamma of Gamma"
+title: "Options Speed: Mastering the Gamma of Gamma"
 description: What is Options Speed and why is it one of the most critical third-order derivatives for advanced Gamma hedging and risk management?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, speed, gamma, greeks]
