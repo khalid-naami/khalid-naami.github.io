@@ -82,9 +82,9 @@ module.exports = async function createConfig() {
             },
             "hasOccupation": {
               "@type": "Occupation",
-              "name": "Financial Technologist & Quantitative Analyst",
-              "description": "Designing and developing intermarket data platforms and financial AI models for options trading.",
-              "skills": "Options Trading, Quantitative Finance, Python Development, Financial Data Analysis, Global Macroeconomic Strategy"
+              "name": "Academic Strategic Analyst & Expert",
+              "description": "Expert and academic strategic analyst. All analysis is based on rigorous academic knowledge and formation across five core domains: Global Macroeconomics, Political Economy, Data Science, Artificial Intelligence, and Quantitative Finance.",
+              "skills": "Global Macroeconomics, Political Economy, Data Science, Artificial Intelligence, Quantitative Finance"
             },
             "alumniOf": [
               {
@@ -99,10 +99,10 @@ module.exports = async function createConfig() {
               }
             ],
             "knowsAbout": [
-              "Options Greeks", "Quantitative Trading", "Financial AI", "Data Science", 
-              "Global Macroeconomics", "Intermarket Analysis", "Python Programming", 
-              "Options Pricing Models", "Black-Scholes", "Volatility Surface", 
-              "Algorithmic Trading", "Fintech System Architecture", "Political Economy"
+              "Global Macroeconomics", "Political Economy", "Geopolitics",
+              "Artificial Intelligence", "Data Science", "Machine Learning",
+              "Options Greeks", "Quantitative Trading", "Financial AI", 
+              "Intermarket Analysis", "Python Programming", "Fintech System Architecture"
             ],
             "worksFor": { "@id": "https://khalidnaami.com/#organization" },
             "sameAs": [
