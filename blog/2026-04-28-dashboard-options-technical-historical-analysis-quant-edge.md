@@ -1,5 +1,5 @@
 ---
-title: "Advanced Technical & Historical Analysis: Merging Price Action with Statistical Reality"
+title: "Advanced Analysis: Merging Price Action with Statistics"
 description: Why do standard indicators often fail? Learn how the Analysis tool in Dashboard Options integrates technical studies with historical return distributions and typical range modeling.
 authors: [khalid]
 tags: [Dashboard Options, technical-analysis, historical-data, returns-analysis, quant-trading, trading-strategy]
