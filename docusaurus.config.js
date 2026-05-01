@@ -276,7 +276,7 @@ module.exports = async function createConfig() {
           alt: 'Zoro Logo - Symbolizing strength and mastery built through disciplined study and consistent hard work.',
           src: '/img/zoro-final.webp',
           width: 32,
-          height: 35,
+          height: 32,
           href: '/',
           target: '_self',
         },
