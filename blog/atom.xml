@@ -9,7 +9,7 @@
     <icon>https://khalidnaami.com/img/zoro-final.png</icon>
     <rights>Copyright © 2026 Khalid Naami.</rights>
     <entry>
-        <title type="html"><![CDATA[The 3D Gamma Surface: Navigating the Topography of Market Risk]]></title>
+        <title type="html"><![CDATA[The 3D Gamma Surface: Navigating Market Risk Topography]]></title>
         <id>https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography</id>
         <link href="https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -59,7 +59,7 @@
         <category label="visualization" term="visualization"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dashboard Options Exposure Heatmap: Visualizing Multi-Dimensional Greek Risk]]></title>
+        <title type="html"><![CDATA[Exposure Heatmap: Visualizing Multi-Dimensional Greek Risk]]></title>
         <id>https://khalidnaami.com/blog/dashboard-options-exposure-heatmap-visual-analytics</id>
         <link href="https://khalidnaami.com/blog/dashboard-options-exposure-heatmap-visual-analytics"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -105,7 +105,7 @@
         <category label="visual-trading" term="visual-trading"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implied Probabilities Analysis: Quantifying Market Expectations and Expected Moves]]></title>
+        <title type="html"><![CDATA[Implied Probabilities: Quantifying Market Expectations]]></title>
         <id>https://khalidnaami.com/blog/dashboard-options-implied-probabilities-market-moves</id>
         <link href="https://khalidnaami.com/blog/dashboard-options-implied-probabilities-market-moves"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -158,7 +158,7 @@
         <category label="risk-management" term="risk-management"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Implied Volatility Surface: Decoding the Market's Future Expectations]]></title>
+        <title type="html"><![CDATA[The IV Surface: Decoding the Market's Future Expectations]]></title>
         <id>https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations</id>
         <link href="https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -206,7 +206,7 @@
         <category label="term-structure" term="term-structure"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Technical & Historical Analysis: Merging Price Action with Statistical Reality]]></title>
+        <title type="html"><![CDATA[Advanced Analysis: Merging Price Action with Statistics]]></title>
         <id>https://khalidnaami.com/blog/dashboard-options-technical-historical-analysis-quant-edge</id>
         <link href="https://khalidnaami.com/blog/dashboard-options-technical-historical-analysis-quant-edge"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -257,7 +257,7 @@
         <category label="trading-strategy" term="trading-strategy"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Options Color: Managing Gamma Decay and Expiration Pin Risk]]></title>
+        <title type="html"><![CDATA[Options Color: Managing Gamma Decay and Pin Risk]]></title>
         <id>https://khalidnaami.com/blog/options-color-gamma-decay-risk</id>
         <link href="https://khalidnaami.com/blog/options-color-gamma-decay-risk"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
@@ -404,7 +404,7 @@
         <category label="market-mechanics" term="market-mechanics"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Options Speed: Mastering the Gamma of Gamma]]></title>
+        <title type="html"><![CDATA[Options Speed: Mastering the Gamma of Gamma]]></title>
         <id>https://khalidnaami.com/blog/options-speed-gamma-of-gamma</id>
         <link href="https://khalidnaami.com/blog/options-speed-gamma-of-gamma"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
