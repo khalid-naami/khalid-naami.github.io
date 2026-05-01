@@ -1,5 +1,5 @@
 ---
-title: "Implied Probabilities Analysis: Quantifying Market Expectations and Expected Moves"
+title: "Implied Probabilities: Quantifying Market Expectations"
 description: How does the market define 'normal'? Explore the Implied Probabilities Analysis tool in Dashboard Options and learn to calculate expected moves and probability distributions using market-implied data.
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
