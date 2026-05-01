@@ -102,6 +102,13 @@ export default function CustomFooter() {
                   </svg>
                 </a>
               </div>
+              
+              {/* Legal Links for Monetization / Ad Networks */}
+              <div className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+                <a href="/privacy" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Privacy Policy</a>
+                <a href="/disclaimer" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Disclaimer</a>
+                <a href="/contact" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Contact Support</a>
+              </div>
             </div>
           </div>
         </div>
