@@ -29,3 +29,6 @@ static/latest-blog-posts.json
 # Python
 __pycache__/
 *.py[cod]!*.ipynb
+
+# Analytics Key
+analytics-key.json
