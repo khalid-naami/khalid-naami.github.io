@@ -38,7 +38,7 @@ The most robust way to trade a Positive Gamma regime is to align yourself with t
 *   **The Strategy:** Iron Condors, Short Strangles (for advanced traders), and Credit Spreads.
 *   **The Logic:** Because price action is pinned into tight ranges, the probability of the underlying asset staying between your short strikes is exceptionally high. You allow the natural, suppressed volatility to work in your favor, collecting Theta decay every day.
 
-![Gamma and Delta Relationship](/img/gamma and delta.webp)
+![Gamma and Delta Relationship](/img/gamma%20and%20delta.webp)
 *Analyzing the relationship between Gamma and Delta helps identify the exact strikes where market makers will aggressively hedge, creating "walls" that trap the price.*
 
 ## Strategy 2: Trading the "Gamma Walls"
