@@ -9,6 +9,7 @@
 - [2026-05-02-how-to-trade-positive-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-positive-gamma)
 - [2026-05-02-how-to-trade-zero-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-zero-gamma)
 - [2026-05-02-iron-condor-strategy-delta-neutrality](https://khalidnaami.com/blog/2026-05-02-iron-condor-strategy-delta-neutrality)
+- [2026-05-02-straddle-strangle-harvesting-volatility-expansion](https://khalidnaami.com/blog/2026-05-02-straddle-strangle-harvesting-volatility-expansion)
 - [2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers](https://khalidnaami.com/blog/2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers)
 - [2026-05-02-using-gamma-exposure-to-time-trades](https://khalidnaami.com/blog/2026-05-02-using-gamma-exposure-to-time-trades)
 - [2026-05-02-why-trading-gex-dominates](https://khalidnaami.com/blog/2026-05-02-why-trading-gex-dominates)
