@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8947],{56600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Khalid Naami","title":"Software Engineer & Investment System Architect","url":"https://x.com/khalidnaami0","imageURL":"https://github.com/khalid-naami.png","key":"khalid","page":null,"count":17}]}')}}]);
