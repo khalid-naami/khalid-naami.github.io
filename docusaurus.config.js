@@ -55,6 +55,13 @@ module.exports = async function createConfig() {
       },
     },
     {
+      tagName: 'meta',
+      attributes: {
+        name: 'p:domain_verify',
+        content: '33c4cc2ec67406a6a4230356a00a899c',
+      },
+    },
+    {
       tagName: 'script',
       attributes: {
         type: 'application/ld+json',
