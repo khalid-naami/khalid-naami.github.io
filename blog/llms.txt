@@ -2,9 +2,12 @@
 
 - [2026-05-02-how-dealers-use-gamma-exposure](https://khalidnaami.com/blog/2026-05-02-how-dealers-use-gamma-exposure)
 - [2026-05-02-how-gamma-exposure-works-advanced-strategies](https://khalidnaami.com/blog/2026-05-02-how-gamma-exposure-works-advanced-strategies)
+- [2026-05-02-how-to-trade-gamma-exposure-gex](https://khalidnaami.com/blog/2026-05-02-how-to-trade-gamma-exposure-gex)
+- [2026-05-02-how-to-trade-negative-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-negative-gamma)
 - [2026-05-02-how-to-trade-positive-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-positive-gamma)
 - [2026-05-02-how-to-trade-zero-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-zero-gamma)
 - [2026-05-02-using-gamma-exposure-to-time-trades](https://khalidnaami.com/blog/2026-05-02-using-gamma-exposure-to-time-trades)
+- [2026-05-02-why-trading-gex-dominates](https://khalidnaami.com/blog/2026-05-02-why-trading-gex-dominates)
 - [2026-04-28-dashboard-options-3d-gamma-surface-risk-topography](https://khalidnaami.com/blog/2026-04-28-dashboard-options-3d-gamma-surface-risk-topography)
 - [2026-04-28-dashboard-options-exposure-heatmap-visual-analytics](https://khalidnaami.com/blog/2026-04-28-dashboard-options-exposure-heatmap-visual-analytics)
 - [2026-04-28-dashboard-options-implied-probabilities-market-moves](https://khalidnaami.com/blog/2026-04-28-dashboard-options-implied-probabilities-market-moves)
