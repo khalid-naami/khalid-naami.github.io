@@ -305,6 +305,54 @@
         <category label="quantitative-finance" term="quantitative-finance"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trading SPY Options - How We Trade GEX Like Option Dealers]]></title>
+        <id>https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers</id>
+        <link href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers"/>
+        <updated>2026-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the exact framework for trading SPY options by aligning your strategies with the hidden hedging flows of institutional Option Dealers.]]></summary>
+        <content type="html"><![CDATA[<p>The SPDR S&amp;P 500 ETF Trust (<strong>SPY</strong>) is the most heavily traded financial instrument on the planet. Its options chain contains trillions of dollars in notional value. Trying to trade SPY options based on moving averages or retail sentiment is like trying to navigate a hurricane with a wet finger.</p>
+<p>To consistently succeed in trading SPY options, you must trade like the "smart money." You must trade like an <strong>Option Dealer</strong>. At Dashboard Options, our entire quantitative framework is built on tracking the one metric that dictates SPY price action: <strong>Gamma Exposure (GEX)</strong>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-spy-options-are-different">Why SPY Options Are Different<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#why-spy-options-are-different" class="hash-link" aria-label="Direct link to Why SPY Options Are Different" title="Direct link to Why SPY Options Are Different">​</a></h2>
+<p>SPY is not a normal stock. It is a macroeconomic index. It does not move based on a single company's earnings report or CEO scandal. It moves based on systemic liquidity.</p>
+<p>Because SPY options volume is so massive, the market makers (Dealers) who facilitate these trades accumulate monumental amounts of Gamma. The sheer size of this Gamma forces the dealers to buy and sell billions of dollars of SPY shares just to remain delta-neutral. This mechanical hedging is what drives intraday and swing price action.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-1-mapping-the-spy-gamma-landscape">Step 1: Mapping the SPY Gamma Landscape<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#step-1-mapping-the-spy-gamma-landscape" class="hash-link" aria-label="Direct link to Step 1: Mapping the SPY Gamma Landscape" title="Direct link to Step 1: Mapping the SPY Gamma Landscape">​</a></h2>
+<p>Before placing a single trade on SPY, we map the entire Gamma landscape. We are looking for three specific structural features:</p>
+<ol>
+<li><strong>The Absolute Gamma Wall (Call Wall):</strong> This is the highest concentration of positive Gamma, usually located Out-of-the-Money (OTM) on the upside. Market makers will aggressively sell SPY as it approaches this strike. We treat this as an unbreakable ceiling in the short term.</li>
+<li><strong>The Put Wall:</strong> The highest concentration of negative Gamma, usually OTM on the downside. This acts as massive support during a selloff, or a "magnet" if structural support breaks.</li>
+<li><strong>The Zero-Gamma Line:</strong> The exact price level where dealer exposure flips from positive to negative.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-2-the-positive-gamma-playbook-spy">Step 2: The Positive Gamma Playbook (SPY)<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#step-2-the-positive-gamma-playbook-spy" class="hash-link" aria-label="Direct link to Step 2: The Positive Gamma Playbook (SPY)" title="Direct link to Step 2: The Positive Gamma Playbook (SPY)">​</a></h2>
+<p>When SPY is trading <strong>above</strong> the Zero-Gamma line, dealers are Long Gamma. They are buying the dips and selling the rips.</p>
+<ul>
+<li><strong>Our Posture:</strong> We avoid buying naked Calls or Puts. Volatility is actively being crushed by the dealers, meaning Theta decay will destroy long premium positions.</li>
+<li><strong>The Execution:</strong> We deploy <strong>Theta-collection strategies</strong>. We sell Iron Condors or Credit Spreads, specifically placing our short strikes just outside the Call Wall and the Put Wall. We let the dealers do the hard work of pinning the price, while we collect the time premium.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-3-the-negative-gamma-playbook-spy">Step 3: The Negative Gamma Playbook (SPY)<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#step-3-the-negative-gamma-playbook-spy" class="hash-link" aria-label="Direct link to Step 3: The Negative Gamma Playbook (SPY)" title="Direct link to Step 3: The Negative Gamma Playbook (SPY)">​</a></h2>
+<p>When macroeconomic panic hits and SPY crashes <strong>below</strong> the Zero-Gamma line, the environment flips instantly. Dealers are now Short Gamma. They are forced to sell the dips (creating waterfalls) and buy the rips (creating massive short-covering rallies).</p>
+<ul>
+<li><strong>Our Posture:</strong> We immediately abandon mean-reversion. We do not sell premium in a Negative GEX environment on SPY.</li>
+<li><strong>The Execution:</strong> We become <strong>Long Vega</strong>. We buy Put Debit Spreads targeting the massive Put Wall below, or we buy short-term Calls when a massive short-covering bounce is triggered from an exhaustion point. Momentum is king in this regime.</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="SPY Gamma Distribution" src="https://khalidnaami.com/assets/images/spy-872673803bc6ca3070ee06e7ac8e8225.png" width="1740" height="706" class="img_ev3q">
+<em>Tracking the dynamic SPY Gamma distribution allows us to visualize the exact strikes where dealers are mathematically forced to intervene.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-4-trading-the-0dte-pin-risk">Step 4: Trading the 0DTE "Pin" Risk<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#step-4-trading-the-0dte-pin-risk" class="hash-link" aria-label="Direct link to Step 4: Trading the 0DTE &quot;Pin&quot; Risk" title="Direct link to Step 4: Trading the 0DTE &quot;Pin&quot; Risk">​</a></h2>
+<p>Zero Days to Expiration (0DTE) options now account for over 50% of all SPY options volume. This creates massive intraday Gamma forces.</p>
+<p>As the 4:00 PM EST close approaches, dealer hedging becomes incredibly violent. If there is a massive concentration of 0DTE Gamma at the <span class="katex-error" title="ParseError: KaTeX parse error: Expected group as argument to '\&quot;' at position 51: …edge to \&quot;pin\&quot; ̲the closing pri…" style="color:#cc0000">510 strike, dealers will actively hedge to \"pin\" the closing price exactly at or near </span>510 to minimize their payout risk. By tracking these intraday GEX levels, we can construct highly profitable, tight butterfly spreads aimed exactly at the Pin strike.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Trading SPY options is a game of mechanical liquidity, not fundamental guesswork. By understanding Gamma Exposure, we stop trying to outsmart the market makers and start trading alongside them.</p>
+<p>Using the quantitative analytics provided by <strong>Dashboard Options</strong>, you can build a robust, academic framework that trades the reality of institutional hedging, rather than the illusion of retail indicators.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="SPY" term="SPY"/>
+        <category label="gamma" term="gamma"/>
+        <category label="options-trading" term="options-trading"/>
+        <category label="quantitative-finance" term="quantitative-finance"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using Gamma Exposure (GEX) to Time Your Option Trading]]></title>
         <id>https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades</id>
         <link href="https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades"/>
