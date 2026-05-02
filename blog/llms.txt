@@ -1,6 +1,7 @@
 # Blog Posts
 
 - [2026-05-02-butterfly-spread-precision-targeting-options](https://khalidnaami.com/blog/2026-05-02-butterfly-spread-precision-targeting-options)
+- [2026-05-02-cash-secured-put-acquiring-assets-discount](https://khalidnaami.com/blog/2026-05-02-cash-secured-put-acquiring-assets-discount)
 - [2026-05-02-covered-call-generating-quantitative-yield](https://khalidnaami.com/blog/2026-05-02-covered-call-generating-quantitative-yield)
 - [2026-05-02-day-trading-0-dte-gex-flow](https://khalidnaami.com/blog/2026-05-02-day-trading-0-dte-gex-flow)
 - [2026-05-02-how-dealers-use-gamma-exposure](https://khalidnaami.com/blog/2026-05-02-how-dealers-use-gamma-exposure)

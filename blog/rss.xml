@@ -60,6 +60,61 @@
             <category>pin-risk</category>
         </item>
         <item>
+            <title><![CDATA[The Cash-Secured Put: Acquiring Assets at a Discount]]></title>
+            <link>https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount</link>
+            <guid>https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount</guid>
+            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to use the Cash-Secured Put strategy to get paid for waiting to buy your favorite stocks at a mathematical discount, utilizing Gamma walls.]]></description>
+            <content:encoded><![CDATA[<p>The traditional approach to value investing is to find a great company, set a limit order at a lower price, and wait. The fatal flaw in this approach is the opportunity cost: your capital sits idle, earning nothing while you wait for a dip that may never come.</p>
+<p>The quantitative analyst refuses to let capital sit idle. Instead of waiting for free, the academic trader uses the <strong>Cash-Secured Put</strong> strategy to literally get paid while waiting to buy an asset at a discount. It is the ultimate fusion of fundamental value investing and quantitative options mechanics.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-structural-mechanics-of-the-trade">The Structural Mechanics of the Trade<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#the-structural-mechanics-of-the-trade" class="hash-link" aria-label="Direct link to The Structural Mechanics of the Trade" title="Direct link to The Structural Mechanics of the Trade">​</a></h2>
+<p>A Cash-Secured Put is a single-leg options strategy, but it requires substantial capital backing.</p>
+<p>The mechanics are as follows:</p>
+<ol>
+<li><strong>Select a Target Price:</strong> Identify a price below the current market value where you would be happy to own 100 shares of the underlying asset.</li>
+<li><strong>Sell the Put Option:</strong> Sell one Out-of-the-Money (OTM) Put option at that specific strike price.</li>
+<li><strong>Secure the Cash:</strong> Keep enough cash in your account to purchase the 100 shares if the option is assigned (Strike Price × 100).</li>
+</ol>
+<p>When you sell the Put, you immediately collect a cash premium. You now have two highly favorable outcomes:</p>
+<ul>
+<li><strong>Outcome A (The Stock Stays Up):</strong> The stock never drops to your strike price. The option expires worthless. You keep the cash premium and repeat the process next month, generating a continuous yield on your cash.</li>
+<li><strong>Outcome B (The Stock Drops):</strong> The stock falls below your strike price. You are "assigned" the shares. You buy the stock at your desired discount, but your true cost basis is actually <em>even lower</em> because you keep the initial premium you collected.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-quantitative-greek-profile">The Quantitative Greek Profile<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#the-quantitative-greek-profile" class="hash-link" aria-label="Direct link to The Quantitative Greek Profile" title="Direct link to The Quantitative Greek Profile">​</a></h2>
+<p>To maximize the efficiency of a Cash-Secured Put, you must align the trade with the Options Greeks.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-theta-the-waiting-premium">1. Theta (The Waiting Premium)<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#1-theta-the-waiting-premium" class="hash-link" aria-label="Direct link to 1. Theta (The Waiting Premium)" title="Direct link to 1. Theta (The Waiting Premium)">​</a></h3>
+<p>Just like the Covered Call, the Cash-Secured Put is a <strong>positive Theta</strong> strategy. Every day the stock stays above your strike price, the option loses extrinsic value. This time decay works in your favor, steadily increasing your unrealized profit as expiration approaches.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-vega-harvesting-panic">2. Vega (Harvesting Panic)<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#2-vega-harvesting-panic" class="hash-link" aria-label="Direct link to 2. Vega (Harvesting Panic)" title="Direct link to 2. Vega (Harvesting Panic)">​</a></h3>
+<p>This strategy is highly sensitive to <strong>Vega</strong> (Implied Volatility). When the market experiences a sudden, macroeconomic panic, investors rush to buy Put options to protect their portfolios. This massive demand causes Implied Volatility (IV) to skyrocket, drastically inflating the price of Put options.
+A strategic analyst waits for these moments of panic. By selling Cash-Secured Puts during high-IV environments, you collect massive, inflated premiums. When the panic subsides and IV crushes, the value of your short Put collapses, allowing you to buy it back early for a massive profit.</p>
+<p><img decoding="async" loading="lazy" alt="Cash-Secured Put Strategy" src="data:image/webp;base64,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" width="64" height="64" class="img_ev3q">
+<em>Visualizing the Cash-Secured Put: The strategy provides an immediate cash buffer, mathematically lowering the break-even point on asset acquisition.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="strategic-strike-placement-via-gamma-exposure-gex">Strategic Strike Placement via Gamma Exposure (GEX)<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#strategic-strike-placement-via-gamma-exposure-gex" class="hash-link" aria-label="Direct link to Strategic Strike Placement via Gamma Exposure (GEX)" title="Direct link to Strategic Strike Placement via Gamma Exposure (GEX)">​</a></h2>
+<p>The most common mistake retail traders make is selling Puts at arbitrary, "round number" strike prices. Academic traders use institutional data from <strong>Dashboard Options</strong> to place their strikes mathematically.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="targeting-the-put-gamma-wall">Targeting the Put Gamma Wall<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#targeting-the-put-gamma-wall" class="hash-link" aria-label="Direct link to Targeting the Put Gamma Wall" title="Direct link to Targeting the Put Gamma Wall">​</a></h3>
+<p>When selling a Put, you are establishing the exact price at which you are willing to catch a falling knife. To ensure you do not catch a knife that keeps falling, you must place your strike below a massive structural floor.</p>
+<ul>
+<li><strong>The Execution:</strong> A quantitative analyst will scan the Gamma Exposure profile for the largest <strong>Put Gamma Wall</strong>. This level acts as massive institutional support. When the price falls toward this wall, Option Dealers are mechanically forced to buy the underlying asset to hedge their books, creating a massive bounce.</li>
+<li><strong>The Advantage:</strong> By selling your Cash-Secured Put exactly at or slightly below this Gamma Wall, you are positioning yourself alongside institutional liquidity. You are forcing the market makers to defend your strike price for you.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-wheel-strategy-synergy">The "Wheel" Strategy Synergy<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#the-wheel-strategy-synergy" class="hash-link" aria-label="Direct link to The &quot;Wheel&quot; Strategy Synergy" title="Direct link to The &quot;Wheel&quot; Strategy Synergy">​</a></h2>
+<p>The Cash-Secured Put is actually the first half of a larger, continuous quantitative loop known as "The Wheel."</p>
+<ol>
+<li>Sell Cash-Secured Puts to generate yield until you are eventually assigned the shares.</li>
+<li>Once assigned, immediately begin selling <strong>Covered Calls</strong> against those shares to generate further yield.</li>
+<li>When the shares are eventually called away (sold), take your capital and begin selling Cash-Secured Puts again.</li>
+</ol>
+<p>This continuous loop creates a massive, compounding yield engine that drastically outperforms passive holding over the long term.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>The Cash-Secured Put transforms the passive act of waiting into an active, income-generating business.</p>
+<p>By understanding the power of Vega inflation during market panics, and by using Gamma Exposure to structurally defend your strike prices, you elevate a basic income strategy into a highly resilient, quantitative acquisition framework.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content:encoded>
+            <category>Dashboard Options</category>
+            <category>cash-secured-put</category>
+            <category>options-strategy</category>
+            <category>quantitative-finance</category>
+            <category>value-investing</category>
+        </item>
+        <item>
             <title><![CDATA[The Covered Call: Generating Quantitative Yield]]></title>
             <link>https://khalidnaami.com/blog/covered-call-generating-quantitative-yield</link>
             <guid>https://khalidnaami.com/blog/covered-call-generating-quantitative-yield</guid>
