@@ -4,7 +4,7 @@ description: Take your options analysis to a new dimension. Explore the 3D Gamma
 authors: [khalid]
 tags: [Dashboard Options, analytics, 3d-surface, gamma, risk-management, visualization]
 keywords: [options, trading, derivatives, 3d gamma surface, gamma landscape, risk topography, dashboard options, data visualization]
-image: /img/SUrface-Gamma.webp
+image: /img/3D.webp
 slug: dashboard-options-3d-gamma-surface-risk-topography
 ---
 
@@ -36,7 +36,7 @@ The "slope" of the surface toward the expiration axis reveals the **Color** (Gam
 ### 3. Identifying Institutional "Footprints"
 Large institutional positions often create distinct "ridges" on the 3D surface. By identifying these patterns, traders can spot where the "smart money" has concentrated its defensive or offensive bets across the entire term structure.
 
-![Dashboard Options 3D Gamma Surface](/img/SUrface-Gamma.webp)
+![3D Gamma Surface](/img/3D.webp)
 *An immersive 3D view of the Gamma landscape, revealing the complex interactions between price, time, and exposure.*
 
 ## Strategic Mastery: From Peaks to Profits
