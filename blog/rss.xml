@@ -121,7 +121,7 @@
 <li><strong>The Mechanics:</strong> As the underlying price falls, MMs are forced to <strong>sell</strong> the asset to hedge their short put positions. As the price rises, they are forced to <strong>buy</strong>.</li>
 <li><strong>The Result:</strong> Market makers are now trading <em>with</em> the momentum rather than against it. This creates violent, accelerated price swings, leading to massive gap-downs or explosive short-covering rallies.</li>
 </ul>
-<p>![Dashboard Options Gamma Analysis](/img/Screenshot 2026-04-10 142251.webp)
+<p><img decoding="async" loading="lazy" alt="Dashboard Options Gamma Analysis" src="https://khalidnaami.com/assets/images/Screenshot%202026-04-10%20142251-4f82fa66d912e5a1c93c35555ca8f796.webp" width="1920" height="816" class="img_ev3q">
 <em>Visualizing the Gamma topography to identify critical levels where hedging flows will heavily influence price action.</em></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="advanced-strategic-implementation">Advanced Strategic Implementation<a href="https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies#advanced-strategic-implementation" class="hash-link" aria-label="Direct link to Advanced Strategic Implementation" title="Direct link to Advanced Strategic Implementation">​</a></h2>
 <p>How can quantitative traders use this academic understanding of GEX to generate alpha?</p>
@@ -256,7 +256,7 @@
 <li><strong>The Strategy:</strong> Iron Condors, Short Strangles (for advanced traders), and Credit Spreads.</li>
 <li><strong>The Logic:</strong> Because price action is pinned into tight ranges, the probability of the underlying asset staying between your short strikes is exceptionally high. You allow the natural, suppressed volatility to work in your favor, collecting Theta decay every day.</li>
 </ul>
-<p>![Gamma and Delta Relationship](/img/gamma and delta.webp)
+<p><img decoding="async" loading="lazy" alt="Gamma and Delta Relationship" src="https://khalidnaami.com/assets/images/gamma%20and%20delta-fc9a5f8376922a94622b5f70711210c3.webp" width="1920" height="791" class="img_ev3q">
 <em>Analyzing the relationship between Gamma and Delta helps identify the exact strikes where market makers will aggressively hedge, creating "walls" that trap the price.</em></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="strategy-2-trading-the-gamma-walls">Strategy 2: Trading the "Gamma Walls"<a href="https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets#strategy-2-trading-the-gamma-walls" class="hash-link" aria-label="Direct link to Strategy 2: Trading the &quot;Gamma Walls&quot;" title="Direct link to Strategy 2: Trading the &quot;Gamma Walls&quot;">​</a></h2>
 <p>In a Positive Gamma environment, large concentrations of Gamma act as impenetrable walls. Using quantitative tools like <strong>Dashboard Options</strong>, you can visualize exactly where these walls are located (e.g., a massive Call Gamma concentration at the SPX 5100 strike).</p>
