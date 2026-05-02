@@ -9,6 +9,52 @@
     <icon>https://khalidnaami.com/img/zoro-final.png</icon>
     <rights>Copyright © 2026 Khalid Naami.</rights>
     <entry>
+        <title type="html"><![CDATA[Day Trading 0 DTE GEX Flow | Option Dealer Levels]]></title>
+        <id>https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels</id>
+        <link href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels"/>
+        <updated>2026-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Master the mechanics of 0DTE options. Learn how intraday Gamma Exposure (GEX) flows dictate price action and how to trade option dealer levels.]]></summary>
+        <content type="html"><![CDATA[<p>The options market has undergone a structural revolution. Zero Days to Expiration (0DTE) options now account for over 50% of total S&amp;P 500 options volume.</p>
+<p>For the uneducated day trader, the explosive intraday volatility caused by 0DTE flow is an unpredictable casino. However, for the academic strategic analyst, 0DTE flow is a highly mechanical system driven entirely by <strong>Option Dealer Gamma Hedging</strong>. If you know how to read intraday GEX flow, you can predict intraday price action with frightening precision.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-physics-of-0dte-gamma">The Physics of 0DTE Gamma<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#the-physics-of-0dte-gamma" class="hash-link" aria-label="Direct link to The Physics of 0DTE Gamma" title="Direct link to The Physics of 0DTE Gamma">​</a></h2>
+<p>Unlike traditional options that have weeks or months until expiration, 0DTE options have a lifespan measured in hours. This means their Gamma—the rate at which Delta changes—is incredibly high.</p>
+<p>Because 0DTE Gamma is so large and localized, it forces Option Dealers (Market Makers) to hedge aggressively and continuously throughout the day. When retail and institutional traders buy massive amounts of 0DTE Call options at a specific strike, the dealers are mathematically forced to buy the underlying index (SPX/SPY) to remain delta-neutral. This forced dealer buying <em>is</em> the momentum.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="identifying-the-intraday-dealer-levels">Identifying the Intraday Dealer Levels<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#identifying-the-intraday-dealer-levels" class="hash-link" aria-label="Direct link to Identifying the Intraday Dealer Levels" title="Direct link to Identifying the Intraday Dealer Levels">​</a></h2>
+<p>To day trade 0DTE flow successfully, you cannot rely on yesterday's support and resistance lines. You must identify today's intraday dealer levels.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-the-call-wall-the-intraday-ceiling">1. The Call Wall (The Intraday Ceiling)<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#1-the-call-wall-the-intraday-ceiling" class="hash-link" aria-label="Direct link to 1. The Call Wall (The Intraday Ceiling)" title="Direct link to 1. The Call Wall (The Intraday Ceiling)">​</a></h3>
+<p>The Call Wall is the specific strike price with the largest concentration of positive Gamma for that day's expiration. As the index approaches this level, dealers will aggressively sell the underlying asset to hedge their books.</p>
+<ul>
+<li><strong>The Strategy:</strong> The Call Wall acts as an iron ceiling. Academic traders will look for exhaustion near this level and short the index, or sell Call Credit Spreads just above the wall.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-the-put-wall-the-intraday-floor">2. The Put Wall (The Intraday Floor)<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#2-the-put-wall-the-intraday-floor" class="hash-link" aria-label="Direct link to 2. The Put Wall (The Intraday Floor)" title="Direct link to 2. The Put Wall (The Intraday Floor)">​</a></h3>
+<p>Conversely, the Put Wall is the strike with the largest concentration of negative Gamma.</p>
+<ul>
+<li><strong>The Strategy:</strong> In a normal market environment, the Put Wall acts as massive structural support. As the price falls toward it, dealers are forced to buy, creating a sharp intraday bounce.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-the-gamma-flip-zero-gamma-pivot">3. The Gamma Flip (Zero-Gamma Pivot)<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#3-the-gamma-flip-zero-gamma-pivot" class="hash-link" aria-label="Direct link to 3. The Gamma Flip (Zero-Gamma Pivot)" title="Direct link to 3. The Gamma Flip (Zero-Gamma Pivot)">​</a></h3>
+<p>The absolute most critical intraday level is the Zero-Gamma line. This is where dealer exposure flips.</p>
+<ul>
+<li><strong>The Strategy:</strong> If the index crosses below this line, intraday volatility will explode. This is the moment to stop trying to catch the bottom and instead buy 0DTE Puts, riding the negative dealer hedging flow downward.</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="0DTE Gamma Exposure Analysis" src="https://khalidnaami.com/assets/images/Screenshot%202026-04-10%20142251-4f82fa66d912e5a1c93c35555ca8f796.webp" width="1920" height="816" class="img_ev3q">
+<em>Intraday GEX charting reveals the specific strikes where dealer hedging will overpower organic market order flow.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trading-the-vanna-flow-the-vix-crush">Trading the Vanna Flow (The VIX Crush)<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#trading-the-vanna-flow-the-vix-crush" class="hash-link" aria-label="Direct link to Trading the Vanna Flow (The VIX Crush)" title="Direct link to Trading the Vanna Flow (The VIX Crush)">​</a></h2>
+<p>One of the most profitable structural flows in 0DTE trading is the "Vanna" effect. When the market opens flat or slightly up, the implied volatility (IV) of 0DTE puts naturally begins to decay rapidly (Theta/Vega crush).</p>
+<p>As the value of these puts drops, the dealers' Delta exposure changes. To remain hedged, they are forced to slowly <em>buy</em> the underlying index. This creates the infamous "slow grind upward" that frustrates so many short-sellers. By understanding this mechanical Vanna flow, quantitative traders know exactly when to enter long positions and ride the dealer buying to the close.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Day trading 0DTE options is not about reading moving averages or drawing trendlines on a 5-minute chart. It is a game of understanding structural liquidity and tracking the intraday hedging requirements of Option Dealers.</p>
+<p>By utilizing platforms like <strong>Dashboard Options</strong> to track real-time GEX Flow, you stop reacting to the market and start anticipating the mechanical forces that control it.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="0DTE" term="0DTE"/>
+        <category label="day-trading" term="day-trading"/>
+        <category label="gamma" term="gamma"/>
+        <category label="quantitative-finance" term="quantitative-finance"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Option Dealers Use Gamma Exposure (And How You Can Too)]]></title>
         <id>https://khalidnaami.com/blog/how-dealers-use-gamma-exposure</id>
         <link href="https://khalidnaami.com/blog/how-dealers-use-gamma-exposure"/>
