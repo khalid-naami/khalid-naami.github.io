@@ -12,6 +12,7 @@
 - [2026-05-02-straddle-strangle-harvesting-volatility-expansion](https://khalidnaami.com/blog/2026-05-02-straddle-strangle-harvesting-volatility-expansion)
 - [2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers](https://khalidnaami.com/blog/2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers)
 - [2026-05-02-using-gamma-exposure-to-time-trades](https://khalidnaami.com/blog/2026-05-02-using-gamma-exposure-to-time-trades)
+- [2026-05-02-vertical-spreads-mastering-directional-options](https://khalidnaami.com/blog/2026-05-02-vertical-spreads-mastering-directional-options)
 - [2026-05-02-why-trading-gex-dominates](https://khalidnaami.com/blog/2026-05-02-why-trading-gex-dominates)
 - [2026-04-28-dashboard-options-3d-gamma-surface-risk-topography](https://khalidnaami.com/blog/2026-04-28-dashboard-options-3d-gamma-surface-risk-topography)
 - [2026-04-28-dashboard-options-exposure-heatmap-visual-analytics](https://khalidnaami.com/blog/2026-04-28-dashboard-options-exposure-heatmap-visual-analytics)
