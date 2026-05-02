@@ -4,7 +4,7 @@ description: "Discover the mechanics of Gamma Exposure (GEX) and how institution
 authors: [khalid]
 tags: [Dashboard Options, gamma, quantitative-finance, risk-management, options-trading]
 keywords: [Gamma Exposure, GEX, Options Trading, Dashboard Options, Quantitative Finance, Market Liquidity, Volatility]
-image: "/img/Screenshot 2026-04-10 142251.webp"
+image: /img/Screenshot%202026-04-10%20142251.webp
 slug: how-gamma-exposure-works-advanced-strategies
 ---
 
