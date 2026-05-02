@@ -4,7 +4,7 @@ description: "Learn how to use Gamma Exposure (GEX) as a precision timing tool t
 authors: [khalid]
 tags: [Dashboard Options, gamma, market-timing, quantitative-finance, trading-strategy]
 keywords: [Market Timing, Gamma Exposure, Options Trading, Quantitative Strategies, GEX, Options Greeks]
-image: "/img/SUrface-Gamma.webp"
+image: /img/3D.webp
 slug: using-gamma-exposure-to-time-trades
 ---
 
@@ -41,7 +41,7 @@ The \"Zero-Gamma\" level is the absolute epicenter of market timing. This is the
 When the market is in a positive GEX regime and experiences a sudden pullback, the Zero-Gamma line often acts as an impenetrable floor. 
 *   **The Timing Signal:** As the price drops and approaches the Zero-Gamma line, market makers are forced to buy the underlying asset to hedge. This creates massive structural support. An academic trader will time their entry (selling put credit spreads or buying calls) exactly at this Zero-Gamma line, anticipating the mechanical \"bounce\" back upward.
 
-![3D Gamma Surface Topography](/img/SUrface-Gamma.webp)
+![3D Gamma Surface Topography](/img/3D.webp)
 *The 3D Gamma Surface allows you to visualize these peaks and valleys, mapping out exact timing zones for your entries.*
 
 ## Identifying Exhaustion Points
