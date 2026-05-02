@@ -4,7 +4,7 @@ description: Tired of looking at raw option chains? Discover how the Exposure He
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
 keywords: [options, trading, derivatives, exposure heatmap, dashboard options, greeks, data visualization, gamma walls]
-image: /img/Expuser-Heatmap.webp
+image: /img/heatmap.webp
 slug: dashboard-options-exposure-heatmap-visual-analytics
 ---
 
@@ -31,7 +31,7 @@ By plotting strikes on one axis and expirations on the other, the heatmap reveal
 ### 3. Real-Time Flow Intelligence
 The colors on the heatmap aren't static; they react to the shifting flows of the market. By watching the "heat" move, traders can identify where institutional players are rolling their positions or where market makers are being forced to hedge.
 
-![Dashboard Options Exposure Heatmap Overview](/img/Expuser-Heatmap.webp)
+![Options Exposure Heatmap](/img/heatmap.webp)
 *A high-level view of the Exposure Heatmap showing the distribution of Greek risks across the chain.*
 
 ## Strategic Insights: Reading the "Heat"
