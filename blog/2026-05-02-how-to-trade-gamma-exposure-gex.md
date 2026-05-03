@@ -1,5 +1,5 @@
 ---
-title: "How To Trade Gamma Exposure (GEX): A Complete Quantitative Guide"
+title: "How To Trade Gamma Exposure: Quantitative Guide"
 description: "A comprehensive guide on how to trade Gamma Exposure (GEX). Learn to transition from retail speculation to institutional, data-driven option strategies."
 authors: [khalid]
 tags: [Dashboard Options, gamma, quantitative-finance, options-trading, trading-strategy]
