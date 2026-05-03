@@ -62,6 +62,13 @@ module.exports = async function createConfig() {
       },
     },
     {
+      tagName: 'meta',
+      attributes: {
+        name: 'msvalidate.01',
+        content: '52564F0E983482BEAD88210B466B2A18',
+      },
+    },
+    {
       tagName: 'script',
       attributes: {
         type: 'application/ld+json',
