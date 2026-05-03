@@ -1,5 +1,5 @@
 ---
-title: "Delta-Adjusted Exposure: Measuring Your True Market Directionality"
+title: "Delta-Adjusted Exposure: Measuring True Market Risk"
 description: Why is raw notional value misleading in options trading? Learn how to calculate Delta-Adjusted exposure to understand your real directional risk.
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, delta, risk-management, exposure]
