@@ -1,5 +1,5 @@
 ---
-title: "How Option Dealers Use Gamma Exposure (And How You Can Too)"
+title: "How Option Dealers Use Gamma Exposure To Trade"
 description: "A strategic breakdown of dealer positioning, delta hedging mechanics, and how to weaponize Gamma Exposure (GEX) data for your own trading."
 authors: [khalid]
 tags: [Dashboard Options, dealer-positioning, gamma, hedging, quantitative-finance]
