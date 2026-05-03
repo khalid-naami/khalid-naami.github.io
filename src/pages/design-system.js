@@ -17,7 +17,7 @@ export default function DesignSystemDemo() {
           <DSHeading level={2} className="mb-ds-4">
             Typography & Headings
           </DSHeading>
-          <DSHeading level={1}>H1 - Mission Critical</DSHeading>
+          <DSHeading level={1} as="div">H1 - Mission Critical</DSHeading>
           <DSHeading level={2}>H2 - System Status</DSHeading>
           <DSHeading level={3}>H3 - Sector Analysis</DSHeading>
           <DSHeading level={4}>H4 - Operational Details</DSHeading>
