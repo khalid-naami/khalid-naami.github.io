@@ -1,5 +1,5 @@
 ---
-title: "How to Trade Positive Gamma: Strategies for Calm Markets"
+title: "Trading Positive Gamma: Strategies for Calm Markets"
 description: "Learn how to adapt your options strategies to a Positive Gamma environment, where market makers suppress volatility and reward mean-reversion."
 authors: [khalid]
 tags: [Dashboard Options, positive-gamma, options-trading, volatility, quantitative-finance]
