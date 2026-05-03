@@ -1,5 +1,5 @@
 ---
-title: "The Max Pain Theory: Why Prices Gravitate Toward Maximum Option Loss"
+title: "Max Pain Theory: Why Prices Gravitate Toward Losses"
 description: What is the Max Pain point and how does it influence stock prices near option expiration? Explore the mechanics of the Maximum Pain Theory.
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, max-pain, expiration, market-mechanics]
