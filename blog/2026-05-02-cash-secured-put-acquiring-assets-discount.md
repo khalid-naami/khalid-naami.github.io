@@ -4,7 +4,7 @@ description: "Learn how to use the Cash-Secured Put strategy to get paid for wai
 authors: [khalid]
 tags: [Dashboard Options, cash-secured-put, options-strategy, quantitative-finance, value-investing]
 keywords: [Cash-Secured Put, Options Strategy, Value Investing, Theta Decay, Dashboard Options, Gamma Exposure, Option Selling]
-image: "/img/placeholder.webp"
+image: "/img/cash_secured_put.webp"
 slug: cash-secured-put-acquiring-assets-discount
 ---
 
@@ -40,7 +40,7 @@ Just like the Covered Call, the Cash-Secured Put is a **positive Theta** strateg
 This strategy is highly sensitive to **Vega** (Implied Volatility). When the market experiences a sudden, macroeconomic panic, investors rush to buy Put options to protect their portfolios. This massive demand causes Implied Volatility (IV) to skyrocket, drastically inflating the price of Put options.
 A strategic analyst waits for these moments of panic. By selling Cash-Secured Puts during high-IV environments, you collect massive, inflated premiums. When the panic subsides and IV crushes, the value of your short Put collapses, allowing you to buy it back early for a massive profit.
 
-![Cash-Secured Put Strategy](/img/placeholder.webp)
+![Cash-Secured Put Strategy](/img/cash_secured_put.webp)
 *Visualizing the Cash-Secured Put: The strategy provides an immediate cash buffer, mathematically lowering the break-even point on asset acquisition.*
 
 ## Strategic Strike Placement via Gamma Exposure (GEX)
