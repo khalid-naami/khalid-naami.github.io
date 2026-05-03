@@ -1,10 +1,10 @@
 ---
-title: "Trading SPY Options - How We Trade GEX Like Option Dealers"
+title: "Trading SPY Options Like Professional Dealers"
 description: "Discover the exact framework for trading SPY options by aligning your strategies with the hidden hedging flows of institutional Option Dealers."
 authors: [khalid]
 tags: [Dashboard Options, SPY, gamma, options-trading, quantitative-finance]
 keywords: [SPY Options, Trading SPY, Gamma Exposure, GEX, Option Dealers, Dashboard Options, Quantitative Trading, SPX]
-image: "/img/spy.png"
+image: "/img/spy.webp"
 slug: trading-spy-options-how-we-trade-gex-like-dealers
 ---
 
@@ -44,7 +44,7 @@ When macroeconomic panic hits and SPY crashes **below** the Zero-Gamma line, the
 *   **Our Posture:** We immediately abandon mean-reversion. We do not sell premium in a Negative GEX environment on SPY.
 *   **The Execution:** We become **Long Vega**. We buy Put Debit Spreads targeting the massive Put Wall below, or we buy short-term Calls when a massive short-covering bounce is triggered from an exhaustion point. Momentum is king in this regime.
 
-![SPY Gamma Distribution](/img/spy.png)
+![SPY Gamma Distribution](/img/spy.webp)
 *Tracking the dynamic SPY Gamma distribution allows us to visualize the exact strikes where dealers are mathematically forced to intervene.*
 
 ## Step 4: Trading the 0DTE \"Pin\" Risk
