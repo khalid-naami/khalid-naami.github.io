@@ -1,5 +1,5 @@
 ---
-title: "Why Trading Gamma Exposure (GEX) DOMINATES Other Strategies"
+title: "Why Gamma Exposure (GEX) Dominates Other Strategies"
 description: "Discover why Gamma Exposure (GEX) outperforms traditional technical analysis and fundamental strategies by tracking the true mechanical liquidity of the market."
 authors: [khalid]
 tags: [Dashboard Options, gamma, quantitative-finance, trading-strategy, options-trading]
