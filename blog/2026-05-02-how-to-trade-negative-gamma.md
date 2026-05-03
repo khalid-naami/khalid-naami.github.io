@@ -1,10 +1,10 @@
 ---
-title: "How to Trade Negative Gamma Exposure (GEX) | Volatility Expansion"
+title: "Trading Negative Gamma: Volatility Expansion"
 description: "Master the mechanics of Negative Gamma environments. Learn how to profit when market maker hedging breaks down and volatility explodes."
 authors: [khalid]
 tags: [Dashboard Options, negative-gamma, volatility, options-trading, quantitative-finance]
 keywords: [Negative Gamma, GEX, Volatility Expansion, Options Trading, Quantitative Strategies, Market Crash, Dashboard Options]
-image: "/img/negative%20gamma.png"
+image: "/img/negative_gamma.webp"
 slug: how-to-trade-negative-gamma-volatility-expansion
 ---
 
@@ -33,7 +33,7 @@ When GEX crosses below the Zero Line and enters deep negative territory, the str
 *   **The Error:** Retail traders often try to "buy the dip" based on fundamental valuations or RSI oversold signals. This is a fatal mistake in negative Gamma, as dealer selling flows will overwhelm any retail buying.
 *   **The Strategy:** Academic traders switch their bias to **Long Vega** (buying volatility). This is the time to buy outright Puts, initiate Put Debit Spreads, or short the underlying index. You are aligning your trades with the inescapable mechanical selling pressure of the dealers.
 
-![Negative Gamma Dynamics](/img/negative%20gamma.png)
+![Negative Gamma Dynamics](/img/negative_gamma.webp)
 *Visualizing the expansion zone: When the market falls into this structural void, liquidity disappears, and price discovery becomes violent.*
 
 ## Strategy 2: Trading the VIX Expansion
