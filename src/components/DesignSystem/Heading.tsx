@@ -4,12 +4,14 @@ interface HeadingProps {
   children: React.ReactNode;
   level?: 1 | 2 | 3 | 4 | 5 | 6;
   className?: string;
+  as?: keyof JSX.IntrinsicElements;
 }
 
 export const DSHeading: React.FC<HeadingProps> = ({
   children,
   level = 2,
   className = '',
+  as,
 }) => {
   const baseClasses = 'ds-heading';
   const sizeClasses = {
@@ -22,7 +24,7 @@ export const DSHeading: React.FC<HeadingProps> = ({
   };
 
   const classes = `${baseClasses} ${sizeClasses[level]} ${className}`.trim();
-  const Tag = `h${level}` as keyof JSX.IntrinsicElements;
+  const Tag = as || (`h${level}` as keyof JSX.IntrinsicElements);
 
   return (
     <Tag className={classes}>
