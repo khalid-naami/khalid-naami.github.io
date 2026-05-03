@@ -1,7 +1,9 @@
 # Blog Posts
 
 - [2026-05-02-butterfly-spread-precision-targeting-options](https://khalidnaami.com/blog/2026-05-02-butterfly-spread-precision-targeting-options)
+- [2026-05-02-calendar-spread-trading-time-volatility](https://khalidnaami.com/blog/2026-05-02-calendar-spread-trading-time-volatility)
 - [2026-05-02-cash-secured-put-acquiring-assets-discount](https://khalidnaami.com/blog/2026-05-02-cash-secured-put-acquiring-assets-discount)
+- [2026-05-02-collar-strategy-complete-portfolio-protection](https://khalidnaami.com/blog/2026-05-02-collar-strategy-complete-portfolio-protection)
 - [2026-05-02-covered-call-generating-quantitative-yield](https://khalidnaami.com/blog/2026-05-02-covered-call-generating-quantitative-yield)
 - [2026-05-02-day-trading-0-dte-gex-flow](https://khalidnaami.com/blog/2026-05-02-day-trading-0-dte-gex-flow)
 - [2026-05-02-how-dealers-use-gamma-exposure](https://khalidnaami.com/blog/2026-05-02-how-dealers-use-gamma-exposure)
@@ -10,7 +12,9 @@
 - [2026-05-02-how-to-trade-negative-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-negative-gamma)
 - [2026-05-02-how-to-trade-positive-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-positive-gamma)
 - [2026-05-02-how-to-trade-zero-gamma](https://khalidnaami.com/blog/2026-05-02-how-to-trade-zero-gamma)
+- [2026-05-02-iron-butterfly-high-probability-pin-targeting](https://khalidnaami.com/blog/2026-05-02-iron-butterfly-high-probability-pin-targeting)
 - [2026-05-02-iron-condor-strategy-delta-neutrality](https://khalidnaami.com/blog/2026-05-02-iron-condor-strategy-delta-neutrality)
+- [2026-05-02-poor-mans-covered-call-capital-efficient-yield](https://khalidnaami.com/blog/2026-05-02-poor-mans-covered-call-capital-efficient-yield)
 - [2026-05-02-straddle-strangle-harvesting-volatility-expansion](https://khalidnaami.com/blog/2026-05-02-straddle-strangle-harvesting-volatility-expansion)
 - [2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers](https://khalidnaami.com/blog/2026-05-02-trading-spy-options-how-we-trade-gex-like-dealers)
 - [2026-05-02-using-gamma-exposure-to-time-trades](https://khalidnaami.com/blog/2026-05-02-using-gamma-exposure-to-time-trades)
