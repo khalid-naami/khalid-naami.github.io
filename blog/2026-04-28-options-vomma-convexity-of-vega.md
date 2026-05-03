@@ -1,5 +1,5 @@
 ---
-title: "Options Vomma: Understanding the Vol of Vol and Vega Convexity"
+title: "Options Vomma: Understanding Vega Convexity"
 description: What is Vomma and how does it drive the accelerating risks and rewards during volatility spikes? Learn the secrets of Vega convexity.
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol]
