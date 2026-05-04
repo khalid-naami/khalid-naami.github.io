@@ -4,8 +4,19 @@ import Section from '../common/Section';
 function WhoAmI({ level = 2 }) {
   return (
     <Section title="Who am I?" level={level}>
-      <div className="text-xl">
-        Founder & CEO at Dashboard Options.
+      <div className="text-xl space-y-4 text-left md:text-center max-w-3xl mx-auto">
+        <p>
+          <strong>Founder, Owner, & CEO at Dashboard Options.</strong>
+        </p>
+        <p className="text-base text-gray-700 dark:text-gray-300">
+          I am a professional academic writer, specialist, and strategic analyst. As a professional programmer in <strong>Science & Technologies</strong>, I develop critical software systems. My foundational work is anchored in deep academic formation and completed formal studies, particularly in <strong>Global Macroeconomics</strong>. 
+        </p>
+        <p className="text-base text-gray-700 dark:text-gray-300">
+          When writing on <strong>Political Economy and Geopolitics</strong>, I rely on rigorous investigative journalism, utilizing both open-source intelligence (OSINT) and highly specialized intelligence sources. In the realms of <strong>Quantitative Finance, Data Science, and AI</strong>, my analysis is driven by specialized academic expertise, ensuring that all financial models are highly authoritative.
+        </p>
+        <p className="text-base text-gray-700 dark:text-gray-300">
+          As the owner and founder of <strong>Dashboard Options</strong>—a platform dedicated to analyzing live options data across multiple global exchanges—I publish authoritative <strong>Daily Analysis</strong> on trading and markets, driven strictly by quantitative options data.
+        </p>
       </div>
       
       {/* Mobile/Tablet Version - Native CSS Scroller for Instant LCP Render (0ms Delay) */}
