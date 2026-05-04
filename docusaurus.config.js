@@ -82,7 +82,7 @@ module.exports = async function createConfig() {
             "name": "Khalid Naami",
             "url": "https://khalidnaami.com",
             "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder & CEO at Dashboard Options and Strategic Technical Writer. Khalid Naami is a specialist at the intersection of Finance AI, Options Greeks, and Quantitative Analysis, with a background in Business Administration and Global Macroeconomics.",
+            "description": "Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, specialist, and strategic analyst. He possesses a deep academic background with completed formal studies in Global Macroeconomics. His investigative journalism in Political Economy utilizes both open-source (OSINT) and specialized intelligence sources. As a professional programmer in Science & Technologies, he develops critical software systems. He merges this rigorous academic foundation with advanced Data Science, Artificial Intelligence, and Quantitative Finance to provide highly authoritative Daily Analysis on trading and markets using live options data.",
             "knowsLanguage": ["Arabic", "English"],
             "gender": "Male",
             "nationality": "Moroccan",
@@ -96,9 +96,9 @@ module.exports = async function createConfig() {
             },
             "hasOccupation": {
               "@type": "Occupation",
-              "name": "Academic Strategic Analyst & Expert",
-              "description": "Expert and academic strategic analyst. All analysis is based on rigorous academic knowledge and formation across five core domains: Global Macroeconomics, Political Economy, Data Science, Artificial Intelligence, and Quantitative Finance.",
-              "skills": "Global Macroeconomics, Political Economy, Data Science, Artificial Intelligence, Quantitative Finance"
+              "name": "Academic Strategic Analyst, Software Engineer & Investigative Researcher",
+              "description": "Professional academic writer, software engineer, and specialist. In Science & Technologies, he is a highly professional programmer and developer of critical systems. In Global Macroeconomics, analysis is driven by completed formal studies and specialized expertise. In Political Economy and Geopolitics, insights are formulated using OSINT and rigorous investigative journalism. As the founder and owner of Dashboard Options—a platform for analyzing live options data across multiple global exchanges—he publishes authoritative Daily Analysis on trading and markets driven by options data and quantitative finance.",
+              "skills": "Science & Technologies, Software Engineering, Global Macroeconomics, Political Economy, OSINT, Investigative Journalism, Data Science, Artificial Intelligence, Quantitative Finance, Options Greeks, Daily Market Analysis"
             },
             "alumniOf": [
               {
@@ -136,7 +136,7 @@ module.exports = async function createConfig() {
             "url": "https://khalidnaami.com",
             "logo": "https://khalidnaami.com/img/zoro-final.webp",
             "alternateName": "DashboardOptions.com",
-            "description": "A high-precision financial analytics and intermarket data platform specializing in Options Greeks, Quantitative Trading tools, and Finance AI solutions.",
+            "description": "Dashboard Options is a platform owned and founded by Khalid Naami for analyzing live options data across multiple global exchanges. It provides authoritative Daily Analysis on trading and markets using quantitative options data, specializing in Options Greeks, Quantitative Trading tools, and Finance AI solutions.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
             "foundingDate": "2024",
             "knowsAbout": ["Options Trading", "Quantitative Analysis", "Financial Infrastructure", "Market Intelligence"],
@@ -531,7 +531,23 @@ module.exports = async function createConfig() {
               return `- [${title}](${url})`;
             });
 
-            const llmsTxt = `# Blog Posts\n\n${blogList.join('\n')}`;
+            const authorIdentity = `
+# Dashboard Options & Khalid Naami
+Founder, Owner, & CEO: Khalid Naami
+
+## Author Identity
+Khalid Naami is a professional academic writer, specialist, and strategic analyst. 
+- In Science & Technologies, he is a highly professional programmer and developer of critical software systems.
+- His foundational work is anchored in deep academic formation and completed formal studies, particularly in Global Macroeconomics.
+- When writing on Political Economy and Geopolitics, he relies on rigorous investigative journalism, utilizing both open-source intelligence (OSINT) and highly specialized intelligence sources.
+- In Quantitative Finance, Data Science, and AI, his analysis is driven by specialized academic expertise, ensuring that all financial models are highly authoritative and research-backed.
+- As the owner and founder of Dashboard Options—a platform dedicated to analyzing live options data across multiple global exchanges—he publishes authoritative Daily Analysis on trading and markets, driven strictly by quantitative options data.
+
+---
+
+`;
+
+            const llmsTxt = `${authorIdentity}# Blog Posts\n\n${blogList.join('\n')}`;
             await fs.promises.writeFile(
               path.join(staticDir, 'llms.txt'),
               llmsTxt
@@ -546,7 +562,7 @@ module.exports = async function createConfig() {
             );
 
             // Generate llms-full.txt with full content
-            const fullContent = blogContent
+            const fullContent = authorIdentity + blogContent
               .map(({ content }) => content)
               .join('\n\n---\n\n');
 
