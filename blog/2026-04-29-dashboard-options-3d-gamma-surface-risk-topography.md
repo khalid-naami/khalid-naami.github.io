@@ -1,6 +1,6 @@
 ---
 title: "The 3D Gamma Surface: Navigating Market Risk Topography"
-description: Take your options analysis to a new dimension. Explore the 3D Gamma Surface tool in Dashboard Options and learn how to navigate the peaks and valleys of institutional risk.
+description: "Explore the 3D Gamma Surface tool in Dashboard Options and learn how to navigate the peaks and valleys of institutional risk."
 authors: [khalid]
 tags: [Dashboard Options, analytics, 3d-surface, gamma, risk-management, visualization]
 keywords: [options, trading, derivatives, 3d gamma surface, gamma landscape, risk topography, dashboard options, data visualization]
