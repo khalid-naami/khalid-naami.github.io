@@ -10,7 +10,7 @@ function IntelligencePage() {
   return (
     <Layout
       title="Intelligence"
-      description="A visual 'second brain' showcasing the connections between blog posts."
+      description="Explore Khalid Naami's Intelligence Graph — an interactive second brain linking Finance AI, Macroeconomics, Options Greeks, and Geopolitics insights across all blog posts."
     >
       <Head>
         <title>Intelligence | Khalid Naami</title>
@@ -20,7 +20,7 @@ function IntelligencePage() {
         />
         <meta
           name="description"
-          content="Explore the interconnected ideas in my blog through a dynamic graph visualization."
+          content="Explore Khalid Naami's Intelligence Graph — an interactive second brain linking Finance AI, Macroeconomics, Options Greeks, and Geopolitics insights across all blog posts."
         />
       </Head>
       <main style={{ padding: '2rem' }}>
