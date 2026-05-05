@@ -1,6 +1,6 @@
 ---
 title: "The IV Surface: Decoding Market Expectations"
-description: Volatility is not a single number; it's a surface. Explore the IV Surface tool in Dashboard Options and learn how to read the market's hidden roadmap of fear and greed.
+description: "Volatility is a surface. Explore the IV Surface tool in Dashboard Options and learn to read the market's hidden roadmap of fear and greed."
 authors: [khalid]
 tags: [Dashboard Options, analytics, iv-surface, implied-volatility, skew, term-structure]
 keywords: [options, trading, derivatives, iv surface, implied volatility, volatility smile, volatility skew, term structure, dashboard options]
