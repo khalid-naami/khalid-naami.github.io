@@ -80,7 +80,7 @@ export default function NotFoundContent({ className }: { className?: string }) {
               }}>
                 <img
                   src="/img/saw.gif"
-                  alt=""
+                  alt="Saw movie character appearing on a vintage CRT TV screen"
                   style={{
                     width: "100%",
                     display: "block",
