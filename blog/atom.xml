@@ -282,20 +282,20 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanna-Charm Synergy: Protecting Your Portfolio]]></title>
-        <id>https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy</id>
-        <link href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy"/>
+        <id>https://khalidnaami.com/blog/vanna-charm-risk-management-synergy</id>
+        <link href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy"/>
         <updated>2026-04-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how the lethal combination of Vanna and Charm dictates market crashes and rallies, and how to use this knowledge to shield your portfolio from violent swings.]]></summary>
         <content type="html"><![CDATA[<p>We have explored the Greeks individually, but the real magic (and danger) happens when they interact. In institutional finance, the combination of <strong>Vanna</strong> and <strong>Charm</strong> is often referred to as the "Vol-Time Synergy."</p>
 <p>Understanding how these two forces work together is the difference between surviving a violent market swing and being wiped out by a recursive hedging loop.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-dual-threat-to-delta-neutrality">The Dual Threat to Delta Neutrality<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#the-dual-threat-to-delta-neutrality" class="hash-link" aria-label="Direct link to The Dual Threat to Delta Neutrality" title="Direct link to The Dual Threat to Delta Neutrality">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-dual-threat-to-delta-neutrality">The Dual Threat to Delta Neutrality<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#the-dual-threat-to-delta-neutrality" class="hash-link" aria-label="Direct link to The Dual Threat to Delta Neutrality" title="Direct link to The Dual Threat to Delta Neutrality">​</a></h2>
 <p>As a reminder:</p>
 <ul>
 <li><strong>Vanna</strong> measures how your Delta changes when <strong>Volatility</strong> moves.</li>
 <li><strong>Charm</strong> measures how your Delta changes when <strong>Time</strong> passes.</li>
 </ul>
 <p>In a calm market, these shifts are manageable. But during a "Black Swan" event or a rapid sell-off, they create a feedback loop that forces market makers to buy or sell trillions of dollars worth of stock in minutes.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-perfect-storm-scenario">The "Perfect Storm" Scenario<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#the-perfect-storm-scenario" class="hash-link" aria-label="Direct link to The &quot;Perfect Storm&quot; Scenario" title="Direct link to The &quot;Perfect Storm&quot; Scenario">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-perfect-storm-scenario">The "Perfect Storm" Scenario<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#the-perfect-storm-scenario" class="hash-link" aria-label="Direct link to The &quot;Perfect Storm&quot; Scenario" title="Direct link to The &quot;Perfect Storm&quot; Scenario">​</a></h3>
 <p>Imagine a market sell-off on a Thursday afternoon (1 day before Friday expiration):</p>
 <ol>
 <li><strong>Price Drops:</strong> Put options move closer to the money, increasing their Delta.</li>
@@ -303,22 +303,22 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
 <li><strong>Time is Running Out:</strong> Because expiration is near, <strong>Charm</strong> is at its peak, causing Delta to "bleed" or "pull" with extreme intensity.</li>
 </ol>
 <p>Dealers are suddenly forced to sell the underlying asset to remain neutral. This selling drives the price down further, which spikes volatility even more, which triggers more Vanna/Charm selling... and just like that, you have a <strong>Crash.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="integrating-charm-and-vanna-for-protection">Integrating Charm and Vanna for Protection<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#integrating-charm-and-vanna-for-protection" class="hash-link" aria-label="Direct link to Integrating Charm and Vanna for Protection" title="Direct link to Integrating Charm and Vanna for Protection">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="integrating-charm-and-vanna-for-protection">Integrating Charm and Vanna for Protection<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#integrating-charm-and-vanna-for-protection" class="hash-link" aria-label="Direct link to Integrating Charm and Vanna for Protection" title="Direct link to Integrating Charm and Vanna for Protection">​</a></h2>
 <p>How do you use this knowledge to protect your investment portfolio?</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-identifying-safe-havens">1. Identifying "Safe Havens"<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#1-identifying-safe-havens" class="hash-link" aria-label="Direct link to 1. Identifying &quot;Safe Havens&quot;" title="Direct link to 1. Identifying &quot;Safe Havens&quot;">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-identifying-safe-havens">1. Identifying "Safe Havens"<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#1-identifying-safe-havens" class="hash-link" aria-label="Direct link to 1. Identifying &quot;Safe Havens&quot;" title="Direct link to 1. Identifying &quot;Safe Havens&quot;">​</a></h3>
 <p>By analyzing the clustering of Vanna and Charm (as seen in the chart below), you can identify "Liquidity Pockets" where hedging flows will likely support the market rather than collapse it.</p>
 <p><img decoding="async" loading="lazy" alt="Charm and Vanna Synergy" src="https://khalidnaami.com/assets/images/charm%20and%20vanna-320be4c1790a8356e96db250c43d6f7a.webp" width="1920" height="804" class="img_ev3q">
 <em>Visualizing the intersection of Vanna and Charm exposure levels.</em></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-strategic-strike-selection">2. Strategic Strike Selection<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#2-strategic-strike-selection" class="hash-link" aria-label="Direct link to 2. Strategic Strike Selection" title="Direct link to 2. Strategic Strike Selection">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-strategic-strike-selection">2. Strategic Strike Selection<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#2-strategic-strike-selection" class="hash-link" aria-label="Direct link to 2. Strategic Strike Selection" title="Direct link to 2. Strategic Strike Selection">​</a></h3>
 <p>If you are hedging a long stock position, don't just buy any put. Professional managers select strikes where <strong>Positive Charm</strong> will naturally increase their protection as time passes, and where <strong>Negative Vanna</strong> will provide an "explosive" hedge if volatility spikes unexpectedly.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-physics-analogy-the-storm-and-the-tires">The Physics Analogy: The Storm and the Tires<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#the-physics-analogy-the-storm-and-the-tires" class="hash-link" aria-label="Direct link to The Physics Analogy: The Storm and the Tires" title="Direct link to The Physics Analogy: The Storm and the Tires">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-physics-analogy-the-storm-and-the-tires">The Physics Analogy: The Storm and the Tires<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#the-physics-analogy-the-storm-and-the-tires" class="hash-link" aria-label="Direct link to The Physics Analogy: The Storm and the Tires" title="Direct link to The Physics Analogy: The Storm and the Tires">​</a></h2>
 <ul>
 <li><strong>Vanna (Drag):</strong> The wind resistance getting stronger as the storm hits.</li>
 <li><strong>Charm (Erosion):</strong> Your tires losing their grip every second you stay on the road.</li>
 <li><strong>Synergy:</strong> You are trying to steer a car in a hurricane while your tires are literally dissolving.</li>
 </ul>
 <p>If you don't know your Charm and Vanna levels, you are driving blind in a disaster zone.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion-trading-the-structure">Conclusion: Trading the Structure<a href="https://khalidnaami.com/blog/2026/04/30/vanna-charm-risk-management-synergy#conclusion-trading-the-structure" class="hash-link" aria-label="Direct link to Conclusion: Trading the Structure" title="Direct link to Conclusion: Trading the Structure">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion-trading-the-structure">Conclusion: Trading the Structure<a href="https://khalidnaami.com/blog/vanna-charm-risk-management-synergy#conclusion-trading-the-structure" class="hash-link" aria-label="Direct link to Conclusion: Trading the Structure" title="Direct link to Conclusion: Trading the Structure">​</a></h2>
 <p>The market is not just a collection of opinions; it is a <strong>structural engine</strong> driven by Greeks. Charm and Vanna are the pistons of that engine.</p>
 <p>By integrating these two powerful metrics, you move beyond "guessing" the next move. You begin to see the invisible lines of force that dictate where the market <em>must</em> go to maintain its balance. Protection isn't about being right; it's about being structurally sound.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
         <author>
