@@ -52,6 +52,7 @@ export default function VideosList({ videos }: VideosListProps) {
                 <div className="flex place-items-center justify-center items-center rounded-sm mx-auto mb-4">
                   <img
                     src={video.image}
+                    alt={video.title}
                     width="512"
                     height="256"
                   />
