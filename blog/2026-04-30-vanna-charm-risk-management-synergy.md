@@ -5,6 +5,7 @@ authors: [khalid]
 tags: [Dashboard Options, options, vanna, charm, risk-management, hedging, portfolio-protection]
 keywords: [options, vanna, charm, risk-management, hedging, portfolio-protection]
 image: /img/charm%20and%20vanna.webp
+slug: vanna-charm-risk-management-synergy
 ---
 
 # The Vol-Time Synergy: Integrating Charm and Vanna for Portfolio Protection
