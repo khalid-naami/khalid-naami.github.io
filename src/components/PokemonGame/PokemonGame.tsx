@@ -2638,7 +2638,7 @@ export default function PokemonGame(): JSX.Element {
       <img
         ref={hoOhRef}
         src="/img/ho-oh.gif"
-        alt=""
+        alt="Legendary Pokemon Ho-Oh flying in the background"
         style={{
           position: "absolute",
           display: "none",
