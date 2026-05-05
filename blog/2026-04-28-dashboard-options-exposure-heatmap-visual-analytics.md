@@ -1,6 +1,6 @@
 ---
 title: "Exposure Heatmap: Visualizing Greek Risk"
-description: Tired of looking at raw option chains? Discover how the Exposure Heatmap transforms complex Greek data into a visual map of institutional flows and risk zones.
+description: "Discover how the Exposure Heatmap transforms complex Greek data into a visual map of institutional flows and risk zones."
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
 keywords: [options, trading, derivatives, exposure heatmap, dashboard options, greeks, data visualization, gamma walls]
