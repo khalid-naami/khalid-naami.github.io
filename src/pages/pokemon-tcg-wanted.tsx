@@ -4,7 +4,7 @@ import PokemonTCGWanted from "../components/Pokemon/PokemonTCGWanted";
 
 export default function PokemonTCGWantedPage() {
 	return (
-		<Layout title="Pokemon TCG Wanted" description="Pokemon TCG cards I'm looking for">
+		<Layout title="Pokemon TCG Wanted" description="Browse the Pokemon TCG cards that Khalid Naami is looking for. A curated wishlist of collectible Pokemon Trading Card Game cards from past and current sets.">
 			<div style={{ padding: "2rem", maxWidth: "1200px", margin: "0 auto" }}>
 				<h1 style={{ textAlign: "center", marginBottom: "0.5rem" }}>Pokemon TCG Wanted</h1>
 				<p style={{ textAlign: "center", marginBottom: "0.5rem" }}>
