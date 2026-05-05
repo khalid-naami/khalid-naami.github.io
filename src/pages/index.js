@@ -174,7 +174,7 @@ export default function Home() {
   return (
     <Layout
       title="Homepage"
-      description="Khalid Naami personal website"
+      description="Khalid Naami — Founder of Dashboard Options. Expert in Quantitative Finance, Global Macroeconomics, Political Economy, and Finance AI. Daily analysis on live options data."
     >
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
