@@ -5,6 +5,7 @@ authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, vanna, charm, strategy, risk-management]
 keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
 image: /img/gamma%20and%20delta.webp
+slug: strategic-quartet-integrating-four-greeks
 ---
 
 # The Strategic Quartet: Integrating Delta, Gamma, Vanna, and Charm
