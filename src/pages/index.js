@@ -145,7 +145,7 @@ export default function Home() {
     if (typeof document === 'undefined') return;
     
     const fixAltTags = () => {
-      const images = document.querySelectorAll('img:not([alt])');
+      const images = document.querySelectorAll('img:not([alt]), img[alt=""]');
       images.forEach(img => {
         img.setAttribute('alt', 'Map interface element');
       });
