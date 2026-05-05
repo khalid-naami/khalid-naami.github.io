@@ -5,6 +5,7 @@ authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, physics, greeks, risk-management]
 keywords: [options, delta, gamma, physics, greeks, risk-management]
 image: /img/gamma%20and%20delta.webp
+slug: options-physics-synergy
 ---
 
 # The Physics of Options: Synergy Between Delta and Gamma
