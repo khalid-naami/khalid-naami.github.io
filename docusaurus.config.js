@@ -273,7 +273,7 @@ module.exports = async function createConfig() {
     ({
       metadata: [
         {name: 'keywords', content: 'Khalid Naami, Finance AI, Options Greeks, Quantitative Trading, Financial Data, CBOE, OPRA, Deribit, Binance, Data Science, Python, Intermarket Analysis, Strategic Analyst, Trading Algorithms, Blockchain, Fintech, Dashboard Options'},
-        {name: 'description', content: 'Explore the junction of finance and technology with Khalid Naami. Financial intelligence, options trading strategies, macro-analysis, and open source AI projects.'},
+        {name: 'description', content: 'Khalid Naami: Quant Finance & AI Specialist. Founder @ Dashboard Options.'},
         {name: 'twitter:card', content: 'summary_large_image'},
         {property: 'og:image:width', content: '1200'},
         {property: 'og:image:height', content: '630'},
