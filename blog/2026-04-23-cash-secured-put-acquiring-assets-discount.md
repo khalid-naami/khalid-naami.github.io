@@ -1,6 +1,6 @@
 ---
 title: "The Cash-Secured Put: Acquiring Assets at a Discount"
-description: "Learn how to use the Cash-Secured Put strategy to get paid for waiting to buy your favorite stocks at a mathematical discount, utilizing Gamma walls."
+description: How can you use cash-secured puts to acquire high-quality assets at a significant discount?
 authors: [khalid]
 tags: [Dashboard Options, cash-secured-put, options-strategy, quantitative-finance, value-investing]
 keywords: [Cash-Secured Put, Options Strategy, Value Investing, Theta Decay, Dashboard Options, Gamma Exposure, Option Selling]
