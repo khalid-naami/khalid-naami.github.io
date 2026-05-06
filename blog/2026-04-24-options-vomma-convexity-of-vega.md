@@ -1,6 +1,6 @@
 ---
 title: "Options Vomma: Understanding Vega Convexity"
-description: What is Vomma and how does it drive the accelerating risks and rewards during volatility spikes? Learn the secrets of Vega convexity.
+description: What is Vomma and why is it the secret to understanding the convexity of volatility risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol]
 keywords: [options, trading, derivatives, vomma, vega, vol-of-vol, implied volatility, risk management]
@@ -8,7 +8,7 @@ image: /img/vomma.webp
 slug: options-vomma-convexity-of-vega
 ---
 
-# Options Vomma: Understanding the Vol of Vol and Vega Convexity
+# Options Vomma: Understanding Vega Convexity
 
 In the "Greeks" dashboard, Vega is the primary indicator of how an option's price reacts to changes in Implied Volatility (IV). However, much like Delta has Gamma (its rate of change), Vega has **Vomma**. To truly master volatility trading, one must understand the convexity of Vega—otherwise known as Vomma.
 
