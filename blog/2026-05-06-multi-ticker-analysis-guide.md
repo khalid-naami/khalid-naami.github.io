@@ -4,7 +4,7 @@ description: How can you use the Multi-Ticker tool to identify institutional pos
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, correlation, spx, spy]
 keywords: [options, trading, derivatives, correlation, spx, spy, multi ticker, technical analysis]
-image: /img/multi-ticker.webp
+image: /img/multi%20ticker.webp
 slug: comparative-edge-multi-ticker-analysis
 date: 2026-05-06T09:00:00+00:00
 ---
@@ -12,6 +12,8 @@ date: 2026-05-06T09:00:00+00:00
 # Comparative Edge: Mastering Multi-Ticker Analysis for Correlated Assets
 
 In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the **SPX** (S&P 500 Index) and **SPY** (S&P 500 ETF)—is where the real alpha is found.
+
+![Dashboard Options Layout](/img/Dashboard%20Options%20Showcase.webp)
 
 <!-- truncate -->
 
