@@ -1,6 +1,6 @@
 ---
 title: "The IV Surface: Decoding Market Expectations"
-description: "Volatility is a surface. Explore the IV Surface tool in Dashboard Options and learn to read the market's hidden roadmap of fear and greed."
+description: How can you decode the Implied Volatility (IV) surface to reveal the market’s hidden expectations?
 authors: [khalid]
 tags: [Dashboard Options, analytics, iv-surface, implied-volatility, skew, term-structure]
 keywords: [options, trading, derivatives, iv surface, implied volatility, volatility smile, volatility skew, term structure, dashboard options]
@@ -8,7 +8,7 @@ image: /img/iv-surface.webp
 slug: dashboard-options-iv-surface-market-expectations
 ---
 
-# The Implied Volatility Surface: Decoding the Market's Future Expectations
+# The IV Surface: Decoding Market Expectations
 
 In many introductory options courses, Implied Volatility (IV) is treated as a static number. But in the real world of institutional trading, IV is a living, breathing three-dimensional structure. Within **Dashboard Options**, the **IV Surface** tool allows you to peel back the curtain and see exactly how the market is pricing risk across all possible scenarios.
 
