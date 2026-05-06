@@ -1,6 +1,6 @@
 ---
 title: "The Poor Man's Covered Call: Capital Efficient Yield"
-description: "Discover the Poor Man's Covered Call (Diagonal Spread), a quantitative strategy that generates the yield of a Covered Call at a fraction of the capital cost."
+description: What is a Poor Man’s Covered Call and how can it generate high yield with minimal capital?
 authors: [khalid]
 tags: [Dashboard Options, covered-call, diagonal-spread, options-strategy, quantitative-finance]
 keywords: [Poor Mans Covered Call, Diagonal Spread, LEAPS, Capital Efficiency, Options Strategy, Quantitative Trading, Theta Decay]
