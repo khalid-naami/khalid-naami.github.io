@@ -1,6 +1,6 @@
 ---
 title: "The Iron Butterfly: High-Probability Pin Targeting"
-description: "Master the Iron Butterfly, a hybrid quantitative options strategy designed to maximize Theta decay while strictly defining risk at Gamma target levels."
+description: How can you use the Iron Butterfly strategy to target precise price pins at expiration?
 authors: [khalid]
 tags: [Dashboard Options, iron-butterfly, options-strategy, quantitative-finance, delta-neutral]
 keywords: [Iron Butterfly, Options Strategy, Theta Decay, Pin Risk, Delta Neutral, Gamma Exposure, Dashboard Options]
