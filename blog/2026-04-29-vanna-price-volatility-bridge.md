@@ -1,6 +1,6 @@
 ---
 title: "Vanna: The Bridge Between Price and Volatility"
-description: Discover how Vanna links Delta and Vega to reveal the hidden mechanics of institutional hedging and market liquidity.
+description: What is Vanna and how does it bridge the gap between price movement and volatility shifts?
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, greeks, volatility, spx, risk-management]
 keywords: [options, vanna, greeks, volatility, spx, risk-management]
