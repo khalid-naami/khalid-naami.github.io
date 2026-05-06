@@ -16,6 +16,8 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
 
 - [2026-05-06-multi-ticker-analysis-guide](https://khalidnaami.com/blog/2026-05-06-multi-ticker-analysis-guide)
 - [2026-05-06-oi-volume-options-flow-guide](https://khalidnaami.com/blog/2026-05-06-oi-volume-options-flow-guide)
+- [2026-05-06-python-for-finance-guide](https://khalidnaami.com/blog/2026-05-06-python-for-finance-guide)
+- [2026-05-06-ultimate-dashboard-guide](https://khalidnaami.com/blog/2026-05-06-ultimate-dashboard-guide)
 - [2026-05-02-charm-the-invisible-delta-decay](https://khalidnaami.com/blog/2026-05-02-charm-the-invisible-delta-decay)
 - [2026-05-02-delta-dynamics-directional-risk](https://khalidnaami.com/blog/2026-05-02-delta-dynamics-directional-risk)
 - [2026-05-01-options-physics-synergy](https://khalidnaami.com/blog/2026-05-01-options-physics-synergy)
