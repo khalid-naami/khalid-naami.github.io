@@ -4,7 +4,7 @@ description: What is the OI & Volume tool and why is it essential for tracking i
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, flow, volume, open interest]
 keywords: [options, trading, derivatives, flow, volume, open interest, market maker, occ]
-image: /img/oi-volume-cover.webp
+image: /img/oi%20vol.webp
 slug: mastering-market-sentiment-oi-volume-flow
 date: 2026-05-06T06:00:00+00:00
 ---
@@ -12,6 +12,8 @@ date: 2026-05-06T06:00:00+00:00
 # Mastering Market Sentiment: A Deep Dive into OI, Volume, and Institutional Flow
 
 In the fast-paced world of options trading, following the “Smart Money” isn’t just an advantage—it’s a necessity. At **Dashboard Options**, we’ve built the **OI & Volume** tool to strip away the noise and reveal where institutional capital is actually moving.
+
+![Dashboard Options Layout](/img/Dashboard%20Options%20Showcase.webp)
 
 <!-- truncate -->
 
@@ -87,9 +89,6 @@ The **OCC** is the world’s largest equity derivatives clearing organization an
 *   **Update Schedule**: OCC updates this data daily after market close.
 *   **Lag Time**: Data typically reflects previous trading day activity.
 *   **Coverage**: All option types (equity, index, ETF options) are included.
-
-**Why This Matters:**
-Market maker positioning can indicate institutional sentiment. Large call positions may suggest bullish positioning, while large put positions may suggest bearish positioning or hedging activity. Combined with other analysis, it helps you understand true market dynamics.
 
 ---
 
