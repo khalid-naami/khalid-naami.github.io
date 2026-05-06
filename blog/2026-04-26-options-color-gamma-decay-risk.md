@@ -1,6 +1,6 @@
 ---
 title: "Options Color: Managing Gamma Decay and Pin Risk"
-description: What is Options Color and why is it the silent killer of Gamma hedges as expiration approaches? Learn how dGamma/dt impacts your portfolio stability.
+description: What is Color and how can it help you manage the risk of gamma decay as expiration approaches?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, color, gamma, theta, pin-risk]
 keywords: [options, trading, derivatives, color, gamma, theta, pin-risk, gamma decay, risk management]
@@ -8,7 +8,7 @@ image: /img/color.webp
 slug: options-color-gamma-decay-risk
 ---
 
-# Options Color: Managing Gamma Decay and Expiration Pin Risk
+# Options Color: Managing Gamma Decay and Pin Risk
 
 In the final hours and days of an option's life, the Greeks behave in ways that can baffle even experienced traders. While Theta measures the erosion of an option's price over time, **Color** measures the erosion of its **Gamma**. To master the dynamics of 0DTE (Zero Day to Expiration) and institutional hedging, understanding Color is essential.
 
