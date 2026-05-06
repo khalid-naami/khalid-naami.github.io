@@ -1,6 +1,6 @@
 ---
 title: "Day Trading 0 DTE GEX Flow | Option Dealer Levels"
-description: "Master the mechanics of 0DTE options. Learn how intraday Gamma Exposure (GEX) flows dictate price action and how to trade option dealer levels."
+description: How can you use 0-DTE gamma flow to identify explosive intraday moves?
 authors: [khalid]
 date: 2026-04-21T08:00:00Z
 tags: [Dashboard Options, 0DTE, day-trading, gamma, quantitative-finance]
