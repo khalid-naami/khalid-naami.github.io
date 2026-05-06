@@ -16,6 +16,7 @@
             <pubDate>Wed, 06 May 2026 09:00:00 GMT</pubDate>
             <description><![CDATA[How can you use the Multi-Ticker tool to identify institutional positioning gaps between correlated assets?]]></description>
             <content:encoded><![CDATA[<p>In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the <strong>SPX</strong> (S&amp;P 500 Index) and <strong>SPY</strong> (S&amp;P 500 ETF)—is where the real alpha is found.</p>
+<p><img decoding="async" loading="lazy" alt="Dashboard Options Layout" src="https://khalidnaami.com/assets/images/Dashboard%20Options%20Showcase-af31841538d0ba8c19d04213bc585a87.webp" width="1920" height="905" class="img_ev3q"></p>
 <p>Our latest tool, the <strong>Multi-Ticker Dashboard</strong>, is designed for traders who need a holistic view of the market’s internal mechanics. Here’s why comparative analysis is a game-changer.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-compare-correlated-tickers">Why Compare Correlated Tickers?<a href="https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis#why-compare-correlated-tickers" class="hash-link" aria-label="Direct link to Why Compare Correlated Tickers?" title="Direct link to Why Compare Correlated Tickers?">​</a></h2>
 <p>Market participants often trade the same underlying theme across different instruments. For example, institutional traders might use SPX options for large-scale hedging, while retail and smaller funds might favor SPY.</p>
@@ -54,6 +55,7 @@
             <pubDate>Wed, 06 May 2026 06:00:00 GMT</pubDate>
             <description><![CDATA[What is the OI & Volume tool and why is it essential for tracking institutional positioning in the options market?]]></description>
             <content:encoded><![CDATA[<p>In the fast-paced world of options trading, following the “Smart Money” isn’t just an advantage—it’s a necessity. At <strong>Dashboard Options</strong>, we’ve built the <strong>OI &amp; Volume</strong> tool to strip away the noise and reveal where institutional capital is actually moving.</p>
+<p><img decoding="async" loading="lazy" alt="Dashboard Options Layout" src="https://khalidnaami.com/assets/images/Dashboard%20Options%20Showcase-af31841538d0ba8c19d04213bc585a87.webp" width="1920" height="905" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-oi--volume-mapping-the-battlefield">1. OI &amp; Volume: Mapping the Battlefield<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#1-oi--volume-mapping-the-battlefield" class="hash-link" aria-label="Direct link to 1. OI &amp; Volume: Mapping the Battlefield" title="Direct link to 1. OI &amp; Volume: Mapping the Battlefield">​</a></h2>
 <p>Open Interest (OI) tells you where the big bets are parked. Unlike volume, which shows daily activity, OI reveals the total number of outstanding contracts. It’s the map of where the market’s “gravity” sits.</p>
 <p><img decoding="async" loading="lazy" alt="OI and Volume Distribution" src="https://khalidnaami.com/assets/images/oi%20vol-9ed4d4f4cb83f96e50d49e10406dd5d1.webp" width="1774" height="838" class="img_ev3q"></p>
@@ -103,8 +105,6 @@
 <li><strong>Lag Time</strong>: Data typically reflects previous trading day activity.</li>
 <li><strong>Coverage</strong>: All option types (equity, index, ETF options) are included.</li>
 </ul>
-<p><strong>Why This Matters:</strong>
-Market maker positioning can indicate institutional sentiment. Large call positions may suggest bullish positioning, while large put positions may suggest bearish positioning or hedging activity. Combined with other analysis, it helps you understand true market dynamics.</p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-bottom-line">The Bottom Line<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#the-bottom-line" class="hash-link" aria-label="Direct link to The Bottom Line" title="Direct link to The Bottom Line">​</a></h2>
 <p>The <strong>OI &amp; Volume</strong> tool isn't just about showing data; it’s about providing an edge. By combining Open Interest, Premium Flow, and Market Maker positioning, you aren't just guessing—you’re following the footprint of the most sophisticated players in the market.</p>
