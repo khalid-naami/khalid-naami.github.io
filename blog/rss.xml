@@ -4,76 +4,118 @@
         <title>Khalid Naami Blog</title>
         <link>https://khalidnaami.com/blog</link>
         <description>Khalid Naami Blog</description>
-        <lastBuildDate>Wed, 06 May 2026 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 09:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2026 Khalid Naami.</copyright>
         <item>
+            <title><![CDATA[Comparative Edge: Mastering Multi-Ticker Analysis for Correlated Assets]]></title>
+            <link>https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis</link>
+            <guid>https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis</guid>
+            <pubDate>Wed, 06 May 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[How can you use the Multi-Ticker tool to identify institutional positioning gaps between correlated assets?]]></description>
+            <content:encoded><![CDATA[<p>In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the <strong>SPX</strong> (S&amp;P 500 Index) and <strong>SPY</strong> (S&amp;P 500 ETF)—is where the real alpha is found.</p>
+<p>Our latest tool, the <strong>Multi-Ticker Dashboard</strong>, is designed for traders who need a holistic view of the market’s internal mechanics. Here’s why comparative analysis is a game-changer.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-compare-correlated-tickers">Why Compare Correlated Tickers?<a href="https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis#why-compare-correlated-tickers" class="hash-link" aria-label="Direct link to Why Compare Correlated Tickers?" title="Direct link to Why Compare Correlated Tickers?">​</a></h2>
+<p>Market participants often trade the same underlying theme across different instruments. For example, institutional traders might use SPX options for large-scale hedging, while retail and smaller funds might favor SPY.</p>
+<p>If you only look at one, you’re only seeing half the picture. The <strong>Multi-Ticker tool</strong> allows you to load up to <strong>four tickers</strong> simultaneously, giving you an immediate side-by-side comparison of their positioning.</p>
+<p><img decoding="async" loading="lazy" alt="Multi Ticker Comparison Dashboard" src="https://khalidnaami.com/assets/images/multi%20ticker-c94450396ad09c1be600a45fbaa8e388.webp" width="1742" height="821" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tactical-advantages-finding-the-gaps">Tactical Advantages: Finding the Gaps<a href="https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis#tactical-advantages-finding-the-gaps" class="hash-link" aria-label="Direct link to Tactical Advantages: Finding the Gaps" title="Direct link to Tactical Advantages: Finding the Gaps">​</a></h2>
+<p>When you load correlated assets like ^SPX and SPY, you aren’t just looking for them to move together. You’re looking for <strong>discrepancies</strong>:</p>
+<ol>
+<li><strong>Positioning Divergence</strong>: If SPX has a massive Call wall at 5100 but SPY doesn’t show equivalent positioning at 510, it might indicate that the institutional “ceiling” is stronger than retail sentiment suggests.</li>
+<li><strong>Gamma Levels</strong>: Comparing the “Zero Gamma” levels across multiple correlated ETFs (like SPY, QQQ, and IWM) can tell you if the entire market is in a “long gamma” (stable) or “short gamma” (volatile) regime.</li>
+<li><strong>Cross-Market Validation</strong>: Before taking a heavy directional bet on one ticker, seeing that 3 or 4 related tickers share the same setup provides the statistical confidence needed to size up.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-use-the-multi-ticker-tool">How to Use the Multi-Ticker Tool<a href="https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis#how-to-use-the-multi-ticker-tool" class="hash-link" aria-label="Direct link to How to Use the Multi-Ticker Tool" title="Direct link to How to Use the Multi-Ticker Tool">​</a></h2>
+<p>The interface is built for speed. You can input any combination of up to 4 tickers in the top header:</p>
+<ul>
+<li><strong>1 to 4 Slots</strong>: Whether you’re comparing a single pair or an entire sector, the layout adjusts to keep the data readable.</li>
+<li><strong>Synchronized Visuals</strong>: Each chart maintains the same scale and formatting, making it easy to spot relative strength or weakness at a glance.</li>
+<li><strong>Deep Integration</strong>: Every chart pulls from our institutional-grade data engine, ensuring that your comparisons are based on the same rigorous math we use across the entire platform.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-bottom-line">The Bottom Line<a href="https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis#the-bottom-line" class="hash-link" aria-label="Direct link to The Bottom Line" title="Direct link to The Bottom Line">​</a></h2>
+<p>Successful trading is about context. By moving away from single-ticker analysis and embracing a comparative approach, you can identify hidden institutional walls and avoid the traps that trap isolated traders.</p>
+<p>Don’t just watch the market move—watch how the different pieces of the market move against each other.</p>
+<p><em>Note: This tool is currently optimized for equity and index options. Use it to validate your setups across sectors before executing.</em></p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content:encoded>
+            <category>Dashboard Options</category>
+            <category>options</category>
+            <category>trading</category>
+            <category>derivatives</category>
+            <category>correlation</category>
+            <category>spx</category>
+            <category>spy</category>
+        </item>
+        <item>
             <title><![CDATA[Mastering Market Sentiment: A Deep Dive into OI, Volume, and Institutional Flow]]></title>
-            <link>https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide</link>
-            <guid>https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide</guid>
+            <link>https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow</link>
+            <guid>https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow</guid>
             <pubDate>Wed, 06 May 2026 06:00:00 GMT</pubDate>
-            <description><![CDATA[Unlock the power of the OI & Volume tool. Learn how to track institutional positioning, decode options flow, and follow Market Maker sentiment using OCC data.]]></description>
-            <content:encoded><![CDATA[<p>In the fast-paced world of options trading, following the "Smart Money" isn't just an advantage—it’s a necessity. At <strong>Dashboard Options</strong>, we’ve built the <strong>OI &amp; Volume</strong> tool to strip away the noise and reveal where institutional capital is actually moving.</p>
-<p>This guide breaks down the four critical layers of our analysis engine, from open interest walls to real-time Market Maker positioning.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-oi--volume-mapping-the-battlefield">1. OI &amp; Volume: Mapping the Battlefield<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#1-oi--volume-mapping-the-battlefield" class="hash-link" aria-label="Direct link to 1. OI &amp; Volume: Mapping the Battlefield" title="Direct link to 1. OI &amp; Volume: Mapping the Battlefield">​</a></h2>
-<p>Open Interest (OI) tells you where the big bets are parked. Unlike volume, which shows daily activity, OI reveals the total number of outstanding contracts. It’s the map of where the market's "gravity" sits.</p>
+            <description><![CDATA[What is the OI & Volume tool and why is it essential for tracking institutional positioning in the options market?]]></description>
+            <content:encoded><![CDATA[<p>In the fast-paced world of options trading, following the “Smart Money” isn’t just an advantage—it’s a necessity. At <strong>Dashboard Options</strong>, we’ve built the <strong>OI &amp; Volume</strong> tool to strip away the noise and reveal where institutional capital is actually moving.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-oi--volume-mapping-the-battlefield">1. OI &amp; Volume: Mapping the Battlefield<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#1-oi--volume-mapping-the-battlefield" class="hash-link" aria-label="Direct link to 1. OI &amp; Volume: Mapping the Battlefield" title="Direct link to 1. OI &amp; Volume: Mapping the Battlefield">​</a></h2>
+<p>Open Interest (OI) tells you where the big bets are parked. Unlike volume, which shows daily activity, OI reveals the total number of outstanding contracts. It’s the map of where the market’s “gravity” sits.</p>
 <p><img decoding="async" loading="lazy" alt="OI and Volume Distribution" src="https://khalidnaami.com/assets/images/oi%20vol-9ed4d4f4cb83f96e50d49e10406dd5d1.webp" width="1774" height="838" class="img_ev3q"></p>
 <ul>
 <li><strong>Total Call/Put OI</strong>: We track the absolute build-up of contracts.</li>
 <li><strong>Net OI</strong>: This is your first clue to market bias. A massive gap between Calls and Puts often signals a major support or resistance level.</li>
-<li><strong>Strike-Specific Concentration</strong>: Our charts show you exactly which price levels the market is "pinning."</li>
+<li><strong>Strike-Specific Concentration</strong>: Our charts show you exactly which price levels the market is “pinning.”</li>
 </ul>
 <p><img decoding="async" loading="lazy" alt="Volume by Strike Analysis" src="https://khalidnaami.com/assets/images/oi%20volume-f63b7c3083286f5b58d3725cd3a6fcd5.webp" width="1736" height="696" class="img_ev3q"></p>
 <p>When you see a spike in <strong>Volume by Strike</strong> (green/red bars) relative to existing OI, it means new positions are being opened or massive hedges are being deployed in real-time.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-options-flow-analysis-real-time-momentum">2. Options Flow Analysis: Real-Time Momentum<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#2-options-flow-analysis-real-time-momentum" class="hash-link" aria-label="Direct link to 2. Options Flow Analysis: Real-Time Momentum" title="Direct link to 2. Options Flow Analysis: Real-Time Momentum">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-options-flow-analysis-real-time-momentum">2. Options Flow Analysis: Real-Time Momentum<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#2-options-flow-analysis-real-time-momentum" class="hash-link" aria-label="Direct link to 2. Options Flow Analysis: Real-Time Momentum" title="Direct link to 2. Options Flow Analysis: Real-Time Momentum">​</a></h2>
 <p>While OI is the map, <strong>Flow</strong> is the current. It represents the actual premium being spent right now.</p>
 <p><img decoding="async" loading="lazy" alt="Options Flow Overview" src="https://khalidnaami.com/assets/images/options%20flow-616a7f6753fcfdb55f323a6aa2c199dc.webp" width="1742" height="844" class="img_ev3q"></p>
-<p>We don't just look at numbers; we look at the <strong>Premium PCR</strong> (Put/Call Ratio). If the Call Premium significantly outweighs the Put Premium, it’s a clear sign of aggressive bullish sentiment—even if the contract volume looks balanced.</p>
+<p>We don’t just look at numbers; we look at the <strong>Premium PCR</strong> (Put/Call Ratio). If the Call Premium significantly outweighs the Put Premium, it’s a clear sign of aggressive bullish sentiment—even if the contract volume looks balanced.</p>
 <p><img decoding="async" loading="lazy" alt="Flow Detail Summary" src="https://khalidnaami.com/assets/images/options%20flow%20analysis-cf23792c1757a5e29de0f4a0dfc1168e.webp" width="1749" height="837" class="img_ev3q"></p>
 <p>The real alpha is in the <strong>Moneyness Breakdown</strong>:</p>
 <ul>
 <li><strong>ITM (In-The-Money)</strong>: This is where institutions typically operate for directional bets.</li>
-<li><strong>OTM (Out-The-Money)</strong>: High OTM volume often points to speculative "lotto" plays or massive tail-risk hedging.</li>
+<li><strong>OTM (Out-The-Money)</strong>: High OTM volume often points to speculative “lotto” plays or massive tail-risk hedging.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-premium-analysis-following-the-dollars">3. Premium Analysis: Following the Dollars<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#3-premium-analysis-following-the-dollars" class="hash-link" aria-label="Direct link to 3. Premium Analysis: Following the Dollars" title="Direct link to 3. Premium Analysis: Following the Dollars">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-premium-analysis-following-the-dollars">3. Premium Analysis: Following the Dollars<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#3-premium-analysis-following-the-dollars" class="hash-link" aria-label="Direct link to 3. Premium Analysis: Following the Dollars" title="Direct link to 3. Premium Analysis: Following the Dollars">​</a></h2>
 <p>Trading is about money, not just contracts. A single institutional block trade can carry more weight than thousands of retail orders.</p>
 <p><img decoding="async" loading="lazy" alt="Premium Flow Analysis" src="https://khalidnaami.com/assets/images/premuim%20analysis-b64c3c86985142f1bb21a37a7fb34840.webp" width="1748" height="830" class="img_ev3q"></p>
-<p>Our <strong>Premium Summary</strong> simplifies the complex. By looking at the <strong>Call/Put Premium Ratio</strong>, you get an immediate pulse on whether the flow is "Bullish" or "Bearish."</p>
+<p>Our <strong>Premium Summary</strong> simplifies the complex. By looking at the <strong>Call/Put Premium Ratio</strong>, you get an immediate pulse on whether the flow is “Bullish” or “Bearish.”</p>
 <p><img decoding="async" loading="lazy" alt="Visual Premium Breakdown" src="https://khalidnaami.com/assets/images/premuim%20analyse-bf89ec5418ce94826c68f37d988a9aee.webp" width="1729" height="773" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="Top Premium Strikes" src="https://khalidnaami.com/assets/images/premium%20analys-9b4f0c0d7963b99c893b78963496cb1b.webp" width="1734" height="716" class="img_ev3q"></p>
 <p>The <strong>Top Premium Strikes</strong> table is your cheat sheet. It identifies the exact price levels where the most significant capital is being committed. If $100M is hitting a specific strike, the market is going to react to it.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-market-maker-positioning-powered-by-occ">4. Market Maker Positioning (Powered by OCC)<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#4-market-maker-positioning-powered-by-occ" class="hash-link" aria-label="Direct link to 4. Market Maker Positioning (Powered by OCC)" title="Direct link to 4. Market Maker Positioning (Powered by OCC)">​</a></h2>
-<p>The final piece of the puzzle is understanding the "House." Market Makers are the backbone of the options market, and their positioning dictates liquidity and price volatility.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-market-maker-positioning-powered-by-occ">4. Market Maker Positioning (Powered by OCC)<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#4-market-maker-positioning-powered-by-occ" class="hash-link" aria-label="Direct link to 4. Market Maker Positioning (Powered by OCC)" title="Direct link to 4. Market Maker Positioning (Powered by OCC)">​</a></h2>
+<p>The final piece of the puzzle is understanding the “House.” Market Makers are the backbone of the options market, and their positioning dictates liquidity and price volatility.</p>
 <p><img decoding="async" loading="lazy" alt="Market Maker Summary" src="https://khalidnaami.com/assets/images/Market%20Maker%20Positioning-4d6266a9e4c0a9a4f69fb84d6db3eed4.webp" width="1745" height="790" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-role-of-the-occ-options-clearing-corporation">The Role of the OCC (Options Clearing Corporation)<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#the-role-of-the-occ-options-clearing-corporation" class="hash-link" aria-label="Direct link to The Role of the OCC (Options Clearing Corporation)" title="Direct link to The Role of the OCC (Options Clearing Corporation)">​</a></h3>
-<p>The <strong>OCC</strong> is the central counterparty for all U.S. options trades. By analyzing their data, we gain direct insight into how Market Makers are hedged.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="decoding-the-market-makers-hand">Decoding the Market Maker’s Hand:<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#decoding-the-market-makers-hand" class="hash-link" aria-label="Direct link to Decoding the Market Maker’s Hand:" title="Direct link to Decoding the Market Maker’s Hand:">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-role-of-the-occ-options-clearing-corporation">The Role of the OCC (Options Clearing Corporation)<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#the-role-of-the-occ-options-clearing-corporation" class="hash-link" aria-label="Direct link to The Role of the OCC (Options Clearing Corporation)" title="Direct link to The Role of the OCC (Options Clearing Corporation)">​</a></h3>
+<p>The <strong>OCC</strong> is the world’s largest equity derivatives clearing organization and acts as the central counterparty for all options trades in the U.S. They guarantee the performance of all options contracts and provide transparency into market activity.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="decoding-the-market-makers-hand">Decoding the Market Maker’s Hand:<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#decoding-the-market-makers-hand" class="hash-link" aria-label="Direct link to Decoding the Market Maker’s Hand:" title="Direct link to Decoding the Market Maker’s Hand:">​</a></h3>
 <ul>
-<li><strong>Liquidity Providers</strong>: Market Makers aren't directional traders—they provide the bid/ask. However, to stay neutral, they must hedge their positions.</li>
-<li><strong>The Hedge Reversal</strong>: If Market Makers are short a massive amount of Puts, they must buy the underlying stock to hedge, creating a "Gamma Squeeze" effect.</li>
-<li><strong>Institutional Sentiment</strong>: Their positioning data reveals the direction of institutional flow that the "House" is currently absorbing.</li>
+<li><strong>Liquidity Providers</strong>: Market makers provide liquidity by continuously quoting bid and ask prices.</li>
+<li><strong>Facilitating Trading</strong>: They facilitate trading by being ready to buy or sell options contracts.</li>
+<li><strong>Revealing Sentiment</strong>: Their positioning data reveals institutional sentiment and flow direction.</li>
 </ul>
 <p><img decoding="async" loading="lazy" alt="Visual Market Maker Analysis" src="https://khalidnaami.com/assets/images/Market%20Maker%20Positionings-c544d3d1628a5888bd9581d1517d06cc.webp" width="1738" height="773" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-performance-metrics">Key Performance Metrics:<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#key-performance-metrics" class="hash-link" aria-label="Direct link to Key Performance Metrics:" title="Direct link to Key Performance Metrics:">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-data-insights">Key Data Insights:<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#key-data-insights" class="hash-link" aria-label="Direct link to Key Data Insights:" title="Direct link to Key Data Insights:">​</a></h3>
 <ul>
-<li><strong>Update Frequency</strong>: This data is sourced daily from the OCC after the market close.</li>
-<li><strong>Lag Time</strong>: It reflects the previous trading day's activity—ideal for swing trading and macro analysis.</li>
-<li><strong>Coverage</strong>: Includes all equity, index, and ETF options.</li>
+<li><strong>Data Timing</strong>: Data is from the latest business day within the past 24 hours.</li>
+<li><strong>Update Schedule</strong>: OCC updates this data daily after market close.</li>
+<li><strong>Lag Time</strong>: Data typically reflects previous trading day activity.</li>
+<li><strong>Coverage</strong>: All option types (equity, index, ETF options) are included.</li>
 </ul>
+<p><strong>Why This Matters:</strong>
+Market maker positioning can indicate institutional sentiment. Large call positions may suggest bullish positioning, while large put positions may suggest bearish positioning or hedging activity. Combined with other analysis, it helps you understand true market dynamics.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-bottom-line">The Bottom Line<a href="https://khalidnaami.com/blog/2026/05/06/oi-volume-options-flow-guide#the-bottom-line" class="hash-link" aria-label="Direct link to The Bottom Line" title="Direct link to The Bottom Line">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-bottom-line">The Bottom Line<a href="https://khalidnaami.com/blog/mastering-market-sentiment-oi-volume-flow#the-bottom-line" class="hash-link" aria-label="Direct link to The Bottom Line" title="Direct link to The Bottom Line">​</a></h2>
 <p>The <strong>OI &amp; Volume</strong> tool isn't just about showing data; it’s about providing an edge. By combining Open Interest, Premium Flow, and Market Maker positioning, you aren't just guessing—you’re following the footprint of the most sophisticated players in the market.</p>
 <p><em>Note: This data is historical and intended to be used alongside real-time indicators for a comprehensive risk management strategy.</em></p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content:encoded>
             <category>Dashboard Options</category>
-            <category>Options Flow</category>
-            <category>Market Maker</category>
-            <category>Technical Analysis</category>
-            <category>Quantitative Trading</category>
+            <category>options</category>
+            <category>trading</category>
+            <category>derivatives</category>
+            <category>flow</category>
+            <category>volume</category>
+            <category>open interest</category>
         </item>
         <item>
             <title><![CDATA[Charm: The Invisible Erosion of Directional Exposure]]></title>
