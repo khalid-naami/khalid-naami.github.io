@@ -1,6 +1,6 @@
 ---
 title: "Implied Probabilities: Quantifying Market Expectations"
-description: "Explore the Implied Probabilities tool in Dashboard Options and learn to calculate expected moves and probability distributions."
+description: How can you use implied probability analysis to quantify the market's expected moves?
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
 keywords: [options, trading, derivatives, implied probabilities, expected move, standard deviation, delta, trading ranges, dashboard options]
@@ -8,7 +8,7 @@ image: /img/implied-probabilities-analysis.webp
 slug: dashboard-options-implied-probabilities-market-moves
 ---
 
-# Implied Probabilities Analysis: Quantifying Market Expectations and Expected Moves
+# Implied Probabilities: Quantifying Market Expectations
 
 Every time an option is bought or sold, a prediction is made. The market, through the mechanism of price, is constantly "betting" on the probability of future price levels. Within **Dashboard Options**, the **Implied Probabilities Analysis** tool decodes these prices to provide a clear, mathematical view of exactly what the market expects.
 
