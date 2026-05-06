@@ -1,6 +1,6 @@
 ---
 title: "Max Pain Theory: Why Prices Gravitate Toward Losses"
-description: What is the Max Pain point and how does it influence stock prices near option expiration? Explore the mechanics of the Maximum Pain Theory.
+description: What is Max Pain theory and how does it create a gravitational pull on prices at expiration?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, max-pain, expiration, market-mechanics]
 keywords: [options, trading, derivatives, max-pain, maximum pain theory, expiration, market makers, pinning]
@@ -8,7 +8,7 @@ image: /img/Max-pain.webp
 slug: options-max-pain-theory-market-gravity
 ---
 
-# The Max Pain Theory: Why Prices Gravitate Toward Maximum Option Loss
+# Max Pain Theory: Why Prices Gravitate Toward Losses
 
 On the third Friday of every month, a curious phenomenon often occurs in the stock market: stock prices seem to "gravitate" toward specific strike prices as if pulled by an invisible magnet. In the world of derivatives, this is known as the **Max Pain Theory**. 
 
