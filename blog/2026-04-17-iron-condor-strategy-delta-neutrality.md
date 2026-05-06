@@ -1,6 +1,6 @@
 ---
 title: "The Iron Condor Strategy: Mastering Delta Neutrality"
-description: "A comprehensive academic breakdown of the Iron Condor strategy. Learn how to construct delta-neutral positions and harvest Theta decay in low-volatility regimes."
+description: How does the Iron Condor strategy allow you to profit from market stability and time decay?
 authors: [khalid]
 tags: [Dashboard Options, iron-condor, options-strategy, delta-neutral, quantitative-finance]
 keywords: [Iron Condor, Delta Neutral, Options Strategy, Theta Decay, Quantitative Trading, Dashboard Options, Volatility]
