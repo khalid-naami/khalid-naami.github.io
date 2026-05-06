@@ -1,6 +1,6 @@
 ---
 title: "The Collar Strategy: Complete Portfolio Protection"
-description: "Learn how institutional investors use the Collar strategy to mathematically eliminate catastrophic downside risk while financing the protection at zero cost."
+description: What is the Collar strategy and how can it provide bulletproof protection for your portfolio?
 authors: [khalid]
 tags: [Dashboard Options, collar-strategy, portfolio-protection, risk-management, options-strategy]
 keywords: [Collar Strategy, Portfolio Protection, Risk Management, Hedging, Options Trading, Quantitative Finance, Zero Cost Collar]
