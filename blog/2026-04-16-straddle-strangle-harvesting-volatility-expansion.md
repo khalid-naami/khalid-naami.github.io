@@ -1,6 +1,6 @@
 ---
 title: "The Straddle and Strangle: Harvesting Volatility"
-description: "Explore the Straddle and Strangle options strategies. Learn how to profit from explosive, direction-agnostic volatility expansions in Negative Gamma regimes."
+description: How do straddles and strangles allow you to profit from massive volatility expansion without picking a direction?
 authors: [khalid]
 tags: [Dashboard Options, straddle, strangle, volatility, quantitative-finance]
 keywords: [Straddle, Strangle, Options Strategy, Volatility Expansion, Long Vega, Dashboard Options, Gamma Squeeze]
