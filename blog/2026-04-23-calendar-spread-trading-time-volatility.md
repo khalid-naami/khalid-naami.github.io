@@ -1,6 +1,6 @@
 ---
 title: "The Calendar Spread: Trading Time and Volatility"
-description: "Master the Calendar Spread, a highly advanced quantitative options strategy designed to exploit the non-linear decay of time and term structure volatility."
+description: How do calendar spreads allow you to profit from discrepancies in time decay and volatility?
 authors: [khalid]
 tags: [Dashboard Options, calendar-spread, options-strategy, quantitative-finance, volatility]
 keywords: [Calendar Spread, Horizontal Spread, Theta Decay, Vega Expansion, Options Strategy, Quantitative Trading, Dashboard Options]
