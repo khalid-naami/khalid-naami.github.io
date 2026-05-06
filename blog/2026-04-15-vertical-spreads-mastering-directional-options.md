@@ -1,6 +1,6 @@
 ---
 title: "Vertical Spreads: Mastering Directional Options"
-description: "Discover how quantitative traders use Vertical Spreads to gain massive directional leverage while strictly capping risk and neutralizing Theta decay."
+description: What are vertical spreads and how can you use them to manage directional risk with precision?
 authors: [khalid]
 tags: [Dashboard Options, vertical-spreads, options-strategy, directional-trading, quantitative-finance]
 keywords: [Vertical Spreads, Bull Call Spread, Bear Put Spread, Options Trading, Quantitative Strategy, Directional Trading, Dashboard Options]
