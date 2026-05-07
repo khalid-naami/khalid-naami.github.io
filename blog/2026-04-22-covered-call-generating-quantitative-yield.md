@@ -11,7 +11,7 @@ date: 2026-04-22T14:00:00Z
 
 # The Covered Call: Generating Quantitative Yield
 
-In the world of long-term investing, "Buy and Hold" is the most popular strategy. While it is simple, it is highly inefficient. A passive investor relies entirely on capital appreciation and minor dividends, exposing their portfolio to maximum volatility during market downturns. 
+"Buy and Hold" is not a strategy; it's a hope. Passive investors leave massive amounts of yield on the table by relying solely on capital appreciation. By integrating the **Covered Call** into your portfolio, you transform static assets into a quantitative yield engine, turning time decay into a consistent income stream while lowering your cost basis.
 
 To a quantitative analyst, an equity portfolio is not just a collection of stocks; it is collateral. The **Covered Call** strategy is the academic method of using that collateral to manufacture synthetic dividends, actively lowering the cost basis of the portfolio and mathematically reducing systemic risk.
 
@@ -41,6 +41,7 @@ A standard long stock position has a Delta of +1.00 (it gains or loses $1 for ev
 The Covered Call is a **negative Vega** strategy. You want to deploy this strategy when Implied Volatility (IV) is historically high. Elevated IV drastically inflates option premiums, allowing you to collect significantly more cash for selling the exact same strike price. Academic traders actively hunt for high-IV environments to execute their Covered Calls, maximizing their yield-to-risk ratio.
 
 ![Covered Call Strategy Architecture](/img/covered_call.webp)
+
 *Visualizing the Covered Call: The strategy establishes a hard ceiling on potential profit, exchanging unlimited upside for immediate, guaranteed yield.*
 
 ## Strategic Implementation via Market Structure
