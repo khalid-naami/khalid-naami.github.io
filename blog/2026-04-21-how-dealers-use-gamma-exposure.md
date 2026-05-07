@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-21T14:00:00Z
 tags: [Dashboard Options, dealer-positioning, gamma, hedging, quantitative-finance]
 keywords: [Option Dealers, Gamma Exposure, Hedging, Dealer Positioning, Retail Trading, Market Makers, Quantitative Analysis]
-image: "/img/xag.webp"
+image: "/img/zero-gex.webp"
 slug: how-dealers-use-gamma-exposure
 ---
 
@@ -29,7 +29,7 @@ Because Delta changes, dealers cannot just hedge once and walk away. They must d
 *   **In Positive GEX Environments:** Dealers sell into rallies and buy into dips. This dynamic hedging absorbs volatility, causing the market to grind slowly or trade sideways.
 *   **In Negative GEX Environments:** Dealers are forced to buy into rallies (adding fuel to the fire) and sell into dips (exacerbating crashes). This creates explosive, directional momentum.
 
-![Dealer Gamma Exposure on XAG](/img/xag.webp)
+![Dealer Gamma Exposure on XAG](/img/zero-gex.webp)
 
 *Visualizing dealer Gamma distributions provides a clear roadmap of where hedging flows will dictate price action.*
 
