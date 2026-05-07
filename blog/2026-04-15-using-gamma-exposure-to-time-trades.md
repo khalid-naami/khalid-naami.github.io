@@ -1,6 +1,6 @@
 ---
 title: "Using Gamma Exposure (GEX) to Time Your Option Trading"
-description: How can you use Gamma Exposure levels to precisely time your market entries and exits?
+description: How to use GEX levels to precisely time entries and exits?
 authors: [khalid]
 date: 2026-04-15T08:00:00Z
 tags:
