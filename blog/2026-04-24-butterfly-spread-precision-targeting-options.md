@@ -11,7 +11,7 @@ date: 2026-04-24T14:00:00Z
 
 # The Butterfly Spread: Precision Targeting in Options
 
-If the Iron Condor is a wide net cast over the market to capture Theta decay, the **Butterfly Spread** is a sniper rifle. It is the ultimate expression of precision in quantitative options trading. 
+If you treat the market like a wide-net capture zone, you trade Iron Condors. But if you want to trade with the precision of a sniper, you master the **Butterfly Spread**. It is the most surgical instrument in the quantitative arsenal, designed to extract profit from a specific, pinpointed outcome with minimal capital at risk.
 
 While retail traders often use single-leg options to gamble on direction, institutional strategic analysts use the Butterfly Spread to mathematically target a specific, singular price point at expiration. When executed correctly in tandem with market structure data, it offers the highest reward-to-risk ratio of any non-directional strategy.
 
@@ -42,6 +42,7 @@ The Butterfly is a positive Theta strategy, but the decay is not linear. The sho
 The Butterfly is a negative Vega strategy. Because you are net short premium at the At-The-Money (ATM) strike (where extrinsic value is highest), a drop in Implied Volatility (IV) will immediately benefit the trade. Consequently, academic traders deploy Butterflies after major volatility-expanding events (like earnings or CPI data) to capitalize on the subsequent "IV Crush."
 
 ![Butterfly Spread Volatility Structure](/img/butterfly_spread.webp)
+
 *Visualizing the Butterfly Spread: The triangular peak represents the zone of maximum profitability, specifically designed to capture the \"pin\" at expiration.*
 
 ## Strategic Implementation: Hunting the "Pin"
