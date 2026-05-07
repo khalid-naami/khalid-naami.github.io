@@ -17,6 +17,7 @@ The market doesn't move in isolated metrics. You can't just 'watch Delta' and ex
 To master the market is to understand how these four pillars complete each other.
 
 ![Delta and Gamma Synergy](/img/gamma%20and%20delta.webp)
+
 *The foundational relationship between price movement and directional sensitivity.*
 
 ## The Interconnected Engine: How They Complete Each Other
@@ -38,6 +39,7 @@ By integrating all four Greeks, you gain a 360-degree vision:
 *   You don't just see a rally; you see **Gamma Acceleration** that will eventually lead to a "blow-off" top as hedges a replenished.
 
 ![Charm and Vanna Synergy](/img/charm%20and%20vanna.webp)
+
 *The advanced interplay between volatility shifts and time decay.*
 
 ## The Grand Physics Finale: The Racing Car Revisited
