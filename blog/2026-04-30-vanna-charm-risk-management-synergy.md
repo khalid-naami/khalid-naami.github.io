@@ -40,6 +40,7 @@ How do you use this knowledge to protect your investment portfolio?
 By analyzing the clustering of Vanna and Charm (as seen in the chart below), you can identify "Liquidity Pockets" where hedging flows will likely support the market rather than collapse it.
 
 ![Charm and Vanna Synergy](/img/charm%20and%20vanna.webp)
+
 *Visualizing the intersection of Vanna and Charm exposure levels.*
 
 ### 2. Strategic Strike Selection
