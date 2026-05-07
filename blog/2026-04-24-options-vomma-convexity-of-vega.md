@@ -1,6 +1,6 @@
 ---
 title: "Options Vomma: Understanding Vega Convexity"
-description: What is Vomma and why is it the secret to understanding the convexity of volatility risk?
+description: What is Vomma and how does it affect volatility risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol]
 keywords: [options, trading, derivatives, vomma, vega, vol-of-vol, implied volatility, risk management]
