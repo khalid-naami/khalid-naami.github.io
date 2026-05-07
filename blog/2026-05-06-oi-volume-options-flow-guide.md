@@ -1,6 +1,6 @@
 ---
-title: "Mastering Market Sentiment: A Deep Dive into OI, Volume, and Institutional Flow"
-description: What is the OI & Volume tool and why is it essential for tracking institutional positioning in the options market?
+title: "Mastering Market Sentiment: OI, Volume, and Institutional Flow"
+description: How to use OI & Volume to track institutional options flow?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, flow, volume, open interest]
 keywords: [options, trading, derivatives, flow, volume, open interest, market maker, occ]
@@ -9,7 +9,7 @@ slug: mastering-market-sentiment-oi-volume-flow
 date: 2026-05-06T06:00:00+00:00
 ---
 
-# Mastering Market Sentiment: A Deep Dive into OI, Volume, and Institutional Flow
+# Mastering Market Sentiment: OI, Volume, and Institutional Flow
 
 In the fast-paced world of options trading, following the “Smart Money” isn’t just an advantage—it’s a necessity. At **Dashboard Options**, we’ve built the **OI & Volume** tool to strip away the noise and reveal where institutional capital is actually moving.
 
