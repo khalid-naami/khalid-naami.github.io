@@ -1,6 +1,6 @@
 ---
 title: "Vanna-Charm Synergy: Protecting Your Portfolio"
-description: How can the synergy between Vanna and Charm help you build a bulletproof risk management strategy?
+description: Build bulletproof risk management with Vanna and Charm?
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, charm, risk-management, hedging, portfolio-protection]
 keywords: [options, vanna, charm, risk-management, hedging, portfolio-protection]
