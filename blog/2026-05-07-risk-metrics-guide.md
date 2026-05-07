@@ -1,6 +1,6 @@
 ---
 title: "Risk Metrics 101: VaR, Beta, Sharpe & Sortino"
-description: How can mastering essential risk metrics like VaR, Beta, Sharpe, and Sortino transform your approach from gambling to professional portfolio management?
+description: Master risk metrics like VaR, Beta, Sharpe, and Sortino?
 authors: [khalid]
 tags: [Daily Analysis, risk management, risk metrics, quantitative finance, portfolio management]
 keywords: [Daily Analysis, risk metrics, VaR, beta, sharpe ratio, sortino ratio, risk management, quantitative finance]
