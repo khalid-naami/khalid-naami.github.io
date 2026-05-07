@@ -1,6 +1,6 @@
 ---
 title: "The Iron Condor Strategy: Mastering Delta Neutrality"
-description: How does the Iron Condor strategy allow you to profit from market stability and time decay?
+description: How to profit from stability with the Iron Condor?
 authors: [khalid]
 tags:
   [
