@@ -1,6 +1,6 @@
 ---
 title: "R for Finance: Statistical Powerhouse of Quant Research"
-description: Why is R still the preferred language for deep statistical analysis and complex financial modeling in the quantitative world?
+description: Why is R preferred for deep statistical financial modeling?
 authors: [khalid]
 tags: [Science & Technology, R language, data science, statistical analysis, financial modeling]
 keywords: [Science & Technology, R language, data science, statistical analysis, financial modeling, quantitative finance, rstats]
