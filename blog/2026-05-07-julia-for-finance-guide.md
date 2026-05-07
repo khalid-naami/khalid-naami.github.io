@@ -1,5 +1,5 @@
 ---
-title: "Julia for Finance: High-Performance Computing at the Speed of Thought"
+title: "Julia for Finance: High-Performance Quant Research"
 description: Why is Julia becoming the preferred choice for high-frequency trading and complex financial simulations that require C-like speed?
 authors: [khalid]
 tags: [Science & Technology, julia, high performance computing, fintech, data analysis]
@@ -9,7 +9,7 @@ slug: julia-for-finance-high-performance-computing-guide
 date: 2026-05-07T14:00:00+00:00
 ---
 
-# Julia for Finance: High-Performance Computing at the Speed of Thought
+# Julia for Finance: High-Performance Quant Research
 
 In the world of quantitative finance, the "Two-Language Problem" has long been a source of frustration. Quants often prototype their ideas in easy-to-use languages like Python or R, only to have them rewritten in C++ or Java for production to achieve the necessary speed. Enter **Julia**: a language designed from the ground up to solve this problem, offering the ease of Python with the raw performance of C.
 
