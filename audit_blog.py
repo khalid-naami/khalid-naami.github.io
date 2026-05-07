@@ -28,9 +28,15 @@ for f in files:
     desc = desc_match.group(1) if desc_match else ""
     is_q = '?' in desc
     
+    desc_len = len(desc)
+    title_len = len(title)
+    
     issues = []
     if not h1: issues.append("Missing H1")
     elif h1.strip() != title.strip(): issues.append(f"Title/H1 mismatch: '{title}' vs '{h1}'")
+    
+    if title_len > 70: issues.append(f"Title too long: {title_len} chars")
+    if desc_len > 70: issues.append(f"Description too long: {desc_len} chars")
     
     if not trunc: issues.append("Missing <!-- truncate -->")
     if not slug: issues.append("Missing slug")
