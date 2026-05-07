@@ -1,6 +1,6 @@
 ---
 title: "The 3D Gamma Surface: Navigating Market Risk Topography"
-description: How does the 3D Gamma Surface help you navigate the complex topography of institutional risk?
+description: Navigate institutional risk with the 3D Gamma Surface?
 authors: [khalid]
 tags: [Dashboard Options, analytics, 3d-surface, gamma, risk-management, visualization]
 keywords: [options, trading, derivatives, 3d gamma surface, gamma landscape, risk topography, dashboard options, data visualization]
