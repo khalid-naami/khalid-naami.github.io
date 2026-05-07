@@ -1,6 +1,6 @@
 ---
 title: "Exposure Heatmap: Visualizing Greek Risk"
-description: How can the Exposure Heatmap help you visualize multi-dimensional Greek risk at a single glance?
+description: Visualize Greek risk with the Exposure Heatmap?
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
 keywords: [options, trading, derivatives, exposure heatmap, dashboard options, greeks, data visualization, gamma walls]
