@@ -21,7 +21,7 @@ keywords:
     Dashboard Options,
     Option Greeks,
   ]
-image: "/img/gex%20dex.webp"
+image: "/img/why-gamma-exposure.webp"
 slug: why-trading-gex-dominates-other-strategies
 ---
 
