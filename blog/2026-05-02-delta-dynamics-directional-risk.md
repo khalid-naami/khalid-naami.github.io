@@ -1,6 +1,6 @@
 ---
 title: "Delta Dynamics: The Compass of Options Trading"
-description: What is Delta and how can you use it as a directional compass for your options positions?
+description: Use Delta as a directional compass for your trades?
 authors: [khalid]
 tags: [Dashboard Options, options, delta, greeks, risk-management, spx]
 keywords: [options, delta, greeks, risk-management, spx]
