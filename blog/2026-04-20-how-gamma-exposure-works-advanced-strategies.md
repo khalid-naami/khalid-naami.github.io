@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-20T08:00:00Z
 tags: [Dashboard Options, gamma, quantitative-finance, risk-management, options-trading]
 keywords: [Gamma Exposure, GEX, Options Trading, Dashboard Options, Quantitative Finance, Market Liquidity, Volatility]
-image: /img/Screenshot%202026-04-10%20142251.webp
+image: /img/positive-gamma.webp
 slug: how-gamma-exposure-works-advanced-strategies
 ---
 
@@ -37,7 +37,7 @@ When market makers are in a net negative Gamma position (typically when the mark
 *   **The Mechanics:** As the underlying price falls, MMs are forced to **sell** the asset to hedge their short put positions. As the price rises, they are forced to **buy**.
 *   **The Result:** Market makers are now trading *with* the momentum rather than against it. This creates violent, accelerated price swings, leading to massive gap-downs or explosive short-covering rallies.
 
-![Dashboard Options Gamma Analysis](/img/Screenshot%202026-04-10%20142251.webp)
+![Dashboard Options Gamma Analysis](/img/positive-gamma.webp)
 
 *Visualizing the Gamma topography to identify critical levels where hedging flows will heavily influence price action.*
 
