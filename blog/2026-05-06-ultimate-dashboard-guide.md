@@ -1,6 +1,6 @@
 ---
 title: "Ultimate Options Dashboard: Price Action & Greeks Analysis"
-description: What makes our Dashboard the most powerful all-in-one analysis tool for professional options traders?
+description: What makes our Dashboard the ultimate options tool?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, greeks, gamma, delta, vanna, charm]
 keywords: [options, dashboard, greeks, gamma, delta, vanna, charm, technical analysis, trading, spx]
