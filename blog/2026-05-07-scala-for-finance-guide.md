@@ -1,6 +1,6 @@
 ---
 title: "Scala for Finance: Functional Programming in Trading"
-description: Why is Scala the secret weapon for building high-concurrency financial systems and massive data processing pipelines in the modern fintech stack?
+description: Why is Scala the secret weapon for financial systems?
 authors: [khalid]
 tags: [Science & Technology, scala, fintech, big data, functional programming]
 keywords: [Science & Technology, scala, fintech, big data, functional programming, apache spark, high concurrency, financial systems]
