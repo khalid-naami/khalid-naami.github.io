@@ -11,7 +11,7 @@ date: 2026-04-23T08:00:00Z
 
 # The Calendar Spread: Trading Time and Volatility
 
-Retail traders are overwhelmingly obsessed with the direction of the market. They ask: "Will it go up, or will it go down?" For the academic strategic analyst, this is the wrong question. In advanced quantitative finance, the most lucrative dimensions to trade are not direction, but **Time** and **Volatility**. 
+Directional guessing is for amateurs. Professional quantitative analysts know that the most lucrative dimensions to trade are **Time** and **Volatility**. The **Calendar Spread** is our primary weapon for isolating these dimensions, structurally weaponizing the passage of time against the market's expectation of volatility.
 
 The **Calendar Spread** (also known as a Horizontal Spread or Time Spread) is the ultimate instrument for isolating these two dimensions. It is a highly sophisticated, low-risk strategy that structurally weaponizes the calendar against the options market.
 
@@ -44,6 +44,7 @@ Therefore, academic traders deploy Calendar Spreads in low-volatility environmen
 When initiated At-the-Money (ATM), the Calendar Spread is perfectly **Delta-neutral**. The trader does not care if the market goes up slightly or down slightly; they only care that the market remains relatively calm until the near-term option expires worthless.
 
 ![Calendar Spread Volatility Structure](/img/calendar_spread.webp)
+
 *Visualizing the Calendar Spread: A strategy that operates in the dimensions of time and volatility, structurally isolated from aggressive directional risk.*
 
 ## Strategic Implementation via Market Mechanics
