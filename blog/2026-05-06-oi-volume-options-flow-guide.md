@@ -37,11 +37,11 @@ When you see a spike in **Volume by Strike** (green/red bars) relative to existi
 
 While OI is the map, **Flow** is the current. It represents the actual premium being spent right now.
 
-![Options Flow Overview](/img/options%20flow.webp)
+![Options Flow Overview](/img/options-flow-analysis-small.webp)
 
 We don’t just look at numbers; we look at the **Premium PCR** (Put/Call Ratio). If the Call Premium significantly outweighs the Put Premium, it’s a clear sign of aggressive bullish sentiment—even if the contract volume looks balanced.
 
-![Flow Detail Summary](/img/options%20flow%20analysis.webp)
+![Flow Detail Summary](/img/options-flow-analysis-small.webp)
 
 The real alpha is in the **Moneyness Breakdown**:
 *   **ITM (In-The-Money)**: This is where institutions typically operate for directional bets.
@@ -53,13 +53,13 @@ The real alpha is in the **Moneyness Breakdown**:
 
 Trading is about money, not just contracts. A single institutional block trade can carry more weight than thousands of retail orders.
 
-![Premium Flow Analysis](/img/premuim%20analysis.webp)
+![Premium Flow Analysis](/img/premium-analysis-small.webp)
 
 Our **Premium Summary** simplifies the complex. By looking at the **Call/Put Premium Ratio**, you get an immediate pulse on whether the flow is “Bullish” or “Bearish.”
 
-![Visual Premium Breakdown](/img/premuim%20analyse.webp)
+![Visual Premium Breakdown](/img/premium-analyse-small.webp)
 
-![Top Premium Strikes](/img/premium%20analys.webp)
+![Top Premium Strikes](/img/premium-analysis-small.webp)
 
 The **Top Premium Strikes** table is your cheat sheet. It identifies the exact price levels where the most significant capital is being committed. If $100M is hitting a specific strike, the market is going to react to it.
 
