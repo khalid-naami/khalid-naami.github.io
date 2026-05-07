@@ -10,7 +10,7 @@ slug: options-color-gamma-decay-risk
 
 # Options Color: Managing Gamma Decay and Pin Risk
 
-In the final hours and days of an option's life, the Greeks behave in ways that can baffle even experienced traders. While Theta measures the erosion of an option's price over time, **Color** measures the erosion of its **Gamma**. To master the dynamics of 0DTE (Zero Day to Expiration) and institutional hedging, understanding Color is essential.
+The final hours of a 0DTE trade are where fortunes are made or lost on the back of Greeks that most traders don't even know exist. While everyone watches Theta decay, professional hedgers are watching **Color**—the rate at which your Gamma is eroding. If you don't understand Color, you don't understand why your "perfect" hedge suddenly fails as the clock runs out.
 
 <!-- truncate -->
 
@@ -32,6 +32,7 @@ Gamma is highly sensitive to time, especially for At-the-Money (ATM) options.
 *   **The Hedging Challenge:** High Color means that even if the stock price doesn't move, your Gamma exposure will change just because time is passing. This forces traders to make more frequent and aggressive hedging adjustments to maintain a neutral position.
 
 ![Options Color Analysis](/img/color.webp)
+
 *Visualizing Options Color: Observe how Gamma sensitivity intensifies and narrows as time to expiration (DTE) decreases.*
 
 ## Color and Pin Risk
