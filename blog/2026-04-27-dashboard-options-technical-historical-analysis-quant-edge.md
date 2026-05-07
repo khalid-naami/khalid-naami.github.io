@@ -1,6 +1,6 @@
 ---
 title: "Advanced Analysis: Merging Price Action with Statistics"
-description: How can merging price action with statistical historical analysis provide a true quantitative edge?
+description: Merge price action with stats for a quantitative edge?
 authors: [khalid]
 tags: [Dashboard Options, technical-analysis, historical-data, returns-analysis, quant-trading, trading-strategy]
 keywords: [options, trading, derivatives, technical analysis, historical returns, typical range analysis, dashboard options, RSI, MACD, quantitative trading]
