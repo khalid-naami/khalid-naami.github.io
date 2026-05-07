@@ -10,7 +10,7 @@ slug: options-max-pain-theory-market-gravity
 
 # Max Pain Theory: Why Prices Gravitate Toward Losses
 
-On the third Friday of every month, a curious phenomenon often occurs in the stock market: stock prices seem to "gravitate" toward specific strike prices as if pulled by an invisible magnet. In the world of derivatives, this is known as the **Max Pain Theory**. 
+There is a reason stock prices often seem to gravitate toward specific strikes on expiration Friday, and it isn't magic—it's market mechanics. **Max Pain Theory** isn't just a retail observation; it is a manifestation of institutional delta-hedging clusters that create a literal "gravity" in the price action.
 
 <!-- truncate -->
 
@@ -29,6 +29,7 @@ To find the Max Pain point, analysts calculate the total "dollar value" of all o
 4.  The strike with the **lowest total value** is the Max Pain point.
 
 ![Max Pain Visualization](/img/Max-pain.webp)
+
 *Typical Max Pain chart: The valley in the center represents the strike price where the least amount of capital is paid out to option holders.*
 
 ## The Role of Market Maker Hedging
