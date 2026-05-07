@@ -10,7 +10,7 @@ slug: options-delta-adjusted-exposure-true-risk
 
 # Delta-Adjusted Exposure: Measuring True Market Risk
 
-One of the most common mistakes in options trading is focusing solely on the "notional value" of a position. While notional value tells you the total face value of the underlying assets, it doesn't account for the probability of those assets moving. To understand your real directional risk, you must look at **Delta-Adjusted Exposure**.
+Judging your risk by "notional value" is one of the fastest ways to blow up an account. Notional value tells you what you've bought, but **Delta-Adjusted Exposure** tells you what you actually *risk*. If you aren't weighting your exposure by the probability of price movement, you're flying blind through a storm.
 
 <!-- truncate -->
 
@@ -36,6 +36,7 @@ $$
 $$
 
 ![Delta-Adjusted Exposure Analysis](/img/Delta-Adjusted.webp)
+
 *Delta-Adjusted exposure visualization: Comparing raw notional values to the actual directional risk across different strikes.*
 
 ## Why It Matters for Risk Management
