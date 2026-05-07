@@ -48,6 +48,7 @@ Delta quantifies your "directional bias." A high Delta means you are aggressivel
 In the S&P 500 (SPX) markets, Delta analysis is critical for understanding market liquidity and potential "pinning" levels.
 
 ![SPX Delta Analysis](/img/Delta%20spx.webp)
+
 *Analysis of Delta exposure across various SPX strikes.*
 
 As seen in the chart above, Delta exposure tends to cluster around key psychological levels. Professional institutional desks monitor these "Delta walls" because they often act as support or resistance levels where market makers are forced to adjust their hedges.
