@@ -1,6 +1,6 @@
 ---
 title: "Options Speed: Mastering the Gamma of Gamma"
-description: What is Speed and how does mastering the 'gamma of gamma' help you anticipate rapid market shifts?
+description: What is Speed and how does it help anticipate shifts?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, speed, gamma, greeks]
 keywords: [options, trading, derivatives, speed, gamma, greeks, hedging, risk management]
