@@ -1,6 +1,6 @@
 ---
 title: "The Collar Strategy: Complete Portfolio Protection"
-description: What is the Collar strategy and how can it provide bulletproof protection for your portfolio?
+description: Bulletproof portfolio protection with the Collar?
 authors: [khalid]
 tags: [Dashboard Options, collar-strategy, portfolio-protection, risk-management, options-strategy]
 keywords: [Collar Strategy, Portfolio Protection, Risk Management, Hedging, Options Trading, Quantitative Finance, Zero Cost Collar]
