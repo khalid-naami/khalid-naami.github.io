@@ -1,6 +1,6 @@
 ---
 title: "The Physics of Options: Synergy Between Delta and Gamma"
-description: How does the synergy between different Greeks create a physics-like environment in the options market?
+description: How Greeks create physics-like market environments?
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, physics, greeks, risk-management]
 keywords: [options, delta, gamma, physics, greeks, risk-management]
