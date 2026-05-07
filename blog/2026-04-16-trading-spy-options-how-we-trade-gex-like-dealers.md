@@ -1,6 +1,6 @@
 ---
 title: "Trading SPY Options Like Professional Dealers"
-description: How can you trade SPY options by mirroring the mechanical hedging behavior of professional market makers?
+description: How to trade SPY by mirroring professional dealer flows?
 authors: [khalid]
 date: 2026-04-16T14:00:00Z
 tags: [Dashboard Options, SPY, gamma, options-trading, quantitative-finance]
