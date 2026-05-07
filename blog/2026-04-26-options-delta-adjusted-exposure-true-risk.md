@@ -1,6 +1,6 @@
 ---
 title: "Delta-Adjusted Exposure: Measuring True Market Risk"
-description: What is Delta-Adjusted Exposure and why is it the only true measure of your market directional risk?
+description: Is Delta-Adjusted Exposure the true directional risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, delta, risk-management, exposure]
 keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, notional value, risk management]
