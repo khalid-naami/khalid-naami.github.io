@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-18T08:00:00Z
 tags: [Dashboard Options, zero-gamma, volatility, options-trading, quantitative-finance]
 keywords: [Zero Gamma, Volatility Pivot, Options Trading, GEX, Market Makers, Quantitative Analysis, Gamma Flip]
-image: "/img/xag.webp"
+image: "/img/zero-gex.webp"
 slug: how-to-trade-zero-gamma-volatility-pivot
 ---
 
@@ -34,7 +34,7 @@ If a sudden macroeconomic shock causes the price to drop rapidly toward the Zero
 *   **The Mechanics:** As the price falls toward Zero Gamma, market makers who are long Gamma must aggressively buy the underlying asset to remain delta-neutral. This creates massive mechanical support exactly at the Zero line.
 *   **The Trade:** Quantitative traders will sell Out-of-the-Money (OTM) put credit spreads right below the Zero Gamma level, or buy short-term calls, betting that the mechanical dealer buying will force a bounce.
 
-![Zero Gamma Level Analysis](/img/xag.webp)
+![Zero Gamma Level Analysis](/img/zero-gex.webp)
 
 *Visualizing the transition zone: The area around the Zero Gamma line is the most critical pivot point for volatility expansion.*
 
