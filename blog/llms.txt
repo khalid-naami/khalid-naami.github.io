@@ -14,6 +14,7 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
 
 # Blog Posts
 
+- [2026-05-07-html-css-fintech-guide](https://khalidnaami.com/blog/2026-05-07-html-css-fintech-guide)
 - [2026-05-06-javascript-for-finance-guide](https://khalidnaami.com/blog/2026-05-06-javascript-for-finance-guide)
 - [2026-05-06-multi-ticker-analysis-guide](https://khalidnaami.com/blog/2026-05-06-multi-ticker-analysis-guide)
 - [2026-05-06-oi-volume-options-flow-guide](https://khalidnaami.com/blog/2026-05-06-oi-volume-options-flow-guide)
