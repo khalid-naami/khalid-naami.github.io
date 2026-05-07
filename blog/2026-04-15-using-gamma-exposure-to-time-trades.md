@@ -20,7 +20,7 @@ keywords:
     GEX,
     Options Greeks,
   ]
-image: /img/3D.webp
+image: /img/using-gamma.webp
 slug: using-gamma-exposure-to-time-trades
 ---
 
@@ -62,7 +62,7 @@ When the market is in a positive GEX regime and experiences a sudden pullback, t
 
 - **The Timing Signal:** As the price drops and approaches the Zero-Gamma line, market makers are forced to buy the underlying asset to hedge. This creates massive structural support. An academic trader will time their entry (selling put credit spreads or buying calls) exactly at this Zero-Gamma line, anticipating the mechanical \"bounce\" back upward.
 
-![3D Gamma Surface Topography](/img/3D.webp)
+![Using Gamma Exposure](/img/using-gamma.webp)
 
 _The 3D Gamma Surface allows you to visualize these peaks and valleys, mapping out exact timing zones for your entries._
 
