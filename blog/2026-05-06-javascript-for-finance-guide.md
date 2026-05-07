@@ -1,6 +1,6 @@
 ---
 title: "JavaScript in Finance: Powering Real-Time Financial Dashboards"
-description: Why is JavaScript the essential engine for building high-performance financial visualizations and real-time dashboards?
+description: Why JS is the engine for real-time financial dashboards?
 authors: [khalid]
 tags: [Science & Technology, javascript, finance, data visualization, fintech, real-time data]
 keywords: [Science & Technology, javascript, finance, data visualization, fintech, real-time data, web development]
