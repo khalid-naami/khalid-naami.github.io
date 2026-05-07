@@ -15,11 +15,14 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
 # Blog Posts
 
 - [2026-05-07-c-plus-plus-for-finance-guide](https://khalidnaami.com/blog/2026-05-07-c-plus-plus-for-finance-guide)
+- [2026-05-07-fair-bets-kelly-criterion-guide](https://khalidnaami.com/blog/2026-05-07-fair-bets-kelly-criterion-guide)
+- [2026-05-07-game-of-probabilities-guide](https://khalidnaami.com/blog/2026-05-07-game-of-probabilities-guide)
 - [2026-05-07-html-css-fintech-guide](https://khalidnaami.com/blog/2026-05-07-html-css-fintech-guide)
 - [2026-05-07-julia-for-finance-guide](https://khalidnaami.com/blog/2026-05-07-julia-for-finance-guide)
 - [2026-05-07-r-language-for-finance-guide](https://khalidnaami.com/blog/2026-05-07-r-language-for-finance-guide)
 - [2026-05-07-react-js-fintech-guide](https://khalidnaami.com/blog/2026-05-07-react-js-fintech-guide)
 - [2026-05-07-scala-for-finance-guide](https://khalidnaami.com/blog/2026-05-07-scala-for-finance-guide)
+- [2026-05-07-volatility-estimators-yang-zhang-guide](https://khalidnaami.com/blog/2026-05-07-volatility-estimators-yang-zhang-guide)
 - [2026-05-06-javascript-for-finance-guide](https://khalidnaami.com/blog/2026-05-06-javascript-for-finance-guide)
 - [2026-05-06-multi-ticker-analysis-guide](https://khalidnaami.com/blog/2026-05-06-multi-ticker-analysis-guide)
 - [2026-05-06-oi-volume-options-flow-guide](https://khalidnaami.com/blog/2026-05-06-oi-volume-options-flow-guide)
