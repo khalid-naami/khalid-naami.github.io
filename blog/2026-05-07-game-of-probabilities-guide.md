@@ -1,6 +1,6 @@
 ---
 title: "The Game of Probabilities: Stochastic Processes"
-description: Why is understanding the mathematical transition from determinism to stochastic processes the foundation of professional risk management?
+description: Transition from determinism to stochastic risk management?
 authors: [khalid]
 tags: [Daily Analysis, probability, stochastic processes, risk management, mathematics]
 keywords: [Daily Analysis, probability, stochastic processes, risk management, determinism, quantitative finance, statistics]
