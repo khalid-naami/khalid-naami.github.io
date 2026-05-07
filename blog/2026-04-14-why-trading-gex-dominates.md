@@ -1,6 +1,6 @@
 ---
 title: "Why Gamma Exposure (GEX) Dominates Other Strategies"
-description: Why does Gamma Exposure (GEX) outperform traditional technical analysis and fundamental strategies?
+description: Why GEX outperforms technical and fundamental analysis?
 authors: [khalid]
 date: 2026-04-14T08:00:00Z
 tags:
