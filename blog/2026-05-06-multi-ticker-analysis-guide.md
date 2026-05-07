@@ -1,6 +1,6 @@
 ---
 title: "Dashboard Options: Mastering Multi-Ticker Analysis"
-description: How can you use the Multi-Ticker tool to identify institutional positioning gaps between correlated assets?
+description: Identify institutional gaps with the Multi-Ticker tool?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, correlation, spx, spy]
 keywords: [options, trading, derivatives, correlation, spx, spy, multi ticker, technical analysis]
