@@ -1,6 +1,6 @@
 ---
 title: "How Option Dealers Use Gamma Exposure To Trade"
-description: How do institutional option dealers use gamma exposure to manage their massive books?
+description: How institutional dealers use GEX to manage their books?
 authors: [khalid]
 date: 2026-04-21T14:00:00Z
 tags: [Dashboard Options, dealer-positioning, gamma, hedging, quantitative-finance]
