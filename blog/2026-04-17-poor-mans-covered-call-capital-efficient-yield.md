@@ -1,6 +1,6 @@
 ---
 title: "The Poor Man's Covered Call: Capital Efficient Yield"
-description: What is a Poor Man’s Covered Call and how can it generate high yield with minimal capital?
+description: Generate high yield with a Poor Man's Covered Call?
 authors: [khalid]
 tags:
   [
