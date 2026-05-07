@@ -32,6 +32,7 @@ By plotting strikes on one axis and expirations on the other, the heatmap reveal
 The colors on the heatmap aren't static; they react to the shifting flows of the market. By watching the "heat" move, traders can identify where institutional players are rolling their positions or where market makers are being forced to hedge.
 
 ![Options Exposure Heatmap](/img/heatmap.webp)
+
 *A high-level view of the Exposure Heatmap showing the distribution of Greek risks across the chain.*
 
 ## Strategic Insights: Reading the "Heat"
@@ -42,6 +43,7 @@ How do professional traders use this tool?
 *   **Hedging Optimization:** By seeing where their own portfolio's "heat" lies, traders can pinpoint exactly which strikes to use for a more efficient hedge.
 
 ![Advanced Analysis with Exposure Heatmap](/img/Expuser-Heathmap2.webp)
+
 *Detailed strike-level analysis using the secondary heatmap view for deep-dive risk assessment.*
 
 ## Conclusion: Data is Good, Vision is Better
