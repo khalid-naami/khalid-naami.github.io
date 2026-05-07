@@ -1,5 +1,5 @@
 ---
-title: "Comparative Edge: Mastering Multi-Ticker Analysis for Correlated Assets"
+title: "Dashboard Options: Mastering Multi-Ticker Analysis"
 description: How can you use the Multi-Ticker tool to identify institutional positioning gaps between correlated assets?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, correlation, spx, spy]
@@ -9,7 +9,7 @@ slug: comparative-edge-multi-ticker-analysis
 date: 2026-05-06T09:00:00+00:00
 ---
 
-# Comparative Edge: Mastering Multi-Ticker Analysis for Correlated Assets
+# Dashboard Options: Mastering Multi-Ticker Analysis
 
 In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the **SPX** (S&P 500 Index) and **SPY** (S&P 500 ETF)—is where the real alpha is found.
 
