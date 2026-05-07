@@ -11,7 +11,7 @@ date: 2026-04-18T14:00:00Z
 
 # The Iron Butterfly: High-Probability Pin Targeting
 
-In the intricate world of quantitative options trading, strategies are often blended to optimize the balance between risk, reward, and probability. If you merge the wide-net Theta collection of an Iron Condor with the sniper-like precision of a standard Butterfly Spread, you forge the **Iron Butterfly**.
+The **Iron Butterfly** is the ultimate synthesis of probability and precision. By combining the broad-based theta collection of an Iron Condor with the pinpoint target of a Butterfly, we create a strategy that weaponizes time decay with an incredible risk-to-reward ratio. It is the sniper's choice for a range-bound market.
 
 The Iron Butterfly is an advanced, non-directional, defined-risk strategy. For the academic strategic analyst, it is the ultimate tool for monetizing high implied volatility environments while maintaining absolute control over capital exposure.
 
@@ -43,6 +43,7 @@ The Iron Butterfly is an absolute powerhouse of **positive Theta**. Because the 
 This is a strictly **negative Vega** strategy. You are selling the most expensive volatility on the board. Therefore, the absolute best time to deploy an Iron Butterfly is when Implied Volatility (IV) is at historical extremes. If IV drops (the "IV Crush"), the value of the short Straddle in the center of your position will implode, allowing you to buy it back for a massive profit long before expiration.
 
 ![Iron Butterfly Payout Structure](/img/iron_butterfly.webp)
+
 *Visualizing the Iron Butterfly: The massive premium collected creates a wide "tent" of profitability, offering a higher probability of success than traditional Butterfly spreads.*
 
 ## Strategic Implementation via Market Structure
