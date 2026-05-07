@@ -1,5 +1,5 @@
 ---
-title: "Fair Bets and the Kelly Criterion: The Mathematics of Optimal Sizing"
+title: "Fair Bets & Kelly Criterion: Mastering Position Sizing"
 description: How can understanding the concept of a fair bet and the Kelly Criterion protect your portfolio from ruin while maximizing long-term growth?
 authors: [khalid]
 tags: [Daily Analysis, risk management, kelly criterion, expected value, mathematics]
@@ -9,7 +9,7 @@ slug: fair-bets-kelly-criterion-optimal-position-sizing-guide
 date: 2026-05-07T16:00:00+00:00
 ---
 
-# Fair Bets and the Kelly Criterion: The Mathematics of Optimal Sizing
+# Fair Bets & Kelly Criterion: Mastering Position Sizing
 
 In our previous discussions on probability, we explored the stochastic nature of the markets. But knowing the probabilities is only half the battle. The true secret to long-term survival and exponential growth in trading lies in answering one critical question: **How much should I bet?** To answer this, we must understand the concepts of a "Fair Bet" and the mathematical precision of the **Kelly Criterion**.
 
