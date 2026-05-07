@@ -1,6 +1,6 @@
 ---
 title: "Implied Probabilities: Quantifying Market Expectations"
-description: How can you use implied probability analysis to quantify the market's expected moves?
+description: Quantify expected moves with implied probability?
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
 keywords: [options, trading, derivatives, implied probabilities, expected move, standard deviation, delta, trading ranges, dashboard options]
