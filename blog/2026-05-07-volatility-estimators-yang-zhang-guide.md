@@ -23,6 +23,8 @@ Before we can measure volatility, we must define how we calculate price changes.
 
 $$
 r_t = \ln\left(\frac{P_t}{P_{t-1}}\right)
+$$
+
 1.  **Time Additivity**: The log-return over two days is simply the sum of the log-returns of each day.
 2.  **Normalization**: Log-returns follow a more symmetric distribution, making them easier to model using the standard deviation.
 
