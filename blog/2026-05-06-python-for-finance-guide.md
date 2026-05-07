@@ -1,6 +1,6 @@
 ---
 title: "Python for Finance: The Engine of Modern Quantitative Analysis"
-description: Why has Python become the indispensable tool for financial data analysis and quantitative trading?
+description: Why is Python indispensable for quantitative trading?
 authors: [khalid]
 tags: [Science & Technology, python, finance, data analysis, quantitative trading]
 keywords: [Science & Technology, python, finance, data analysis, quantitative trading, automation, fintech]
