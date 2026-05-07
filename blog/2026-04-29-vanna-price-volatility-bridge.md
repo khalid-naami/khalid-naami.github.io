@@ -10,7 +10,7 @@ slug: vanna-price-volatility-bridge
 
 # Vanna: The Bridge Between Price and Volatility
 
-As traders move beyond the primary Greeks (Delta, Gamma, Theta, Vega), they enter the world of **Second-Order and Cross-Greeks**. Among these, **Vanna** is perhaps the most critical for understanding how institutional liquidity providers manage their risk in volatile markets.
+**Vanna** is the bridge between price and volatility. In institutional finance, liquidity providers don't just worry about where the price is; they worry about how their hedges will react when volatility shifts. If you aren't tracking Vanna, you aren't seeing the 'invisible' liquidity walls that dictate market reversals during volatility crushes.
 
 <!-- truncate -->
 
@@ -39,6 +39,7 @@ When volatility spikes during a market sell-off, Vanna dictates that call option
 Professional traders look at Vanna "walls" to identify levels where institutional hedging will likely provide support or resistance. 
 
 ![SPX Vanna Exposure](/img/vanna.webp)
+
 *Typical Vanna exposure across SPX strikes.*
 
 As shown in the chart above, Vanna clustering at specific strike prices (like significant put walls) can act as a magnet for price action or a hard floor during high-volatility events.
