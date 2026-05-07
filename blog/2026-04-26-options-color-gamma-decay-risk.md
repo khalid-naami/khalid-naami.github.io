@@ -1,6 +1,6 @@
 ---
 title: "Options Color: Managing Gamma Decay and Pin Risk"
-description: What is Color and how can it help you manage the risk of gamma decay as expiration approaches?
+description: What is Color and how to manage gamma decay risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, color, gamma, theta, pin-risk]
 keywords: [options, trading, derivatives, color, gamma, theta, pin-risk, gamma decay, risk management]
