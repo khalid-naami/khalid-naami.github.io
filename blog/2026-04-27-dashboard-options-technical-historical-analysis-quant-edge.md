@@ -40,7 +40,7 @@ This is where the "Quant" edge comes in. The tool analyzes thousands of past dat
 ### 3. Typical Range Analysis
 Every asset has a "personality"—a typical range of movement that it rarely exceeds. Our tool calculates these **Typical Ranges**, providing you with a volatility-based "box" for the price. If the price moves outside this typical range, the tool flags it as an "Exhaustion" or "Breakout" event.
 
-![Typical Ranges Analysis](/img/typical-ranges-analysis.webp)
+![Typical Ranges Analysis](/img/typical-ranges-analysis-small.webp)
 
 *Mapping the 'normal' volatility boundaries to identify overextended price action.*
 
