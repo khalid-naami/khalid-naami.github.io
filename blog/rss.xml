@@ -2319,7 +2319,7 @@ When option dealers are heavily short Gamma, they do not look at an RSI indicato
 <li><strong>Negative GEX Regime:</strong> The market is chaotic, volatile, and deeply directional. Mean-reverting strategies (like Iron Condors) will blow up your account here.</li>
 </ul>
 <p>By looking at total market GEX, a quantitative analyst immediately knows which "rules" the market is playing by today. You can instantly filter out 90% of bad trades simply by avoiding strategies that conflict with the current GEX regime.</p>
-<p><img decoding="async" loading="lazy" alt="Dominance of GEX Analysis" src="https://khalidnaami.com/assets/images/gex%20dex-a6e13c8abd61b81bcd69d48902f3a463.webp" width="600" height="337" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Dominance of GEX Analysis" src="https://khalidnaami.com/assets/images/why-gamma-exposure-a14d67dc1234dcbe770c89a3a1413a53.webp" width="1200" height="674" class="img_ev3q"></p>
 <p><em>Platforms like Dashboard Options provide the critical visualization needed to track these institutional flows, rendering traditional charting obsolete.</em></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-unmatched-precision-in-timing">4. Unmatched Precision in Timing<a href="https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies#4-unmatched-precision-in-timing" class="hash-link" aria-label="Direct link to 4. Unmatched Precision in Timing" title="Direct link to 4. Unmatched Precision in Timing">​</a></h2>
 <p>The hardest part of trading is timing. You can be right about the direction of a stock but still lose money if your timing is wrong (especially in options trading, where Theta decays your premium).</p>
