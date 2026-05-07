@@ -1,5 +1,5 @@
 ---
-title: "Risk Metrics Unveiled: From Sharpe Ratio to Multi-Dimensional VaR"
+title: "Risk Metrics 101: VaR, Beta, Sharpe & Sortino"
 description: How can mastering essential risk metrics like VaR, Beta, Sharpe, and Sortino transform your approach from gambling to professional portfolio management?
 authors: [khalid]
 tags: [Daily Analysis, risk management, risk metrics, quantitative finance, portfolio management]
@@ -9,7 +9,7 @@ slug: risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide
 date: 2026-05-07T18:00:00+00:00
 ---
 
-# Risk Metrics Unveiled: From Sharpe Ratio to Multi-Dimensional VaR
+# Risk Metrics 101: VaR, Beta, Sharpe & Sortino
 
 In the world of investing, everyone loves to talk about returns. But returns are only half of the story. Professional trading is not about how much you make, but how much you *risk* to make it. To transition from a retail speculator to a professional portfolio manager, you must master the mathematical metrics that quantify risk. 
 
