@@ -1,6 +1,6 @@
 ---
 title: "The IV Surface: Decoding Market Expectations"
-description: How can you decode the Implied Volatility (IV) surface to reveal the market’s hidden expectations?
+description: How to decode the IV surface to reveal market expectations?
 authors: [khalid]
 tags: [Dashboard Options, analytics, iv-surface, implied-volatility, skew, term-structure]
 keywords: [options, trading, derivatives, iv surface, implied volatility, volatility smile, volatility skew, term structure, dashboard options]
