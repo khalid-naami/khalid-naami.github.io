@@ -10,7 +10,7 @@ slug: charm-the-invisible-delta-decay
 
 # Charm: The Invisible Erosion of Directional Exposure
 
-While Theta is the well-known Greek that measures the loss of an option's value over time, there is a more subtle "time-related" Greek that professional risk managers watch closely: **Charm**. 
+Theta gets all the attention for time decay, but **Charm** is the silent driver that actually alters your directional risk as expiration approaches. For the institutional risk manager, ignoring Charm isn't an option; it's the difference between a controlled exit and a forced liquidation. 
 
 <!-- truncate -->
 
