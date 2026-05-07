@@ -1,6 +1,6 @@
 ---
 title: "Charm: The Invisible Erosion of Directional Exposure"
-description: What is Charm and why is it the most important Greek for managing overnight directional drift?
+description: Is Charm the most vital Greek for overnight drift?
 authors: [khalid]
 tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-management]
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
