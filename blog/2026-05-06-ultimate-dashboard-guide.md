@@ -32,7 +32,7 @@ The core of the dashboard features a live intraday chart for major tickers like 
 
 Understanding where dealers are positioned is crucial for predicting price acceleration.
 
-![Gamma and Delta Exposure by Strike](/img/dashboard-2-v2.webp)
+![Gamma and Delta Exposure Dashboard View](/img/dashboard-2-v2.webp)
 
 *   **Gamma Exposure (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market.
 *   **Delta Exposure (DEX)**: This reveals the aggregate directional bias of the market participants at specific price levels.
@@ -41,7 +41,7 @@ Understanding where dealers are positioned is crucial for predicting price accel
 
 For advanced traders, understanding the "Greeks of Greeks" is the ultimate edge. 
 
-![Vanna and Charm Exposure by Strike](/img/dashboard-3-v2.webp)
+![Vanna and Charm Predictive Analysis](/img/dashboard-3-v2.webp)
 
 *   **Vanna Exposure**: Tracks how Delta changes with respect to Implied Volatility (IV). This is essential for anticipating "Vanna Squeezes" during volatility crushes.
 *   **Charm Exposure**: Measures the rate of Delta decay over time. It shows you the natural "drift" of the market as we approach expiration dates.
