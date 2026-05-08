@@ -4,7 +4,7 @@ description: Transform market flow understanding with the Quartet?
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, vanna, charm, strategy, risk-management]
 keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
-image: /img/gamma%20and%20delta.webp
+image: /img/why-gamma-exposure-v2.webp
 slug: strategic-quartet-integrating-four-greeks
 ---
 
@@ -16,7 +16,7 @@ The market doesn't move in isolated metrics. You can't just 'watch Delta' and ex
 
 To master the market is to understand how these four pillars complete each other.
 
-![Delta and Gamma Synergy](/img/gamma%20and%20delta.webp)
+![Delta and Gamma Synergy](/img/why-gamma-exposure-v2.webp)
 
 *The foundational relationship between price movement and directional sensitivity.*
 
@@ -38,7 +38,7 @@ By integrating all four Greeks, you gain a 360-degree vision:
 *   You don't just see a consolidation; you see a **Charm Drift** where your exposure is slowly neutralizing before a breakout.
 *   You don't just see a rally; you see **Gamma Acceleration** that will eventually lead to a "blow-off" top as hedges a replenished.
 
-![Charm and Vanna Synergy](/img/charm%20and%20vanna.webp)
+![Charm and Vanna Synergy](/img/charm-vanna-v2.webp)
 
 *The advanced interplay between volatility shifts and time decay.*
 
