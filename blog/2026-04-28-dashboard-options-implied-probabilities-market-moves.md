@@ -4,7 +4,7 @@ description: Quantify expected moves with implied probability?
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
 keywords: [options, trading, derivatives, implied probabilities, expected move, standard deviation, delta, trading ranges, dashboard options]
-image: /img/implied-probabilities-analysis.webp
+image: /img/implied-prob-2-v2.webp
 slug: dashboard-options-implied-probabilities-market-moves
 ---
 
@@ -31,7 +31,7 @@ The tool provides key institutional-grade probability levels:
 ### 3. Market-Implied Probability Distribution
 Instead of just looking at numbers, the tool generates a **Probability Distribution (Bell Curve)**. This visualization shows the likelihood of every price point, allowing you to see the "Skew" or "Fat Tails" that indicate market fear or extreme greed.
 
-![Implied Probabilities Analysis Overview](/img/implied-probabilities-analysis.webp)
+![Implied Probabilities Analysis Overview](/img/implied-prob-1-v2.webp)
 
 *A high-level view of market-implied probabilities, showing expected ranges and standard deviation levels.*
 
@@ -42,17 +42,17 @@ The Implied Probabilities Analysis isn't just one chart; it's a comprehensive 4-
 ### From Expected Ranges to Support/Resistance
 The analysis identifies breakout levels and support/resistance zones not based on "lines on a chart," but on the actual capital at risk in the options market. 
 
-![Detailed Probability Breakdown Page 1](/img/implied-prob-page1.webp)
+![Detailed Probability Breakdown Page 1](/img/implied-prob-1-v2.webp)
 
-![Detailed Probability Breakdown Page 2](/img/implied-prob-page2.webp)
+![Detailed Probability Breakdown Page 2](/img/implied-prob-2-v2.webp)
 *Detailed pages analyzing institutional thresholds and expected volatility regimes.*
 
 ### Visualizing the Statistical Edge
 By comparing current price action to these probability zones, traders can identify "statistical edges"—opportunities where the market is pricing in a low probability for an event that the trader believes is more likely, or vice versa.
 
-![Detailed Probability Breakdown Page 3](/img/implied-prob-page3.webp)
+![Detailed Probability Breakdown Page 3](/img/implied-prob-3-v2.webp)
 
-![Detailed Probability Breakdown Page 4](/img/implied-prob-page4.webp)
+![Detailed Probability Breakdown Page 4](/img/implied-prob-1-v2.webp)
 *Final analysis pages showing trading ranges and market-implied likelihood of price breakouts.*
 
 ## Conclusion: Trading with Mathematical Certainty
