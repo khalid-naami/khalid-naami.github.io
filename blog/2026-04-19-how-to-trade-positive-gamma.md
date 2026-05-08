@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-19T14:00:00Z
 tags: [Dashboard Options, positive-gamma, options-trading, volatility, quantitative-finance]
 keywords: [Positive Gamma, Options Strategies, Theta Decay, Delta Neutral, Mean Reversion, Dashboard Options, Market Makers]
-image: /img/positive-gamma.webp
+image: /img/positive-gamma-v2.webp
 slug: how-to-trade-positive-gamma-calm-markets
 ---
 
@@ -39,7 +39,7 @@ The most robust way to trade a Positive Gamma regime is to align yourself with t
 *   **The Strategy:** Iron Condors, Short Strangles (for advanced traders), and Credit Spreads.
 *   **The Logic:** Because price action is pinned into tight ranges, the probability of the underlying asset staying between your short strikes is exceptionally high. You allow the natural, suppressed volatility to work in your favor, collecting Theta decay every day.
 
-![Gamma and Delta Relationship](/img/positive-gamma.webp)
+![Gamma and Delta Relationship](/img/positive-gamma-v2.webp)
 
 *Analyzing the relationship between Gamma and Delta helps identify the exact strikes where market makers will aggressively hedge, creating "walls" that trap the price.*
 
