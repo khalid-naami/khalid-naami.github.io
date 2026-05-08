@@ -1,5 +1,5 @@
 ---
-title: "Implied Probabilities: Evaluating Market Expectations"
+title: "Implied Probabilities: Quantifying Market Expectations"
 description: Quantify expected moves with implied probability?
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
@@ -8,7 +8,7 @@ image: /img/implied-prob-2-v2.webp
 slug: dashboard-options-implied-probabilities-market-moves
 ---
 
-# Implied Probabilities: Evaluating Market Expectations
+# Implied Probabilities: Quantifying Market Expectations
 
 Market prices are the aggregate 'bets' of the world's most sophisticated participants. Every single trade on the tape contains a hidden prediction about the future. Our **Implied Probabilities Analysis** tool decodes these prices, stripping away the noise to show you exactly where the collective intelligence of the market expects the price to be.
 
@@ -31,29 +31,29 @@ The tool provides key institutional-grade probability levels:
 ### 3. Market-Implied Probability Distribution
 Instead of just looking at numbers, the tool generates a **Probability Distribution (Bell Curve)**. This visualization shows the likelihood of every price point, allowing you to see the "Skew" or "Fat Tails" that indicate market fear or extreme greed.
 
-![Implied Probabilities Analysis Overview](/img/market-probabilities-v2.webp)
+![Implied Probabilities Analysis Overview](/img/implied-prob-1-v2.webp)
 
 *A high-level view of market-implied probabilities, showing expected ranges and standard deviation levels.*
 
 ## A Multi-Page Deep Dive into Risk
 
-The Implied Probabilities Analysis isn't just one chart; it's a comprehensive report that breaks down every aspect of market expectation:
+The Implied Probabilities Analysis isn't just one chart; it's a comprehensive 4-page report that breaks down every aspect of market expectation:
 
 ### From Expected Ranges to Support/Resistance
 The analysis identifies breakout levels and support/resistance zones not based on "lines on a chart," but on the actual capital at risk in the options market. 
 
+![Detailed Probability Breakdown Page 1](/img/implied-prob-1-v2.webp)
 
-![Detailed Probability Breakdown](/img/implied-prob-2-v2.webp)
-*Analysis of institutional thresholds and expected volatility regimes.*
+![Detailed Probability Breakdown Page 2](/img/implied-prob-2-v2.webp)
+*Detailed pages analyzing institutional thresholds and expected volatility regimes.*
 
 ### Visualizing the Statistical Edge
 By comparing current price action to these probability zones, traders can identify "statistical edges"—opportunities where the market is pricing in a low probability for an event that the trader believes is more likely, or vice versa.
 
-![Visualizing the Statistical Edge](/img/implied-prob-3-v2.webp)
-*Identifying trading ranges and market-implied likelihood of price breakouts.*
+![Detailed Probability Breakdown Page 3](/img/implied-prob-3-v2.webp)
 
-
-
+![Detailed Probability Breakdown Page 4](/img/implied-prob-1-v2.webp)
+*Final analysis pages showing trading ranges and market-implied likelihood of price breakouts.*
 
 ## Conclusion: Trading with Mathematical Certainty
 
