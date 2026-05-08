@@ -14,6 +14,7 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
 
 # Blog Posts
 
+- [2026-05-08-options-delta-adjusted-exposure-true-risk](https://khalidnaami.com/blog/2026-05-08-options-delta-adjusted-exposure-true-risk)
 - [2026-05-07-c-plus-plus-for-finance-guide](https://khalidnaami.com/blog/2026-05-07-c-plus-plus-for-finance-guide)
 - [2026-05-07-fair-bets-kelly-criterion-guide](https://khalidnaami.com/blog/2026-05-07-fair-bets-kelly-criterion-guide)
 - [2026-05-07-game-of-probabilities-guide](https://khalidnaami.com/blog/2026-05-07-game-of-probabilities-guide)
