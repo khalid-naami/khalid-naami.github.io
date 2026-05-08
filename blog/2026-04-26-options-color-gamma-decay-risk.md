@@ -4,7 +4,7 @@ description: What is Color and how to manage gamma decay risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, color, gamma, theta, pin-risk]
 keywords: [options, trading, derivatives, color, gamma, theta, pin-risk, gamma decay, risk management]
-image: /img/color.webp
+image: /img/options-color-v2.webp
 slug: options-color-gamma-decay-risk
 ---
 
@@ -31,7 +31,7 @@ Gamma is highly sensitive to time, especially for At-the-Money (ATM) options.
 *   **High Color Scenarios:** As an option approaches expiration, its Gamma for ATM strikes increases dramatically. Color measures this "Gamma explosion." 
 *   **The Hedging Challenge:** High Color means that even if the stock price doesn't move, your Gamma exposure will change just because time is passing. This forces traders to make more frequent and aggressive hedging adjustments to maintain a neutral position.
 
-![Options Color Analysis](/img/color.webp)
+![Options Color Analysis](/img/options-color-v2.webp)
 
 *Visualizing Options Color: Observe how Gamma sensitivity intensifies and narrows as time to expiration (DTE) decreases.*
 
