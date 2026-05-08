@@ -4,7 +4,7 @@ description: What is Vomma and how does it affect volatility risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol]
 keywords: [options, trading, derivatives, vomma, vega, vol-of-vol, implied volatility, risk management]
-image: /img/vomma.webp
+image: /img/vomma-v2.webp
 slug: options-vomma-convexity-of-vega
 ---
 
@@ -31,7 +31,7 @@ Vomma describes the **convexity** of an option's price relative to volatility. B
 *   **At-the-Money (ATM):** Options generally have the highest Vega but the lowest Vomma. Their reaction to IV is relatively linear.
 *   **Out-of-the-Money (OTM):** These options have lower initial Vega but very high Vomma. This is where the magic (or the nightmare) happens during a market crash.
 
-![Vomma Exposure and Vega Convexity](/img/vomma.webp)
+![Vomma Exposure and Vega Convexity](/img/vomma-v2.webp)
 
 *Visualizing Vomma exposure: Notice how OTM options gain Vega at an accelerating rate as IV spikes.*
 
