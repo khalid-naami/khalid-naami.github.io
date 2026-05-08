@@ -1,14 +1,14 @@
 ---
-title: "Delta-Adjusted Exposure: Measuring True Market Risk"
+title: "Delta-Adjusted Exposure: Evaluating True Market Risk"
 description: Is Delta-Adjusted Exposure the true directional risk?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, delta, risk-management, exposure]
 keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, notional value, risk management]
-image: /img/delta-adjusted-v2.webp
+image: /img/delta-risk-exposure-v2.webp
 slug: options-delta-adjusted-exposure-true-risk
 ---
 
-# Delta-Adjusted Exposure: Measuring True Market Risk
+# Delta-Adjusted Exposure: Evaluating True Market Risk
 
 Judging your risk by "notional value" is one of the fastest ways to blow up an account. Notional value tells you what you've bought, but **Delta-Adjusted Exposure** tells you what you actually *risk*. If you aren't weighting your exposure by the probability of price movement, you're flying blind through a storm.
 
@@ -35,7 +35,7 @@ $$
 \text{Synthetic Shares} = (\text{Number of Contracts} \times \text{Multiplier}) \times \text{Delta}
 $$
 
-![Delta-Adjusted Exposure Analysis](/img/delta-adjusted-v2.webp)
+![Delta-Adjusted Exposure Analysis](/img/delta-risk-exposure-v2.webp)
 
 *Delta-Adjusted exposure visualization: Comparing raw notional values to the actual directional risk across different strikes.*
 
