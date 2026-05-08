@@ -37,23 +37,23 @@ Instead of just looking at numbers, the tool generates a **Probability Distribut
 
 ## A Multi-Page Deep Dive into Risk
 
-The Implied Probabilities Analysis isn't just one chart; it's a comprehensive 4-page report that breaks down every aspect of market expectation:
+The Implied Probabilities Analysis isn't just one chart; it's a comprehensive report that breaks down every aspect of market expectation:
 
 ### From Expected Ranges to Support/Resistance
 The analysis identifies breakout levels and support/resistance zones not based on "lines on a chart," but on the actual capital at risk in the options market. 
 
-![Detailed Probability Breakdown Page 1](/img/implied-prob-1-v2.webp)
 
-![Detailed Probability Breakdown Page 2](/img/implied-prob-2-v2.webp)
-*Detailed pages analyzing institutional thresholds and expected volatility regimes.*
+![Detailed Probability Breakdown](/img/implied-prob-2-v2.webp)
+*Analysis of institutional thresholds and expected volatility regimes.*
 
 ### Visualizing the Statistical Edge
 By comparing current price action to these probability zones, traders can identify "statistical edges"—opportunities where the market is pricing in a low probability for an event that the trader believes is more likely, or vice versa.
 
-![Detailed Probability Breakdown Page 3](/img/implied-prob-3-v2.webp)
+![Visualizing the Statistical Edge](/img/implied-prob-3-v2.webp)
+*Identifying trading ranges and market-implied likelihood of price breakouts.*
 
-![Detailed Probability Breakdown Page 4](/img/implied-prob-1-v2.webp)
-*Final analysis pages showing trading ranges and market-implied likelihood of price breakouts.*
+
+
 
 ## Conclusion: Trading with Mathematical Certainty
 
