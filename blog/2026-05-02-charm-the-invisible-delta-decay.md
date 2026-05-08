@@ -4,7 +4,7 @@ description: Is Charm the most vital Greek for overnight drift?
 authors: [khalid]
 tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-management]
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
-image: /img/charm.webp
+image: /img/charm-v2.webp
 slug: charm-the-invisible-delta-decay
 ---
 
@@ -36,7 +36,7 @@ Market makers and institutional desks are hypersensitive to Charm. As expiration
 ### 2. Market Magnetism
 Large clusters of Charm can act as "magnets" or "repellers" for price action. As time passes, the changing hedge requirements of large institutions can create predictable flows in the market.
 
-![SPX Charm Analysis](/img/charm.webp)
+![SPX Charm Analysis](/img/charm-v2.webp)
 
 *Analysis of Charm exposure and its impact on S&P 500 hedging levels.*
 
