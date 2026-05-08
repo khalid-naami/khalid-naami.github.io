@@ -4,7 +4,7 @@ description: Visualize Greek risk with the Exposure Heatmap?
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
 keywords: [options, trading, derivatives, exposure heatmap, dashboard options, greeks, data visualization, gamma walls]
-image: /img/heatmap-v2.webp
+image: /img/exposure-heatmap-analysis-v2.webp
 slug: dashboard-options-exposure-heatmap-visual-analytics
 ---
 
@@ -31,7 +31,7 @@ By plotting strikes on one axis and expirations on the other, the heatmap reveal
 ### 3. Real-Time Flow Intelligence
 The colors on the heatmap aren't static; they react to the shifting flows of the market. By watching the "heat" move, traders can identify where institutional players are rolling their positions or where market makers are being forced to hedge.
 
-![Options Exposure Heatmap](/img/heat-v2.webp)
+![Options Exposure Heatmap](/img/exposure-heatmap-analysis-v2.webp)
 
 *A high-level view of the Exposure Heatmap showing the distribution of Greek risks across the chain.*
 
@@ -42,7 +42,7 @@ How do professional traders use this tool?
 *   **Identifying Volatility Skew:** The heatmap clearly shows the asymmetry between Puts and Calls, revealing the market's hidden bias and sentiment.
 *   **Hedging Optimization:** By seeing where their own portfolio's "heat" lies, traders can pinpoint exactly which strikes to use for a more efficient hedge.
 
-![Advanced Analysis with Exposure Heatmap](/img/heat-v2.webp)
+![Advanced Analysis with Exposure Heatmap](/img/heatmap-detail-v2.webp)
 
 *Detailed strike-level analysis using the secondary heatmap view for deep-dive risk assessment.*
 
