@@ -1,5 +1,5 @@
 ---
-title: "Exposure Heatmap: Visualizing Greek Risk"
+title: "Exposure Heatmap: Analyzing Greek Risk"
 description: Visualize Greek risk with the Exposure Heatmap?
 authors: [khalid]
 tags: [Dashboard Options, analytics, heatmap, greeks, risk-management, visual-trading]
@@ -8,7 +8,7 @@ image: /img/exposure-heatmap-analysis-v2.webp
 slug: dashboard-options-exposure-heatmap-visual-analytics
 ---
 
-# Exposure Heatmap: Visualizing Greek Risk
+# Exposure Heatmap: Analyzing Greek Risk
 
 Staring at a standard option chain for hours is a recipe for missed opportunities. When institutional liquidity moves, it doesn't show up as a single line item; it manifests as a concentrated cluster of risk across multiple strikes and expirations. To catch these 'hot zones' before the market reacts, you need a multi-dimensional perspective. That is exactly why we built the **Exposure Heatmap** within the **Dashboard Options** suite.
 
