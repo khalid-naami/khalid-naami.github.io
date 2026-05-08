@@ -1,15 +1,15 @@
 ---
-title: "Dashboard Options: Mastering Multi-Ticker Analysis"
+title: "Dashboard Options: Dominating Multi-Ticker Analysis"
 description: Identify institutional gaps with the Multi-Ticker tool?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, correlation, spx, spy]
 keywords: [options, trading, derivatives, correlation, spx, spy, multi ticker, technical analysis]
-image: /img/multi-ticker-v2.webp
+image: /img/ticker-comparison-v2.webp
 slug: comparative-edge-multi-ticker-analysis
 date: 2026-05-06T09:00:00+00:00
 ---
 
-# Dashboard Options: Mastering Multi-Ticker Analysis
+# Dashboard Options: Dominating Multi-Ticker Analysis
 
 In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the **SPX** (S&P 500 Index) and **SPY** (S&P 500 ETF)—is where the real alpha is found.
 
@@ -25,7 +25,7 @@ Market participants often trade the same underlying theme across different instr
 
 If you only look at one, you’re only seeing half the picture. The **Multi-Ticker tool** allows you to load up to **four tickers** simultaneously, giving you an immediate side-by-side comparison of their positioning.
 
-![Multi Ticker Comparison Dashboard](/img/multi-ticker-v2.webp)
+![Multi Ticker Comparison Dashboard](/img/ticker-comparison-v2.webp)
 
 ## Tactical Advantages: Finding the Gaps
 
