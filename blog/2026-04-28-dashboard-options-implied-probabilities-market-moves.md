@@ -1,5 +1,5 @@
 ---
-title: "Implied Probabilities: Quantifying Market Expectations"
+title: "Implied Probabilities: Evaluating Market Expectations"
 description: Quantify expected moves with implied probability?
 authors: [khalid]
 tags: [Dashboard Options, analytics, probability, expected-move, delta, statistics, risk-management]
@@ -8,7 +8,7 @@ image: /img/implied-prob-2-v2.webp
 slug: dashboard-options-implied-probabilities-market-moves
 ---
 
-# Implied Probabilities: Quantifying Market Expectations
+# Implied Probabilities: Evaluating Market Expectations
 
 Market prices are the aggregate 'bets' of the world's most sophisticated participants. Every single trade on the tape contains a hidden prediction about the future. Our **Implied Probabilities Analysis** tool decodes these prices, stripping away the noise to show you exactly where the collective intelligence of the market expects the price to be.
 
@@ -31,7 +31,7 @@ The tool provides key institutional-grade probability levels:
 ### 3. Market-Implied Probability Distribution
 Instead of just looking at numbers, the tool generates a **Probability Distribution (Bell Curve)**. This visualization shows the likelihood of every price point, allowing you to see the "Skew" or "Fat Tails" that indicate market fear or extreme greed.
 
-![Implied Probabilities Analysis Overview](/img/implied-prob-1-v2.webp)
+![Implied Probabilities Analysis Overview](/img/market-probabilities-v2.webp)
 
 *A high-level view of market-implied probabilities, showing expected ranges and standard deviation levels.*
 
