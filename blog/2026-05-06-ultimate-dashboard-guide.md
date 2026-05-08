@@ -1,15 +1,15 @@
 ---
-title: "Ultimate Options Dashboard: Price Action & Greeks Analysis"
+title: "Premier Options Dashboard: Price Action & Greeks Analysis"
 description: What makes our Dashboard the ultimate options tool?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, greeks, gamma, delta, vanna, charm]
 keywords: [options, dashboard, greeks, gamma, delta, vanna, charm, technical analysis, trading, spx]
-image: /img/dashboard-1-v2.webp
+image: /img/main-dashboard-v2.webp
 slug: ultimate-options-dashboard-guide
 date: 2026-05-06T11:00:00+00:00
 ---
 
-# Ultimate Options Dashboard: Price Action & Greeks Analysis
+# Premier Options Dashboard: Price Action & Greeks Analysis
 
 
 <!-- truncate -->
@@ -23,7 +23,7 @@ Most platforms force you to jump between tabs to see price, volume, and Greeks. 
 
 The core of the dashboard features a live intraday chart for major tickers like ^SPX, overlayed with the most critical technical levels in the options market.
 
-![Intraday Price and Key Greek Levels](/img/dashboard-1-v2.webp)
+![Intraday Price and Key Greek Levels](/img/main-dashboard-v2.webp)
 
 *   **Call Wall & Put Wall**: We identify the absolute strikes where the highest concentration of open interest sits, acting as powerful magnets or barriers for price.
 *   **Zero GEX**: This is the "pivot point" of the market. Above this level, the market is in a stable regime; below it, volatility typically expands.
