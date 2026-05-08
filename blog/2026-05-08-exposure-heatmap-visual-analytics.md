@@ -17,6 +17,14 @@ Data is only useful if you can understand it quickly. In the fast-paced world of
 
 <!-- truncate -->
 
+## The Visual Edge: Real-Time Market Topography
+
+Before diving into the numbers, let's look at the big picture. Our primary heatmap view gives you an instant snapshot of where the "institutional weight" is sitting across the entire options chain.
+
+![Standard Exposure Heatmap View](/img/exposure-heatmap-v2.webp)
+
+*The Macro View: Identifying major liquidity zones and dealer hedging concentrations across all expirations.*
+
 ## Beyond the Traditional Chart
 
 Traditional charts show you where price has been. An **Exposure Heatmap** shows you where the market *pressure* is building. By visualizing Gamma and Delta exposure across a range of strikes and expirations, you can see the literal "topography" of the market. 
@@ -27,15 +35,20 @@ Bright areas represent high concentration of dealer hedging activity, while dark
 
 The beauty of the heatmap lies in its intuitive design. When you look at the Dashboard, you aren't just looking at colors; you're looking at institutional intent.
 
+### Deep Dive: Strike-Specific Concentration
+
+When we zoom in, we can start to identify the exact price levels that will act as magnets or barriers. This detailed view is essential for tactical execution.
+
 ![Detailed Heatmap Analysis](/img/heatmap-detail-v2.webp)
 
-*Analyzing the strike distribution: The intensity of the color indicates the magnitude of GEX/DEX at specific price levels.*
+*The Micro View: Analyzing specific strike clusters to predict price stalls or accelerations.*
 
 ### 1. Gravity Wells (Concentration Zones)
 High-intensity zones often act as magnets. If a massive "Call Wall" is visible as a bright stripe on your heatmap, price will often struggle to break through it, or conversely, accelerate rapidly once it does (a Gamma Squeeze).
 
 ### 2. The Shift of Sentiment
 By watching the heatmap over multiple timeframes, you can see these zones move. Are the "walls" moving higher? That’s a bullish migration. Are they dropping? Dealers are bracing for a move lower.
+
 
 ## Why Visual Analysis Wins
 Human brains are wired to recognize patterns in images much faster than in text. By using visual analytics, you can:
