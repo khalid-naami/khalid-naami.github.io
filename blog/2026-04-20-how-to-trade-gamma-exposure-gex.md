@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-20T14:00:00Z
 tags: [Dashboard Options, gamma, quantitative-finance, options-trading, trading-strategy]
 keywords: [Gamma Exposure, GEX, Options Trading, Quantitative Guide, Dashboard Options, Dealer Hedging, Delta Neutral]
-image: "/img/gex%20dex.webp"
+image: "/img/trade-gamma-v2.webp"
 slug: how-to-trade-gamma-exposure-quantitative-guide
 ---
 
@@ -44,7 +44,7 @@ Once you know the regime, you need to find your targets. Gamma Walls are specifi
 *   **In a Positive Regime:** These walls act as heavy resistance or strong support. If the S&P 500 approaches a massive 5200 Call Gamma Wall, the dealer selling pressure will make it exceptionally difficult to break. You can structure your short credit spreads exactly at these walls.
 *   **In a Negative Regime:** These walls act as gravitational magnets. If support breaks, the price will \"waterfall\" directly down to the largest Put Gamma Wall. You can use these walls as your exact profit targets for your long Put positions.
 
-![GEX and DEX Visualized](/img/gex%20dex.webp)
+![GEX and DEX Visualized](/img/trade-gamma-v2.webp)
 
 *Using tools like Dashboard Options to map out GEX and DEX (Delta Exposure) provides a clear, quantitative roadmap of dealer positioning.*
 
