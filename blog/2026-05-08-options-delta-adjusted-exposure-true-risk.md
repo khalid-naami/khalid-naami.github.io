@@ -6,6 +6,8 @@ tags: [Dashboard Options, options, trading, derivatives, delta, risk-management,
 keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, notional value, risk management]
 image: /img/delta-adjusted-v2.webp
 slug: options-delta-adjusted-exposure-true-risk
+metadata:
+  keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, risk management]
 date: 2026-05-08T23:00:00+00:00
 ---
 
