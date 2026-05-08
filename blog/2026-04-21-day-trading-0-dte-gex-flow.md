@@ -5,7 +5,7 @@ authors: [khalid]
 date: 2026-04-21T08:00:00Z
 tags: [Dashboard Options, 0DTE, day-trading, gamma, quantitative-finance]
 keywords: [0DTE Options, Day Trading, GEX Flow, Option Dealer Levels, Gamma Exposure, Intraday Volatility, Quantitative Trading]
-image: "/img/Screenshot%202026-04-10%20142251.webp"
+image: "/img/zero-dte-gex-v2.webp"
 slug: day-trading-0-dte-gex-flow-dealer-levels
 ---
 
@@ -39,7 +39,7 @@ Conversely, the Put Wall is the strike with the largest concentration of negativ
 The absolute most critical intraday level is the Zero-Gamma line. This is where dealer exposure flips. 
 *   **The Strategy:** If the index crosses below this line, intraday volatility will explode. This is the moment to stop trying to catch the bottom and instead buy 0DTE Puts, riding the negative dealer hedging flow downward.
 
-![0DTE Gamma Exposure Analysis](/img/Screenshot%202026-04-10%20142251.webp)
+![0DTE Gamma Exposure Analysis](/img/zero-dte-gex-v2.webp)
 
 *Intraday GEX charting reveals the specific strikes where dealer hedging will overpower organic market order flow.*
 
