@@ -1,5 +1,5 @@
 ---
-title: "Mastering Market Sentiment: OI, Volume, and Institutional Flow"
+title: "Deciphering Market Sentiment: OI, Volume, and Institutional Flow"
 description: How to use OI & Volume to track institutional options flow?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, flow, volume, open interest]
@@ -9,7 +9,7 @@ slug: mastering-market-sentiment-oi-volume-flow
 date: 2026-05-06T06:00:00+00:00
 ---
 
-# Mastering Market Sentiment: OI, Volume, and Institutional Flow
+# Deciphering Market Sentiment: OI, Volume, and Institutional Flow
 
 
 <!-- truncate -->
@@ -19,7 +19,7 @@ date: 2026-05-06T06:00:00+00:00
 
 Open Interest (OI) tells you where the big bets are parked. Unlike volume, which shows daily activity, OI reveals the total number of outstanding contracts. It’s the map of where the market’s “gravity” sits.
 
-![OI and Volume Distribution](/img/oi-vol-v2.webp)
+![OI and Volume Distribution](/img/oi-volume-flow-v2.webp)
 
 *   **Total Call/Put OI**: We track the absolute build-up of contracts.
 *   **Net OI**: This is your first clue to market bias. A massive gap between Calls and Puts often signals a major support or resistance level.
