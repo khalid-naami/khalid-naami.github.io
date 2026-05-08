@@ -132,7 +132,7 @@
         <updated>2026-05-07T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Protect your portfolio with Kelly Criterion and fair bets?]]></summary>
         <content type="html"><![CDATA[<p>In our previous discussions on probability, we explored the stochastic nature of the markets. But knowing the probabilities is only half the battle. The true secret to long-term survival and exponential growth in trading lies in answering one critical question: <strong>How much should I bet?</strong> To answer this, we must understand the concepts of a "Fair Bet" and the mathematical precision of the <strong>Kelly Criterion</strong>.</p>
-<p><img decoding="async" loading="lazy" alt="Optimal Sizing Mathematics" src="https://khalidnaami.com/assets/images/Fair%20Bet%20and%20Kelly-f62c69c187bfe0ecf47d285c5e83db5f.webp" width="1024" height="1024" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Optimal Sizing Mathematics" src="https://khalidnaami.com/assets/images/Fair%20Bet%20and%20Kelly-b2930af741f187aa4e6e65717ab7708e.webp" width="600" height="337" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-fair-bet">What is a "Fair Bet"?<a href="https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide#what-is-a-fair-bet" class="hash-link" aria-label="Direct link to What is a &quot;Fair Bet&quot;?" title="Direct link to What is a &quot;Fair Bet&quot;?">​</a></h2>
 <p>In the world of probability and derivative pricing, a <strong>Fair Bet</strong> is a wager where the expected value (EV) is exactly zero. This means that if you were to repeat the bet an infinite number of times, you would neither win nor lose money.</p>
 <p>Mathematically, a Fair Bet is defined as:</p>
