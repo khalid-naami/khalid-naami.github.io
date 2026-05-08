@@ -4,7 +4,7 @@ description: Use Delta as a directional compass for your trades?
 authors: [khalid]
 tags: [Dashboard Options, options, delta, greeks, risk-management, spx]
 keywords: [options, delta, greeks, risk-management, spx]
-image: /img/Delta%20spx.webp
+image: /img/delta-v2.webp
 slug: delta-dynamics-directional-risk
 ---
 
@@ -47,7 +47,7 @@ Delta quantifies your "directional bias." A high Delta means you are aggressivel
 
 In the S&P 500 (SPX) markets, Delta analysis is critical for understanding market liquidity and potential "pinning" levels.
 
-![SPX Delta Analysis](/img/Delta%20spx.webp)
+![SPX Delta Analysis](/img/delta-v2.webp)
 
 *Analysis of Delta exposure across various SPX strikes.*
 
