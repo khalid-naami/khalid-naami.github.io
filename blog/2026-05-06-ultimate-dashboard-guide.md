@@ -4,18 +4,16 @@ description: What makes our Dashboard the ultimate options tool?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, greeks, gamma, delta, vanna, charm]
 keywords: [options, dashboard, greeks, gamma, delta, vanna, charm, technical analysis, trading, spx]
-image: /img/dashboard.webp
+image: /img/dashboard-1-v2.webp
 slug: ultimate-options-dashboard-guide
 date: 2026-05-06T11:00:00+00:00
 ---
 
 # Ultimate Options Dashboard: Price Action & Greeks Analysis
 
-In the world of quantitative trading, having data is easy—but having *context* is everything. Our **Main Dashboard** is designed to be the central nervous system for your trading strategy, merging real-time price action with the deep liquidity levels that drive market movement.
-
-![Dashboard Options Layout](/img/dashboard-showcase-small.webp)
 
 <!-- truncate -->
+
 
 ## The Power of All-In-One Analysis
 
@@ -25,7 +23,7 @@ Most platforms force you to jump between tabs to see price, volume, and Greeks. 
 
 The core of the dashboard features a live intraday chart for major tickers like ^SPX, overlayed with the most critical technical levels in the options market.
 
-![Intraday Price and Key Greek Levels](/img/dashboard-small.webp)
+![Intraday Price and Key Greek Levels](/img/dashboard-1-v2.webp)
 
 *   **Call Wall & Put Wall**: We identify the absolute strikes where the highest concentration of open interest sits, acting as powerful magnets or barriers for price.
 *   **Zero GEX**: This is the "pivot point" of the market. Above this level, the market is in a stable regime; below it, volatility typically expands.
@@ -34,7 +32,7 @@ The core of the dashboard features a live intraday chart for major tickers like 
 
 Understanding where dealers are positioned is crucial for predicting price acceleration.
 
-![Gamma and Delta Exposure by Strike](/img/dashboard-small.webp)
+![Gamma and Delta Exposure by Strike](/img/dashboard-2-v2.webp)
 
 *   **Gamma Exposure (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market.
 *   **Delta Exposure (DEX)**: This reveals the aggregate directional bias of the market participants at specific price levels.
@@ -43,7 +41,7 @@ Understanding where dealers are positioned is crucial for predicting price accel
 
 For advanced traders, understanding the "Greeks of Greeks" is the ultimate edge. 
 
-![Vanna and Charm Exposure by Strike](/img/dashboard-small.webp)
+![Vanna and Charm Exposure by Strike](/img/dashboard-3-v2.webp)
 
 *   **Vanna Exposure**: Tracks how Delta changes with respect to Implied Volatility (IV). This is essential for anticipating "Vanna Squeezes" during volatility crushes.
 *   **Charm Exposure**: Measures the rate of Delta decay over time. It shows you the natural "drift" of the market as we approach expiration dates.
