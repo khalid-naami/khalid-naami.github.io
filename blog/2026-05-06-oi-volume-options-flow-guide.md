@@ -4,7 +4,7 @@ description: How to use OI & Volume to track institutional options flow?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, flow, volume, open interest]
 keywords: [options, trading, derivatives, flow, volume, open interest, market maker, occ]
-image: /img/market-maker-positionings-v2.webp
+image: /img/market-maker-positioning-v2.webp
 slug: mastering-market-sentiment-oi-volume-flow
 date: 2026-05-06T06:00:00+00:00
 ---
@@ -37,9 +37,8 @@ While OI is the map, **Flow** is the current. It represents the actual premium b
 
 ![Options Flow Overview](/img/options-flow-analysis-v2.webp)
 
-We don’t just look at numbers; we look at the **Premium PCR** (Put/Call Ratio). If the Call Premium significantly outweighs the Put Premium, it’s a clear sign of aggressive bullish sentiment—even if the contract volume looks balanced.
 
-![Flow Detail Summary](/img/options-flow-analysis-v2.webp)
+
 
 The real alpha is in the **Moneyness Breakdown**:
 *   **ITM (In-The-Money)**: This is where institutions typically operate for directional bets.
@@ -53,9 +52,8 @@ Trading is about money, not just contracts. A single institutional block trade c
 
 ![Premium Flow Analysis](/img/premium-analysis-v2.webp)
 
-Our **Premium Summary** simplifies the complex. By looking at the **Call/Put Premium Ratio**, you get an immediate pulse on whether the flow is “Bullish” or “Bearish.”
 
-![Visual Premium Breakdown](/img/premium-analyse-v2.webp)
+
 
 ![Top Premium Strikes](/img/premium-analysis-v2.webp)
 
@@ -79,7 +77,8 @@ The **OCC** is the world’s largest equity derivatives clearing organization an
 *   **Facilitating Trading**: They facilitate trading by being ready to buy or sell options contracts.
 *   **Revealing Sentiment**: Their positioning data reveals institutional sentiment and flow direction.
 
-![Visual Market Maker Analysis](/img/market-maker-positionings-v2.webp)
+
+
 
 ### Key Data Insights:
 
