@@ -4,7 +4,7 @@ description: What is Gamma and why is it vital for options trading?
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, gamma, greeks]
 keywords: [options, trading, derivatives, gamma, greeks]
-image: /img/Screenshot%202026-04-10%20142251.webp
+image: /img/zero-dte-gex-v2.webp
 slug: the-power-of-gamma
 ---
 
@@ -36,7 +36,7 @@ If Delta is the “speed” of your option price, Gamma is the “acceleration.�
     *   **Long Gamma:** When you buy options, you are “Long Gamma.” Your Delta becomes more positive as the price goes up and more negative as it goes down, which can accelerate profits.
     *   **Short Gamma:** When you sell options, you are “Short Gamma.” This is risky because the market can move against you at an accelerating rate, requiring constant adjustments.
 
-![Gamma Exposure Chart](/img/Screenshot%202026-04-10%20142251.webp)
+![Gamma Exposure Chart](/img/zero-dte-gex-v2.webp)
 
 *Typical Gamma exposure by strike visualization.*
 
