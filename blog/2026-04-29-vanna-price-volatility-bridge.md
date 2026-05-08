@@ -4,7 +4,7 @@ description: What is Vanna and how it bridges price and volatility?
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, greeks, volatility, spx, risk-management]
 keywords: [options, vanna, greeks, volatility, spx, risk-management]
-image: /img/vanna.webp
+image: /img/vanna-v2.webp
 slug: vanna-price-volatility-bridge
 ---
 
@@ -38,7 +38,7 @@ When volatility spikes during a market sell-off, Vanna dictates that call option
 ### 2. Strategic Positioning
 Professional traders look at Vanna "walls" to identify levels where institutional hedging will likely provide support or resistance. 
 
-![SPX Vanna Exposure](/img/vanna.webp)
+![SPX Vanna Exposure](/img/vanna-v2.webp)
 
 *Typical Vanna exposure across SPX strikes.*
 
