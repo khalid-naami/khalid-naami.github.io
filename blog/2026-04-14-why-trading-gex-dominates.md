@@ -21,7 +21,7 @@ keywords:
     Dashboard Options,
     Option Greeks,
   ]
-image: "/img/why-gamma-exposure.webp"
+image: "/img/why-gamma-exposure-v2.webp"
 slug: why-trading-gex-dominates-other-strategies
 ---
 
@@ -60,7 +60,7 @@ Most retail strategies assume the market always behaves the same way. This is st
 
 By looking at total market GEX, a quantitative analyst immediately knows which "rules" the market is playing by today. You can instantly filter out 90% of bad trades simply by avoiding strategies that conflict with the current GEX regime.
 
-![Dominance of GEX Analysis](/img/why-gamma-exposure.webp)
+![Dominance of GEX Analysis](/img/why-gamma-exposure-v2.webp)
 
 _Platforms like Dashboard Options provide the critical visualization needed to track these institutional flows, rendering traditional charting obsolete._
 
