@@ -4,7 +4,7 @@ description: How Greeks create physics-like market environments?
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, physics, greeks, risk-management]
 keywords: [options, delta, gamma, physics, greeks, risk-management]
-image: /img/gamma%20and%20delta.webp
+image: /img/why-gamma-exposure-v2.webp
 slug: options-physics-synergy
 ---
 
@@ -17,7 +17,7 @@ slug: options-physics-synergy
 
 Many traders treat the 'Greeks' as abstract math, but in reality, the options market is governed by a set of rigid physical laws. If you understand **Velocity** and **Acceleration**, you already understand the relationship between **Delta** and **Gamma**. On a professional desk, we don't just look at where the price is; we look at the kinetic energy of the position.
 
-![Delta and Gamma Synergy](/img/gamma%20and%20delta.webp)
+![Delta and Gamma Synergy](/img/why-gamma-exposure-v2.webp)
 
 *Visualizing the relationship between Delta and Gamma.*
 
