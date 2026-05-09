@@ -7,6 +7,7 @@ keywords: [Science & Technology, html, css, fintech, ui design, ux, web developm
 image: /img/html-css.webp
 slug: html-css-fintech-ui-ux-guide
 date: 2026-05-07T08:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # HTML & CSS in Fintech: Crafting the Professional Trading Experience
