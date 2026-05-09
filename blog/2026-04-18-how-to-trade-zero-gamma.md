@@ -7,6 +7,7 @@ tags: [Dashboard Options, zero-gamma, volatility, options-trading, quantitative-
 keywords: [Zero Gamma, Volatility Pivot, Options Trading, GEX, Market Makers, Quantitative Analysis, Gamma Flip]
 image: "/img/zero-gex-v2.webp"
 slug: how-to-trade-zero-gamma-volatility-pivot
+schema_type: ScholarlyArticle
 ---
 
 # How To Trade Zero Gamma: The Ultimate Volatility Pivot
