@@ -7,6 +7,7 @@ tags: [Dashboard Options, dealer-positioning, gamma, hedging, quantitative-finan
 keywords: [Option Dealers, Gamma Exposure, Hedging, Dealer Positioning, Retail Trading, Market Makers, Quantitative Analysis]
 image: "/img/option-dealers-v2.webp"
 slug: how-dealers-use-gamma-exposure
+schema_type: ScholarlyArticle
 ---
 
 # How Option Dealers Use Gamma Exposure To Trade
