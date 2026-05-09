@@ -23,6 +23,7 @@ keywords:
   ]
 image: "/img/why-gamma-exposure-v2.webp"
 slug: why-trading-gex-dominates-other-strategies
+schema_type: ScholarlyArticle
 ---
 
 # Why Gamma Exposure (GEX) Dominates Other Strategies
