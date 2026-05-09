@@ -8,6 +8,7 @@ image: /img/implied-prob-3-v2.webp
 slug: the-game-of-probabilities-decoding-market-expectations
 metadata:
   keywords: [implied probability, options trading, market forecast, statistical analysis]
+schema_type: ScholarlyArticle
 date: 2026-05-09T10:00:00+00:00
 ---
 
