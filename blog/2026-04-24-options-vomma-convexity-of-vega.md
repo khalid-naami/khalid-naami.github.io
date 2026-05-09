@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol
 keywords: [options, trading, derivatives, vomma, vega, vol-of-vol, implied volatility, risk management]
 image: /img/vomma-v2.webp
 slug: options-vomma-convexity-of-vega
+schema_type: ScholarlyArticle
 ---
 
 # Options Vomma: Understanding Vega Convexity
