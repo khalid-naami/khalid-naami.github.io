@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, trading, derivatives, speed, gamma, greeks]
 keywords: [options, trading, derivatives, speed, gamma, greeks, hedging, risk management]
 image: /img/speed-v2.webp
 slug: options-speed-gamma-of-gamma
+schema_type: ScholarlyArticle
 ---
 
 # Options Speed: Mastering the Gamma of Gamma
