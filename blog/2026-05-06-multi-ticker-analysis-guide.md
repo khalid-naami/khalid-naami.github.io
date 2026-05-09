@@ -7,6 +7,7 @@ keywords: [options, trading, derivatives, correlation, spx, spy, multi ticker, t
 image: /img/multi-ticker-v2.webp
 slug: comparative-edge-multi-ticker-analysis
 date: 2026-05-06T09:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Dashboard Options: Mastering Multi-Ticker Analysis
