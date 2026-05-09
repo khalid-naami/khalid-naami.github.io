@@ -7,6 +7,7 @@ tags: [Dashboard Options, gamma, quantitative-finance, risk-management, options-
 keywords: [Gamma Exposure, GEX, Options Trading, Dashboard Options, Quantitative Finance, Market Liquidity, Volatility]
 image: /img/positive-gamma-v2.webp
 slug: how-gamma-exposure-works-advanced-strategies
+schema_type: ScholarlyArticle
 ---
 
 # How Gamma Exposure Works - Advanced Option Strategies
