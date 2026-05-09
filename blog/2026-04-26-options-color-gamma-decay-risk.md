@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, trading, derivatives, color, gamma, theta, pi
 keywords: [options, trading, derivatives, color, gamma, theta, pin-risk, gamma decay, risk management]
 image: /img/options-color-v2.webp
 slug: options-color-gamma-decay-risk
+schema_type: ScholarlyArticle
 ---
 
 # Options Color: Managing Gamma Decay and Pin Risk
