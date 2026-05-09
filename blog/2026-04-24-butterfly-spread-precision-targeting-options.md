@@ -7,6 +7,7 @@ keywords: [Butterfly Spread, Options Trading, Quantitative Strategies, Dashboard
 image: "/img/butterfly_spread.webp"
 slug: butterfly-spread-precision-targeting-options
 date: 2026-04-24T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Butterfly Spread: Precision Targeting in Options
