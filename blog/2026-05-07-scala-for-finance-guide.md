@@ -7,6 +7,7 @@ keywords: [Science & Technology, scala, fintech, big data, functional programmin
 image: /img/Scala.webp
 slug: scala-in-fintech-big-data-functional-programming-guide
 date: 2026-05-07T18:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Scala for Finance: Functional Programming in Trading
