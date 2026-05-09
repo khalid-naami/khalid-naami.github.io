@@ -7,6 +7,7 @@ tags: [Dashboard Options, gamma, quantitative-finance, options-trading, trading-
 keywords: [Gamma Exposure, GEX, Options Trading, Quantitative Guide, Dashboard Options, Dealer Hedging, Delta Neutral]
 image: "/img/trade-gamma-v2.webp"
 slug: how-to-trade-gamma-exposure-quantitative-guide
+schema_type: ScholarlyArticle
 ---
 
 # How To Trade Gamma Exposure: Quantitative Guide
