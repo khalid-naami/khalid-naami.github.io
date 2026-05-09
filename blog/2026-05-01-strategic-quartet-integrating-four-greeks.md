@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, delta, gamma, vanna, charm, strategy, risk-ma
 keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
 image: /img/why-gamma-exposure-v2.webp
 slug: strategic-quartet-integrating-four-greeks
+schema_type: ScholarlyArticle
 ---
 
 # The Strategic Quartet: Delta, Gamma, Vanna, and Charm
