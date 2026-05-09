@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, delta, gamma, physics, greeks, risk-managemen
 keywords: [options, delta, gamma, physics, greeks, risk-management]
 image: /img/why-gamma-exposure-v2.webp
 slug: options-physics-synergy
+schema_type: ScholarlyArticle
 ---
 
 # The Physics of Options: Synergy Between Delta and Gamma
