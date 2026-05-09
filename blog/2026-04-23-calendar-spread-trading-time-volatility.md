@@ -7,6 +7,7 @@ keywords: [Calendar Spread, Horizontal Spread, Theta Decay, Vega Expansion, Opti
 image: "/img/calendar_spread.webp"
 slug: calendar-spread-trading-time-volatility
 date: 2026-04-23T08:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Calendar Spread: Trading Time and Volatility
