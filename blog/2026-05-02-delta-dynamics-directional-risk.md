@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, delta, greeks, risk-management, spx]
 keywords: [options, delta, greeks, risk-management, spx]
 image: /img/delta-v2.webp
 slug: delta-dynamics-directional-risk
+schema_type: ScholarlyArticle
 ---
 
 # Delta Dynamics: The Compass of Options Trading
