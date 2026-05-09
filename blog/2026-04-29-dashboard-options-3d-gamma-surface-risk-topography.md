@@ -6,6 +6,7 @@ tags: [Dashboard Options, analytics, 3d-surface, gamma, risk-management, visuali
 keywords: [options, trading, derivatives, 3d gamma surface, gamma landscape, risk topography, dashboard options, data visualization]
 image: /img/3d-v2.webp
 slug: dashboard-options-3d-gamma-surface-risk-topography
+schema_type: ScholarlyArticle
 ---
 
 # The 3D Gamma Surface: Navigating Market Risk Topography
