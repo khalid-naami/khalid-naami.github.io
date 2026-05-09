@@ -7,6 +7,7 @@ keywords: [Covered Call, Yield Generation, Options Trading, Quantitative Strateg
 image: "/img/covered_call.webp"
 slug: covered-call-generating-quantitative-yield
 date: 2026-04-22T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Covered Call: Generating Quantitative Yield
