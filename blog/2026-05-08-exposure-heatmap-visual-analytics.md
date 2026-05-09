@@ -8,6 +8,7 @@ image: /img/exposure-heatmap-v2.webp
 slug: exposure-heatmap-visual-analytics-guide
 metadata:
   keywords: [options heatmap, visual trading, gamma exposure, market structure]
+schema_type: ScholarlyArticle
 date: 2026-05-08T23:30:00+00:00
 ---
 
