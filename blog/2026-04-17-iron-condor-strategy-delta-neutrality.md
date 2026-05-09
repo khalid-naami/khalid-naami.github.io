@@ -23,6 +23,7 @@ keywords:
 image: "/img/iron_condor.webp"
 slug: iron-condor-strategy-delta-neutrality
 date: 2026-04-17T08:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Iron Condor Strategy: Mastering Delta Neutrality
