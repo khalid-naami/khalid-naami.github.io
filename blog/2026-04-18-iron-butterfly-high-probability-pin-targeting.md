@@ -7,6 +7,7 @@ keywords: [Iron Butterfly, Options Strategy, Theta Decay, Pin Risk, Delta Neutra
 image: "/img/iron_butterfly.webp"
 slug: iron-butterfly-high-probability-pin-targeting
 date: 2026-04-18T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Iron Butterfly: High-Probability Pin Targeting
