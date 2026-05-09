@@ -2,12 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khalidnaami.com/blog</id>
     <title>Khalid Naami Blog</title>
-    <updated>2026-05-09T10:00:00.000Z</updated>
+    <updated>2026-05-09T11:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://khalidnaami.com/blog"/>
     <subtitle>Khalid Naami Blog</subtitle>
     <icon>https://khalidnaami.com/img/zoro-final.webp</icon>
     <rights>Copyright © 2026 Khalid Naami.</rights>
+    <entry>
+        <title type="html"><![CDATA[OI & Volume Analysis: Master Options Flow and Liquidity]]></title>
+        <id>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</id>
+        <link href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide"/>
+        <updated>2026-05-09T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Decode market sentiment with Open Interest and Volume data.]]></summary>
+        <content type="html"><![CDATA[<p>If you want to know where the "smart money" is placing its bets, you have to look at <strong>Open Interest (OI)</strong> and <strong>Volume</strong>. While price is the story, OI and Volume are the evidence. Understanding how to read these two metrics is like having a direct line into the institutional trading desks.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-the-pulse-of-the-market-live-volume-tracking">1. The Pulse of the Market: Live Volume Tracking<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#1-the-pulse-of-the-market-live-volume-tracking" class="hash-link" aria-label="Direct link to 1. The Pulse of the Market: Live Volume Tracking" title="Direct link to 1. The Pulse of the Market: Live Volume Tracking">​</a></h2>
+<p>Volume is the total number of contracts traded during a specific session. It represents the "energy" behind a move. High volume at a specific strike indicates intense interest and immediate liquidity.</p>
+<p><img decoding="async" loading="lazy" alt="Intraday Volume Distribution" src="https://khalidnaami.com/assets/images/oi-vol-8-v2-ecba6459d9646391901b410cbcd19f11.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>The Macro View: Visualizing the total volume across the entire options chain to spot unusual activity.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-open-interest-the-structural-foundation">2. Open Interest: The Structural Foundation<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#2-open-interest-the-structural-foundation" class="hash-link" aria-label="Direct link to 2. Open Interest: The Structural Foundation" title="Direct link to 2. Open Interest: The Structural Foundation">​</a></h2>
+<p>Unlike volume, Open Interest represents the total number of contracts that are currently held by market participants (not yet closed or exercised). It tells us where the "skin in the game" actually is.</p>
+<p><img decoding="async" loading="lazy" alt="Open Interest by Strike" src="https://khalidnaami.com/assets/images/oi-vol-1-v2-f8eaed0eaa579147d29da70bca8dbbe5.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Identifying the Walls: High OI strikes act as significant support and resistance levels for the market makers.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-volume-vs-oi-identifying-new-positions">3. Volume vs. OI: Identifying New Positions<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#3-volume-vs-oi-identifying-new-positions" class="hash-link" aria-label="Direct link to 3. Volume vs. OI: Identifying New Positions" title="Direct link to 3. Volume vs. OI: Identifying New Positions">​</a></h2>
+<p>By comparing intraday volume to the previous day's OI, we can determine if new positions are being opened or if old ones are being closed. This distinction is critical for predicting trend sustainability.</p>
+<p><img decoding="async" loading="lazy" alt="Volume vs Open Interest Analysis" src="https://khalidnaami.com/assets/images/oi-vol-2-v2-47645c90a2ad2887eb407cfc88fba720.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Momentum Analysis: Understanding if current trading activity is adding to the market's structural depth.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-the-putcall-ratio-sentiment-at-a-glance">4. The Put/Call Ratio: Sentiment at a Glance<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#4-the-putcall-ratio-sentiment-at-a-glance" class="hash-link" aria-label="Direct link to 4. The Put/Call Ratio: Sentiment at a Glance" title="Direct link to 4. The Put/Call Ratio: Sentiment at a Glance">​</a></h2>
+<p>The relationship between Put and Call volume/OI gives us a quick gauge of market sentiment. Are traders hedging downside risk or speculative on the upside?</p>
+<p><img decoding="async" loading="lazy" alt="Put/Call Ratio Visualization" src="https://khalidnaami.com/assets/images/oi-vol-3-v2-999fae2d892cc45a67ed42b8c948a644.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Sentiment Gauging: Merging Put and Call data to identify extreme bearish or bullish sentiment.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5-identifying-institutional-blocks">5. Identifying Institutional Blocks<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#5-identifying-institutional-blocks" class="hash-link" aria-label="Direct link to 5. Identifying Institutional Blocks" title="Direct link to 5. Identifying Institutional Blocks">​</a></h2>
+<p>Large "block trades" often show up as massive spikes in volume at deep OTM or ITM strikes. These are the footprints of hedge funds and institutional players.</p>
+<p><img decoding="async" loading="lazy" alt="Institutional Flow Detection" src="https://khalidnaami.com/assets/images/oi-vol-4-v2-87e28e9d1d904f785fad5d94ed805a21.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Smart Money Tracking: Spotting large-scale contract acquisitions that signal big future moves.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="6-expiration-dynamics">6. Expiration Dynamics<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#6-expiration-dynamics" class="hash-link" aria-label="Direct link to 6. Expiration Dynamics" title="Direct link to 6. Expiration Dynamics">​</a></h2>
+<p>OI and Volume behave differently as we approach expiration. Understanding the "roll" of positions into future months is essential for long-term strategic planning.</p>
+<p><img decoding="async" loading="lazy" alt="Multi-Expiration Flow Analysis" src="https://khalidnaami.com/assets/images/oi-vol-5-v2-c4b72c8e4cd45d765fd7c19ec01222dd.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Time Horizon Analysis: Observing how liquidity shifts across different expiration dates.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="7-liquidity-voids--concentration">7. Liquidity Voids &amp; Concentration<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#7-liquidity-voids--concentration" class="hash-link" aria-label="Direct link to 7. Liquidity Voids &amp; Concentration" title="Direct link to 7. Liquidity Voids &amp; Concentration">​</a></h2>
+<p>Sometimes, the most important information is where there <em>isn't</em> any interest. Liquidity voids can lead to rapid, gapping price moves.</p>
+<p><img decoding="async" loading="lazy" alt="Liquidity Distribution Heatmap" src="https://khalidnaami.com/assets/images/oi-vol-6-v2-70b974c4c1cd9af04c4c30d237cb5aa3.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Visualizing Liquidity: Identifying areas where price is likely to move fast due to a lack of structural support.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="8-putting-it-all-together-actionable-intelligence">8. Putting it All Together: Actionable Intelligence<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#8-putting-it-all-together-actionable-intelligence" class="hash-link" aria-label="Direct link to 8. Putting it All Together: Actionable Intelligence" title="Direct link to 8. Putting it All Together: Actionable Intelligence">​</a></h2>
+<p>The goal of OI and Volume analysis is to filter the noise and find the high-conviction trades. By merging these metrics with Greeks, you gain a 360-degree view of the market.</p>
+<p><img decoding="async" loading="lazy" alt="Unified OI &amp;amp; Volume Dashboard" src="https://khalidnaami.com/assets/images/oi-vol-7-v2-180d04a3611031c172c286c7be7feb90.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>The Tactical View: Using the full power of our Dashboard to execute trades with mathematical confidence.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Open Interest and Volume are the lifeblood of the options market. They provide the context needed to understand price action and anticipate major shifts in market structure. At <strong>Dashboard Options</strong>, our tools bring this data to life, allowing you to follow the flow and trade with the strength of the market behind you.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="open-interest" term="open-interest"/>
+        <category label="volume" term="volume"/>
+        <category label="options-flow" term="options-flow"/>
+        <category label="liquidity" term="liquidity"/>
+        <category label="trading-tools" term="trading-tools"/>
+        <category label="market-sentiment" term="market-sentiment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical & Historical Analysis: The Quantitative Edge]]></title>
+        <id>https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge</id>
+        <link href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge"/>
+        <updated>2026-05-09T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Master technical analysis with historical data and Greeks.]]></summary>
+        <content type="html"><![CDATA[<p>Technical analysis is often dismissed as "astrology for men" by those who don't understand its depth. But when you combine chart patterns with <strong>Historical Data</strong> and <strong>Options Greeks</strong>, it transforms from a guessing game into a rigorous decision-making engine. This is the quantitative edge.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-the-power-of-convergence">1. The Power of Convergence<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#1-the-power-of-convergence" class="hash-link" aria-label="Direct link to 1. The Power of Convergence" title="Direct link to 1. The Power of Convergence">​</a></h2>
+<p>A single indicator is a hint. A convergence of price action, volume, and dealer positioning is a signal. Our Dashboard is built to find these points of convergence.</p>
+<p><img decoding="async" loading="lazy" alt="Convergence of Price and Greeks" src="https://khalidnaami.com/assets/images/tech-analysis-5-v2-79c82ce42eabe84f1202422832ace6c7.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>The Macro View: Aligning technical chart patterns with institutional options levels.</em></p>
+<p>When a technical support level aligns perfectly with a massive "Put Wall," the probability of a reversal increases exponentially. This isn't just a "line on a chart"; it's a reflection of where the money is actually sitting.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-historical-context-is-everything">2. Historical Context is Everything<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#2-historical-context-is-everything" class="hash-link" aria-label="Direct link to 2. Historical Context is Everything" title="Direct link to 2. Historical Context is Everything">​</a></h2>
+<p>Price doesn't move in a vacuum. To understand the current move, we must understand how similar moves have played out in the past.</p>
+<p><img decoding="async" loading="lazy" alt="Historical Return Analysis" src="https://khalidnaami.com/assets/images/tech-analysis-1-v2-9995ce29d373dc9457fed88c4c13e436.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Learning from the Past: Using historical distributions to frame current market expectations.</em></p>
+<p>By analyzing thousands of historical data points, we can identify "Typical Ranges" and "Outlier Events." This context prevents us from overreacting to normal volatility and allows us to stay calm during major market shifts.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-structural-analysis-the-dealers-map">3. Structural Analysis: The Dealer's Map<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#3-structural-analysis-the-dealers-map" class="hash-link" aria-label="Direct link to 3. Structural Analysis: The Dealer's Map" title="Direct link to 3. Structural Analysis: The Dealer's Map">​</a></h2>
+<p>The market's internal structure is invisible on a standard candlestick chart. We must peel back the layers to see the hedging requirements of the major market makers.</p>
+<p><img decoding="async" loading="lazy" alt="Market Structure and Hedging Flows" src="https://khalidnaami.com/assets/images/tech-analysis-2-v2-275edbb700678dacb95cf8889a64fc8f.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Peeling back the layers: Visualizing the hidden forces that drive price acceleration and stall.</em></p>
+<p>Understanding these "structural" levels allows you to predict where price is likely to accelerate (due to dealer hedging) and where it is likely to find friction.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-trend-identification--strength">4. Trend Identification &amp; Strength<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#4-trend-identification--strength" class="hash-link" aria-label="Direct link to 4. Trend Identification &amp; Strength" title="Direct link to 4. Trend Identification &amp; Strength">​</a></h2>
+<p>Is the current trend sustainable, or is it running on fumes? Technical analysis provides the tools to measure the momentum and exhaustion of a move.</p>
+<p><img decoding="async" loading="lazy" alt="Trend Momentum and Exhaustion Metrics" src="https://khalidnaami.com/assets/images/tech-analysis-3-v2-e586d9de540b47d28a1047b8b74317f7.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>Measuring the Pulse: Analyzing the strength of the move to avoid "buying the top" or "shorting the bottom."</em></p>
+<p>By combining momentum oscillators with intraday GEX shifts, we can see if the "fuel" (liquidity) is supporting the move or if the market is ready for a mean-reversion.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5-the-final-verdict-actionable-intelligence">5. The Final Verdict: Actionable Intelligence<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#5-the-final-verdict-actionable-intelligence" class="hash-link" aria-label="Direct link to 5. The Final Verdict: Actionable Intelligence" title="Direct link to 5. The Final Verdict: Actionable Intelligence">​</a></h2>
+<p>Data without action is just noise. The goal of technical and historical analysis is to provide a clear, executable plan for every trade.</p>
+<p><img decoding="async" loading="lazy" alt="Unified Tactical Dashboard" src="https://khalidnaami.com/assets/images/tech-analysis-4-v2-31671969f5fae9667c821468a2146173.webp" width="1200" height="674" class="img_ev3q"></p>
+<p><em>The Execution View: Merging all technical and quantitative inputs into a single trading plan.</em></p>
+<p>At <strong>Dashboard Options</strong>, we provide the data, but it is your mastery of these technical and historical principles that turns that data into profit.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Technical analysis isn't dead; it has simply evolved. In the age of algorithmic trading and high-frequency hedging, you must use tools that are as sophisticated as the market itself. By merging technical charts with historical context and options greeks, you gain the clarity needed to navigate any market regime.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="technical-analysis" term="technical-analysis"/>
+        <category label="historical-data" term="historical-data"/>
+        <category label="options-trading" term="options-trading"/>
+        <category label="market-structure" term="market-structure"/>
+        <category label="quantitative-finance" term="quantitative-finance"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Game of Probabilities: Decoding Market Expectations]]></title>
         <id>https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations</id>
