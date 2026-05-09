@@ -7,6 +7,7 @@ tags: [Dashboard Options, positive-gamma, options-trading, volatility, quantitat
 keywords: [Positive Gamma, Options Strategies, Theta Decay, Delta Neutral, Mean Reversion, Dashboard Options, Market Makers]
 image: /img/positive-gamma-v2.webp
 slug: how-to-trade-positive-gamma-calm-markets
+schema_type: ScholarlyArticle
 ---
 
 # Trading Positive Gamma: Strategies for Calm Markets
