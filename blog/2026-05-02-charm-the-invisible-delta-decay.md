@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-manageme
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
 image: /img/charm-v2.webp
 slug: charm-the-invisible-delta-decay
+schema_type: ScholarlyArticle
 ---
 
 # Charm: The Invisible Erosion of Directional Exposure
