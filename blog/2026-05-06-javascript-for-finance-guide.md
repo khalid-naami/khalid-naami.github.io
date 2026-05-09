@@ -7,6 +7,7 @@ keywords: [Science & Technology, javascript, finance, data visualization, fintec
 image: /img/javas.webp
 slug: javascript-for-finance-data-visualization-guide
 date: 2026-05-06T15:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # JavaScript in Finance: Powering Real-Time Financial Dashboards
