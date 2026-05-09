@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, trading, derivatives, max-pain, expiration, m
 keywords: [options, trading, derivatives, max-pain, maximum pain theory, expiration, market makers, pinning]
 image: /img/max-pain-v2.webp
 slug: options-max-pain-theory-market-gravity
+schema_type: ScholarlyArticle
 ---
 
 # Max Pain Theory: Why Prices Gravitate Toward Losses
