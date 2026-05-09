@@ -7,6 +7,7 @@ keywords: [options, dashboard, greeks, gamma, delta, vanna, charm, technical ana
 image: /img/dashboard-1-v2.webp
 slug: ultimate-options-dashboard-guide
 date: 2026-05-06T11:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Ultimate Options Dashboard: Price Action & Greeks Analysis
