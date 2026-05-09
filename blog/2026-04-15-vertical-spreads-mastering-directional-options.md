@@ -23,6 +23,7 @@ keywords:
 image: "/img/vertical_spreads.webp"
 slug: vertical-spreads-mastering-directional-options
 date: 2026-04-15T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # Vertical Spreads: Mastering Directional Options
