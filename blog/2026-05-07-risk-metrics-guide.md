@@ -7,6 +7,7 @@ keywords: [Daily Analysis, risk metrics, VaR, beta, sharpe ratio, sortino ratio,
 image: /img/VaR-Beta-Sharpe-Sortino.webp
 slug: risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide
 date: 2026-05-07T18:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Risk Metrics 101: VaR, Beta, Sharpe & Sortino
