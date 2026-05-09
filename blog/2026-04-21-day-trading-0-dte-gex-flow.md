@@ -7,6 +7,7 @@ tags: [Dashboard Options, 0DTE, day-trading, gamma, quantitative-finance]
 keywords: [0DTE Options, Day Trading, GEX Flow, Option Dealer Levels, Gamma Exposure, Intraday Volatility, Quantitative Trading]
 image: "/img/zero-dte-gex-v2.webp"
 slug: day-trading-0-dte-gex-flow-dealer-levels
+schema_type: ScholarlyArticle
 ---
 
 # Day Trading 0 DTE GEX Flow | Option Dealer Levels
