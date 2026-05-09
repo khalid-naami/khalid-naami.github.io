@@ -7,6 +7,7 @@ keywords: [Collar Strategy, Portfolio Protection, Risk Management, Hedging, Opti
 image: "/img/collar.webp"
 slug: collar-strategy-complete-portfolio-protection
 date: 2026-04-22T08:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Collar Strategy: Complete Portfolio Protection
