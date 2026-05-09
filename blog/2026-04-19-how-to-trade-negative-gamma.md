@@ -7,6 +7,7 @@ tags: [Dashboard Options, negative-gamma, volatility, options-trading, quantitat
 keywords: [Negative Gamma, GEX, Volatility Expansion, Options Trading, Quantitative Strategies, Market Crash, Dashboard Options]
 image: "/img/negative-gamma-v2.webp"
 slug: how-to-trade-negative-gamma-volatility-expansion
+schema_type: ScholarlyArticle
 ---
 
 # Trading Negative Gamma: Volatility Expansion
