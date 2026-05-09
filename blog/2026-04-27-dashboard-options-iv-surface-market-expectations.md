@@ -6,6 +6,7 @@ tags: [Dashboard Options, analytics, iv-surface, implied-volatility, skew, term-
 keywords: [options, trading, derivatives, iv surface, implied volatility, volatility smile, volatility skew, term structure, dashboard options]
 image: /img/iv-surface-v2.webp
 slug: dashboard-options-iv-surface-market-expectations
+schema_type: ScholarlyArticle
 ---
 
 # The IV Surface: Decoding Market Expectations
