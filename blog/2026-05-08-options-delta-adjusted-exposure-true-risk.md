@@ -38,7 +38,7 @@ $$
 \text{Synthetic Shares} = (\text{Contracts} \times \text{Multiplier}) \times \text{Delta}
 $$
 
-![Delta-Adjusted Exposure Analysis](/img/delta-risk-exposure-v2.webp)
+![Delta-Adjusted Exposure Analysis](/img/delta-adjusted-v2.webp)
 
 *Visualizing directional risk: Comparing raw notional values to the actual market impact across different strikes.*
 
