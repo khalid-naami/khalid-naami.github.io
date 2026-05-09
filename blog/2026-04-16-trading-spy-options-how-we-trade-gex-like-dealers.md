@@ -17,6 +17,7 @@ keywords:
   ]
 image: "/img/spy-v2.webp"
 slug: trading-spy-options-how-we-trade-gex-like-dealers
+schema_type: ScholarlyArticle
 ---
 
 # Trading SPY Options Like Professional Dealers
