@@ -7,6 +7,7 @@ keywords: [Science & Technology, julia, high performance computing, fintech, dat
 image: /img/julia.webp
 slug: julia-for-finance-high-performance-computing-guide
 date: 2026-05-07T14:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Julia for Finance: High-Performance Quant Research
