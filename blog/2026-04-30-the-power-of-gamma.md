@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, trading, derivatives, gamma, greeks]
 keywords: [options, trading, derivatives, gamma, greeks]
 image: /img/zero-dte-gex-v2.webp
 slug: the-power-of-gamma
+schema_type: ScholarlyArticle
 ---
 
 # The Power of Gamma: Why It Rules the Options Market
