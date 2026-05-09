@@ -7,6 +7,7 @@ keywords: [Cash-Secured Put, Options Strategy, Value Investing, Theta Decay, Das
 image: "/img/cash_secured_put.webp"
 slug: cash-secured-put-acquiring-assets-discount
 date: 2026-04-23T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Cash-Secured Put: Acquiring Assets at a Discount
