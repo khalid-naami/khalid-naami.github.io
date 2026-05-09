@@ -8,6 +8,7 @@ image: /img/delta-adjusted-v2.webp
 slug: options-delta-adjusted-exposure-true-risk
 metadata:
   keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, risk management]
+schema_type: ScholarlyArticle
 date: 2026-05-08T23:00:00+00:00
 ---
 
