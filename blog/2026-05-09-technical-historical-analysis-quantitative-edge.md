@@ -8,6 +8,7 @@ image: /img/tech-analysis-5-v2.webp
 slug: technical-historical-analysis-quantitative-edge
 metadata:
   keywords: [technical analysis, options greeks, historical data, trading strategy]
+schema_type: ScholarlyArticle
 date: 2026-05-09T10:10:00+00:00
 ---
 
