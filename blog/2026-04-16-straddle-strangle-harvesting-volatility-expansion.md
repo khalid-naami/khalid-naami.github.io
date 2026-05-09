@@ -16,6 +16,7 @@ keywords:
 image: "/img/straddle_strangle.webp"
 slug: straddle-strangle-harvesting-volatility-expansion
 date: 2026-04-16T08:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Straddle and Strangle: Harvesting Volatility
