@@ -22,6 +22,7 @@ keywords:
   ]
 image: /img/using-gamma-v2.webp
 slug: using-gamma-exposure-to-time-trades
+schema_type: ScholarlyArticle
 ---
 
 # Using Gamma Exposure (GEX) to Time Your Option Trading
