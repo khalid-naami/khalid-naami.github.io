@@ -7,6 +7,7 @@ keywords: [Daily Analysis, volatility, log-returns, standard deviation, parkinso
 image: /img/volatility.webp
 slug: volatility-log-returns-yang-zhang-estimator-guide
 date: 2026-05-07T12:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator
