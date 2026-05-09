@@ -7,6 +7,7 @@ keywords: [Daily Analysis, probability, stochastic processes, risk management, d
 image: /img/probability.webp
 slug: game-of-probabilities-stochastic-risk-management-guide
 date: 2026-05-07T14:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # The Game of Probabilities: Stochastic Processes
