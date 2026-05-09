@@ -23,6 +23,7 @@ keywords:
 image: "/img/pmcc.webp"
 slug: poor-mans-covered-call-capital-efficient-yield
 date: 2026-04-17T14:00:00Z
+schema_type: ScholarlyArticle
 ---
 
 # The Poor Man's Covered Call: Capital Efficient Yield
