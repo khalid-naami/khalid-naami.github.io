@@ -7,6 +7,7 @@ keywords: [Science & Technology, react, react.js, fintech, web development, comp
 image: /img/react-js.webp
 slug: react-js-fintech-scalable-dashboards-guide
 date: 2026-05-07T10:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # React.js in Fintech: Building Scalable and Reactive Trading Dashboards
