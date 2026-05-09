@@ -7,6 +7,7 @@ keywords: [Science & Technology, python, finance, data analysis, quantitative tr
 image: /img/python.webp
 slug: python-for-finance-data-analysis-guide
 date: 2026-05-06T13:00:00+00:00
+schema_type: ScholarlyArticle
 ---
 
 # Python for Finance: The Engine of Modern Quantitative Analysis
