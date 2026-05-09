@@ -6,6 +6,7 @@ tags: [Dashboard Options, options, vanna, greeks, volatility, spx, risk-manageme
 keywords: [options, vanna, greeks, volatility, spx, risk-management]
 image: /img/vanna-v2.webp
 slug: vanna-price-volatility-bridge
+schema_type: ScholarlyArticle
 ---
 
 # Vanna: The Bridge Between Price and Volatility
