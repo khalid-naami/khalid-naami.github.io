@@ -1,6 +1,6 @@
 ---
 title: "The Cash-Secured Put: Acquiring Assets at a Discount"
-description: Acquire high-quality assets with cash-secured puts?
+description: "Learn to use Cash Secured Puts to acquire premium assets at a discount. A quantitative approach to generating income while targeting optimal entries."
 authors: [khalid]
 tags: [Dashboard Options, cash-secured-put, options-strategy, quantitative-finance, value-investing]
 keywords: [Cash-Secured Put, Options Strategy, Value Investing, Theta Decay, Dashboard Options, Gamma Exposure, Option Selling]
