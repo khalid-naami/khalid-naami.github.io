@@ -1,6 +1,6 @@
 ---
 title: "Python for Finance: Modern Quant Analysis"
-description: Why is Python indispensable for quantitative trading?
+description: "Leverage Python for Finance. Master quantitative analysis, data manipulation, and algorithmic trading using pandas, numpy, and machine learning."
 authors: [khalid]
 tags: [Science & Technology, python, finance, data analysis, quantitative trading]
 keywords: [Science & Technology, python, finance, data analysis, quantitative trading, automation, fintech]
