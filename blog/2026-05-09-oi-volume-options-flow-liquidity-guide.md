@@ -1,6 +1,6 @@
 ---
 title: "OI & Volume Analysis: Master Options Flow and Liquidity"
-description: Decode market sentiment with Open Interest and Volume data.
+description: "Analyze Open Interest, Volume, and Options Flow to uncover hidden market liquidity. Learn how smart money positioning reveals future market trends."
 authors: [khalid]
 tags: [Dashboard Options, open-interest, volume, options-flow, liquidity, trading-tools, market-sentiment]
 keywords: [open interest, options volume, options flow, market liquidity, trading tools, put call ratio, unusual volume, OCC data, market maker positioning]
