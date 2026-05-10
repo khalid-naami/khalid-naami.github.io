@@ -1,6 +1,6 @@
 ---
 title: "Vertical Spreads: Mastering Directional Options"
-description: How to use vertical spreads to manage directional risk?
+description: "Master Vertical Spreads to control directional risk. Learn how to strategically limit maximum loss while capturing high-probability market movements."
 authors: [khalid]
 tags:
   [
