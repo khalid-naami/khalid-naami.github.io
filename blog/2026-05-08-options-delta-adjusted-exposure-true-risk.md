@@ -1,6 +1,6 @@
 ---
 title: "Delta-Adjusted Exposure: The Real Way to Measure Risk"
-description: Understand true directional risk using Delta-Adjusted Notional.
+description: "Calculate Options Delta-Adjusted Exposure to reveal your true portfolio risk. Avoid the pitfalls of static notional exposure in volatile markets."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, delta, risk-management, exposure]
 keywords: [options, trading, derivatives, delta, delta-adjusted, exposure, notional value, risk management]
