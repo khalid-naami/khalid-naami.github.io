@@ -1,6 +1,6 @@
 ---
 title: "Delta Dynamics: The Compass of Options Trading"
-description: Use Delta as a directional compass for your trades?
+description: "Master Delta dynamics to accurately gauge directional risk. Learn how this foundational Greek dictates your options portfolios exposure to price."
 authors: [khalid]
 tags: [Dashboard Options, options, delta, greeks, risk-management, spx]
 keywords: [options, delta, greeks, risk-management, spx]
