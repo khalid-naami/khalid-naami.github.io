@@ -226,7 +226,7 @@ const GraphContainer = () => {
                     )}
                     <img 
                         key={colorMode}
-                        src={colorMode === 'dark' ? '/img/kaws.webp' : '/img/kawspeely.webp'}
+                        src={`${colorMode === 'dark' ? '/img/kaws.webp' : '/img/kawspeely.webp'}?t=${Date.now()}`}
                         alt="Kaws"
                         style={{
                             position: 'absolute',
