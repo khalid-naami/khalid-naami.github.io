@@ -1,6 +1,6 @@
 ---
 title: "Options Vomma: Understanding Vega Convexity"
-description: What is Vomma and how does it affect volatility risk?
+description: "Understand Options Vomma as the convexity of Vega. Learn how to capitalize on accelerating implied volatility changes during market turbulence."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, vomma, vega, vol-of-vol]
 keywords: [options, trading, derivatives, vomma, vega, vol-of-vol, implied volatility, risk management]
