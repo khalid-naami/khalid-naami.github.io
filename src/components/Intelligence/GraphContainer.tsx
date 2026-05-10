@@ -224,12 +224,10 @@ const GraphContainer = () => {
                             No brain activity reported
                         </div>
                     )}
-                    <ThemedImage
+                    <img 
+                        key={colorMode}
+                        src={colorMode === 'dark' ? '/img/kaws.webp' : '/img/kawspeely.webp'}
                         alt="Kaws"
-                        sources={{
-                            light: '/img/kawspeely.webp',
-                            dark: '/img/kaws.webp',
-                        }}
                         style={{
                             position: 'absolute',
                             bottom: '-50px',
