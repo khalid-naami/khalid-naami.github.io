@@ -1,6 +1,6 @@
 ---
 title: "Max Pain Theory: Why Prices Gravitate Toward Losses"
-description: What is Max Pain and how does it pull prices at expiration?
+description: "Understand the Options Max Pain theory. Discover how market makers and structural gravity pull stock prices toward maximum pain levels at expiration."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, max-pain, expiration, market-mechanics]
 keywords: [options, trading, derivatives, max-pain, maximum pain theory, expiration, market makers, pinning]
