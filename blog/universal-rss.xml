@@ -652,7 +652,7 @@ $$</p>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Transition from determinism to stochastic risk management?]]></description>
+      <description><![CDATA[Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action.]]></description>
       <content:encoded><![CDATA[<h1>The Game of Probabilities: Stochastic Processes</h1>
 <p>In our daily lives, we often seek certainty. We want to believe that if we follow a specific path, a specific outcome is guaranteed. This is the comfort of <strong>Determinism</strong>. However, the financial markets are not deterministic systems; they are <strong>Stochastic Processes</strong>. To succeed in trading is to stop looking for certainty and start mastering the game of probabilities.</p>
 <p><img src="/img/probability.webp" alt="The Science of Probability"></p>
@@ -985,7 +985,7 @@ $$</p>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Master risk metrics like VaR, Beta, Sharpe, and Sortino?]]></description>
+      <description><![CDATA[Unveil critical Risk Metrics like VaR, Beta, Sharpe, and Sortino ratios. Quantify and benchmark your trading performance against market benchmarks.]]></description>
       <content:encoded><![CDATA[<h1>Risk Metrics 101: VaR, Beta, Sharpe &amp; Sortino</h1>
 <p>In the world of investing, everyone loves to talk about returns. But returns are only half of the story. Professional trading is not about how much you make, but how much you <em>risk</em> to make it. To transition from a retail speculator to a professional portfolio manager, you must master the mathematical metrics that quantify risk. </p>
 <p><img src="/img/VaR-Beta-Sharpe-Sortino.webp" alt="Essential Risk Metrics"></p>
@@ -1295,7 +1295,7 @@ $$</p>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Identify institutional gaps with the Multi-Ticker tool?]]></description>
+      <description><![CDATA[Gain a comparative edge with Multi-Ticker Analysis. Learn to dynamically benchmark options flow and volatility surfaces across multiple market assets.]]></description>
       <content:encoded><![CDATA[<h1>Dashboard Options: Mastering Multi-Ticker Analysis</h1>
 <p>In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the <strong>SPX</strong> (S&amp;P 500 Index) and <strong>SPY</strong> (S&amp;P 500 ETF)—is where the real alpha is found.</p>
 <!-- truncate -->
@@ -3914,7 +3914,7 @@ If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamm
       <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[How to profit from stability with the Iron Condor?]]></description>
+      <description><![CDATA[Master the Iron Condor strategy for delta neutrality. Learn to generate consistent options income by trading high probability market ranges.]]></description>
       <content:encoded><![CDATA[<h1>The Iron Condor Strategy: Mastering Delta Neutrality</h1>
 <p>Chasing direction is a losing game for most traders. In the institutional world, we don&#39;t bet on where the market <em>will</em> go; we bet on where it <em>won&#39;t</em> go. The <strong>Iron Condor</strong> is the ultimate expression of this philosophy—it allows you to define a statistical strike zone and profit from the market&#39;s inability to move, turning time decay into a consistent income stream.</p>
 <p>The <strong>Iron Condor</strong> is the quintessential strategy for this exact methodology. It is a non-directional, delta-neutral options strategy designed to generate income in range-bound markets. For the quantitative analyst, the Iron Condor is not just a trade; it is a mathematical harvesting engine.</p>
