@@ -8,7 +8,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-11",
-		imgs: ["/img/gex dex.webp", "/img/charm and vanna.webp"],
+		imgs: ["/img/dashboa_new.webp", "/img/dash_new.webp"],
 		summary: [
 			"Make quick decisions with our all-in-one Greeks",
 			"Delta, Gamma, Charm, Vanna visualized clearly",
