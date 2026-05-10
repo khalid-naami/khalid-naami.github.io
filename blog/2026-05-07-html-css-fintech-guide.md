@@ -1,5 +1,5 @@
 ---
-title: "HTML & CSS in Fintech: Crafting the Professional Trading Experience"
+title: "HTML & CSS in Fintech: Pro Trading UI"
 description: Why are HTML and CSS vital for financial interfaces?
 authors: [khalid]
 tags: [Science & Technology, html, css, fintech, ui design, ux]
