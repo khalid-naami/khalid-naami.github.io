@@ -1,6 +1,6 @@
 ---
 title: Contact Support
-description: Contact Khalid Naami for support, business inquiries, or feedback.
+description: "Contact Khalid Naami for support, business inquiries, or feedback. Connect with Dashboard Options to explore quantitative finance opportunities."
 hide_table_of_contents: true
 ---
 
