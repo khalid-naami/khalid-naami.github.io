@@ -1,6 +1,6 @@
 ---
 title: "Julia for Finance: High-Performance Quant Research"
-description: Why is Julia preferred for high-frequency trading?
+description: "Explore Julia for Finance and high-performance computing. Accelerate your quantitative models and pricing algorithms with this modern language."
 authors: [khalid]
 tags: [Science & Technology, julia, high performance computing, fintech, data analysis]
 keywords: [Science & Technology, julia, high performance computing, fintech, data analysis, quantitative trading, numerical computing]
