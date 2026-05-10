@@ -1,6 +1,6 @@
 ---
 title: "Technical & Historical Analysis: The Quantitative Edge"
-description: Master technical analysis with historical data and Greeks.
+description: "Blend Technical and Historical Analysis for a quantitative edge. Combine price action with statistical modeling to optimize your trade execution."
 authors: [khalid]
 tags: [Dashboard Options, technical-analysis, historical-data, options-trading, market-structure, quantitative-finance]
 keywords: [technical analysis, historical analysis, quantitative trading, options greeks, market structure, trend analysis, backtesting]
