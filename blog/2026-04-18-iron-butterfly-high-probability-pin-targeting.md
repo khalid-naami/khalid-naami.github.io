@@ -1,6 +1,6 @@
 ---
 title: "The Iron Butterfly: High-Probability Pin Targeting"
-description: Target price pins at expiration with the Iron Butterfly?
+description: "Deploy the Iron Butterfly strategy for high-probability pin targeting. Capitalize on options expiration dynamics and market maker gravity levels."
 authors: [khalid]
 tags: [Dashboard Options, iron-butterfly, options-strategy, quantitative-finance, delta-neutral]
 keywords: [Iron Butterfly, Options Strategy, Theta Decay, Pin Risk, Delta Neutral, Gamma Exposure, Dashboard Options]
