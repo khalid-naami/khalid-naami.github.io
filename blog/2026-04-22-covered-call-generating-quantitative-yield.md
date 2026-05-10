@@ -1,6 +1,6 @@
 ---
 title: "The Covered Call: Generating Quantitative Yield"
-description: Generate quantitative yield with covered calls?
+description: "Generate consistent quantitative yield using Covered Calls. Learn how to systematically monetize your equity positions in sideways or bullish markets."
 authors: [khalid]
 tags: [Dashboard Options, covered-call, yield, options-strategy, quantitative-finance]
 keywords: [Covered Call, Yield Generation, Options Trading, Quantitative Strategy, Theta Decay, Dashboard Options, Gamma Resistance]
