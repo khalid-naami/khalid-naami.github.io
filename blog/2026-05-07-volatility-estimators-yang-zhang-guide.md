@@ -1,5 +1,5 @@
 ---
-title: "Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator"
+title: "Volatility: Log-Returns to Yang-Zhang"
 description: How has volatility evolved to the Yang-Zhang estimator?
 authors: [khalid]
 tags: [Daily Analysis, volatility, quantitative finance, risk management, mathematics]
