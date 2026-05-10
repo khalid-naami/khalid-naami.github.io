@@ -7,7 +7,10 @@ export default function Newsletter() {
   }, []);
 
   return (
-    <Layout title="Newsletter Redirect">
+    <Layout 
+      title="Newsletter Redirect"
+      description="Subscribe to the khalid naami Newsletter. Receive elite quantitative research, AI insights, and options trading analysis directly to your inbox."
+    >
       <div style={{
         display: 'flex',
         justifyContent: 'center',
