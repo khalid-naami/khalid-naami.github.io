@@ -5,6 +5,7 @@ import { GraphControls } from './GraphControls';
 import type { EnrichedBlogItem } from '../../types/blog';
 import { trackEvent } from '../../lib/events';
 import { useColorMode } from '@docusaurus/theme-common';
+import ThemedImage from '@theme/ThemedImage';
 
 // simple debounce hook
 function useDebounce<T>(value: T, delay = 250) {
@@ -223,9 +224,12 @@ const GraphContainer = () => {
                             No brain activity reported
                         </div>
                     )}
-                    <img 
-                        src={colorMode === 'dark' ? '/img/kaws.webp' : '/img/kawspeely.webp'}
+                    <ThemedImage
                         alt="Kaws"
+                        sources={{
+                            light: '/img/kawspeely.webp',
+                            dark: '/img/kaws.webp',
+                        }}
                         style={{
                             position: 'absolute',
                             bottom: '-50px',
