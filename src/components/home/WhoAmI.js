@@ -19,7 +19,7 @@ function WhoAmI({ level = 2 }) {
           <div className="snap-center shrink-0 w-[220px]">
             <img
               className="rounded-xl w-[220px] h-[300px] object-cover"
-              src="/img/khalid_profile.webp"
+              src={`/img/khalid_profile.webp?t=${Date.now()}`}
               alt="Khalid Naami - Founder & CEO"
               width={220}
               height={300}
@@ -30,7 +30,7 @@ function WhoAmI({ level = 2 }) {
           <div className="snap-center shrink-0 w-[220px]">
             <img
               className="rounded-xl w-[220px] h-[300px] object-cover"
-              src="/img/greeks_anatomy.webp"
+              src={`/img/greeks_anatomy.webp?t=${Date.now()}`}
               alt="Greeks Options Platform Anatomy"
               width={220}
               height={300}
@@ -41,7 +41,7 @@ function WhoAmI({ level = 2 }) {
           <div className="snap-center shrink-0 w-[220px]">
             <img
               className="rounded-xl w-[220px] h-[300px] object-cover"
-              src="/img/khalid_mastermind.webp"
+              src={`/img/khalid_mastermind.webp?t=${Date.now()}`}
               alt="Strategic Mastermind"
               width={220}
               height={300}
@@ -56,7 +56,7 @@ function WhoAmI({ level = 2 }) {
       <div className="hidden md:flex items-center content-center mx-auto align-center justify-center sm:flex-nowrap flex-wrap mt-4 gap-4 md:gap-8 mb-4">
         <img
           className="rounded-xl max-h-[300px] w-[220px] object-cover shadow-lg"
-          src="/img/khalid_profile.webp"
+          src={`/img/khalid_profile.webp?t=${Date.now()}`}
           alt="Khalid Naami - Founder & CEO"
           width={220}
           height={300}
@@ -65,7 +65,7 @@ function WhoAmI({ level = 2 }) {
         />
         <img
           className="rounded-xl max-h-[300px] w-[220px] object-cover opacity-90 hover:opacity-100 transition-opacity"
-          src="/img/greeks_anatomy.webp"
+          src={`/img/greeks_anatomy.webp?t=${Date.now()}`}
           alt="Greeks Options Platform Anatomy"
           width={220}
           height={300}
@@ -74,7 +74,7 @@ function WhoAmI({ level = 2 }) {
         />
         <img
           className="rounded-xl max-h-[300px] w-[220px] object-cover opacity-90 hover:opacity-100 transition-opacity"
-          src="/img/khalid_mastermind.webp"
+          src={`/img/khalid_mastermind.webp?t=${Date.now()}`}
           alt="Strategic Mastermind"
           width={220}
           height={300}
