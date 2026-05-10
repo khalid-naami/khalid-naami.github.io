@@ -1,6 +1,6 @@
 ---
 title: "The Butterfly Spread: Precision Targeting in Options"
-description: Get maximum leverage for precise targets with butterflies?
+description: "Deploy Butterfly Spreads for precision targeting in options trading. Capitalize on low volatility environments with tightly defined risk parameters."
 authors: [khalid]
 tags: [Dashboard Options, butterfly-spread, options-strategy, quantitative-finance, pin-risk]
 keywords: [Butterfly Spread, Options Trading, Quantitative Strategies, Dashboard Options, Pin Risk, Gamma Walls, Volatility]
