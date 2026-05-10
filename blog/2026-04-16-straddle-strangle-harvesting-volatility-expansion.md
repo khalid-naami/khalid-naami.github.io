@@ -1,6 +1,6 @@
 ---
 title: "The Straddle and Strangle: Harvesting Volatility"
-description: Profit from volatility with straddles and strangles?
+description: "Utilize Straddles and Strangles for harvesting volatility expansion. Learn non-directional strategies to profit from explosive market breakouts."
 authors: [khalid]
 tags: [Dashboard Options, straddle, strangle, volatility, quantitative-finance]
 keywords:
