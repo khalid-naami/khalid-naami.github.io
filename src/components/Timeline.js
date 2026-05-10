@@ -3,7 +3,7 @@ import React from 'react';
 const journeyData = [
   {
     year: 2009,
-    icon: "🇲🇦",
+    icon: "",
     description: <>Since moving from the city of Laayoune, I have settled in the capital.</>
   },
   {
