@@ -39,8 +39,8 @@ function IntelligencePage() {
             <ThemedImage
                 alt="Second Brain"
                 sources={{
-                    light: '/img/intelligence_graph_mobile_light.webp',
-                    dark: '/img/intelligence_graph_mobile_dark.webp',
+                    light: '/img/intelligence_graph_mobile_light_v1.webp',
+                    dark: '/img/intelligence_graph_mobile_dark_v1.webp',
                 }}
                 style={{ width: '100%', filter: 'blur(2px)' }}
                 />
