@@ -214,8 +214,8 @@ const ChatPage = () => {
             <ThemedImage
               alt="Chat with AI on Desktop"
               sources={{
-                light: '/img/chat_terminal_mobile_light.webp',
-                dark: '/img/chat_terminal_mobile_dark.webp',
+                light: '/img/chat_terminal_mobile_light_v4.webp',
+                dark: '/img/chat_terminal_mobile_dark_v4.webp',
               }}
               style={{ width: '100%', filter: 'blur(2px)' }}
             />
