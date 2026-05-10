@@ -1,6 +1,6 @@
 ---
 title: "Vanna: The Bridge Between Price and Volatility"
-description: What is Vanna and how it bridges price and volatility?
+description: "Discover how Vanna bridges the gap between underlying price movements and implied volatility, offering traders a critical edge in options pricing."
 authors: [khalid]
 tags: [Dashboard Options, options, vanna, greeks, volatility, spx, risk-management]
 keywords: [options, vanna, greeks, volatility, spx, risk-management]
