@@ -1,6 +1,6 @@
 ---
 title: "Charm: The Invisible Erosion of Directional Exposure"
-description: Is Charm the most vital Greek for overnight drift?
+description: "Explore Charm, the invisible force of delta decay over time. Learn how weekend drift and time decay uniquely impact your options trading strategies."
 authors: [khalid]
 tags: [Dashboard Options, options, charm, greeks, time-decay, spx, risk-management]
 keywords: [options, charm, greeks, time-decay, spx, risk-management]
