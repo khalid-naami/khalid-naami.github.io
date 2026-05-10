@@ -1,6 +1,6 @@
 ---
 title: "Options Color: Managing Gamma Decay and Pin Risk"
-description: What is Color and how to manage gamma decay risk?
+description: "Understand Options Color. Learn how the rate of change of Gamma over time (Gamma Decay) impacts your portfolio risk as expiration rapidly approaches."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, color, gamma, theta, pin-risk]
 keywords: [options, trading, derivatives, color, gamma, theta, pin-risk, gamma decay, risk management]
