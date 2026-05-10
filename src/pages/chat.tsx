@@ -215,7 +215,7 @@ const ChatPage = () => {
               alt="Chat with AI on Desktop"
               sources={{
                 light: '/img/chat_terminal_mobile_light.png',
-                dark: '/img/chat_terminal_mobile_dark.png',
+                dark: '/img/terminal_bg_dark.webp',
               }}
               style={{ width: '100%', filter: 'blur(2px)' }}
             />
@@ -272,7 +272,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
     return (
         <>
             <img
-                src="/img/zoro_waiting_pixel.png"
+                src="/img/zoro_waiting_pixel.webp"
                 alt="Zoro waiting for embeddings"
                 style={{
                     position: 'absolute',
@@ -296,7 +296,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
                 where are my swords? (and my data?)
             </div>
             <img
-                src="/img/zoro_waiting_pixel.png"
+                src="/img/zoro_waiting_pixel.webp"
                 alt="Zoro indexing"
                 style={{
                     position: 'absolute',
@@ -320,7 +320,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
                 THREE SWORD STYLE... INDEXING!
             </div>
             <img
-                src="/img/zoro_ready_pixel.png"
+                src="/img/zoro_ready_pixel.webp"
                 alt="Zoro has embeddings"
                 style={{
                     position: 'absolute',
@@ -669,7 +669,7 @@ const HowItWorks = () => {
                     alt="Sequence diagram showing the RAG process"
                     sources={{
                         light: '/img/lifeline_sequence_diagram_light.png',
-                        dark: '/img/lifeline_sequence_diagram_dark.png',
+                        dark: '/img/dashboard-1-v2.webp',
                     }}
                     style={{ 
                         width: '80%', 
@@ -686,7 +686,7 @@ const HowItWorks = () => {
                 onClose={() => setIsModalOpen(false)}
                 sources={{
                     light: '/img/lifeline_sequence_diagram_light.png',
-                    dark: '/img/lifeline_sequence_diagram_dark.png',
+                    dark: '/img/dashboard-1-v2.webp',
                 }}
                 alt="Sequence diagram showing the RAG process"
             />
