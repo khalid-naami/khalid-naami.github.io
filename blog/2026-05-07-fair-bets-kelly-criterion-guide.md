@@ -1,6 +1,6 @@
 ---
 title: "Fair Bets & Kelly Criterion: Mastering Position Sizing"
-description: Protect your portfolio with Kelly Criterion and fair bets?
+description: "Optimize your portfolio with the Kelly Criterion. Learn mathematical position sizing to maximize long-term wealth while minimizing the risk of ruin."
 authors: [khalid]
 tags: [Daily Analysis, risk management, kelly criterion, expected value, mathematics]
 keywords: [Daily Analysis, fair bet, kelly criterion, position sizing, risk management, expected value, quantitative trading]
