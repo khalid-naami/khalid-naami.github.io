@@ -228,7 +228,7 @@ module.exports = async function createConfig() {
           routeBasePath: 'blog',
           blogTitle: 'Blog',
           blogDescription:
-            'This is where I drop my thoughts in the form of blogposts!',
+            'Explore expert quantitative analysis, options trading strategies, and financial data science research at the Dashboard Options official blog.',
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
           showReadingTime: true,
