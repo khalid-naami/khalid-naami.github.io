@@ -11,9 +11,17 @@ function countWords(html: string): number {
 }
 
 function extractImage(html: string): string | undefined {
+    // 1. Try HTML img tag
     const imgRegex = /<img[^>]+src="([^">]+)"/;
-    const match = html.match(imgRegex);
-    return match ? match[1] : undefined;
+    const imgMatch = html.match(imgRegex);
+    if (imgMatch) return imgMatch[1];
+
+    // 2. Try Markdown image syntax: ![alt](url)
+    const mdRegex = /!\[.*?\]\((.*?)\)/;
+    const mdMatch = html.match(mdRegex);
+    if (mdMatch) return mdMatch[1];
+
+    return undefined;
 }
 
 export function parseBlogItems(items: BlogItem[]): EnrichedBlogItem[] {
@@ -43,7 +51,7 @@ export function parseBlogItems(items: BlogItem[]): EnrichedBlogItem[] {
 
     return {
       ...item,
-      image: extractImage(item.content_html),
+      image: item.image || extractImage(item.content_html),
       wordCount: countWords(item.content_html),
       colorHue: colorHue,
       recencyRatio: dateRange > 0 ? (dateValue - minDate) / dateRange : 0,
