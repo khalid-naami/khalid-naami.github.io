@@ -171,7 +171,7 @@
         <category label="risk-management" term="risk-management"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exposure Heatmap: The Future of Visual Options Analytics]]></title>
+        <title type="html"><![CDATA[Exposure Heatmap: Visual Options Analytics]]></title>
         <id>https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide</id>
         <link href="https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide"/>
         <updated>2026-05-08T23:30:00.000Z</updated>
@@ -552,7 +552,7 @@
         <category label="financial modeling" term="financial modeling"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator]]></title>
+        <title type="html"><![CDATA[Volatility: Log-Returns to Yang-Zhang]]></title>
         <id>https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</id>
         <link href="https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide"/>
         <updated>2026-05-07T12:00:00.000Z</updated>
@@ -606,7 +606,7 @@
         <category label="mathematics" term="mathematics"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React.js in Fintech: Building Scalable and Reactive Trading Dashboards]]></title>
+        <title type="html"><![CDATA[React.js Fintech: Scalable Trading Dashboards]]></title>
         <id>https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</id>
         <link href="https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide"/>
         <updated>2026-05-07T10:00:00.000Z</updated>
@@ -643,7 +643,7 @@
         <category label="web development" term="web development"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML & CSS in Fintech: Crafting the Professional Trading Experience]]></title>
+        <title type="html"><![CDATA[HTML & CSS in Fintech: Pro Trading UI]]></title>
         <id>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</id>
         <link href="https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide"/>
         <updated>2026-05-07T08:00:00.000Z</updated>
@@ -681,7 +681,7 @@
         <category label="ux" term="ux"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript in Finance: Powering Real-Time Financial Dashboards]]></title>
+        <title type="html"><![CDATA[JavaScript in Finance: Real-Time Dashboards]]></title>
         <id>https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide</id>
         <link href="https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide"/>
         <updated>2026-05-06T15:00:00.000Z</updated>
@@ -719,7 +719,7 @@
         <category label="real-time data" term="real-time data"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python for Finance: The Engine of Modern Quantitative Analysis]]></title>
+        <title type="html"><![CDATA[Python for Finance: Modern Quant Analysis]]></title>
         <id>https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</id>
         <link href="https://khalidnaami.com/blog/python-for-finance-data-analysis-guide"/>
         <updated>2026-05-06T13:00:00.000Z</updated>
@@ -756,7 +756,7 @@
         <category label="quantitative trading" term="quantitative trading"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultimate Options Dashboard: Price Action & Greeks Analysis]]></title>
+        <title type="html"><![CDATA[Ultimate Options Dashboard: Price & Greeks]]></title>
         <id>https://khalidnaami.com/blog/ultimate-options-dashboard-guide</id>
         <link href="https://khalidnaami.com/blog/ultimate-options-dashboard-guide"/>
         <updated>2026-05-06T11:00:00.000Z</updated>
