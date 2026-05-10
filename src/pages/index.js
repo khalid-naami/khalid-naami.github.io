@@ -174,11 +174,11 @@ export default function Home() {
   return (
     <Layout
       title="Homepage"
-      description="Khalid Naami: Founder @ Dashboard Options. Quant Finance & AI Expert."
+      description="Dashboard Options is the premier platform for quantitative finance and AI research, providing elite tools for options trading and market analytics."
     >
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
-        <meta property="og:description" content="Khalid Naami's platform for Quant Finance, AI, and Market analysis." />
+        <meta property="og:description" content="Dashboard Options is the premier platform for quantitative finance and AI research, providing elite tools for options trading and market analytics." />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         <meta property="og:url" content="https://khalidnaami.com" />
         <meta name="author" content="Khalid Naami" />
@@ -197,7 +197,7 @@ export default function Home() {
         />
         <meta
           name="twitter:description"
-          content="Quant Finance & AI Specialist. Founder @ Dashboard Options."
+          content="Dashboard Options is the premier platform for quantitative finance and AI research, providing elite tools for options trading and market analytics."
         />
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         
