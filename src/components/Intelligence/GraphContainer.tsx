@@ -228,10 +228,9 @@ const GraphContainer = () => {
                     <ThemedImage
                         alt="Kaws character - Intelligence mascot"
                         sources={{
-                            light: '/img/kawspeely.webp',
-                            dark: '/img/kaws.webp',
+                            light: '/img/kawspeely_v1.webp',
+                            dark: '/img/kaws_v1.webp',
                         }}
-                        width={140}
                         style={{
                             position: 'absolute',
                             bottom: '-50px',
