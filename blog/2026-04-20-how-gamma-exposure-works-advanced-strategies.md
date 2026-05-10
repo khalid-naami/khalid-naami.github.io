@@ -1,6 +1,6 @@
 ---
 title: "How Gamma Exposure Works - Advanced Option Strategies"
-description: What are the advanced mechanics of Gamma Exposure?
+description: "Deep dive into advanced Gamma Exposure (GEX) strategies. Uncover how market maker positioning dictates liquidity, volatility, and price action."
 authors: [khalid]
 date: 2026-04-20T08:00:00Z
 tags: [Dashboard Options, gamma, quantitative-finance, risk-management, options-trading]
