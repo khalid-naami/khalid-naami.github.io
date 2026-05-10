@@ -1,6 +1,6 @@
 ---
 title: "The Game of Probabilities: Decoding Market Expectations"
-description: Master market forecasting with our Implied Probability guide.
+description: "Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action."
 authors: [khalid]
 tags: [Dashboard Options, options, probability, statistics, implied-volatility, risk-management]
 keywords: [options probability, implied probability, market expectations, trading statistics, risk management, quantitative analysis]
