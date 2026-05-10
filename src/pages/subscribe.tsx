@@ -9,7 +9,7 @@ export default function Subscribe(): JSX.Element {
   return (
     <Layout
       title="Subscribe"
-      description="Subscribe to Khalid Naami's newsletter: Quant Finance & AI insights."
+      description="Join Khalid Naami's newsletter for deep dives into Quantitative Finance, AI strategy, and options trading insights. Stay ahead of market shifts with expert analysis."
     >
       <main className="container margin-vert--xl">
         <div className="text--center">
