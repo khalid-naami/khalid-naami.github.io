@@ -1,6 +1,6 @@
 ---
 title: "The Game of Probabilities: Stochastic Processes"
-description: Transition from determinism to stochastic risk management?
+description: "Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action."
 authors: [khalid]
 tags: [Daily Analysis, probability, stochastic processes, risk management, mathematics]
 keywords: [Daily Analysis, probability, stochastic processes, risk management, determinism, quantitative finance, statistics]
