@@ -1,6 +1,6 @@
 ---
 title: "C++ for Finance: The Bedrock of Low Latency Systems"
-description: Why is C++ the foundation for high-frequency trading?
+description: "Explore C++ in Quantitative Finance. Learn why low-latency execution and high-performance computing are critical for high-frequency trading systems."
 authors: [khalid]
 tags: [Science & Technology, c++, quantitative finance, high frequency trading, financial infrastructure]
 keywords: [Science & Technology, c++, quantitative finance, high frequency trading, ultra low latency, financial infrastructure, numerical computing]
