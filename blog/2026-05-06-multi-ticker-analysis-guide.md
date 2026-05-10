@@ -1,6 +1,6 @@
 ---
 title: "Dashboard Options: Mastering Multi-Ticker Analysis"
-description: Identify institutional gaps with the Multi-Ticker tool?
+description: "Gain a comparative edge with Multi-Ticker Analysis. Learn to dynamically benchmark options flow and volatility surfaces across multiple market assets."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, correlation, spx, spy]
 keywords: [options, trading, derivatives, correlation, spx, spy, multi ticker, technical analysis]
