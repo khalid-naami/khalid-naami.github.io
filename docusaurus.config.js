@@ -583,7 +583,7 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
               fullContent
             );
 
-            // Universal RSS Generation
+            // Universal RSS Generation (Updated)
             try {
               const { marked } = require('marked');
               const rssItems = blogContent.map((post) => {
