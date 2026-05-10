@@ -1,6 +1,6 @@
 ---
 title: "The Iron Condor Strategy: Mastering Delta Neutrality"
-description: How to profit from stability with the Iron Condor?
+description: "Master the Iron Condor strategy for delta neutrality. Learn to generate consistent options income by trading high probability market ranges."
 authors: [khalid]
 tags:
   [
