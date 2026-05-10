@@ -1,6 +1,6 @@
 ---
 title: "Volatility: Log-Returns to Yang-Zhang"
-description: How has volatility evolved to the Yang-Zhang estimator?
+description: "Decode Volatility from basic Log-Returns to the advanced Yang-Zhang estimator. Master the mathematics of risk measurement for algorithmic trading."
 authors: [khalid]
 tags: [Daily Analysis, volatility, quantitative finance, risk management, mathematics]
 keywords: [Daily Analysis, volatility, log-returns, standard deviation, parkinson, yang-zhang, quantitative finance, risk management]
