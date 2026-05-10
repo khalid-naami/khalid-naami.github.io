@@ -1,6 +1,6 @@
 ---
 title: "The Strategic Quartet: Delta, Gamma, Vanna, and Charm"
-description: Transform market flow understanding with the Quartet?
+description: "Integrate the Strategic Quartet of Options Greeks. Master Delta, Gamma, Theta, and Vega to build a mathematically robust and resilient portfolio."
 authors: [khalid]
 tags: [Dashboard Options, options, delta, gamma, vanna, charm, strategy, risk-management]
 keywords: [options, delta, gamma, vanna, charm, strategy, risk-management]
