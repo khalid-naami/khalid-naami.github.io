@@ -1,6 +1,6 @@
 ---
 title: "The Calendar Spread: Trading Time and Volatility"
-description: Profit from time and volatility with calendar spreads?
+description: "Master Calendar Spreads to trade time and volatility. Exploit differences in time decay and implied volatility across multiple expiration cycles."
 authors: [khalid]
 tags: [Dashboard Options, calendar-spread, options-strategy, quantitative-finance, volatility]
 keywords: [Calendar Spread, Horizontal Spread, Theta Decay, Vega Expansion, Options Strategy, Quantitative Trading, Dashboard Options]
