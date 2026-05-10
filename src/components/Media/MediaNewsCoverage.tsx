@@ -34,7 +34,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-10",
-		img: "/img/Dashboard Options Showcase.webp",
+		img: "/img/chart3_new.webp",
 		summary: [
 			"Turning complex options data into actionable signals",
 			"Decode market maker positions & key transition zones",
