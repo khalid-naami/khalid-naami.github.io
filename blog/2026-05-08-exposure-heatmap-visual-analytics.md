@@ -1,5 +1,5 @@
 ---
-title: "Exposure Heatmap: The Future of Visual Options Analytics"
+title: "Exposure Heatmap: Visual Options Analytics"
 description: Master visual analytics with our Exposure Heatmap guide.
 authors: [khalid]
 tags: [Dashboard Options, options, heatmap, visual-analytics, gamma, exposure, technical-analysis]
