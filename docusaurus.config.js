@@ -393,6 +393,31 @@ module.exports = async function createConfig() {
             ],
           },
           {
+            title: 'Explore',
+            items: [
+              {
+                label: 'Blog Tags',
+                to: '/blog/tags',
+              },
+              {
+                label: 'Blog Authors',
+                to: '/blog/authors',
+              },
+              {
+                label: 'Financial Game',
+                to: '/game',
+              },
+              {
+                label: 'Newsletter',
+                to: '/newsletter',
+              },
+              {
+                label: 'Subscribe',
+                to: '/subscribe',
+              },
+            ],
+          },
+          {
             title: 'Legal',
             items: [
               {
