@@ -583,6 +583,70 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
               fullContent
             );
 
+            // Universal RSS Generation
+            try {
+              const { marked } = require('marked');
+              const rssItems = blogContent.map((post) => {
+                const postUrl = `${context.siteConfig.url}${post.url}`;
+                // Strip frontmatter from content_html before parsing
+                const rawMarkdown = (post.content_html || '').replace(/^---[\s\S]+?---/, '');
+                const htmlContent = marked.parse(rawMarkdown);
+                const pubDate = new Date(post.date_modified).toUTCString();
+                
+                let mediaGroupTag = '';
+                if (post.image) {
+                  const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                  const type = imageUrl.endsWith('.png') ? 'image/png' : (imageUrl.endsWith('.webp') ? 'image/webp' : 'image/jpeg');
+                  mediaGroupTag = `
+      <media:group>
+        <media:content url="${imageUrl}" type="${type}"/>
+        <media:thumbnail url="${imageUrl}"/>
+      </media:group>`;
+                }
+
+                return `
+    <item>
+      <title><![CDATA[${post.title}]]></title>
+      <link>${postUrl}</link>
+      <guid>${postUrl}</guid>
+      <pubDate>${pubDate}</pubDate>
+      <author>research@khalidnaami.com (Khalid Naami)</author>
+      <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <description><![CDATA[${post.summary}]]></description>
+      <content:encoded><![CDATA[${htmlContent}]]></content:encoded>
+      <yandex:full-text><![CDATA[${htmlContent}]]></yandex:full-text>
+      <yandex:genre>article</yandex:genre>
+      ${mediaGroupTag}
+    </item>`;
+              }).join('');
+
+              const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[${context.siteConfig.title}]]></title>
+    <link>${context.siteConfig.url}</link>
+    <description><![CDATA[Khalid Naami: Founder & CEO @ Dashboard Options. Expert in Quant Finance, Financial AI & Investigative Research in Geopolitics and Global Macro.]]></description>
+    <language>en</language>
+    <atom:link href="${context.siteConfig.url}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
+${rssItems}
+  </channel>
+</rss>`;
+
+              // Write to outDir/blog/universal-rss.xml
+              await fs.promises.writeFile(
+                path.join(buildBlogDir, 'universal-rss.xml'),
+                rssXml
+              );
+              console.log('Successfully generated universal-rss.xml');
+            } catch (rssErr) {
+              console.error('Error generating universal RSS:', rssErr);
+            }
+
             console.log('Successfully generated llms.txt and llms-full.txt files');
           } catch (err) {
             console.error('Error generating llms files:', err);
