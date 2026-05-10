@@ -214,8 +214,8 @@ const ChatPage = () => {
             <ThemedImage
               alt="Chat with AI on Desktop"
               sources={{
-                light: '/img/chat_terminal_mobile_light.png',
-                dark: '/img/terminal_bg_dark.webp',
+                light: '/img/chat_terminal_mobile_light.webp',
+                dark: '/img/chat_terminal_mobile_dark.webp',
               }}
               style={{ width: '100%', filter: 'blur(2px)' }}
             />
@@ -668,8 +668,8 @@ const HowItWorks = () => {
                 <ThemedImage
                     alt="Sequence diagram showing the RAG process"
                     sources={{
-                        light: '/img/lifeline_sequence_diagram_light.png',
-                        dark: '/img/dashboard-1-v2.webp',
+                        light: '/img/lifeline_sequence_diagram_light.webp',
+                        dark: '/img/lifeline_sequence_diagram_dark.webp',
                     }}
                     style={{ 
                         width: '80%', 
@@ -685,8 +685,8 @@ const HowItWorks = () => {
                 isOpen={isModalOpen}
                 onClose={() => setIsModalOpen(false)}
                 sources={{
-                    light: '/img/lifeline_sequence_diagram_light.png',
-                    dark: '/img/dashboard-1-v2.webp',
+                    light: '/img/lifeline_sequence_diagram_light.webp',
+                    dark: '/img/lifeline_sequence_diagram_dark.webp',
                 }}
                 alt="Sequence diagram showing the RAG process"
             />
