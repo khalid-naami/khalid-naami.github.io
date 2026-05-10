@@ -1,5 +1,5 @@
 ---
-title: "React.js in Fintech: Building Scalable and Reactive Trading Dashboards"
+title: "React.js Fintech: Scalable Trading Dashboards"
 description: Why is React.js the standard for financial applications?
 authors: [khalid]
 tags: [Science & Technology, react, react.js, fintech, web development]
