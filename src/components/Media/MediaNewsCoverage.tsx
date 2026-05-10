@@ -8,7 +8,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-11",
-		imgs: ["/img/gex dex.png", "/img/charm and vanna.png"],
+		imgs: ["/img/trade-gamma-v2.webp", "/img/charm-vanna-v2.webp"],
 		summary: [
 			"Make quick decisions with our all-in-one Greeks",
 			"Delta, Gamma, Charm, Vanna visualized clearly",
@@ -21,7 +21,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-11",
-		imgs: ["/img/slv (2).png", "/img/xag.png"],
+		imgs: ["/img/oi-vol-1-v2.webp", "/img/oi-vol-2-v2.webp"],
 		summary: [
 			"Real-time gamma exposure on Total, Weekly, and O DTE time frames",
 			"Identify option dealer supply & demand levels",
@@ -34,7 +34,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-10",
-		img: "/img/Dashboard Options Showcase.png",
+		img: "/img/main-dashboard-v2.webp",
 		summary: [
 			"Turning complex options data into actionable signals",
 			"Decode market maker positions & key transition zones",
