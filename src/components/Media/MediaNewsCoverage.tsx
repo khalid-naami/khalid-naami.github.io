@@ -21,7 +21,7 @@ const data = [
 		link: "#",
 		magazine: "Dashboard Options Showcase",
 		date: "2026-04-11",
-		imgs: ["/img/slv (2).webp", "/img/xag.webp"],
+		imgs: ["/img/dashboard_new.webp", "/img/dashboa_new.webp"],
 		summary: [
 			"Real-time gamma exposure on Total, Weekly, and O DTE time frames",
 			"Identify option dealer supply & demand levels",
