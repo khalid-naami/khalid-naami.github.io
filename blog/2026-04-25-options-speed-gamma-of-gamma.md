@@ -1,6 +1,6 @@
 ---
 title: "Options Speed: Mastering the Gamma of Gamma"
-description: What is Speed and how does it help anticipate shifts?
+description: "Understand Options Speed as the Gamma of Gamma. Learn how the rate of change of convexity impacts highly leveraged portfolios during market crashes."
 authors: [khalid]
 tags: [Dashboard Options, options, trading, derivatives, speed, gamma, greeks]
 keywords: [options, trading, derivatives, speed, gamma, greeks, hedging, risk management]
