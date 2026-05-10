@@ -224,12 +224,14 @@ const GraphContainer = () => {
                             No brain activity reported
                         </div>
                     )}
+                    {/* Character image: kawspeely.webp in light mode, kaws.webp in dark mode */}
                     <ThemedImage
-                        alt="Kaws"
+                        alt="Kaws character - Intelligence mascot"
                         sources={{
                             light: '/img/kawspeely.webp',
                             dark: '/img/kaws.webp',
                         }}
+                        width={140}
                         style={{
                             position: 'absolute',
                             bottom: '-50px',
