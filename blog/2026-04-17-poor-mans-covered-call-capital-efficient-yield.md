@@ -1,6 +1,6 @@
 ---
 title: "The Poor Man's Covered Call: Capital Efficient Yield"
-description: "Generate consistent quantitative yield using Covered Calls. Learn how to systematically monetize your equity positions in sideways or bullish markets."
+description: "Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income."
 authors: [khalid]
 tags:
   [
