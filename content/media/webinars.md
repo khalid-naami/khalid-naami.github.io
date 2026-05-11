@@ -1,5 +1,6 @@
 ---
 title: Webinars
+description: "Join Khalid Naami's educational webinars on Options trading, Quantitative Finance, and Intermarket Analysis."
 sidebar_position: 3
 ---
 
