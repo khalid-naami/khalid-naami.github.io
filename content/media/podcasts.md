@@ -1,5 +1,6 @@
 ---
 title: Podcasts
+description: "Listen to Khalid Naami's podcast appearances discussing market structure, financial AI, and global macroeconomic trends."
 sidebar_position: 5
 ---
 
