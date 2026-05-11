@@ -180,12 +180,12 @@ export default function Home() {
         <meta property="og:title" content="Khalid Naami - Personal Website" />
         <meta property="og:description" content="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems." />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
-        <meta property="og:url" content="https://khalidnaami.com" />
+        <meta property="og:url" content="https://khalidnaami.com/" />
         <meta name="author" content="Khalid Naami" />
         <meta name="copyright" content="Khalid Naami" />
         
         {/* Canonical Link */}
-        <link rel="canonical" href="https://khalidnaami.com" />
+        <link rel="canonical" href="https://khalidnaami.com/" />
 
         {/* Add X-specific meta tags */}
         <meta name="twitter:card" content="summary_large_image" />
