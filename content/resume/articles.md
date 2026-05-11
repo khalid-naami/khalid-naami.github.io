@@ -1,5 +1,6 @@
 ---
 title: Articles
+description: "Explore academic articles and investigative research by Khalid Naami on Geopolitics, Global Macro, and Financial Intelligence."
 sidebar_position: 2
 ---
 
