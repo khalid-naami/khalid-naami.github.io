@@ -1,5 +1,6 @@
 ---
 title: Education
+description: "Khalid Naami's academic background: Specialized formation in Business, Macroeconomics, and Data Science from US and Canadian institutes."
 sidebar_position: 3
 ---
 
