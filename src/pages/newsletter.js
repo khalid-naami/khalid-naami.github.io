@@ -9,7 +9,7 @@ export default function Newsletter() {
   return (
     <Layout 
       title="Newsletter Redirect"
-      description="Stay updated with Khalid Naami's latest research on Financial AI, Global Macro, and Options Greeks. Subscribe to the official newsletter for elite market insights."
+      description="Get Khalid Naami's latest research on Financial AI, Global Macro, and Options Greeks. Subscribe to his newsletter for elite market insights."
     >
       <div style={{
         display: 'flex',
