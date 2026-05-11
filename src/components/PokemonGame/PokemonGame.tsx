@@ -194,9 +194,9 @@ export default function PokemonGame(): JSX.Element {
   const gameState = useRef(createInitialState());
 
   const spriteSrc =
-    colorMode === "dark" ? "/img/mewtwo_sprite.png" : "/img/mew_sprite.png";
-  const bodySrc = colorMode === "dark" ? "/img/mewtwo.png" : "/img/mew.png";
-  const armSrc = colorMode === "dark" ? "/img/mewtwo_arm.png" : "/img/mew_tail.png";
+    colorMode === "dark" ? "/img/mewtwo_sprite.webp" : "/img/mew_sprite.webp";
+  const bodySrc = colorMode === "dark" ? "/img/mewtwo.webp" : "/img/mew.webp";
+  const armSrc = colorMode === "dark" ? "/img/mewtwo_arm.webp" : "/img/mew_tail.webp";
 
   useEffect(() => {
     const img = new Image();
@@ -225,19 +225,19 @@ export default function PokemonGame(): JSX.Element {
       }
     }
     const gImg = new Image();
-    gImg.src = "/img/pokemongo_G.png";
+    gImg.src = "/img/pokemongo_G.webp";
     state.goLetterG = gImg;
     const oImg = new Image();
-    oImg.src = "/img/pokemongo_O.png";
+    oImg.src = "/img/pokemongo_O.webp";
     state.goLetterO = oImg;
     const pcImg = new Image();
-    pcImg.src = "/img/pokemon_center.png";
+    pcImg.src = "/img/pokemon_center.webp";
     state.pokemonCenterImage = pcImg;
     const snImg = new Image();
-    snImg.src = "/img/snorlax.png";
+    snImg.src = "/img/snorlax.webp";
     state.snorlaxImage = snImg;
     const tgImg = new Image();
-    tgImg.src = "/img/tangrowth.png";
+    tgImg.src = "/img/tangrowth.webp";
     state.tangrowthImage = tgImg;
     const hoOhImg = new Image();
     hoOhImg.src = "/img/ho-oh.gif";
