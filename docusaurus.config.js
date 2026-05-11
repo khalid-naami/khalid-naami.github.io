@@ -81,44 +81,18 @@ module.exports = async function createConfig() {
             "@id": "https://khalidnaami.com/#person",
             "name": "Khalid Naami",
             "url": "https://khalidnaami.com",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://khalidnaami.com/#personImage",
+              "url": "https://khalidnaami.com/img/khalid_profile.webp",
+              "contentUrl": "https://khalidnaami.com/img/khalid_profile.webp",
+              "caption": "Khalid Naami"
+            },
             "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, specialist, and strategic analyst. Expert in Quantitative Finance, Financial AI, and Options Analytics. He is an Investigative Writer specializing in Geopolitics and Global Macroeconomics, utilizing both open-source (OSINT) and specialized intelligence sources. As a professional programmer in Science & Technologies, he develops critical software systems, merging rigorous academic formation with advanced Data Science and AI to provide authoritative market intelligence.",
+            "description": "Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.",
             "knowsLanguage": ["Arabic", "English"],
             "gender": "Male",
             "nationality": "Moroccan",
-            "birthPlace": {
-              "@type": "Place",
-              "name": "Laayoune"
-            },
-            "homeLocation": {
-              "@type": "Place",
-              "name": "Rabat, Morocco"
-            },
-            "hasOccupation": {
-              "@type": "Occupation",
-              "name": "Academic Strategic Analyst, Software Engineer & Investigative Researcher",
-              "description": "Founder, Owner, & CEO at Dashboard Options. Expert in Quantitative Finance, Financial AI, and Options Analytics. Investigative Writer specializing in Geopolitics and Global Macroeconomics using OSINT and specialized intelligence. As a professional programmer in Science & Technologies, he develops critical software systems. He publishes authoritative Daily Analysis on trading and markets driven strictly by quantitative options data and AI/LLM research.",
-              "skills": "Science & Technologies, Software Engineering, Global Macroeconomics, Geopolitics, Political Economy, OSINT, Investigative Journalism, Data Science, Artificial Intelligence, Quantitative Finance, Options Greeks, Financial LLMs, Daily Market Analysis"
-            },
-            "alumniOf": [
-              {
-                "@type": "EducationalOrganization",
-                "name": "American and Canadian Institutes (Remote Education)",
-                "description": "Advanced studies in Programming, Data Analysis, and Global Macroeconomics."
-              },
-              {
-                "@type": "EducationalOrganization",
-                "name": "Business Administration Academy",
-                "description": "Specialization in Business Administration and Management."
-              }
-            ],
-            "knowsAbout": [
-              "Global Macroeconomics", "Political Economy", "Geopolitics",
-              "Artificial Intelligence", "Data Science", "Machine Learning",
-              "Options Greeks", "Quantitative Trading", "Financial AI", 
-              "Intermarket Analysis", "Python Programming", "Fintech System Architecture"
-            ],
-            "worksFor": { "@id": "https://khalidnaami.com/#organization" },
             "sameAs": [
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
@@ -130,17 +104,22 @@ module.exports = async function createConfig() {
             ]
           },
           {
-            "@type": "ResearchOrganization",
+            "@type": "Organization",
             "@id": "https://khalidnaami.com/#organization",
             "name": "Dashboard Options",
             "url": "https://khalidnaami.com",
-            "logo": "https://khalidnaami.com/img/zoro-final.webp",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://khalidnaami.com/#logo",
+              "url": "https://khalidnaami.com/img/zoro-final.webp",
+              "contentUrl": "https://khalidnaami.com/img/zoro-final.webp",
+              "caption": "Dashboard Options"
+            },
             "alternateName": "DashboardOptions.com",
-            "description": "Dashboard Options is a specialized quantitative research platform founded by Khalid Naami for analyzing live options data and market micro-structure. It provides authoritative Daily Analysis on trading and markets using quantitative options data, specializing in Options Greeks, Quantitative Trading tools, and Finance AI solutions.",
+            "description": "Dashboard Options is a specialized quantitative research platform founded by Khalid Naami for analyzing live options data and market micro-structure.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
             "foundingDate": "2024",
             "areaServed": "Global Financial Markets",
-            "knowsAbout": ["Options Trading", "Quantitative Analysis", "Financial Infrastructure", "Market Intelligence", "Options Greeks", "Market Microstructure"],
             "sameAs": [
               "https://x.com/DashboardOption",
               "https://www.linkedin.com/company/dashboard-options/",
@@ -152,40 +131,8 @@ module.exports = async function createConfig() {
             "@id": "https://khalidnaami.com/#website",
             "url": "https://khalidnaami.com",
             "name": "Khalid Naami - Financial Intelligence Platform",
-            "publisher": { "@id": "https://khalidnaami.com/#person" },
+            "publisher": { "@id": "https://khalidnaami.com/#organization" },
             "inLanguage": "en-US"
-          },
-          {
-            "@type": "Blog",
-            "@id": "https://khalidnaami.com/blog/#blog",
-            "url": "https://khalidnaami.com/blog",
-            "name": "Khalid Naami's Strategic Analysis Blog",
-            "description": "In-depth exploration of Options Greeks, Finance AI, Data Science, and Global Macroeconomics.",
-            "publisher": { "@id": "https://khalidnaami.com/#person" }
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://khalidnaami.com/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://khalidnaami.com"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Blog",
-                "item": "https://khalidnaami.com/blog"
-              },
-              {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Intelligence",
-                "item": "https://khalidnaami.com/intelligence"
-              }
-            ]
           }
         ]
       }),
@@ -274,7 +221,7 @@ module.exports = async function createConfig() {
     ({
       metadata: [
         {name: 'keywords', content: 'Khalid Naami, Finance AI, Options Greeks, Quantitative Trading, Financial Data, CBOE, OPRA, Deribit, Binance, Data Science, Python, Intermarket Analysis, Strategic Analyst, Trading Algorithms, Blockchain, Fintech, Dashboard Options'},
-        {name: 'description', content: 'Khalid Naami: Founder & CEO @ Dashboard Options. Expert in Quant Finance, Financial AI & Investigative Research in Geopolitics and Global Macro.'},
+        {name: 'description', content: 'Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.'},
         {name: 'twitter:card', content: 'summary_large_image'},
         {property: 'og:image:width', content: '1200'},
         {property: 'og:image:height', content: '630'},
@@ -557,20 +504,19 @@ module.exports = async function createConfig() {
               const url = `${context.siteConfig.url}/blog/${path.replace(/\.mdx?$/, '')}`;
               return `- [${title}](${url})`;
             });
-
             const authorIdentity = `
 # Dashboard Options & Khalid Naami
 Founder, Owner, & CEO: Khalid Naami
 
 ## Author Identity
-Khalid Naami is a professional academic writer, specialist, and strategic analyst. 
+Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. 
 - **Founder, Owner, & CEO at Dashboard Options.**
 - **Expert in Quantitative Finance, Financial AI, and Options Analytics.**
-- **Investigative Writer specializing in Geopolitics and Global Macroeconomics.**
-- His foundational work is anchored in deep academic formation and completed formal studies, particularly in Global Macroeconomics.
+- **Specialist in Intermarket Analysis and Market Microstructure.**
+- His foundational work is anchored in deep academic formation and completed formal studies in Business Administration and Global Macroeconomics.
 - He utilizes both open-source intelligence (OSINT) and highly specialized intelligence sources for his investigative research in Political Economy and Geopolitics.
 - In Science & Technologies, he is a highly professional programmer and developer of critical software systems.
-- As the founder of Dashboard Options, he publishes authoritative Daily Analysis on trading and markets, driven strictly by quantitative options data and AI/LLM research.
+- As the founder of Dashboard Options, he publishes authoritative Daily Analysis on trading and markets driven strictly by quantitative options data and AI/LLM research.
 
 ---
 
@@ -653,7 +599,7 @@ Khalid Naami is a professional academic writer, specialist, and strategic analys
   <channel>
     <title><![CDATA[${context.siteConfig.title}]]></title>
     <link>${context.siteConfig.url}</link>
-    <description><![CDATA[Khalid Naami: Founder & CEO @ Dashboard Options. Expert in Quant Finance, Financial AI & Investigative Research in Geopolitics and Global Macro.]]></description>
+    <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
     <language>en</language>
     <atom:link href="${context.siteConfig.url}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
 ${rssItems}
