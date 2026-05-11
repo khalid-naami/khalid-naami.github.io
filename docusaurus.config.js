@@ -349,7 +349,7 @@ module.exports = async function createConfig() {
                 to: '/blog/authors',
               },
               {
-                label: 'Financial Game',
+                label: 'Game',
                 to: '/game',
               },
               {
