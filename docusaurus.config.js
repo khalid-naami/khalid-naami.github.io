@@ -214,7 +214,9 @@ module.exports = async function createConfig() {
             '/search', 
             '/markdown-page', 
             '/pokemon-tcg-wanted',
-            '/design-system'
+            '/design-system',
+            '/newsletter',
+            '/subscribe'
           ],
           filename: 'sitemap.xml',
         },
