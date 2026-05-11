@@ -229,7 +229,7 @@
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action.]]></description>
+      <description><![CDATA[Learn to decode market expectations using raw options data. Transform data into actionable probability distributions.]]></description>
       <content:encoded><![CDATA[<h1>The Game of Probabilities: Decoding Market Expectations</h1>
 <p>Trading is not about certainty; it is about managing a set of outcomes. Every price you see on your screen is a reflection of the market&#39;s collective &quot;bet&quot; on the future. To win consistently, you must learn to speak the language of <strong>Implied Probabilities</strong>.</p>
 <!-- truncate -->
@@ -652,7 +652,7 @@ $$</p>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action.]]></description>
+      <description><![CDATA[Deep dive into stochastic risk management. Master the game of probabilities to decode market expectations and price action.]]></description>
       <content:encoded><![CDATA[<h1>The Game of Probabilities: Stochastic Processes</h1>
 <p>In our daily lives, we often seek certainty. We want to believe that if we follow a specific path, a specific outcome is guaranteed. This is the comfort of <strong>Determinism</strong>. However, the financial markets are not deterministic systems; they are <strong>Stochastic Processes</strong>. To succeed in trading is to stop looking for certainty and start mastering the game of probabilities.</p>
 <p><img src="/img/probability.webp" alt="The Science of Probability"></p>
@@ -4017,7 +4017,7 @@ If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamm
       <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <description><![CDATA[Generate consistent quantitative yield using Covered Calls. Learn how to systematically monetize your equity positions in sideways or bullish markets.]]></description>
+      <description><![CDATA[Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income.]]></description>
       <content:encoded><![CDATA[<h1>The Poor Man&#39;s Covered Call: Capital Efficient Yield</h1>
 <p>The traditional Covered Call is a great yield generator, but it’s capital-intensive and often inefficient. Why lock up six figures of capital to own 100 shares of SPY when you can replicate the exact same payoff at a fraction of the cost? The <strong>Poor Man&#39;s Covered Call</strong> is the professional&#39;s answer to capital efficiency, allowing you to weaponize leverage without sacrificing the structural safety of the trade.</p>
 <p>For the quantitative analyst, capital efficiency is paramount. To solve this problem, academic traders employ the <strong>Diagonal Spread</strong>, colloquially known as the <strong>Poor Man&#39;s Covered Call (PMCC)</strong>. It structurally replicates the mathematical payout of a Covered Call using a fraction of the capital.</p>

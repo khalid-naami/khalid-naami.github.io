@@ -130,7 +130,7 @@
         <id>https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations</id>
         <link href="https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations"/>
         <updated>2026-05-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action.]]></summary>
+        <summary type="html"><![CDATA[Learn to decode market expectations using raw options data. Transform data into actionable probability distributions.]]></summary>
         <content type="html"><![CDATA[<p>Trading is not about certainty; it is about managing a set of outcomes. Every price you see on your screen is a reflection of the market's collective "bet" on the future. To win consistently, you must learn to speak the language of <strong>Implied Probabilities</strong>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-visualizing-the-probability-curve">1. Visualizing the Probability Curve<a href="https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations#1-visualizing-the-probability-curve" class="hash-link" aria-label="Direct link to 1. Visualizing the Probability Curve" title="Direct link to 1. Visualizing the Probability Curve">​</a></h2>
 <p>The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.</p>
@@ -441,7 +441,7 @@
         <id>https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</id>
         <link href="https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide"/>
         <updated>2026-05-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action.]]></summary>
+        <summary type="html"><![CDATA[Deep dive into stochastic risk management. Master the game of probabilities to decode market expectations and price action.]]></summary>
         <content type="html"><![CDATA[<p>In our daily lives, we often seek certainty. We want to believe that if we follow a specific path, a specific outcome is guaranteed. This is the comfort of <strong>Determinism</strong>. However, the financial markets are not deterministic systems; they are <strong>Stochastic Processes</strong>. To succeed in trading is to stop looking for certainty and start mastering the game of probabilities.</p>
 <p><img decoding="async" loading="lazy" alt="The Science of Probability" src="https://khalidnaami.com/assets/images/probability-b36ae864a0d80cf25e385c3adbcc832e.webp" width="600" height="337" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-illusion-of-determinism">The Illusion of Determinism<a href="https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide#the-illusion-of-determinism" class="hash-link" aria-label="Direct link to The Illusion of Determinism" title="Direct link to The Illusion of Determinism">​</a></h2>
@@ -2175,7 +2175,7 @@ If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamm
         <id>https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield</id>
         <link href="https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield"/>
         <updated>2026-04-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generate consistent quantitative yield using Covered Calls. Learn how to systematically monetize your equity positions in sideways or bullish markets.]]></summary>
+        <summary type="html"><![CDATA[Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income.]]></summary>
         <content type="html"><![CDATA[<p>The traditional Covered Call is a great yield generator, but it’s capital-intensive and often inefficient. Why lock up six figures of capital to own 100 shares of SPY when you can replicate the exact same payoff at a fraction of the cost? The <strong>Poor Man's Covered Call</strong> is the professional's answer to capital efficiency, allowing you to weaponize leverage without sacrificing the structural safety of the trade.</p>
 <p>For the quantitative analyst, capital efficiency is paramount. To solve this problem, academic traders employ the <strong>Diagonal Spread</strong>, colloquially known as the <strong>Poor Man's Covered Call (PMCC)</strong>. It structurally replicates the mathematical payout of a Covered Call using a fraction of the capital.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-structural-mechanics-of-the-pmcc">The Structural Mechanics of the PMCC<a href="https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield#the-structural-mechanics-of-the-pmcc" class="hash-link" aria-label="Direct link to The Structural Mechanics of the PMCC" title="Direct link to The Structural Mechanics of the PMCC">​</a></h2>
