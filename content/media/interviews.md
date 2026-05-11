@@ -1,6 +1,7 @@
 ---
 title: Interviews
-sidebar_position: 2
+description: "Watch and read exclusive interviews with Khalid Naami on his career, research, and insights into the future of financial technology."
+sidebar_position: 12
 ---
 
 import MediaInterviews from '@site/src/components/Media/MediaInterviews.tsx'
