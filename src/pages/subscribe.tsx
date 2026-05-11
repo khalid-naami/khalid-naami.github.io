@@ -9,7 +9,7 @@ export default function Subscribe(): JSX.Element {
   return (
     <Layout
       title="Subscribe"
-      description="Join Khalid Naami's newsletter for deep dives into Quant Finance, AI, and options trading. Stay ahead of market shifts with elite research and expert analysis."
+      description="Khalid Naami: Founder at Dashboard Options. Expert in Options Greeks, Global Macro, and Geopolitics. Academic writer and OSINT investigative researcher."
     >
       <main className="container margin-vert--xl">
         <div className="text--center">
