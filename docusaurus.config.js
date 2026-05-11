@@ -287,7 +287,7 @@ module.exports = async function createConfig() {
           {
             position: 'right',
             label: 'Newsletter',
-            to: '/newsletter',
+            href: 'https://substack.com/@khnaami',
             className: 'navbar-item-external navbar-newsletter-link',
           },
         ],
@@ -354,11 +354,11 @@ module.exports = async function createConfig() {
               },
               {
                 label: 'Newsletter',
-                to: '/newsletter',
+                href: 'https://substack.com/@khnaami',
               },
               {
                 label: 'Subscribe',
-                to: '/subscribe',
+                href: 'https://substack.com/@khnaami',
               },
             ],
           },
