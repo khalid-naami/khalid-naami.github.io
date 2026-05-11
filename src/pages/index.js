@@ -228,6 +228,7 @@ export default function Home() {
             <li><strong>Mission:</strong> Providing high-level academic analysis and bridging the gap between complex intermarket mechanics and actionable data science.</li>
             <li><strong>Education & Formation:</strong> All content is backed by solid academic formation in Business Administration, Global Macroeconomics, Programming, and Data Analysis (Studied via American and Canadian institutes).</li>
             <li><strong>Content Creation:</strong> Expert author of strategic, academically-grounded articles in the five core domains mentioned above.</li>
+            <li><strong>Quick Links:</strong> Explore my <a href="/blog/tags">Blog Tags</a>, learn about <a href="/blog/authors">Blog Authors</a>, play the <a href="/game">Financial Game</a>, or subscribe to the <a href="/newsletter">Newsletter</a> and <a href="/subscribe">Updates</a>.</li>
           </ul>
         </div>
         
