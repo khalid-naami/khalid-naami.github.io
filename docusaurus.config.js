@@ -16,7 +16,7 @@ module.exports = async function createConfig() {
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
     favicon: 'img/zoro-final.webp',
 
-  url: 'https://khalidnaami.com',
+  url: 'https://khalidnaami.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
