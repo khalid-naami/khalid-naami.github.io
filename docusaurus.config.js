@@ -340,9 +340,7 @@ module.exports = async function createConfig() {
           {
             position: 'right',
             label: 'Newsletter',
-            href: 'https://substack.com/@khnaami',
-            target: '_blank',
-            rel: 'noopener noreferrer',
+            to: '/newsletter',
             className: 'navbar-item-external navbar-newsletter-link',
           },
         ],
