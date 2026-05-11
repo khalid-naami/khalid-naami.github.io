@@ -174,11 +174,11 @@ export default function Home() {
   return (
     <Layout
       title="Homepage"
-      description="Explore Dashboard Options: your premier platform for quantitative finance and AI research. Use elite tools for options trading, Greeks, and market analytics."
+      description="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems."
     >
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
-        <meta property="og:description" content="Explore Dashboard Options: your premier platform for quantitative finance and AI research. Use elite tools for options trading, Greeks, and market analytics." />
+        <meta property="og:description" content="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems." />
         <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         <meta property="og:url" content="https://khalidnaami.com" />
         <meta name="author" content="Khalid Naami" />
@@ -197,7 +197,7 @@ export default function Home() {
         />
         <meta
           name="twitter:description"
-          content="Explore Dashboard Options: your premier platform for quantitative finance and AI research. Use elite tools for options trading, Greeks, and market analytics."
+          content="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems."
         />
         <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
         
