@@ -90,9 +90,16 @@ module.exports = async function createConfig() {
             },
             "jobTitle": "Founder & CEO at Dashboard Options",
             "description": "Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.",
-            "knowsLanguage": ["Arabic", "English"],
+            "knowsLanguage": [
+              { "@type": "Language", "name": "Arabic" },
+              { "@type": "Language", "name": "English" },
+              { "@type": "Language", "name": "French" }
+            ],
             "gender": "Male",
-            "nationality": "Moroccan",
+            "nationality": {
+              "@type": "Country",
+              "name": "Morocco"
+            },
             "sameAs": [
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
@@ -118,8 +125,7 @@ module.exports = async function createConfig() {
             "alternateName": "DashboardOptions.com",
             "description": "Dashboard Options is a specialized quantitative research platform founded by Khalid Naami for analyzing live options data and market micro-structure.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
-            "foundingDate": "2024",
-            "areaServed": "Global Financial Markets",
+            "foundingDate": "2024-01-01",
             "sameAs": [
               "https://x.com/DashboardOption",
               "https://www.linkedin.com/company/dashboard-options/",
