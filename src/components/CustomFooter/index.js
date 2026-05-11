@@ -101,6 +101,10 @@ export default function CustomFooter() {
               
               {/* Legal Links for Monetization / Ad Networks */}
               <div className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+                <a href="/blog/tags" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Blog Tags</a>
+                <a href="/blog/authors" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Authors</a>
+                <a href="/game" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Market Game</a>
+                <a href="/newsletter" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Newsletter</a>
                 <a href="/privacy" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Privacy Policy</a>
                 <a href="/disclaimer" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Disclaimer</a>
                 <a href="/contact" className="hover:text-ds-blue-primary dark:hover:text-ds-blue-accent transition-colors duration-300">Contact Support</a>
