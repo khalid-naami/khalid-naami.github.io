@@ -1,6 +1,7 @@
 ---
-title: News Coverage
-sidebar_position: 1
+title: News Mentions
+description: "Explore global news coverage and media mentions of Khalid Naami's work in international finance, macroeconomics, and AI research."
+sidebar_position: 41
 ---
 
 import NewsCoverage from '@site/src/components/Media/MediaNewsCoverage.tsx'
