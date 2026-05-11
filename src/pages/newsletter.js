@@ -9,7 +9,7 @@ export default function Newsletter() {
   return (
     <Layout 
       title="Newsletter Redirect"
-      description="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Global Macro, and Financial Intelligence."
+      description="Stay updated with Khalid Naami's latest research on Financial AI, Global Macro, and Options Greeks. Subscribe to the official newsletter for elite market insights."
     >
       <div style={{
         display: 'flex',
