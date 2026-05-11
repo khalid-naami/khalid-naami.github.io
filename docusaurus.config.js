@@ -220,8 +220,8 @@ module.exports = async function createConfig() {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'keywords', content: 'Khalid Naami, Finance AI, Options Greeks, Quantitative Trading, Financial Data, CBOE, OPRA, Deribit, Binance, Data Science, Python, Intermarket Analysis, Strategic Analyst, Trading Algorithms, Blockchain, Fintech, Dashboard Options'},
-        {name: 'description', content: 'Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.'},
+        {name: 'keywords', content: 'Khalid Naami, Dashboard Options, Options Greeks, Options Trading, Global Macro, Geopolitics, OSINT, Financial Intelligence, Quantitative Analysis, Finance AI, Intermarket Analysis, Market Microstructure, Options Data, Trading Strategy, Academic Writer, Investigative Research'},
+        {name: 'description', content: 'Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Global Macro, and Financial Intelligence.'},
         {name: 'twitter:card', content: 'summary_large_image'},
         {property: 'og:image:width', content: '1200'},
         {property: 'og:image:height', content: '630'},
