@@ -1,6 +1,6 @@
 ---
 title: "The Game of Probabilities: Stochastic Processes"
-description: "Decode market expectations with the Game of Probabilities. Transform raw options data into implied probability distributions to forecast price action."
+description: "Deep dive into stochastic risk management. Master the game of probabilities to decode market expectations and price action."
 authors: [khalid]
 tags: [Daily Analysis, probability, stochastic processes, risk management, mathematics]
 keywords: [Daily Analysis, probability, stochastic processes, risk management, determinism, quantitative finance, statistics]
