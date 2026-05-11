@@ -228,7 +228,7 @@ const data = [
 		title: "The intelligent investor: The Definitive Book on Value Investing",
 		author: "Benjamin Graham",
 		image:
-			"/books/the-intelligent-investor-the-definitive-book-on-value-investing.jpeg",
+			"/books/the-intelligent-investor-the-definitive-book-on-value-investing.webp",
 	},
 	{
 		title: "Elon Musk",
