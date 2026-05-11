@@ -5,7 +5,7 @@ import BrowserOnly from "@docusaurus/BrowserOnly";
 
 export default function GamePage(): JSX.Element {
   return (
-    <Layout title="Pokeball Game" description="Test your market skills with the Pokeball Game. A fun, interactive way to understand probability and risk in financial markets." noFooter>
+    <Layout title="Pokeball Game" description="Master the Pokeball Game: Help Mewtwo collect falling balls with unique physics in this advanced, interactive arcade challenge. Test your skills now!" noFooter>
       <Head>
         <style>{`
           html, body {
