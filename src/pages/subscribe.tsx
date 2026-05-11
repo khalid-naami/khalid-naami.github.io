@@ -3,13 +3,13 @@ import Layout from '@theme/Layout';
 
 export default function Subscribe(): JSX.Element {
   useEffect(() => {
-    window.location.href = 'https://substack.com/@khalid-naami';
+    window.location.href = 'https://substack.com/@khnaami';
   }, []);
 
   return (
     <Layout
       title="Subscribe"
-      description="Khalid Naami: Founder at Dashboard Options. Expert in Options Greeks, Global Macro, and Geopolitics. Academic writer and OSINT investigative researcher."
+      description="Join the community of elite traders and researchers. Subscribe to Khalid Naami's updates for deep dives into quantitative finance and strategic geopolitics."
     >
       <main className="container margin-vert--xl">
         <div className="text--center">
@@ -29,7 +29,7 @@ export default function Subscribe(): JSX.Element {
           </div>
           <p>
             If you are not redirected automatically,{' '}
-            <a href="https://substack.com/@khalid-naami">
+            <a href="https://substack.com/@khnaami">
               click here to subscribe
             </a>
             .
