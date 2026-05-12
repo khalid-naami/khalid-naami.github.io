@@ -43,6 +43,13 @@ module.exports = async function createConfig() {
     {
       tagName: 'meta',
       attributes: {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1.0, minimum-scale=1.0',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
         name: 'yandex-verification',
         content: '655a0e854986edb9',
       },
