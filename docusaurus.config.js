@@ -305,6 +305,11 @@ module.exports = async function createConfig() {
             href: 'https://substack.com/@khnaami',
             className: 'navbar-item-external navbar-newsletter-link',
           },
+          {
+            type: 'html',
+            position: 'right',
+            value: '<div id="google_translate_element" class="navbar-translate-item"></div>',
+          },
         ],
       },
       prism: {
@@ -567,15 +572,19 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
               fullContent
             );
 
-            // Universal RSS Generation (Updated)
+            // Universal RSS Generation (Updated to match FeedBurner/Standard RSS 2.0)
             try {
               const { marked } = require('marked');
+              const lastBuildDate = new Date().toUTCString();
               const rssItems = blogContent.map((post) => {
                 const postUrl = `${context.siteConfig.url}${post.url}`;
                 // Strip frontmatter from content_html before parsing
                 const rawMarkdown = (post.content_html || '').replace(/^---[\s\S]+?---/, '');
                 const htmlContent = marked.parse(rawMarkdown);
                 const pubDate = new Date(post.date_modified).toUTCString();
+                
+                // Categories from tags
+                const categories = (post.tags || []).map((/** @type {string} */ tag) => `<category><![CDATA[${tag}]]></category>`).join('');
                 
                 let mediaGroupTag = '';
                 if (post.image) {
@@ -592,10 +601,11 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
     <item>
       <title><![CDATA[${post.title}]]></title>
       <link>${postUrl}</link>
-      <guid>${postUrl}</guid>
+      <guid isPermaLink="false">${postUrl}</guid>
       <pubDate>${pubDate}</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      ${categories}
       <description><![CDATA[${post.summary}]]></description>
       <content:encoded><![CDATA[${htmlContent}]]></content:encoded>
       <yandex:full-text><![CDATA[${htmlContent}]]></yandex:full-text>
@@ -607,16 +617,23 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
               const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      xmlns:yandex="http://news.yandex.ru"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title><![CDATA[${context.siteConfig.title}]]></title>
+    <atom:link href="${context.siteConfig.url}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>${context.siteConfig.url}</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
+    <lastBuildDate>${lastBuildDate}</lastBuildDate>
     <language>en</language>
-    <atom:link href="${context.siteConfig.url}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Docusaurus (Custom Blog Plugin)</generator>
 ${rssItems}
   </channel>
 </rss>`;
@@ -629,6 +646,117 @@ ${rssItems}
               console.log('Successfully generated universal-rss.xml');
             } catch (rssErr) {
               console.error('Error generating universal RSS:', rssErr);
+            }
+
+            // Google News Sitemap Generation (with Image Extension)
+            try {
+              const now = new Date();
+              const twoDaysAgo = new Date(now.getTime() - (2 * 24 * 60 * 60 * 1000));
+              
+              const newsItems = blogContent
+                .filter(post => new Date(post.date_modified) >= twoDaysAgo)
+                .map(post => {
+                  const postUrl = `${context.siteConfig.url}${post.url}`;
+                  const pubDate = new Date(post.date_modified).toISOString();
+                  let imageTag = '';
+                  if (post.image) {
+                    const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                    imageTag = `
+    <image:image>
+      <image:loc>${imageUrl}</image:loc>
+      <image:title><![CDATA[${post.title}]]></image:title>
+    </image:image>`;
+                  }
+
+                  return `
+  <url>
+    <loc>${postUrl}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>${pubDate}</news:publication_date>
+      <news:title><![CDATA[${post.title}]]></news:title>
+    </news:news>${imageTag}
+  </url>`;
+                }).join('');
+
+              if (newsItems) {
+                const newsSitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${newsItems}
+</urlset>`;
+                
+                await fs.promises.writeFile(
+                  path.join(buildBlogDir, 'news-sitemap.xml'),
+                  newsSitemapXml
+                );
+                console.log('Successfully generated news-sitemap.xml with Image Extensions');
+              }
+            } catch (newsErr) {
+              console.error('Error generating News Sitemap:', newsErr);
+            }
+
+            // Comprehensive Image Sitemap Generation
+            try {
+              const imageItems = blogContent.map(post => {
+                if (!post.image) return '';
+                const postUrl = `${context.siteConfig.url}${post.url}`;
+                const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                return `
+  <url>
+    <loc>${postUrl}</loc>
+    <image:image>
+      <image:loc>${imageUrl}</image:loc>
+      <image:caption><![CDATA[${post.summary}]]></image:caption>
+      <image:title><![CDATA[${post.title}]]></image:title>
+    </image:image>
+  </url>`;
+              }).join('');
+
+              const imageSitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${imageItems}
+</urlset>`;
+
+              await fs.promises.writeFile(
+                path.join(buildBlogDir, 'image-sitemap.xml'),
+                imageSitemapXml
+              );
+              console.log('Successfully generated image-sitemap.xml');
+            } catch (imgErr) {
+              console.error('Error generating Image Sitemap:', imgErr);
+            }
+
+            // Sitemap Index Generation
+            try {
+              const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${context.siteConfig.url}/sitemap.xml</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${context.siteConfig.url}/blog/news-sitemap.xml</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${context.siteConfig.url}/blog/image-sitemap.xml</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
+  </sitemap>
+</sitemapindex>`;
+
+              await fs.promises.writeFile(
+                path.join(outDir, 'sitemap-index.xml'),
+                sitemapIndexXml
+              );
+              console.log('Successfully generated sitemap-index.xml');
+            } catch (indexErr) {
+              console.error('Error generating Sitemap Index:', indexErr);
             }
 
             console.log('Successfully generated llms.txt and llms-full.txt files');
@@ -672,5 +800,14 @@ ${rssItems}
       admonitions: true,
     },
   },
+  scripts: [
+    {
+      src: '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit',
+      async: true,
+    },
+    {
+      src: '/js/translate-init.js',
+    },
+  ],
 };
 };
