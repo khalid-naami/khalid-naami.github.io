@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      xmlns:yandex="http://news.yandex.ru"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title><![CDATA[Khalid Naami]]></title>
+    <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://khalidnaami.com</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
+    <lastBuildDate>Tue, 12 May 2026 18:21:42 GMT</lastBuildDate>
     <language>en</language>
-    <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Docusaurus (Custom Blog Plugin)</generator>
 
     <item>
       <title><![CDATA[OI & Volume Analysis: Master Options Flow and Liquidity]]></title>
       <link>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</link>
-      <guid>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[open-interest]]></category><category><![CDATA[volume]]></category><category><![CDATA[options-flow]]></category><category><![CDATA[liquidity]]></category><category><![CDATA[trading-tools]]></category><category><![CDATA[market-sentiment]]></category>
       <description><![CDATA[Analyze Open Interest, Volume, and Options Flow to uncover hidden market liquidity. Learn how smart money positioning reveals future market trends.]]></description>
       <content:encoded><![CDATA[<h1>OI &amp; Volume Analysis: Master Options Flow and Liquidity</h1>
 <p>If you want to know where the &quot;smart money&quot; is placing its bets, you have to look at <strong>Open Interest (OI)</strong> and <strong>Volume</strong>. While price is the story, OI and Volume are the evidence. Understanding how to read these two metrics is like having a direct line into the institutional trading desks.</p>
@@ -146,10 +154,11 @@
     <item>
       <title><![CDATA[Technical & Historical Analysis: The Quantitative Edge]]></title>
       <link>https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge</link>
-      <guid>https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[technical-analysis]]></category><category><![CDATA[historical-data]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[market-structure]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Blend Technical and Historical Analysis for a quantitative edge. Combine price action with statistical modeling to optimize your trade execution.]]></description>
       <content:encoded><![CDATA[<h1>Technical &amp; Historical Analysis: The Quantitative Edge</h1>
 <p>Technical analysis is often dismissed as &quot;astrology for men&quot; by those who don&#39;t understand its depth. But when you combine chart patterns with <strong>Historical Data</strong> and <strong>Options Greeks</strong>, it transforms from a guessing game into a rigorous decision-making engine. This is the quantitative edge.</p>
@@ -225,10 +234,11 @@
     <item>
       <title><![CDATA[The Game of Probabilities: Decoding Market Expectations]]></title>
       <link>https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations</link>
-      <guid>https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[probability]]></category><category><![CDATA[statistics]]></category><category><![CDATA[implied-volatility]]></category><category><![CDATA[risk-management]]></category>
       <description><![CDATA[Learn to decode market expectations using raw options data. Transform data into actionable probability distributions.]]></description>
       <content:encoded><![CDATA[<h1>The Game of Probabilities: Decoding Market Expectations</h1>
 <p>Trading is not about certainty; it is about managing a set of outcomes. Every price you see on your screen is a reflection of the market&#39;s collective &quot;bet&quot; on the future. To win consistently, you must learn to speak the language of <strong>Implied Probabilities</strong>.</p>
@@ -304,10 +314,11 @@
     <item>
       <title><![CDATA[Exposure Heatmap: Visual Options Analytics]]></title>
       <link>https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide</link>
-      <guid>https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[heatmap]]></category><category><![CDATA[visual-analytics]]></category><category><![CDATA[gamma]]></category><category><![CDATA[exposure]]></category><category><![CDATA[technical-analysis]]></category>
       <description><![CDATA[Utilize the Exposure Heatmap for visual analytics. Transform complex multi-strike options data into clear, actionable, and dynamic market insights.]]></description>
       <content:encoded><![CDATA[<h1>Exposure Heatmap: The Future of Visual Options Analytics</h1>
 <p>Data is only useful if you can understand it quickly. In the fast-paced world of options trading, staring at rows of numbers can lead to &quot;analysis paralysis.&quot; This is where the <strong>Exposure Heatmap</strong> changes the game—it turns complex multidimensional data into a clear visual story.</p>
@@ -387,10 +398,11 @@
     <item>
       <title><![CDATA[Delta-Adjusted Exposure: The Real Way to Measure Risk]]></title>
       <link>https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk</link>
-      <guid>https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[delta]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[exposure]]></category>
       <description><![CDATA[Calculate Options Delta-Adjusted Exposure to reveal your true portfolio risk. Avoid the pitfalls of static notional exposure in volatile markets.]]></description>
       <content:encoded><![CDATA[<h1>Delta-Adjusted Exposure: The Real Way to Measure Risk</h1>
 <p>Judging your risk solely by &quot;notional value&quot; is one of the fastest ways to miscalculate your market standing. Notional value tells you what you&#39;ve bought, but <strong>Delta-Adjusted Exposure</strong> tells you what you actually <em>risk</em>. If you aren&#39;t weighting your exposure by the probability of price movement, you&#39;re essentially flying blind.</p>
@@ -480,10 +492,11 @@ $$</p>
     <item>
       <title><![CDATA[C++ for Finance: The Bedrock of Low Latency Systems]]></title>
       <link>https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide</link>
-      <guid>https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[c++]]></category><category><![CDATA[quantitative finance]]></category><category><![CDATA[high frequency trading]]></category><category><![CDATA[financial infrastructure]]></category>
       <description><![CDATA[Explore C++ in Quantitative Finance. Learn why low-latency execution and high-performance computing are critical for high-frequency trading systems.]]></description>
       <content:encoded><![CDATA[<h1>C++ for Finance: The Bedrock of Low Latency Systems</h1>
 <p>In the high-stakes arena of quantitative finance, there is no prize for second place. When milliseconds—or even microseconds—define the boundary between a multi-million dollar profit and a catastrophic loss, there is only one language that the world&#39;s most sophisticated trading desks trust: <strong>C++</strong>. It is the silent engine behind the global financial markets, providing the raw speed and hardware control that no other high-level language can match.</p>
@@ -545,10 +558,11 @@ $$</p>
     <item>
       <title><![CDATA[Fair Bets & Kelly Criterion: Mastering Position Sizing]]></title>
       <link>https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</link>
-      <guid>https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Daily Analysis]]></category><category><![CDATA[risk management]]></category><category><![CDATA[kelly criterion]]></category><category><![CDATA[expected value]]></category><category><![CDATA[mathematics]]></category>
       <description><![CDATA[Optimize your portfolio with the Kelly Criterion. Learn mathematical position sizing to maximize long-term wealth while minimizing the risk of ruin.]]></description>
       <content:encoded><![CDATA[<h1>Fair Bets &amp; Kelly Criterion: Mastering Position Sizing</h1>
 <p>In our previous discussions on probability, we explored the stochastic nature of the markets. But knowing the probabilities is only half the battle. The true secret to long-term survival and exponential growth in trading lies in answering one critical question: <strong>How much should I bet?</strong> To answer this, we must understand the concepts of a &quot;Fair Bet&quot; and the mathematical precision of the <strong>Kelly Criterion</strong>.</p>
@@ -648,10 +662,11 @@ $$</p>
     <item>
       <title><![CDATA[The Game of Probabilities: Stochastic Processes]]></title>
       <link>https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</link>
-      <guid>https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Daily Analysis]]></category><category><![CDATA[probability]]></category><category><![CDATA[stochastic processes]]></category><category><![CDATA[risk management]]></category><category><![CDATA[mathematics]]></category>
       <description><![CDATA[Deep dive into stochastic risk management. Master the game of probabilities to decode market expectations and price action.]]></description>
       <content:encoded><![CDATA[<h1>The Game of Probabilities: Stochastic Processes</h1>
 <p>In our daily lives, we often seek certainty. We want to believe that if we follow a specific path, a specific outcome is guaranteed. This is the comfort of <strong>Determinism</strong>. However, the financial markets are not deterministic systems; they are <strong>Stochastic Processes</strong>. To succeed in trading is to stop looking for certainty and start mastering the game of probabilities.</p>
@@ -721,10 +736,11 @@ $$</p>
     <item>
       <title><![CDATA[HTML & CSS in Fintech: Pro Trading UI]]></title>
       <link>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</link>
-      <guid>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[html]]></category><category><![CDATA[css]]></category><category><![CDATA[fintech]]></category><category><![CDATA[ui design]]></category><category><![CDATA[ux]]></category>
       <description><![CDATA[Master HTML and CSS for Fintech UI/UX. Learn to craft intuitive, fast, and professional trading interfaces that empower quantitative analysts.]]></description>
       <content:encoded><![CDATA[<h1>HTML &amp; CSS in Fintech: Crafting the Professional Trading Experience</h1>
 <p>In the high-stakes world of finance, where split-second decisions are made based on complex data, the &quot;look and feel&quot; of a platform is not a luxury—it is a critical functional requirement. While Python handles the math and JavaScript handles the logic, <strong>HTML and CSS</strong> are the languages that build the architecture of trust.</p>
@@ -786,10 +802,11 @@ $$</p>
     <item>
       <title><![CDATA[Julia for Finance: High-Performance Quant Research]]></title>
       <link>https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide</link>
-      <guid>https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[julia]]></category><category><![CDATA[high performance computing]]></category><category><![CDATA[fintech]]></category><category><![CDATA[data analysis]]></category>
       <description><![CDATA[Explore Julia for Finance and high-performance computing. Accelerate your quantitative models and pricing algorithms with this modern language.]]></description>
       <content:encoded><![CDATA[<h1>Julia for Finance: High-Performance Quant Research</h1>
 <p>In the world of quantitative finance, the &quot;Two-Language Problem&quot; has long been a source of frustration. Quants often prototype their ideas in easy-to-use languages like Python or R, only to have them rewritten in C++ or Java for production to achieve the necessary speed. Enter <strong>Julia</strong>: a language designed from the ground up to solve this problem, offering the ease of Python with the raw performance of C.</p>
@@ -851,10 +868,11 @@ $$</p>
     <item>
       <title><![CDATA[R for Finance: Statistical Powerhouse of Quant Research]]></title>
       <link>https://khalidnaami.com/blog/r-language-for-financial-data-science-guide</link>
-      <guid>https://khalidnaami.com/blog/r-language-for-financial-data-science-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/r-language-for-financial-data-science-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[R language]]></category><category><![CDATA[data science]]></category><category><![CDATA[statistical analysis]]></category><category><![CDATA[financial modeling]]></category>
       <description><![CDATA[Utilize R Language for Financial Data Science. Execute advanced statistical modeling, econometrics, and risk analysis to extract actionable insights.]]></description>
       <content:encoded><![CDATA[<h1>R for Finance: Statistical Powerhouse of Quant Research</h1>
 <p>In the world of quantitative finance, where data is the primary currency, the tools we use to analyze that data define our edge. While Python is celebrated for its versatility, <strong>R</strong> remains the undisputed powerhouse for pure statistical analysis and complex financial modeling. It is the language of choice for academic researchers and institutional quants who require the highest level of mathematical rigor.</p>
@@ -916,10 +934,11 @@ $$</p>
     <item>
       <title><![CDATA[React.js Fintech: Scalable Trading Dashboards]]></title>
       <link>https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</link>
-      <guid>https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[react]]></category><category><![CDATA[react.js]]></category><category><![CDATA[fintech]]></category><category><![CDATA[web development]]></category>
       <description><![CDATA[Build scalable and reactive trading dashboards using React.js. Learn the architecture behind modern, high-performance financial web applications.]]></description>
       <content:encoded><![CDATA[<h1>React.js in Fintech: Building Scalable and Reactive Trading Dashboards</h1>
 <p>In the rapidly evolving landscape of financial technology, the ability to build interfaces that are both highly reactive and infinitely scalable is a competitive necessity. This is why <strong>React.js</strong> has become the gold standard for the modern fintech stack, powering everything from retail trading apps to institutional risk management systems.</p>
@@ -981,10 +1000,11 @@ $$</p>
     <item>
       <title><![CDATA[Risk Metrics 101: VaR, Beta, Sharpe & Sortino]]></title>
       <link>https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</link>
-      <guid>https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Daily Analysis]]></category><category><![CDATA[risk management]]></category><category><![CDATA[risk metrics]]></category><category><![CDATA[quantitative finance]]></category><category><![CDATA[portfolio management]]></category>
       <description><![CDATA[Unveil critical Risk Metrics like VaR, Beta, Sharpe, and Sortino ratios. Quantify and benchmark your trading performance against market benchmarks.]]></description>
       <content:encoded><![CDATA[<h1>Risk Metrics 101: VaR, Beta, Sharpe &amp; Sortino</h1>
 <p>In the world of investing, everyone loves to talk about returns. But returns are only half of the story. Professional trading is not about how much you make, but how much you <em>risk</em> to make it. To transition from a retail speculator to a professional portfolio manager, you must master the mathematical metrics that quantify risk. </p>
@@ -1058,10 +1078,11 @@ $$</p>
     <item>
       <title><![CDATA[Scala for Finance: Functional Programming in Trading]]></title>
       <link>https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide</link>
-      <guid>https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[scala]]></category><category><![CDATA[fintech]]></category><category><![CDATA[big data]]></category><category><![CDATA[functional programming]]></category>
       <description><![CDATA[Discover Scala in Fintech. Utilize functional programming and Apache Spark to process massive financial datasets and build scalable trading pipelines.]]></description>
       <content:encoded><![CDATA[<h1>Scala for Finance: Functional Programming in Trading</h1>
 <p>In the world of modern finance, data isn&#39;t just &quot;big&quot;—it’s massive, fast, and requires extreme precision. As financial institutions move toward more scalable and robust infrastructures, <strong>Scala</strong> has emerged as the definitive bridge between the mathematical elegance of functional programming and the industrial power of the Java Virtual Machine (JVM). It is the language that powers the world&#39;s most sophisticated data processing pipelines and high-concurrency financial systems.</p>
@@ -1123,10 +1144,11 @@ $$</p>
     <item>
       <title><![CDATA[Volatility: Log-Returns to Yang-Zhang]]></title>
       <link>https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</link>
-      <guid>https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Daily Analysis]]></category><category><![CDATA[volatility]]></category><category><![CDATA[quantitative finance]]></category><category><![CDATA[risk management]]></category><category><![CDATA[mathematics]]></category>
       <description><![CDATA[Decode Volatility from basic Log-Returns to the advanced Yang-Zhang estimator. Master the mathematics of risk measurement for algorithmic trading.]]></description>
       <content:encoded><![CDATA[<h1>Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator</h1>
 <p>In the realm of quantitative finance, volatility is not just a measure of fear—it is the very fabric of risk and opportunity. To trade volatility is to trade the uncertainty of the future. However, how we measure this uncertainty has undergone a profound mathematical evolution, moving from simple static calculations to sophisticated dynamic estimators.</p>
@@ -1226,10 +1248,11 @@ $$</p>
     <item>
       <title><![CDATA[JavaScript in Finance: Real-Time Dashboards]]></title>
       <link>https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide</link>
-      <guid>https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[javascript]]></category><category><![CDATA[finance]]></category><category><![CDATA[data visualization]]></category><category><![CDATA[fintech]]></category><category><![CDATA[real-time data]]></category>
       <description><![CDATA[Harness JavaScript for Finance and data visualization. Power real-time dashboards and interactive charts for sophisticated market data analysis.]]></description>
       <content:encoded><![CDATA[<h1>JavaScript in Finance: Powering Real-Time Financial Dashboards</h1>
 <p>While Python dominates the back-end calculations of quantitative finance, <strong>JavaScript</strong> is the undisputed king of the front-end experience. In a world where financial data must be visualized in real-time, JavaScript is the bridge that connects complex market data to the trader&#39;s eyes.</p>
@@ -1291,10 +1314,11 @@ $$</p>
     <item>
       <title><![CDATA[Dashboard Options: Mastering Multi-Ticker Analysis]]></title>
       <link>https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis</link>
-      <guid>https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[correlation]]></category><category><![CDATA[spx]]></category><category><![CDATA[spy]]></category>
       <description><![CDATA[Gain a comparative edge with Multi-Ticker Analysis. Learn to dynamically benchmark options flow and volatility surfaces across multiple market assets.]]></description>
       <content:encoded><![CDATA[<h1>Dashboard Options: Mastering Multi-Ticker Analysis</h1>
 <p>In technical analysis, we often get tunnel vision focusing on a single ticker. But the market doesn’t move in isolation. Understanding the relationship between correlated assets—like the <strong>SPX</strong> (S&amp;P 500 Index) and <strong>SPY</strong> (S&amp;P 500 ETF)—is where the real alpha is found.</p>
@@ -1364,10 +1388,11 @@ $$</p>
     <item>
       <title><![CDATA[Python for Finance: Modern Quant Analysis]]></title>
       <link>https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</link>
-      <guid>https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[python]]></category><category><![CDATA[finance]]></category><category><![CDATA[data analysis]]></category><category><![CDATA[quantitative trading]]></category>
       <description><![CDATA[Leverage Python for Finance. Master quantitative analysis, data manipulation, and algorithmic trading using pandas, numpy, and machine learning.]]></description>
       <content:encoded><![CDATA[<h1>Python for Finance: The Engine of Modern Quantitative Analysis</h1>
 <p>In the modern financial landscape, speed and accuracy are the dual pillars of success. Over the last decade, <strong>Python</strong> has evolved from a general-purpose programming language into the industry standard for financial institutions, hedge funds, and retail quantitative traders.</p>
@@ -1429,10 +1454,11 @@ $$</p>
     <item>
       <title><![CDATA[Ultimate Options Dashboard: Price & Greeks]]></title>
       <link>https://khalidnaami.com/blog/ultimate-options-dashboard-guide</link>
-      <guid>https://khalidnaami.com/blog/ultimate-options-dashboard-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/ultimate-options-dashboard-guide</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[greeks]]></category><category><![CDATA[gamma]]></category><category><![CDATA[delta]]></category><category><![CDATA[vanna]]></category><category><![CDATA[charm]]></category>
       <description><![CDATA[Navigate the Ultimate Options Dashboard. A comprehensive guide to analyzing price action, Greeks, and liquidity flow to find asymmetric trades.]]></description>
       <content:encoded><![CDATA[<h1>Ultimate Options Dashboard: Price Action &amp; Greeks Analysis</h1>
 <!-- truncate -->
@@ -1520,10 +1546,11 @@ $$</p>
     <item>
       <title><![CDATA[Charm: The Invisible Erosion of Directional Exposure]]></title>
       <link>https://khalidnaami.com/blog/charm-the-invisible-delta-decay</link>
-      <guid>https://khalidnaami.com/blog/charm-the-invisible-delta-decay</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/charm-the-invisible-delta-decay</guid>
       <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[charm]]></category><category><![CDATA[greeks]]></category><category><![CDATA[time-decay]]></category><category><![CDATA[spx]]></category><category><![CDATA[risk-management]]></category>
       <description><![CDATA[Explore Charm, the invisible force of delta decay over time. Learn how weekend drift and time decay uniquely impact your options trading strategies.]]></description>
       <content:encoded><![CDATA[<h1>Charm: The Invisible Erosion of Directional Exposure</h1>
 <p>Theta gets all the attention for time decay, but <strong>Charm</strong> is the silent driver that actually alters your directional risk as expiration approaches. For the institutional risk manager, ignoring Charm isn&#39;t an option; it&#39;s the difference between a controlled exit and a forced liquidation. </p>
@@ -1607,10 +1634,11 @@ $$</p>
     <item>
       <title><![CDATA[Delta Dynamics: The Compass of Options Trading]]></title>
       <link>https://khalidnaami.com/blog/delta-dynamics-directional-risk</link>
-      <guid>https://khalidnaami.com/blog/delta-dynamics-directional-risk</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/delta-dynamics-directional-risk</guid>
       <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[delta]]></category><category><![CDATA[greeks]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[spx]]></category>
       <description><![CDATA[Master Delta dynamics to accurately gauge directional risk. Learn how this foundational Greek dictates your options portfolios exposure to price.]]></description>
       <content:encoded><![CDATA[<h1>Delta Dynamics: The Compass of Options Trading</h1>
 <p>Every directional bet in the options market starts and ends with <strong>Delta</strong>. While most retail traders see it simply as a probability of profit, professionals understand it as the core velocity engine of their position. If you don&#39;t master Delta, you aren&#39;t trading—you&#39;re gambling.</p>
@@ -1712,10 +1740,11 @@ $$</p>
     <item>
       <title><![CDATA[The Physics of Options: Synergy Between Delta and Gamma]]></title>
       <link>https://khalidnaami.com/blog/options-physics-synergy</link>
-      <guid>https://khalidnaami.com/blog/options-physics-synergy</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-physics-synergy</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[delta]]></category><category><![CDATA[gamma]]></category><category><![CDATA[physics]]></category><category><![CDATA[greeks]]></category><category><![CDATA[risk-management]]></category>
       <description><![CDATA[Delve into the physics of options trading. Understand how the dynamic synergy of Greeks mimics velocity and acceleration in complex financial markets.]]></description>
       <content:encoded><![CDATA[<h1>The Physics of Options: Synergy Between Delta and Gamma</h1>
 <blockquote>
@@ -1819,10 +1848,11 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
     <item>
       <title><![CDATA[The Strategic Quartet: Delta, Gamma, Vanna, and Charm]]></title>
       <link>https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks</link>
-      <guid>https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[delta]]></category><category><![CDATA[gamma]]></category><category><![CDATA[vanna]]></category><category><![CDATA[charm]]></category><category><![CDATA[strategy]]></category><category><![CDATA[risk-management]]></category>
       <description><![CDATA[Integrate the Strategic Quartet of Options Greeks. Master Delta, Gamma, Theta, and Vega to build a mathematically robust and resilient portfolio.]]></description>
       <content:encoded><![CDATA[<h1>The Strategic Quartet: Delta, Gamma, Vanna, and Charm</h1>
 <p>The market doesn&#39;t move in isolated metrics. You can&#39;t just &#39;watch Delta&#39; and expect to survive. In professional trading, risk is a synchronized engine of four distinct pillars—the <strong>Strategic Quartet</strong>. If you aren&#39;t viewing Delta, Gamma, Vanna, and Charm as a single integrated system, you&#39;re missing the structural architecture of the entire market.</p>
@@ -1910,10 +1940,11 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
     <item>
       <title><![CDATA[The Power of Gamma: Why It Rules the Options Market]]></title>
       <link>https://khalidnaami.com/blog/the-power-of-gamma</link>
-      <guid>https://khalidnaami.com/blog/the-power-of-gamma</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/the-power-of-gamma</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[gamma]]></category><category><![CDATA[greeks]]></category>
       <description><![CDATA[Unlock the power of Gamma in options trading. Understand how convexity accelerates profits and magnifies risks in rapidly moving financial markets.]]></description>
       <content:encoded><![CDATA[<h1>The Power of Gamma: Why It Rules the Options Market</h1>
 <p><strong>Gamma</strong> is the true master of price acceleration. While Delta gives you your direction, Gamma determines how fast that direction will change. It is the &#39;convexity&#39; of your position, and in the hands of a skilled trader, it is the most powerful weapon for capturing explosive moves—or the most dangerous trap for the unprepared.</p>
@@ -2015,10 +2046,11 @@ $$</p>
     <item>
       <title><![CDATA[Vanna-Charm Synergy: Protecting Your Portfolio]]></title>
       <link>https://khalidnaami.com/blog/vanna-charm-risk-management-synergy</link>
-      <guid>https://khalidnaami.com/blog/vanna-charm-risk-management-synergy</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/vanna-charm-risk-management-synergy</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[vanna]]></category><category><![CDATA[charm]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[hedging]]></category><category><![CDATA[portfolio-protection]]></category>
       <description><![CDATA[Synergize Vanna and Charm for elite risk management. Learn how delta decay and volatility shifts dynamically interact to shape options portfolios.]]></description>
       <content:encoded><![CDATA[<h1>Vanna-Charm Synergy: Protecting Your Portfolio</h1>
 <p>The most dangerous days on a trading desk are often the ones where <strong>Vanna</strong> and <strong>Charm</strong> collide. This &#39;Vol-Time Synergy&#39; is where institutional hedges are either compressed or expanded at a violent pace. If you&#39;ve ever wondered why price accelerates toward a strike as expiration nears and IV drops, you&#39;re looking at the interaction of these two cross-Greeks. </p>
@@ -2108,10 +2140,11 @@ $$</p>
     <item>
       <title><![CDATA[The 3D Gamma Surface: Navigating Market Risk Topography]]></title>
       <link>https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography</link>
-      <guid>https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[analytics]]></category><category><![CDATA[3d-surface]]></category><category><![CDATA[gamma]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[visualization]]></category>
       <description><![CDATA[Visualize Risk Topography with the 3D Gamma Surface. Navigate the multi-dimensional landscape of options risk across time and underlying price.]]></description>
       <content:encoded><![CDATA[<h1>The 3D Gamma Surface: Navigating Market Risk Topography</h1>
 <p>The options market has a literal shape, and if you can&#39;t see it, you&#39;re trading blind. Traditional chains flatten the most important data into two dimensions. The <strong>3D Gamma Surface</strong> within <strong>Dashboard Options</strong> restores the market&#39;s true &#39;topography,&#39; revealing the massive peaks of dealer exposure and the valleys of stability that drive price action.</p>
@@ -2197,10 +2230,11 @@ $$</p>
     <item>
       <title><![CDATA[Vanna: The Bridge Between Price and Volatility]]></title>
       <link>https://khalidnaami.com/blog/vanna-price-volatility-bridge</link>
-      <guid>https://khalidnaami.com/blog/vanna-price-volatility-bridge</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/vanna-price-volatility-bridge</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[vanna]]></category><category><![CDATA[greeks]]></category><category><![CDATA[volatility]]></category><category><![CDATA[spx]]></category><category><![CDATA[risk-management]]></category>
       <description><![CDATA[Discover how Vanna bridges the gap between underlying price movements and implied volatility, offering traders a critical edge in options pricing.]]></description>
       <content:encoded><![CDATA[<h1>Vanna: The Bridge Between Price and Volatility</h1>
 <p><strong>Vanna</strong> is the bridge between price and volatility. In institutional finance, liquidity providers don&#39;t just worry about where the price is; they worry about how their hedges will react when volatility shifts. If you aren&#39;t tracking Vanna, you aren&#39;t seeing the &#39;invisible&#39; liquidity walls that dictate market reversals during volatility crushes.</p>
@@ -2284,10 +2318,11 @@ $$</p>
     <item>
       <title><![CDATA[The IV Surface: Decoding Market Expectations]]></title>
       <link>https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations</link>
-      <guid>https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[analytics]]></category><category><![CDATA[iv-surface]]></category><category><![CDATA[implied-volatility]]></category><category><![CDATA[skew]]></category><category><![CDATA[term-structure]]></category>
       <description><![CDATA[Analyze the Implied Volatility (IV) Surface to decode market expectations. Identify mispriced options by visualizing term structure and skew.]]></description>
       <content:encoded><![CDATA[<h1>The IV Surface: Decoding Market Expectations</h1>
 <p>Forget what you learned in introductory courses: Implied Volatility (IV) is never a single, static number. On a professional desk, we view IV as a living, three-dimensional landscape. Our <strong>IV Surface</strong> tool allows you to stop guessing about &quot;cheap&quot; or &quot;expensive&quot; options and start seeing exactly how the market makers are pricing risk across the entire volatility structure.</p>
@@ -2369,10 +2404,11 @@ $$</p>
     <item>
       <title><![CDATA[Options Color: Managing Gamma Decay and Pin Risk]]></title>
       <link>https://khalidnaami.com/blog/options-color-gamma-decay-risk</link>
-      <guid>https://khalidnaami.com/blog/options-color-gamma-decay-risk</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-color-gamma-decay-risk</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[color]]></category><category><![CDATA[gamma]]></category><category><![CDATA[theta]]></category><category><![CDATA[pin-risk]]></category>
       <description><![CDATA[Understand Options Color. Learn how the rate of change of Gamma over time (Gamma Decay) impacts your portfolio risk as expiration rapidly approaches.]]></description>
       <content:encoded><![CDATA[<h1>Options Color: Managing Gamma Decay and Pin Risk</h1>
 <p>The final hours of a 0DTE trade are where fortunes are made or lost on the back of Greeks that most traders don&#39;t even know exist. While everyone watches Theta decay, professional hedgers are watching <strong>Color</strong>—the rate at which your Gamma is eroding. If you don&#39;t understand Color, you don&#39;t understand why your &quot;perfect&quot; hedge suddenly fails as the clock runs out.</p>
@@ -2452,10 +2488,11 @@ $$</p>
     <item>
       <title><![CDATA[Max Pain Theory: Why Prices Gravitate Toward Losses]]></title>
       <link>https://khalidnaami.com/blog/options-max-pain-theory-market-gravity</link>
-      <guid>https://khalidnaami.com/blog/options-max-pain-theory-market-gravity</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-max-pain-theory-market-gravity</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[max-pain]]></category><category><![CDATA[expiration]]></category><category><![CDATA[market-mechanics]]></category>
       <description><![CDATA[Understand the Options Max Pain theory. Discover how market makers and structural gravity pull stock prices toward maximum pain levels at expiration.]]></description>
       <content:encoded><![CDATA[<h1>Max Pain Theory: Why Prices Gravitate Toward Losses</h1>
 <p>There is a reason stock prices often seem to gravitate toward specific strikes on expiration Friday, and it isn&#39;t magic—it&#39;s market mechanics. <strong>Max Pain Theory</strong> isn&#39;t just a retail observation; it is a manifestation of institutional delta-hedging clusters that create a literal &quot;gravity&quot; in the price action.</p>
@@ -2541,10 +2578,11 @@ $$</p>
     <item>
       <title><![CDATA[Options Speed: Mastering the Gamma of Gamma]]></title>
       <link>https://khalidnaami.com/blog/options-speed-gamma-of-gamma</link>
-      <guid>https://khalidnaami.com/blog/options-speed-gamma-of-gamma</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-speed-gamma-of-gamma</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[speed]]></category><category><![CDATA[gamma]]></category><category><![CDATA[greeks]]></category>
       <description><![CDATA[Understand Options Speed as the Gamma of Gamma. Learn how the rate of change of convexity impacts highly leveraged portfolios during market crashes.]]></description>
       <content:encoded><![CDATA[<h1>Options Speed: Mastering the Gamma of Gamma</h1>
 <p>In high-stakes portfolio management, Delta (velocity) and Gamma (acceleration) are only the beginning. To hedge with surgical precision, you must understand <strong>Speed</strong>—the rate at which your acceleration itself is changing. It is the third-order Greek that separates the quantitative elite from the rest of the pack.</p>
@@ -2630,10 +2668,11 @@ $$</p>
     <item>
       <title><![CDATA[The Butterfly Spread: Precision Targeting in Options]]></title>
       <link>https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options</link>
-      <guid>https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[butterfly-spread]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[pin-risk]]></category>
       <description><![CDATA[Deploy Butterfly Spreads for precision targeting in options trading. Capitalize on low volatility environments with tightly defined risk parameters.]]></description>
       <content:encoded><![CDATA[<h1>The Butterfly Spread: Precision Targeting in Options</h1>
 <p>If you treat the market like a wide-net capture zone, you trade Iron Condors. But if you want to trade with the precision of a sniper, you master the <strong>Butterfly Spread</strong>. It is the most surgical instrument in the quantitative arsenal, designed to extract profit from a specific, pinpointed outcome with minimal capital at risk.</p>
@@ -2729,10 +2768,11 @@ $$</p>
     <item>
       <title><![CDATA[Options Vomma: Understanding Vega Convexity]]></title>
       <link>https://khalidnaami.com/blog/options-vomma-convexity-of-vega</link>
-      <guid>https://khalidnaami.com/blog/options-vomma-convexity-of-vega</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/options-vomma-convexity-of-vega</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[options]]></category><category><![CDATA[trading]]></category><category><![CDATA[derivatives]]></category><category><![CDATA[vomma]]></category><category><![CDATA[vega]]></category><category><![CDATA[vol-of-vol]]></category>
       <description><![CDATA[Understand Options Vomma as the convexity of Vega. Learn how to capitalize on accelerating implied volatility changes during market turbulence.]]></description>
       <content:encoded><![CDATA[<h1>Options Vomma: Understanding Vega Convexity</h1>
 <p>Watching Vega is not enough when volatility begins to explode. Just as Delta has Gamma, Vega has <strong>Vomma</strong>—the measure of your volatility&#39;s own &quot;convexity.&quot; If you are short Vomma during a volatility spike, your losses won&#39;t just increase; they will accelerate at a rate that can overwhelm even the best-capitalized desks.</p>
@@ -2824,10 +2864,11 @@ $$</p>
     <item>
       <title><![CDATA[The Calendar Spread: Trading Time and Volatility]]></title>
       <link>https://khalidnaami.com/blog/calendar-spread-trading-time-volatility</link>
-      <guid>https://khalidnaami.com/blog/calendar-spread-trading-time-volatility</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/calendar-spread-trading-time-volatility</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[calendar-spread]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[volatility]]></category>
       <description><![CDATA[Master Calendar Spreads to trade time and volatility. Exploit differences in time decay and implied volatility across multiple expiration cycles.]]></description>
       <content:encoded><![CDATA[<h1>The Calendar Spread: Trading Time and Volatility</h1>
 <p>Directional guessing is for amateurs. Professional quantitative analysts know that the most lucrative dimensions to trade are <strong>Time</strong> and <strong>Volatility</strong>. The <strong>Calendar Spread</strong> is our primary weapon for isolating these dimensions, structurally weaponizing the passage of time against the market&#39;s expectation of volatility.</p>
@@ -2913,10 +2954,11 @@ In this state, Option Dealers are mechanically forced to suppress volatility by 
     <item>
       <title><![CDATA[The Cash-Secured Put: Acquiring Assets at a Discount]]></title>
       <link>https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount</link>
-      <guid>https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[cash-secured-put]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[value-investing]]></category>
       <description><![CDATA[Learn to use Cash Secured Puts to acquire premium assets at a discount. A quantitative approach to generating income while targeting optimal entries.]]></description>
       <content:encoded><![CDATA[<h1>The Cash-Secured Put: Acquiring Assets at a Discount</h1>
 <p>Waiting for a dip with a limit order is an amateur’s game. The <strong>Cash-Secured Put</strong> is how professionals get paid to wait for the prices they want. It is the ultimate fusion of value investing and derivative income, turning opportunity cost into immediate cash flow while you wait for the market to come to you.</p>
@@ -3022,10 +3064,11 @@ A strategic analyst waits for these moments of panic. By selling Cash-Secured Pu
     <item>
       <title><![CDATA[The Collar Strategy: Complete Portfolio Protection]]></title>
       <link>https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection</link>
-      <guid>https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[collar-strategy]]></category><category><![CDATA[portfolio-protection]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[options-strategy]]></category>
       <description><![CDATA[Implement the Collar Strategy for complete portfolio protection. Learn how to finance downside hedges using covered calls in volatile environments.]]></description>
       <content:encoded><![CDATA[<h1>The Collar Strategy: Complete Portfolio Protection</h1>
 <p>The math of drawdowns is brutal: a 50% loss requires a 100% gain just to get back to zero. Institutional desks don&#39;t leave their long-term survival to chance. The <strong>Collar Strategy</strong> is the ultimate structural defense, allowing you to participate in market upside while setting a hard mathematical floor on your losses during black swan events.</p>
@@ -3115,10 +3158,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[The Covered Call: Generating Quantitative Yield]]></title>
       <link>https://khalidnaami.com/blog/covered-call-generating-quantitative-yield</link>
-      <guid>https://khalidnaami.com/blog/covered-call-generating-quantitative-yield</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/covered-call-generating-quantitative-yield</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[covered-call]]></category><category><![CDATA[yield]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Generate consistent quantitative yield using Covered Calls. Learn how to systematically monetize your equity positions in sideways or bullish markets.]]></description>
       <content:encoded><![CDATA[<h1>The Covered Call: Generating Quantitative Yield</h1>
 <p>&quot;Buy and Hold&quot; is not a strategy; it&#39;s a hope. Passive investors leave massive amounts of yield on the table by relying solely on capital appreciation. By integrating the <strong>Covered Call</strong> into your portfolio, you transform static assets into a quantitative yield engine, turning time decay into a consistent income stream while lowering your cost basis.</p>
@@ -3202,10 +3246,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[Day Trading 0 DTE GEX Flow | Option Dealer Levels]]></title>
       <link>https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels</link>
-      <guid>https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[0DTE]]></category><category><![CDATA[day-trading]]></category><category><![CDATA[gamma]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Master day trading 0-DTE options using GEX flow. Discover how intraday dealer levels and localized Gamma dictate extreme short-term price action.]]></description>
       <content:encoded><![CDATA[<h1>Day Trading 0 DTE GEX Flow | Option Dealer Levels</h1>
 <p>The rise of <strong>0DTE options</strong> has fundamentally broken traditional technical analysis. When more than half of the S&amp;P 500 volume expires in a single session, the market becomes a game of pure hedging flow. If you aren&#39;t tracking the intraday GEX shifts, you&#39;re trying to trade a storm without a radar.</p>
@@ -3285,10 +3330,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[How Option Dealers Use Gamma Exposure To Trade]]></title>
       <link>https://khalidnaami.com/blog/how-dealers-use-gamma-exposure</link>
-      <guid>https://khalidnaami.com/blog/how-dealers-use-gamma-exposure</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-dealers-use-gamma-exposure</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[dealer-positioning]]></category><category><![CDATA[gamma]]></category><category><![CDATA[hedging]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Discover exactly how options dealers manage Gamma Exposure. Gain insights into institutional hedging flows and how they create market support levels.]]></description>
       <content:encoded><![CDATA[<h1>How Option Dealers Use Gamma Exposure To Trade</h1>
 <p>Forget the macro narratives and earnings reports; the real &quot;plumbing&quot; of the modern market is driven by the mechanical hedging of options dealers. Understanding how dealers manage their <strong>Gamma Exposure</strong> is like seeing the code behind the Matrix—it reveals why price moves the way it does, regardless of the news.</p>
@@ -3374,10 +3420,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[How Gamma Exposure Works - Advanced Option Strategies]]></title>
       <link>https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies</link>
-      <guid>https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[gamma]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[risk-management]]></category><category><![CDATA[options-trading]]></category>
       <description><![CDATA[Deep dive into advanced Gamma Exposure (GEX) strategies. Uncover how market maker positioning dictates liquidity, volatility, and price action.]]></description>
       <content:encoded><![CDATA[<h1>How Gamma Exposure Works - Advanced Option Strategies</h1>
 <p>Price action is the result of order flow, and in today&#39;s market, the largest order flow comes from delta-hedging. <strong>Gamma Exposure (GEX)</strong> is the master key to understanding these flows. By analyzing GEX, we can predict not just where the market might go, but the exact speed and volatility of the move once it starts.</p>
@@ -3457,10 +3504,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[How To Trade Gamma Exposure: Quantitative Guide]]></title>
       <link>https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide</link>
-      <guid>https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[gamma]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[trading-strategy]]></category>
       <description><![CDATA[A comprehensive quantitative guide on how to trade Gamma Exposure. Understand how to utilize GEX levels to define high-probability trade setups.]]></description>
       <content:encoded><![CDATA[<h1>How To Trade Gamma Exposure: Quantitative Guide</h1>
 <p>Chart patterns and fundamental data are lagging indicators in a market dominated by algorithmic hedging. Today, the most powerful predictive tool is <strong>Gamma Exposure (GEX)</strong>. It reveals the levels where market makers are forced to buy or sell, allowing you to anticipate price reversals with a level of accuracy that retail indicators can&#39;t match.</p>
@@ -3552,10 +3600,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[Trading Negative Gamma: Volatility Expansion]]></title>
       <link>https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-expansion</link>
-      <guid>https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-expansion</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-expansion</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[negative-gamma]]></category><category><![CDATA[volatility]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Learn how to trade Negative Gamma environments. Capitalize on volatility expansion and price swings when market maker hedging accelerates moves.]]></description>
       <content:encoded><![CDATA[<h1>Trading Negative Gamma: Volatility Expansion</h1>
 <p>When the market flips into <strong>Negative Gamma</strong>, the rules of gravity change. Volatility becomes self-reinforcing, and price moves become violent and unpredictable. This is the &quot;danger zone&quot; where dealer hedging accelerates trends rather than suppressing them. Mastery of this environment is what separates the survivors from the statistics.</p>
@@ -3637,10 +3686,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[Trading Positive Gamma: Strategies for Calm Markets]]></title>
       <link>https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets</link>
-      <guid>https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[positive-gamma]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[volatility]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Master trading in Positive Gamma regimes. Learn how calm markets, mean reversion, and suppressed volatility create predictable trading environments.]]></description>
       <content:encoded><![CDATA[<h1>Trading Positive Gamma: Strategies for Calm Markets</h1>
 <p>Trading without knowing the Gamma regime is a recipe for disaster. A <strong>Positive Gamma</strong> environment is a stabilizer—it creates a market that is mean-reverting and orderly. For the sophisticated trader, this is the time to harvest premium and trade the ranges, confident that the &quot;plumbing&quot; of the market is working to suppress volatility.</p>
@@ -3732,10 +3782,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[How To Trade Zero Gamma: The Ultimate Volatility Pivot]]></title>
       <link>https://khalidnaami.com/blog/how-to-trade-zero-gamma-volatility-pivot</link>
-      <guid>https://khalidnaami.com/blog/how-to-trade-zero-gamma-volatility-pivot</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/how-to-trade-zero-gamma-volatility-pivot</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[zero-gamma]]></category><category><![CDATA[volatility]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Learn how to trade the Zero Gamma level as a critical volatility pivot. Master the transition zones where market makers amplify price momentum.]]></description>
       <content:encoded><![CDATA[<h1>How To Trade Zero Gamma: The Ultimate Volatility Pivot</h1>
 <p>There is one invisible line on every professional&#39;s chart that dictates the entire market regime: the <strong>Zero Gamma Line</strong>. This is the &quot;Gamma Flip&quot;—the exact pivot point where the market shifts from calm stability to absolute chaos. If you don&#39;t know where this line is, you don&#39;t know the true risk of your portfolio.</p>
@@ -3823,10 +3874,11 @@ Using platforms like <strong>Dashboard Options</strong>, a quantitative analyst 
     <item>
       <title><![CDATA[The Iron Butterfly: High-Probability Pin Targeting]]></title>
       <link>https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting</link>
-      <guid>https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[iron-butterfly]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[delta-neutral]]></category>
       <description><![CDATA[Deploy the Iron Butterfly strategy for high-probability pin targeting. Capitalize on options expiration dynamics and market maker gravity levels.]]></description>
       <content:encoded><![CDATA[<h1>The Iron Butterfly: High-Probability Pin Targeting</h1>
 <p>The <strong>Iron Butterfly</strong> is the ultimate synthesis of probability and precision. By combining the broad-based theta collection of an Iron Condor with the pinpoint target of a Butterfly, we create a strategy that weaponizes time decay with an incredible risk-to-reward ratio. It is the sniper&#39;s choice for a range-bound market.</p>
@@ -3910,10 +3962,11 @@ If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamm
     <item>
       <title><![CDATA[The Iron Condor Strategy: Mastering Delta Neutrality]]></title>
       <link>https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality</link>
-      <guid>https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[iron-condor]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[delta-neutral]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Master the Iron Condor strategy for delta neutrality. Learn to generate consistent options income by trading high probability market ranges.]]></description>
       <content:encoded><![CDATA[<h1>The Iron Condor Strategy: Mastering Delta Neutrality</h1>
 <p>Chasing direction is a losing game for most traders. In the institutional world, we don&#39;t bet on where the market <em>will</em> go; we bet on where it <em>won&#39;t</em> go. The <strong>Iron Condor</strong> is the ultimate expression of this philosophy—it allows you to define a statistical strike zone and profit from the market&#39;s inability to move, turning time decay into a consistent income stream.</p>
@@ -4013,10 +4066,11 @@ If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamm
     <item>
       <title><![CDATA[The Poor Man's Covered Call: Capital Efficient Yield]]></title>
       <link>https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield</link>
-      <guid>https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[covered-call]]></category><category><![CDATA[diagonal-spread]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income.]]></description>
       <content:encoded><![CDATA[<h1>The Poor Man&#39;s Covered Call: Capital Efficient Yield</h1>
 <p>The traditional Covered Call is a great yield generator, but it’s capital-intensive and often inefficient. Why lock up six figures of capital to own 100 shares of SPY when you can replicate the exact same payoff at a fraction of the cost? The <strong>Poor Man&#39;s Covered Call</strong> is the professional&#39;s answer to capital efficiency, allowing you to weaponize leverage without sacrificing the structural safety of the trade.</p>
@@ -4104,10 +4158,11 @@ Generally, the PMCC is a <strong>positive Vega</strong> strategy because the lon
     <item>
       <title><![CDATA[The Straddle and Strangle: Harvesting Volatility]]></title>
       <link>https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion</link>
-      <guid>https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[straddle]]></category><category><![CDATA[strangle]]></category><category><![CDATA[volatility]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Utilize Straddles and Strangles for harvesting volatility expansion. Learn non-directional strategies to profit from explosive market breakouts.]]></description>
       <content:encoded><![CDATA[<h1>The Straddle and Strangle: Harvesting Volatility</h1>
 <p>Stop guessing which way the market will break and start trading the <em>break itself</em>. Directional prediction is incredibly difficult, but predicting volatility expansion is highly probabilistic. <strong>Straddles</strong> and <strong>Strangles</strong> allow us to stop caring about &quot;up or down&quot; and start profiting from pure kinetic energy in the price action.</p>
@@ -4201,10 +4256,11 @@ When the aggregate Gamma Exposure (GEX) of the market drops below zero, Option D
     <item>
       <title><![CDATA[Trading SPY Options Like Professional Dealers]]></title>
       <link>https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers</link>
-      <guid>https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[SPY]]></category><category><![CDATA[gamma]]></category><category><![CDATA[options-trading]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Learn how to trade SPY options by tracking Gamma Exposure (GEX). Mimic options dealer hedging strategies to predict and capitalize on market pivots.]]></description>
       <content:encoded><![CDATA[<h1>Trading SPY Options Like Professional Dealers</h1>
 <p>Trading SPY based on retail indicators is like bringing a knife to a gunfight. In a market where trillions of dollars are hedged daily, the only signal that matters is the mechanical flow of the big dealers. If you aren&#39;t trading SPY with an eye on <strong>GEX (Gamma Exposure)</strong>, you aren&#39;t seeing the invisible hands that actually dictate intraday price action.</p>
@@ -4288,10 +4344,11 @@ When the aggregate Gamma Exposure (GEX) of the market drops below zero, Option D
     <item>
       <title><![CDATA[Using Gamma Exposure (GEX) to Time Your Option Trading]]></title>
       <link>https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades</link>
-      <guid>https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[gamma]]></category><category><![CDATA[market-timing]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[trading-strategy]]></category>
       <description><![CDATA[Use Gamma Exposure to perfectly time your options trades. Identify hidden resistance and support levels driven by institutional options hedging flows.]]></description>
       <content:encoded><![CDATA[<h1>Using Gamma Exposure (GEX) to Time Your Option Trading</h1>
 <p>Winning in this market is 90% about timing, and traditional indicators like RSI or MACD are far too slow to catch the real moves. To time trades like a professional, you must look at <strong>Gamma Exposure (GEX)</strong>. It reveals the exact price levels where market maker hedging will either suppress or accelerate a move, giving you a leading indicator of reversals before they appear on any chart.</p>
@@ -4379,10 +4436,11 @@ When the aggregate Gamma Exposure (GEX) of the market drops below zero, Option D
     <item>
       <title><![CDATA[Vertical Spreads: Mastering Directional Options]]></title>
       <link>https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options</link>
-      <guid>https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[vertical-spreads]]></category><category><![CDATA[options-strategy]]></category><category><![CDATA[directional-trading]]></category><category><![CDATA[quantitative-finance]]></category>
       <description><![CDATA[Master Vertical Spreads to control directional risk. Learn how to strategically limit maximum loss while capturing high-probability market movements.]]></description>
       <content:encoded><![CDATA[<h1>Vertical Spreads: Mastering Directional Options</h1>
 <p>Buying naked options is a structural recipe for disaster; you are fighting a two-front war against time decay and volatility crush. Professional directional traders use <strong>Vertical Spreads</strong> to tilt the odds in their favor. By selling an expensive option to fund a cheaper one, you neutralize your &quot;Theta&quot; enemy and turn the math of the market into your greatest ally.</p>
@@ -4474,10 +4532,11 @@ When the aggregate Gamma Exposure (GEX) of the market drops below zero, Option D
     <item>
       <title><![CDATA[Why Gamma Exposure (GEX) Dominates Other Strategies]]></title>
       <link>https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies</link>
-      <guid>https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies</guid>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[gamma]]></category><category><![CDATA[quantitative-finance]]></category><category><![CDATA[trading-strategy]]></category><category><![CDATA[options-trading]]></category>
       <description><![CDATA[Discover why trading Gamma Exposure (GEX) dominates traditional retail strategies. Leverage dealer positioning to anticipate major market moves.]]></description>
       <content:encoded><![CDATA[<h1>Why Gamma Exposure (GEX) Dominates Other Strategies</h1>
 <p>The noise on financial social media is deafening, but most of it is just distraction. Fundamental analysis and Fibonacci lines don&#39;t move markets; mechanical hedging flows do. <strong>Gamma Exposure (GEX)</strong> dominates the modern trading landscape because it is the only metric that reveals the true &quot;gravity&quot; of the market, showing you the structural forces that actually drive institutional order flow.</p>
