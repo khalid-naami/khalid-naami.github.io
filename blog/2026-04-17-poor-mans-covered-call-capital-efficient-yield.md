@@ -2,24 +2,8 @@
 title: "The Poor Man's Covered Call: Capital Efficient Yield"
 description: "Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income."
 authors: [khalid]
-tags:
-  [
-    Dashboard Options,
-    covered-call,
-    diagonal-spread,
-    options-strategy,
-    quantitative-finance,
-  ]
-keywords:
-  [
-    Poor Mans Covered Call,
-    Diagonal Spread,
-    LEAPS,
-    Capital Efficiency,
-    Options Strategy,
-    Quantitative Trading,
-    Theta Decay,
-  ]
+tags: [Dashboard Options, covered-call, diagonal-spread, options-strategy, quantitative-finance]
+keywords: [Poor Mans Covered Call, Diagonal Spread, LEAPS, Capital Efficiency, Options Strategy, Quantitative Trading, Theta Decay]
 image: "/img/pmcc.webp"
 slug: poor-mans-covered-call-capital-efficient-yield
 date: 2026-04-17T14:00:00Z
