@@ -1242,68 +1242,78 @@ article header h1 {
    SMART TRANSLATION WIDGET STYLING
    ============================================================ */
 
-.navbar-translate-item {
+.navbar-translate-wrapper {
   display: flex;
   align-items: center;
-  margin-left: 10px;
-  padding: 0 8px;
+  gap: 6px;
+  background: var(--ifm-background-surface-color);
+  padding: 4px 10px;
+  border-radius: 20px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  height: 34px;
+  margin-left: 12px;
+  transition: all 0.3s ease;
 }
 
-/* Hide the 'Powered by Google' text and attribution */
+.navbar-translate-wrapper:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 8px rgba(var(--ifm-color-primary-rgb), 0.2);
+}
+
+.translate-icon {
+  font-size: 16px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+}
+
+/* Hide EVERYTHING from Google except the dropdown */
+.goog-te-gadget {
+  font-family: inherit !important;
+  color: transparent !important;
+  font-size: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  background: transparent !important;
+  color: var(--ifm-color-emphasis-900) !important;
+  border: none !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  outline: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  width: auto !important;
+}
+
 .goog-logo-link, 
-.goog-te-gadget span,
-.goog-te-banner-frame.skiptranslate,
-#goog-gt-tt,
-.goog-te-balloon-frame,
+.goog-te-gadget span, 
+.goog-te-banner-frame, 
+#goog-gt-tt, 
+.goog-te-balloon-frame, 
 .skiptranslate iframe {
-    display: none !important;
+  display: none !important;
 }
 
 body {
-    top: 0 !important;
+  top: 0 !important;
 }
 
-/* Style the select dropdown */
-.goog-te-gadget .goog-te-combo {
-    background: var(--ifm-background-surface-color);
-    color: var(--ifm-color-emphasis-800);
-    border: 1px solid var(--ifm-color-emphasis-300);
-    border-radius: 6px;
-    padding: 2px 6px;
-    font-size: 13px;
-    font-family: inherit;
-    outline: none;
-    cursor: pointer;
-    transition: all 0.2s ease;
+/* Fix for the horizontal layout issue the user mentioned */
+#google_translate_element {
+  height: auto !important;
+  display: inline-block !important;
 }
 
-.goog-te-gadget .goog-te-combo:hover {
-    border-color: var(--ifm-color-primary);
-}
-
-.translate-label {
-    margin-right: 4px;
-    font-size: 16px;
-    vertical-align: middle;
-}
-
-/* Hide the horizontal line and other artifacts */
-.goog-te-gadget {
-    color: transparent !important;
-    font-size: 0 !important;
-}
-
-/* Mobile adjustments for translate widget */
+/* Mobile adjustments */
 @media screen and (max-width: 996px) {
-    .navbar-translate-item {
-        margin: 10px 0;
-        justify-content: center;
-        width: 100%;
-    }
-    
-    .goog-te-gadget .goog-te-combo {
-        width: 80%;
-        text-align: center;
-    }
+  .navbar-translate-wrapper {
+    margin: 10px auto;
+    width: fit-content;
+  }
 }
+
 
