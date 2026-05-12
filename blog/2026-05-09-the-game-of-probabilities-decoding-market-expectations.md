@@ -18,17 +18,7 @@ Trading is not about certainty; it is about managing a set of outcomes. Every pr
 
 <!-- truncate -->
 
-## 1. Visualizing the Probability Curve
-
-The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.
-
-![Market Expectation Curve](/img/implied-prob-3-v2.webp)
-
-*The Big Picture: Visualizing the distribution of outcomes based on current options pricing.*
-
-By looking at the "hump" of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the "tails"—those low-probability, high-impact areas that often catch traders off guard.
-
-## 2. Implied vs. Realized Outcomes
+## 1. Implied vs. Realized Outcomes
 
 The options market is a forward-looking engine. It doesn't tell us what *will* happen, but what the market *prices in* as a possibility.
 
@@ -38,7 +28,7 @@ The options market is a forward-looking engine. It doesn't tell us what *will* h
 
 When the implied probability of a move is significantly higher or lower than its historical realized frequency, we find an "edge." This is where the math of the Kelly Criterion meets the reality of the price action.
 
-## 3. The Power of Strike-Level Intelligence
+## 2. The Power of Strike-Level Intelligence
 
 Every strike price in the options chain carries a specific probability of finishing "In the Money" (ITM).
 
@@ -47,6 +37,16 @@ Every strike price in the options chain carries a specific probability of finish
 *Tactical Execution: Using strike-specific data to choose the right entry and exit points.*
 
 By mapping these probabilities across the entire chain, our Dashboard allows you to see the "path of least resistance" and the "walls" where the market expects price to stall.
+
+## 3. Visualizing the Probability Curve
+
+The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.
+
+![Market Expectation Curve](/img/implied-prob-3-v2.webp)
+
+*The Big Picture: Visualizing the distribution of outcomes based on current options pricing.*
+
+By looking at the "hump" of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the "tails"—those low-probability, high-impact areas that often catch traders off guard.
 
 ## 4. Market Sentiment & Stress Testing
 
