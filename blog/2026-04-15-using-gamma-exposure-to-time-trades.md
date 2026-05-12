@@ -3,23 +3,8 @@ title: "Using Gamma Exposure (GEX) to Time Your Option Trading"
 description: "Use Gamma Exposure to perfectly time your options trades. Identify hidden resistance and support levels driven by institutional options hedging flows."
 authors: [khalid]
 date: 2026-04-15T08:00:00Z
-tags:
-  [
-    Dashboard Options,
-    gamma,
-    market-timing,
-    quantitative-finance,
-    trading-strategy,
-  ]
-keywords:
-  [
-    Market Timing,
-    Gamma Exposure,
-    Options Trading,
-    Quantitative Strategies,
-    GEX,
-    Options Greeks,
-  ]
+tags: [Dashboard Options, gamma, market-timing, quantitative-finance, trading-strategy]
+keywords: [Market Timing, Gamma Exposure, Options Trading, Quantitative Strategies, GEX, Options Greeks]
 image: /img/using-gamma-v2.webp
 slug: using-gamma-exposure-to-time-trades
 schema_type: ScholarlyArticle
