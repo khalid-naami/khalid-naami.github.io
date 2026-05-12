@@ -1237,3 +1237,73 @@ article header h1 {
   white-space: nowrap;
   border-width: 0;
 }
+
+/* ============================================================
+   SMART TRANSLATION WIDGET STYLING
+   ============================================================ */
+
+.navbar-translate-item {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  padding: 0 8px;
+}
+
+/* Hide the 'Powered by Google' text and attribution */
+.goog-logo-link, 
+.goog-te-gadget span,
+.goog-te-banner-frame.skiptranslate,
+#goog-gt-tt,
+.goog-te-balloon-frame,
+.skiptranslate iframe {
+    display: none !important;
+}
+
+body {
+    top: 0 !important;
+}
+
+/* Style the select dropdown */
+.goog-te-gadget .goog-te-combo {
+    background: var(--ifm-background-surface-color);
+    color: var(--ifm-color-emphasis-800);
+    border: 1px solid var(--ifm-color-emphasis-300);
+    border-radius: 6px;
+    padding: 2px 6px;
+    font-size: 13px;
+    font-family: inherit;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.goog-te-gadget .goog-te-combo:hover {
+    border-color: var(--ifm-color-primary);
+}
+
+.translate-label {
+    margin-right: 4px;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+/* Hide the horizontal line and other artifacts */
+.goog-te-gadget {
+    color: transparent !important;
+    font-size: 0 !important;
+}
+
+/* Mobile adjustments for translate widget */
+@media screen and (max-width: 996px) {
+    .navbar-translate-item {
+        margin: 10px 0;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .goog-te-gadget .goog-te-combo {
+        width: 80%;
+        text-align: center;
+    }
+}
+
