@@ -181,7 +181,7 @@ module.exports = async function createConfig() {
           routeBasePath: 'blog',
           blogTitle: 'Blog',
           blogDescription:
-            'Explore expert quantitative analysis, options trading strategies, and financial data science research at the Dashboard Options official blog.',
+            'In-depth articles on Options Greeks, Gamma Exposure strategies, Geopolitics, Global Macro analysis, and Quantitative Finance research.',
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
           showReadingTime: true,
