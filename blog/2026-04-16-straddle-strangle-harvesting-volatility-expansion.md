@@ -3,16 +3,7 @@ title: "The Straddle and Strangle: Harvesting Volatility"
 description: "Utilize Straddles and Strangles for harvesting volatility expansion. Learn non-directional strategies to profit from explosive market breakouts."
 authors: [khalid]
 tags: [Dashboard Options, straddle, strangle, volatility, quantitative-finance]
-keywords:
-  [
-    Straddle,
-    Strangle,
-    Options Strategy,
-    Volatility Expansion,
-    Long Vega,
-    Dashboard Options,
-    Gamma Squeeze,
-  ]
+keywords: [Straddle, Strangle, Options Strategy, Volatility Expansion, Long Vega, Dashboard Options, Gamma Squeeze]
 image: "/img/straddle_strangle.webp"
 slug: straddle-strangle-harvesting-volatility-expansion
 date: 2026-04-16T08:00:00Z
