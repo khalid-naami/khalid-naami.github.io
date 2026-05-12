@@ -44,7 +44,7 @@ module.exports = async function createConfig() {
       tagName: 'meta',
       attributes: {
         name: 'viewport',
-        content: 'width=device-width, initial-scale=1.0, minimum-scale=1.0',
+        content: 'width=device-width, initial-scale=3.0, minimum-scale=3.0',
       },
     },
     {
