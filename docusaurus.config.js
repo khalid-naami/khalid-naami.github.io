@@ -43,13 +43,6 @@ module.exports = async function createConfig() {
     {
       tagName: 'meta',
       attributes: {
-        name: 'viewport',
-        content: 'width=device-width, initial-scale=4.0, minimum-scale=4.0',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
         name: 'yandex-verification',
         content: '655a0e854986edb9',
       },
@@ -304,11 +297,6 @@ module.exports = async function createConfig() {
             label: 'Newsletter',
             href: 'https://substack.com/@khnaami',
             className: 'navbar-item-external navbar-newsletter-link',
-          },
-          {
-            type: 'html',
-            position: 'right',
-            value: '<div class="navbar-translate-wrapper"><span class="translate-icon">🌐</span><div id="google_translate_element"></div></div>',
           },
         ],
       },
@@ -800,14 +788,5 @@ ${imageItems}
       admonitions: true,
     },
   },
-  scripts: [
-    {
-      src: '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit',
-      async: true,
-    },
-    {
-      src: '/js/translate-init.js',
-    },
-  ],
 };
 };
