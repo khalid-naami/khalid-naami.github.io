@@ -308,7 +308,7 @@ module.exports = async function createConfig() {
           {
             type: 'html',
             position: 'right',
-            value: '<div id="google_translate_element" class="navbar-translate-item"></div>',
+            value: '<div class="navbar-translate-wrapper"><span class="translate-icon">🌐</span><div id="google_translate_element"></div></div>',
           },
         ],
       },
