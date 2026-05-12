@@ -4,17 +4,7 @@ description: "Learn how to trade SPY options by tracking Gamma Exposure (GEX). M
 authors: [khalid]
 date: 2026-04-16T14:00:00Z
 tags: [Dashboard Options, SPY, gamma, options-trading, quantitative-finance]
-keywords:
-  [
-    SPY Options,
-    Trading SPY,
-    Gamma Exposure,
-    GEX,
-    Option Dealers,
-    Dashboard Options,
-    Quantitative Trading,
-    SPX,
-  ]
+keywords: [SPY Options, Trading SPY, Gamma Exposure, GEX, Option Dealers, Dashboard Options, Quantitative Trading, SPX]
 image: "/img/spy-v2.webp"
 slug: trading-spy-options-how-we-trade-gex-like-dealers
 schema_type: ScholarlyArticle
