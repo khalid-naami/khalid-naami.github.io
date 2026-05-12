@@ -2,24 +2,8 @@
 title: "Vertical Spreads: Mastering Directional Options"
 description: "Master Vertical Spreads to control directional risk. Learn how to strategically limit maximum loss while capturing high-probability market movements."
 authors: [khalid]
-tags:
-  [
-    Dashboard Options,
-    vertical-spreads,
-    options-strategy,
-    directional-trading,
-    quantitative-finance,
-  ]
-keywords:
-  [
-    Vertical Spreads,
-    Bull Call Spread,
-    Bear Put Spread,
-    Options Trading,
-    Quantitative Strategy,
-    Directional Trading,
-    Dashboard Options,
-  ]
+tags: [Dashboard Options, vertical-spreads, options-strategy, directional-trading, quantitative-finance]
+keywords: [Vertical Spreads, Bull Call Spread, Bear Put Spread, Options Trading, Quantitative Strategy, Directional Trading, Dashboard Options]
 image: "/img/vertical_spreads.webp"
 slug: vertical-spreads-mastering-directional-options
 date: 2026-04-15T14:00:00Z
