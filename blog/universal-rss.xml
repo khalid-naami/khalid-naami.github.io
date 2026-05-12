@@ -234,21 +234,21 @@
 <p>Trading is not about certainty; it is about managing a set of outcomes. Every price you see on your screen is a reflection of the market&#39;s collective &quot;bet&quot; on the future. To win consistently, you must learn to speak the language of <strong>Implied Probabilities</strong>.</p>
 <!-- truncate -->
 
-<h2>1. Visualizing the Probability Curve</h2>
-<p>The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.</p>
-<p><img src="/img/implied-prob-3-v2.webp" alt="Market Expectation Curve"></p>
-<p><em>The Big Picture: Visualizing the distribution of outcomes based on current options pricing.</em></p>
-<p>By looking at the &quot;hump&quot; of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the &quot;tails&quot;—those low-probability, high-impact areas that often catch traders off guard.</p>
-<h2>2. Implied vs. Realized Outcomes</h2>
+<h2>1. Implied vs. Realized Outcomes</h2>
 <p>The options market is a forward-looking engine. It doesn&#39;t tell us what <em>will</em> happen, but what the market <em>prices in</em> as a possibility.</p>
 <p><img src="/img/implied-prob-1-v2.webp" alt="Implied Probability Distribution"></p>
 <p><em>Analyzing the Shifts: Understanding how market expectations evolve as new data hits the tape.</em></p>
 <p>When the implied probability of a move is significantly higher or lower than its historical realized frequency, we find an &quot;edge.&quot; This is where the math of the Kelly Criterion meets the reality of the price action.</p>
-<h2>3. The Power of Strike-Level Intelligence</h2>
+<h2>2. The Power of Strike-Level Intelligence</h2>
 <p>Every strike price in the options chain carries a specific probability of finishing &quot;In the Money&quot; (ITM).</p>
 <p><img src="/img/implied-prob-2-v2.webp" alt="Strike Level Probabilities"></p>
 <p><em>Tactical Execution: Using strike-specific data to choose the right entry and exit points.</em></p>
 <p>By mapping these probabilities across the entire chain, our Dashboard allows you to see the &quot;path of least resistance&quot; and the &quot;walls&quot; where the market expects price to stall.</p>
+<h2>3. Visualizing the Probability Curve</h2>
+<p>The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.</p>
+<p><img src="/img/implied-prob-3-v2.webp" alt="Market Expectation Curve"></p>
+<p><em>The Big Picture: Visualizing the distribution of outcomes based on current options pricing.</em></p>
+<p>By looking at the &quot;hump&quot; of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the &quot;tails&quot;—those low-probability, high-impact areas that often catch traders off guard.</p>
 <h2>4. Market Sentiment &amp; Stress Testing</h2>
 <p>Probability isn&#39;t static. It expands and contracts with volatility. During periods of high stress, the curve flattens, indicating that the market is unsure and pricing in a wider range of outcomes.</p>
 <p><img src="/img/market-probabilities-v2.webp" alt="Market Stress and Probability Variance"></p>
@@ -266,21 +266,21 @@
 <p>Trading is not about certainty; it is about managing a set of outcomes. Every price you see on your screen is a reflection of the market&#39;s collective &quot;bet&quot; on the future. To win consistently, you must learn to speak the language of <strong>Implied Probabilities</strong>.</p>
 <!-- truncate -->
 
-<h2>1. Visualizing the Probability Curve</h2>
-<p>The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.</p>
-<p><img src="/img/implied-prob-3-v2.webp" alt="Market Expectation Curve"></p>
-<p><em>The Big Picture: Visualizing the distribution of outcomes based on current options pricing.</em></p>
-<p>By looking at the &quot;hump&quot; of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the &quot;tails&quot;—those low-probability, high-impact areas that often catch traders off guard.</p>
-<h2>2. Implied vs. Realized Outcomes</h2>
+<h2>1. Implied vs. Realized Outcomes</h2>
 <p>The options market is a forward-looking engine. It doesn&#39;t tell us what <em>will</em> happen, but what the market <em>prices in</em> as a possibility.</p>
 <p><img src="/img/implied-prob-1-v2.webp" alt="Implied Probability Distribution"></p>
 <p><em>Analyzing the Shifts: Understanding how market expectations evolve as new data hits the tape.</em></p>
 <p>When the implied probability of a move is significantly higher or lower than its historical realized frequency, we find an &quot;edge.&quot; This is where the math of the Kelly Criterion meets the reality of the price action.</p>
-<h2>3. The Power of Strike-Level Intelligence</h2>
+<h2>2. The Power of Strike-Level Intelligence</h2>
 <p>Every strike price in the options chain carries a specific probability of finishing &quot;In the Money&quot; (ITM).</p>
 <p><img src="/img/implied-prob-2-v2.webp" alt="Strike Level Probabilities"></p>
 <p><em>Tactical Execution: Using strike-specific data to choose the right entry and exit points.</em></p>
 <p>By mapping these probabilities across the entire chain, our Dashboard allows you to see the &quot;path of least resistance&quot; and the &quot;walls&quot; where the market expects price to stall.</p>
+<h2>3. Visualizing the Probability Curve</h2>
+<p>The foundation of quantitative trading is the Probability Density Function (PDF). It shows us where the market expects price to be at a specific expiration date.</p>
+<p><img src="/img/implied-prob-3-v2.webp" alt="Market Expectation Curve"></p>
+<p><em>The Big Picture: Visualizing the distribution of outcomes based on current options pricing.</em></p>
+<p>By looking at the &quot;hump&quot; of the curve, we can identify the most likely price targets. However, the true edge lies in analyzing the &quot;tails&quot;—those low-probability, high-impact areas that often catch traders off guard.</p>
 <h2>4. Market Sentiment &amp; Stress Testing</h2>
 <p>Probability isn&#39;t static. It expands and contracts with volatility. During periods of high stress, the curve flattens, indicating that the market is unsure and pricing in a wider range of outcomes.</p>
 <p><img src="/img/market-probabilities-v2.webp" alt="Market Stress and Probability Variance"></p>
