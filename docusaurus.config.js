@@ -14,7 +14,7 @@ module.exports = async function createConfig() {
   return {
     title: 'Khalid Naami',
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
-    favicon: 'img/zoro-final.webp',
+    favicon: 'img/zoro-favicon.webp',
 
   url: 'https://khalidnaami.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -118,8 +118,8 @@ module.exports = async function createConfig() {
             "logo": {
               "@type": "ImageObject",
               "@id": "https://khalidnaami.com/#logo",
-              "url": "https://khalidnaami.com/img/zoro-final.webp",
-              "contentUrl": "https://khalidnaami.com/img/zoro-final.webp",
+              "url": "https://khalidnaami.com/img/zoro-internal.webp",
+              "contentUrl": "https://khalidnaami.com/img/zoro-internal.webp",
               "caption": "Dashboard Options"
             },
             "alternateName": "DashboardOptions.com",
@@ -244,7 +244,7 @@ module.exports = async function createConfig() {
         title: 'Khalid Naami',
         logo: {
           alt: 'Zoro Logo - Symbolizing strength and mastery built through disciplined study and consistent hard work.',
-          src: '/img/zoro-final.webp',
+          src: '/img/zoro-internal.webp',
           width: 32,
           height: 32,
           href: '/',
