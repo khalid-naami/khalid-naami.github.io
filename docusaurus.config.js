@@ -239,7 +239,7 @@ module.exports = async function createConfig() {
         {property: 'og:image:alt', content: 'Khalid Naami - Financial Intelligence & Options Greeks Analysis'},
       ],
       // Replace with your project's social card
-      image: 'img/khalid_zoro_pixel.jpg',
+      image: 'img/zoro-media.webp',
       navbar: {
         title: 'Khalid Naami',
         logo: {
