@@ -4,7 +4,7 @@ description: "Master essential trading principles and risk management. Learn why
 authors: [khalid]
 tags: [Daily Analysis, Trading Principles, Risk Management, Quantitative Analysis, options]
 keywords: [Trading Principles, Risk Management, Options Data, Technical Analysis, Quantitative Trading, Market Mechanics, Financial Intelligence]
-image: /img/Bernard Baruch.webp
+image: /img/bernard-baruch.webp
 slug: trading-principles-data-vs-technical-analysis
 date: 2026-05-13T19:00:00+00:00
 schema_type: ScholarlyArticle
@@ -42,7 +42,7 @@ Traditional TA might see "resistance" at a certain price point, but our Dashboar
 
 Trading is a game of probabilities, not certainties. By shifting your focus from subjective chart patterns to objective quantitative data, you stop guessing and start calculating. Master your principles, manage your risk, and let the data be your edge.
 
-![Bernard Baruch Trading Wisdom](/img/Bernard Baruch.webp)
+![Bernard Baruch Trading Wisdom](/img/bernard-baruch.webp)
 
 _“The main purpose of the stock market is to make fools of as many men as possible.” — Bernard Baruch. Don't be one of them. Use data._
 
