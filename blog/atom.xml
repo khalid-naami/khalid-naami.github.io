@@ -54,10 +54,11 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science and Technologies" term="Science and Technologies"/>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="Science & Technology" term="Science & Technology"/>
         <category label="Streamlit" term="Streamlit"/>
         <category label="Python" term="Python"/>
-        <category label="Options Trading" term="Options Trading"/>
+        <category label="options" term="options"/>
         <category label="Financial Analytics" term="Financial Analytics"/>
     </entry>
     <entry>
@@ -110,11 +111,12 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science and Technologies" term="Science and Technologies"/>
+        <category label="Dashboard Options" term="Dashboard Options"/>
+        <category label="Science & Technology" term="Science & Technology"/>
         <category label="Mean Reversion" term="Mean Reversion"/>
         <category label="Trading Strategy" term="Trading Strategy"/>
         <category label="Quantitative Analysis" term="Quantitative Analysis"/>
-        <category label="Risk Management" term="Risk Management"/>
+        <category label="options" term="options"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[OI & Volume Analysis: Master Options Flow and Liquidity]]></title>
