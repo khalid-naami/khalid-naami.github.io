@@ -4,7 +4,7 @@ description: "Explore the history of Efficient Markets, Momentum, and Mean Rever
 authors: [khalid]
 tags: [Daily Analysis, Market Dynamics, Efficient Market, Momentum, Mean Reversion, options]
 keywords: [Efficient Market Hypothesis, EMH, Momentum Trading, Mean Reversion, Supply and Demand, Market History, Quantitative Finance, Financial Intelligence, Khalid Naami]
-image: "/img/momentum, mean reversion....webp"
+image: /img/momentum-mean-reversion.webp
 slug: market-dynamics-efficiency-momentum-mean-reversion
 date: 2026-05-13T22:00:00+00:00
 schema_type: ScholarlyArticle
@@ -30,7 +30,7 @@ The market is constantly cycling between two states:
 *   **Momentum**: The tendency for an asset to continue moving in its current direction. This is often driven by "Supply/Demand Imbalance" where buyers or sellers overwhelm the other side for an extended period.
 *   **Mean Reversion**: The mathematical "gravity" that pulls price back to a central equilibrium. This happens when the imbalance reaches an extreme and liquidity returns to the market.
 
-![Momentum and Mean Reversion Dynamics](/img/momentum,%20mean%20reversion....webp)
+![Momentum and Mean Reversion Dynamics](/img/momentum-mean-reversion.webp)
 
 *Visualizing the cyclical nature of market regimes and the transition between trend and reversal.*
 
