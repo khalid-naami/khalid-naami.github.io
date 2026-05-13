@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[NumPy in Fintech: The Computational Engine of Finance]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/numpy.webp</image:loc>
+      <image:title><![CDATA[NumPy in Fintech: The Computational Engine of Finance]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/guide-to-reading-daily-analysis</loc>
     <news:news>
       <news:publication>
@@ -46,6 +61,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
       <image:title><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Pandas for Finance: High-Performance Data Engineering]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/pandas.webp</image:loc>
+      <image:title><![CDATA[Pandas for Finance: High-Performance Data Engineering]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Plotly in Fintech: Interactive Data Science with Python]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/plotly.webp</image:loc>
+      <image:title><![CDATA[Plotly in Fintech: Interactive Data Science with Python]]></image:title>
     </image:image>
   </url>
   <url>

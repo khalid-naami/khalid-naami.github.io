@@ -16,9 +16,12 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
 
 # Blog Posts
 
+- [2026-05-14-numpy-fintech-computational-engine-finance](https://khalidnaami.com/blog/2026-05-14-numpy-fintech-computational-engine-finance)
 - [2026-05-13-guide-to-reading-daily-analysis](https://khalidnaami.com/blog/2026-05-13-guide-to-reading-daily-analysis)
 - [2026-05-13-market-dynamics-efficiency-momentum-mean-reversion](https://khalidnaami.com/blog/2026-05-13-market-dynamics-efficiency-momentum-mean-reversion)
 - [2026-05-13-modern-market-strategies-mean-reversion](https://khalidnaami.com/blog/2026-05-13-modern-market-strategies-mean-reversion)
+- [2026-05-13-pandas-finance-high-performance-data-engineering](https://khalidnaami.com/blog/2026-05-13-pandas-finance-high-performance-data-engineering)
+- [2026-05-13-plotly-fintech-interactive-data-science-python](https://khalidnaami.com/blog/2026-05-13-plotly-fintech-interactive-data-science-python)
 - [2026-05-13-statistical-arbitrage-mean-reversion-trading](https://khalidnaami.com/blog/2026-05-13-statistical-arbitrage-mean-reversion-trading)
 - [2026-05-13-streamlit-python-quantitative-options-analysis](https://khalidnaami.com/blog/2026-05-13-streamlit-python-quantitative-options-analysis)
 - [2026-05-13-trading-principles-data-vs-technical-analysis](https://khalidnaami.com/blog/2026-05-13-trading-principles-data-vs-technical-analysis)
