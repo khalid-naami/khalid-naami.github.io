@@ -3,10 +3,10 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://khalidnaami.com/blog/modern-market-strategies-mean-reversion</loc>
+    <loc>https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
-      <image:caption><![CDATA[Master the science of Mean Reversion in modern markets. Learn the quantitative strategies and risk protocols to exploit price deviations profitably.]]></image:caption>
+      <image:caption><![CDATA[An in-depth exploration of the mathematics and psychological forces behind mean reversion strategies in today's high-volatility financial markets.]]></image:caption>
       <image:title><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></image:title>
     </image:image>
   </url>
