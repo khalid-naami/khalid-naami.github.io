@@ -11,6 +11,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
+      <image:caption><![CDATA[Explore how Streamlit and Python revolutionize options analysis. Learn how we build professional financial dashboards to visualize complex market data.]]></image:caption>
+      <image:title><![CDATA[Streamlit & Python: Powering Quantitative Options Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/oi-vol-8-v2.webp</image:loc>
