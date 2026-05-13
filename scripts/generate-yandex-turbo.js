@@ -8,6 +8,20 @@ const SITE_URL = 'https://khalidnaami.com';
 const BLOG_DIR = path.join(process.cwd(), 'blog');
 const OUTPUT_FILE = path.join(process.cwd(), 'static', 'yandex-news-turbo.xml');
 
+// Helper to escape XML special characters
+function escapeXml(unsafe) {
+    return unsafe.replace(/[<>&"']/g, function (m) {
+        switch (m) {
+            case '<': return '&lt;';
+            case '>': return '&gt;';
+            case '&': return '&amp;';
+            case '"': return '&quot;';
+            case "'": return '&apos;';
+            default: return m;
+        }
+    });
+}
+
 function generateRss() {
     console.log('Generating Yandex Turbo News RSS...');
     
@@ -44,15 +58,15 @@ function generateRss() {
         const itemXml = `
         <item turbo="true">
             <link>${url}</link>
-            <title>${data.title}</title>
-            <author>${data.authors ? String(data.authors).replace(/[\[\]'"]/g, '') : 'Khalid Naami'}</author>
-            <category>${primaryCategory}</category>
+            <title>${escapeXml(data.title)}</title>
+            <author>${escapeXml(data.authors ? String(data.authors).replace(/[\[\]'"]/g, '') : 'Khalid Naami')}</author>
+            <category>${escapeXml(primaryCategory)}</category>
             <pubDate>${date}</pubDate>
             <yandex:genre>article</yandex:genre>
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>${data.title}</h1>
+                        <h1>${escapeXml(data.title)}</h1>
                         ${data.image ? `<figure><img src="${SITE_URL}${data.image.startsWith('/') ? '' : '/'}${data.image}" /></figure>` : ''}
                     </header>
                     ${htmlContent}
@@ -71,7 +85,7 @@ function generateRss() {
     <channel>
         <title>Khalid Naami - Strategic Analysis &amp; Financial Intelligence</title>
         <link>${SITE_URL}</link>
-        <description>Professional insights into Science &amp; Technology, Dashboard Options, Daily Analysis, Global Economy, and Political Economy by Khalid Naami.</description>
+        <description>${escapeXml('Professional insights into Science & Technology, Dashboard Options, Daily Analysis, Global Economy, and Political Economy by Khalid Naami.')}</description>
         <language>en</language>
         ${itemsXml}
     </channel>
