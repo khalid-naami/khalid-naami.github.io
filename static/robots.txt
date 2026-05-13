@@ -31,5 +31,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap Location
-https://khalidnaami.com/sitemap.xml
 Sitemap: https://khalidnaami.com/sitemap-index.xml
