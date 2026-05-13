@@ -14,7 +14,7 @@ module.exports = async function createConfig() {
   return {
     title: 'Khalid Naami',
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
-    favicon: 'img/zoro-favicon.png',
+    favicon: 'img/favicon-32.png',
 
   url: 'https://khalidnaami.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -40,6 +40,23 @@ module.exports = async function createConfig() {
   },
 
   headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '120x120',
+        href: '/img/favicon-120.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '120x120',
+        href: '/img/favicon-120.png',
+      },
+    },
     {
       tagName: 'meta',
       attributes: {
