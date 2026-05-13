@@ -272,7 +272,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
     return (
         <>
             <img
-                src="/img/zoro_waiting_pixel.webp"
+                src="/img/zoro-media.webp"
                 alt="Zoro waiting for embeddings"
                 style={{
                     position: 'absolute',
@@ -296,7 +296,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
                 where are my swords? (and my data?)
             </div>
             <img
-                src="/img/zoro_waiting_pixel.webp"
+                src="/img/zoro-media.webp"
                 alt="Zoro indexing"
                 style={{
                     position: 'absolute',
@@ -320,7 +320,7 @@ const ZoroStates = ({ indexing, indexingResult }: { indexing: boolean, indexingR
                 THREE SWORD STYLE... INDEXING!
             </div>
             <img
-                src="/img/zoro_ready_pixel.webp"
+                src="/img/zoro-media.webp"
                 alt="Zoro has embeddings"
                 style={{
                     position: 'absolute',
