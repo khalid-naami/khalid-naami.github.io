@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/modern-market-strategies-mean-reversion</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
+      <image:caption><![CDATA[Master the science of Mean Reversion in modern markets. Learn the quantitative strategies and risk protocols to exploit price deviations profitably.]]></image:caption>
+      <image:title><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/oi-vol-8-v2.webp</image:loc>
