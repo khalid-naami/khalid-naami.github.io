@@ -13,7 +13,7 @@
     <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://khalidnaami.com</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
-    <lastBuildDate>Wed, 13 May 2026 03:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:07:35 GMT</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -128,7 +128,7 @@ $$</p>
       </media:group>
     </item>
     <item>
-      <title><![CDATA[Streamlit & Python: Powering Quantitative Options Analysis]]></title>
+      <title><![CDATA[Streamlit: Mastering Quantitative Options Analysis]]></title>
       <link>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</link>
       <guid isPermaLink="false">https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
@@ -136,7 +136,7 @@ $$</p>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
       <category><![CDATA[Science & Technology]]></category><category><![CDATA[Streamlit]]></category><category><![CDATA[Python]]></category><category><![CDATA[Options Trading]]></category><category><![CDATA[Financial Analytics]]></category>
       <description><![CDATA[Explore how Streamlit and Python revolutionize options analysis. Learn how we build professional financial dashboards to visualize complex market data.]]></description>
-      <content:encoded><![CDATA[<h1>Streamlit &amp; Python: Powering Quantitative Options Analysis</h1>
+      <content:encoded><![CDATA[<h1>Streamlit: Mastering Quantitative Options Analysis</h1>
 <p>In the modern financial landscape, the ability to rapidly prototype, deploy, and iterate on data-driven applications is no longer a luxury—it is a competitive necessity. For quantitative analysts, the bridge between raw mathematical models and actionable market intelligence has historically been a bottleneck. However, the emergence of <strong>Streamlit</strong> has fundamentally shifted the paradigm, enabling the creation of high-performance financial dashboards entirely within the Python ecosystem.</p>
 <!-- truncate -->
 
@@ -169,7 +169,7 @@ $$</p>
 <p>The marriage of <strong>Science</strong> (Quantitative Finance) and <strong>Technology</strong> (Python/Streamlit) has democratized the tools of the trade. By removing the technical friction of software engineering, we empower analysts to focus on what truly generates alpha: the data, the math, and the edge.</p>
 <p><em>Are you still looking at static charts, or are you navigating the market with a dynamic, quantitative cockpit?</em></p>
 ]]></content:encoded>
-      <yandex:full-text><![CDATA[<h1>Streamlit &amp; Python: Powering Quantitative Options Analysis</h1>
+      <yandex:full-text><![CDATA[<h1>Streamlit: Mastering Quantitative Options Analysis</h1>
 <p>In the modern financial landscape, the ability to rapidly prototype, deploy, and iterate on data-driven applications is no longer a luxury—it is a competitive necessity. For quantitative analysts, the bridge between raw mathematical models and actionable market intelligence has historically been a bottleneck. However, the emergence of <strong>Streamlit</strong> has fundamentally shifted the paradigm, enabling the creation of high-performance financial dashboards entirely within the Python ecosystem.</p>
 <!-- truncate -->
 
