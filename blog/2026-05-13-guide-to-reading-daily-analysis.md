@@ -4,7 +4,7 @@ description: "Learn how to decode my daily market analysis. Understand the diffe
 authors: [khalid]
 tags: [Daily Analysis, Trading Guide, Market Structure, Quantitative Analysis, options]
 keywords: [Daily Analysis Guide, Market Structure, Reverse Engineering, Options Data, Trading Strategy, Financial Intelligence, Khalid Naami]
-image: /img/Daily Posts.webp
+image: /img/daily-posts.webp
 slug: guide-to-reading-daily-analysis
 date: 2026-05-13T21:00:00+00:00
 schema_type: ScholarlyArticle
@@ -14,7 +14,7 @@ schema_type: ScholarlyArticle
 
 Every market participant is looking for an edge, but most are looking in the wrong places. Every time you look at tools such as Put/Call deltas, ratios, or even monitor changes in order flow (e.g., the ratio between selling and buying volume), you are looking at **lagging data**. 
 
-To navigate the modern market with precision, you must stop looking at what *happened* and start looking at what the market is *pricing in*. This guide explains my methodology for reverse-engineering market structure and how you can use it to enhance your trading.
+To navigate the modern market with precision, you must stop looking at what _happened_ and start looking at what the market is _pricing in_. This guide explains my methodology for reverse-engineering market structure and how you can use it to enhance your trading.
 
 <!-- truncate -->
 
@@ -33,9 +33,10 @@ These levels are derived from expected hedging flows. For those interested in th
 ## 3. Targets: Upside, Downside, and Local Pinning
 
 When I mark targets in my daily analysis, I categorize them specifically:
-*   **Upside/Downside Targets**: These are the expected ranges based on the implied distribution of the options market.
-*   **Local Pinning**: These are levels where dealer gamma is high, often acting as "magnets" for price as expiration approaches.
-*   **Supportive/Suppressive Targets**: Structural walls that either facilitate or prevent price movement based on mechanical hedging flows.
+
+- **Upside/Downside Targets**: These are the expected ranges based on the implied distribution of the options market.
+- **Local Pinning**: These are levels where dealer gamma is high, often acting as "magnets" for price as expiration approaches.
+- **Supportive/Suppressive Targets**: Structural walls that either facilitate or prevent price movement based on mechanical hedging flows.
 
 This structural approach was further explored in our deep dive into [Modern Market Strategies: Mastering Mean Reversion](/blog/modern-market-strategies-mastering-mean-reversion).
 
@@ -43,7 +44,7 @@ This structural approach was further explored in our deep dive into [Modern Mark
 
 My goal at **Dashboard Options** is to strip away the noise of the retail market and provide you with a transparent view of institutional positioning. By using these guides and my daily analysis, you move from following the news to leading with the math.
 
-![Daily Posts Guide](/img/Daily Posts.webp)
+![Daily Posts Guide](/img/daily-posts.webp)
 
 _“The market is a machine for turning noise into signal—if you have the right decoder.” — Khalid Naami._
 
