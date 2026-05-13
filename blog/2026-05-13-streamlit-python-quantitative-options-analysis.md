@@ -2,8 +2,8 @@
 title: "Streamlit and Python: Quantitative Options Analysis"
 description: "A deep dive into how Streamlit and Python are transforming the landscape of financial data analysis and options trading dashboards."
 authors: [khalid]
-tags: [Science and Technologies, Streamlit, Python, Options Trading, Financial Analytics]
-keywords: [Streamlit, Python for Finance, Options Analysis, Data Visualization, Quantitative Trading, Dashboard Options, Financial Intelligence]
+tags: [Dashboard Options, Science & Technology, Streamlit, Python, options, Financial Analytics]
+keywords: [Dashboard Options, Streamlit, Python for Finance, Options Analysis, Data Visualization, Quantitative Trading, Financial Intelligence]
 image: /img/streamlit-featured.webp
 slug: streamlit-python-quantitative-options-analysis
 date: 2026-05-13T11:00:00+00:00
