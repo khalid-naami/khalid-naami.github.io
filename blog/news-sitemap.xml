@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/guide-to-reading-daily-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[A Strategic Guide to Reading My Daily Analysis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/daily-posts.webp</image:loc>
+      <image:title><![CDATA[A Strategic Guide to Reading My Daily Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/momentum-mean-reversion.webp</image:loc>
+      <image:title><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion</loc>
     <news:news>
       <news:publication>
@@ -19,6 +49,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Statistical Arbitrage: Mastering Mean Reversion]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/Statistical-arbitrage.webp</image:loc>
+      <image:title><![CDATA[Statistical Arbitrage: Mastering Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</loc>
     <news:news>
       <news:publication>
@@ -31,6 +76,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
       <image:title><![CDATA[Streamlit and Python: Quantitative Options Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trading Principles: Why Data Beats Technical Analysis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/bernard-baruch.webp</image:loc>
+      <image:title><![CDATA[Trading Principles: Why Data Beats Technical Analysis]]></image:title>
     </image:image>
   </url>
 </urlset>

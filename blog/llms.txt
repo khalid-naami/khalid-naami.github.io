@@ -16,8 +16,12 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
 
 # Blog Posts
 
+- [2026-05-13-guide-to-reading-daily-analysis](https://khalidnaami.com/blog/2026-05-13-guide-to-reading-daily-analysis)
+- [2026-05-13-market-dynamics-efficiency-momentum-mean-reversion](https://khalidnaami.com/blog/2026-05-13-market-dynamics-efficiency-momentum-mean-reversion)
 - [2026-05-13-modern-market-strategies-mean-reversion](https://khalidnaami.com/blog/2026-05-13-modern-market-strategies-mean-reversion)
+- [2026-05-13-statistical-arbitrage-mean-reversion-trading](https://khalidnaami.com/blog/2026-05-13-statistical-arbitrage-mean-reversion-trading)
 - [2026-05-13-streamlit-python-quantitative-options-analysis](https://khalidnaami.com/blog/2026-05-13-streamlit-python-quantitative-options-analysis)
+- [2026-05-13-trading-principles-data-vs-technical-analysis](https://khalidnaami.com/blog/2026-05-13-trading-principles-data-vs-technical-analysis)
 - [2026-05-09-oi-volume-options-flow-liquidity-guide](https://khalidnaami.com/blog/2026-05-09-oi-volume-options-flow-liquidity-guide)
 - [2026-05-09-technical-historical-analysis-quantitative-edge](https://khalidnaami.com/blog/2026-05-09-technical-historical-analysis-quantitative-edge)
 - [2026-05-09-the-game-of-probabilities-decoding-market-expectations](https://khalidnaami.com/blog/2026-05-09-the-game-of-probabilities-decoding-market-expectations)

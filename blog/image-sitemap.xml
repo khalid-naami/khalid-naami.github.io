@@ -3,6 +3,22 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/guide-to-reading-daily-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/daily-posts.webp</image:loc>
+      <image:caption><![CDATA[Learn how to decode my daily market analysis. Understand the difference between lagging data and my reverse-engineering method for structural market flows.]]></image:caption>
+      <image:title><![CDATA[A Strategic Guide to Reading My Daily Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/momentum-mean-reversion.webp</image:loc>
+      <image:caption><![CDATA[Explore the history of Efficient Markets, Momentum, and Mean Reversion. Understand how supply and demand dynamics drive structural market movements.]]></image:caption>
+      <image:title><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
@@ -11,11 +27,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/Statistical-arbitrage.webp</image:loc>
+      <image:caption><![CDATA[Dive deep into Statistical Arbitrage and Mean Reversion. Master Cointegration, ADF, and the Johansen test to identify profitable market equilibrium trades.]]></image:caption>
+      <image:title><![CDATA[Statistical Arbitrage: Mastering Mean Reversion]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
       <image:caption><![CDATA[A deep dive into how Streamlit and Python are transforming the landscape of financial data analysis and options trading dashboards.]]></image:caption>
       <image:title><![CDATA[Streamlit and Python: Quantitative Options Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/bernard-baruch.webp</image:loc>
+      <image:caption><![CDATA[Master essential trading principles and risk management. Learn why quantitative options data provides a structural edge over traditional technical analysis.]]></image:caption>
+      <image:title><![CDATA[Trading Principles: Why Data Beats Technical Analysis]]></image:title>
     </image:image>
   </url>
   <url>
