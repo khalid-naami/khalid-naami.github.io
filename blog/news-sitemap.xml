@@ -26,11 +26,11 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-13T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Streamlit: Mastering Quantitative Options Analysis]]></news:title>
+      <news:title><![CDATA[Streamlit and Python: Revolutionizing Quantitative Options Analysis]]></news:title>
     </news:news>
     <image:image>
       <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
-      <image:title><![CDATA[Streamlit: Mastering Quantitative Options Analysis]]></image:title>
+      <image:title><![CDATA[Streamlit and Python: Revolutionizing Quantitative Options Analysis]]></image:title>
     </image:image>
   </url>
 </urlset>
