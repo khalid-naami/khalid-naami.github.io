@@ -235,7 +235,7 @@ module.exports = async function createConfig() {
         {property: 'og:image:height', content: '630'},
         {property: 'og:type', content: 'website'},
         {property: 'og:site_name', content: 'Khalid Naami - Financial Intelligence'},
-        {property: 'og:image:type', content: 'image/jpeg'},
+        {property: 'og:image:type', content: 'image/webp'},
         {property: 'og:image:alt', content: 'Khalid Naami - Financial Intelligence & Options Greeks Analysis'},
       ],
       // Replace with your project's social card
