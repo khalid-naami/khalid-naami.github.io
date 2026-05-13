@@ -13,7 +13,7 @@
     <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://khalidnaami.com</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
-    <lastBuildDate>Wed, 13 May 2026 18:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:21:24 GMT</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[Daily Analysis]]></category><category><![CDATA[Mean Reversion]]></category><category><![CDATA[Trading Strategy]]></category><category><![CDATA[Quantitative Analysis]]></category><category><![CDATA[options]]></category>
+      <category><![CDATA[Daily Analysis]]></category><category><![CDATA[Mean Reversion]]></category><category><![CDATA[Trading Strategy]]></category><category><![CDATA[options]]></category><category><![CDATA[Market Neutrality]]></category>
       <description><![CDATA[An in-depth exploration of the mathematics and psychological forces behind mean reversion strategies in today's high-volatility financial markets.]]></description>
       <content:encoded><![CDATA[<h1>Modern Market Strategies: Mastering Mean Reversion</h1>
 <p>In the ever-evolving landscape of global financial markets, one principle remains a cornerstone for quantitative traders and institutional market makers alike: <strong>Mean Reversion</strong>. This strategy is built on the mathematical premise that while prices and volatility may deviate significantly from their historical averages due to news, emotion, or liquidity shocks, they possess an inherent &quot;gravity&quot; that eventually pulls them back toward a central equilibrium.</p>
@@ -130,7 +130,7 @@
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
-      <category><![CDATA[Dashboard Options]]></category><category><![CDATA[Science & Technology]]></category><category><![CDATA[Streamlit]]></category><category><![CDATA[Python]]></category><category><![CDATA[options]]></category><category><![CDATA[Financial Analytics]]></category>
+      <category><![CDATA[Science & Technology]]></category><category><![CDATA[Streamlit]]></category><category><![CDATA[Python]]></category><category><![CDATA[Financial Engineering]]></category><category><![CDATA[Data Science]]></category>
       <description><![CDATA[A deep dive into how Streamlit and Python are transforming the landscape of financial data analysis and options trading dashboards.]]></description>
       <content:encoded><![CDATA[<h1>Streamlit and Python: Quantitative Options Analysis</h1>
 <p>In the modern era of high-frequency data and complex derivative markets, the ability to translate raw data into actionable intelligence is what defines a successful quantitative analyst. For years, financial professionals were caught between the flexibility of Python scripts and the static nature of traditional reporting tools. However, the emergence of <strong>Streamlit</strong> has fundamentally altered this trajectory, creating a bridge that allows developers to build high-performance, interactive financial dashboards entirely within the Python ecosystem.</p>

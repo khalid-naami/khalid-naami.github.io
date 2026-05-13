@@ -54,12 +54,11 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Dashboard Options" term="Dashboard Options"/>
         <category label="Science & Technology" term="Science & Technology"/>
         <category label="Streamlit" term="Streamlit"/>
         <category label="Python" term="Python"/>
-        <category label="options" term="options"/>
-        <category label="Financial Analytics" term="Financial Analytics"/>
+        <category label="Financial Engineering" term="Financial Engineering"/>
+        <category label="Data Science" term="Data Science"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></title>
@@ -111,12 +110,11 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Dashboard Options" term="Dashboard Options"/>
         <category label="Daily Analysis" term="Daily Analysis"/>
         <category label="Mean Reversion" term="Mean Reversion"/>
         <category label="Trading Strategy" term="Trading Strategy"/>
-        <category label="Quantitative Analysis" term="Quantitative Analysis"/>
         <category label="options" term="options"/>
+        <category label="Market Neutrality" term="Market Neutrality"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[OI & Volume Analysis: Master Options Flow and Liquidity]]></title>
