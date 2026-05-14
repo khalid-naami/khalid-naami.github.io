@@ -205,7 +205,7 @@ export default function Home() {
         <link rel="preload" as="image" href="/img/khalid_profile.webp" fetchpriority="high" />
 
         {/* Apple Identity & Mobile Optimization */}
-        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-final.webp`} />
+        <link rel="apple-touch-icon" href={`${siteUrl}/img/zoro-media.webp`} />
         <meta name="apple-mobile-web-app-title" content="Khalid Naami" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
