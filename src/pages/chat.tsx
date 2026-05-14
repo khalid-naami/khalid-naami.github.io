@@ -199,7 +199,7 @@ const RAG_SYSTEM_PROMPT = 'When you answer a question that has used context from
 
 const ChatPage = () => {
   return (
-    <Layout title="Chat" description="Interact with Khalid Naami's AI Assistant for real-time insights on Options Greeks, Global Macro, and Financial Intelligence.">
+    <Layout title="Chat" description="Chat with Khalid Naami's AI assistant for real-time insights on Options Greeks trading, Global Macro, and Financial Intelligence using advanced RAG and Ollama.">
       <main style={{ padding: '2rem' }}>
         <div style={{ textAlign: 'center' }}>
           <h1>Chat</h1>
