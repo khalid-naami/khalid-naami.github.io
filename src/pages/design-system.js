@@ -6,7 +6,7 @@ export default function DesignSystemDemo() {
   return (
     <Layout
       title="Design System Demo"
-      description="Discover the Dark Ops Intelligence UI Design System by Khalid Naami. Explore the typography, custom React components, and color palettes for Dashboard Options."
+      description="Explore the Dark Ops Intelligence UI Design System by Khalid Naami. A comprehensive guide to typography, React components, and 4K color palettes for Dashboard Options."
     >
       <main className="container mx-auto p-ds-4">
         <DSHeading level={1} className="mb-ds-6">
