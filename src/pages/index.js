@@ -179,7 +179,7 @@ export default function Home() {
       <Head>
         <meta property="og:title" content="Khalid Naami - Personal Website" />
         <meta property="og:description" content="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems." />
-        <meta property="og:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
+        <meta property="og:image" content={`${siteUrl}/img/zoro-media.webp`} />
         <meta property="og:url" content="https://khalidnaami.com/" />
         <meta name="author" content="Khalid Naami" />
         <meta name="copyright" content="Khalid Naami" />
@@ -199,7 +199,7 @@ export default function Home() {
           name="twitter:description"
           content="Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Macroeconomics, and Financial AI systems."
         />
-        <meta name="twitter:image" content={`${siteUrl}/img/khalid_zoro_pixel.webp`} />
+        <meta name="twitter:image" content={`${siteUrl}/img/zoro-media.webp`} />
         
         {/* Desktop Performance Optimization: Preload LCP Image */}
         <link rel="preload" as="image" href="/img/khalid_profile.webp" fetchpriority="high" />
