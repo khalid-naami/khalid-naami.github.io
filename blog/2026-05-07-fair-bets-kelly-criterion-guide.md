@@ -12,7 +12,7 @@ schema_type: TechArticle
 
 # Fair Bets & Kelly Criterion: Mastering Position Sizing
 
-Knowing the probabilities is only half the battle in financial markets. The true secret to long-term survival and exponential growth lies in answering one critical question: **How much should I bet?** To answer this, we utilize the mathematical precision of the **Kelly Criterion**.
+Knowing the probabilities is only half the battle in financial markets. Before determining sizing, one must first quantify performance through [essential Risk Metrics like VaR and Sharpe](/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide). The true secret to long-term survival and exponential growth lies in answering one critical question: **How much should I bet?** To answer this, we utilize the mathematical precision of the **Kelly Criterion**.
 
 ![Optimal Sizing Mathematics and Portfolio Growth Curves](/img/Fair%20Bet%20and%20Kelly.webp)
 
