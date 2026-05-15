@@ -1,6 +1,6 @@
 ---
 title: "Risk Metrics 101: VaR, Beta, Sharpe & Sortino"
-description: "Quantify your trading performance with essential risk metrics. Learn how to benchmark your portfolio using VaR, Beta, and risk-adjusted return ratios like Sharpe and Sortino."
+description: "Quantify trading performance with essential risk metrics. Benchmark your portfolio using VaR, Beta, and risk-adjusted ratios like Sharpe and Sortino."
 authors: [khalid]
 tags: [Daily Analysis, risk management, risk metrics, quantitative finance, portfolio management]
 keywords: [Value at Risk (VaR), Beta Coefficient, Sharpe Ratio, Sortino Ratio, Risk Metrics, Tail Risk, Quantitative Risk Analysis, portfolio benchmarking, downside deviation, financial risk management]
