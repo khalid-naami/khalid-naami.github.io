@@ -47,8 +47,8 @@ When we say there is a 70% probability that a strike will be hit, we are not mak
 
 Why is this the core of professional trading? Because if you understand that every trade is a probabilistic event, you realize that:
 *   **No single trade matters**: A loss is simply a statistical outlier in a long series of events.
-*   **Position Sizing is King**: If the outcome is stochastic, you must never risk enough to be wiped out by a single "black swan" event.
-*   **The Edge is Mathematical**: Your success depends on your "Expectancy"—the average amount you expect to win or lose per trade over hundreds of trials.
+*   **Position Sizing is King**: If the outcome is stochastic, you must never risk enough to be wiped out by a single "black swan" event. Understanding [essential Risk Metrics like VaR and Sharpe](/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide) is the first step in protecting your capital.
+*   **The Edge is Mathematical**: Your success depends on your "Expectancy"—the average amount you expect to win or lose per trade over hundreds of trials, which is optimized using the [Kelly Criterion sizing model](/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide).
 
 ## The Bottom Line
 
