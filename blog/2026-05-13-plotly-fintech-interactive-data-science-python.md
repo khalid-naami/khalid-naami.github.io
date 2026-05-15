@@ -1,6 +1,6 @@
 ---
 title: "Plotly in Fintech: Interactive Data Science with Python"
-description: "Master interactive financial visualization with Plotly. Learn how to build 3D volatility surfaces, real-time risk heatmaps, and dynamic GEX dashboards using the Python fintech stack."
+description: "Master interactive financial visualization with Plotly. Build 3D volatility surfaces, real-time risk heatmaps, and dynamic GEX dashboards using Python."
 authors: [khalid]
 tags: [Science & Technology, Plotly, Python, Data Science, Fintech, Streamlit]
 keywords: [Plotly Finance, Python Data Science, Streamlit Dashboard, Financial Visualization, Fintech Analytics, Interactive Charts, Quantitative Finance, D3.js Python, WebGL finance, 3D Volatility Surfaces, Risk Heatmaps, Khalid Naami]
