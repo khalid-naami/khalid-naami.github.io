@@ -1,6 +1,6 @@
 ---
 title: "HTML & CSS in Fintech: Pro Trading UI"
-description: "Design high-stakes financial interfaces with HTML5 and CSS3. Learn how to engineer data-dense dashboards that prioritize clarity, accessibility, and split-second decision-making."
+description: "Design financial interfaces with HTML5 and CSS3. Engineer data-dense dashboards that prioritize clarity, accessibility, and split-second decision-making."
 authors: [khalid]
 tags: [Science & Technology, html, css, fintech, ui design, ux]
 keywords: [HTML CSS Fintech, Financial UI/UX, Data-Dense Design, Responsive Finance Web, CSS Grid Finance, Financial Accessibility, Semantic HTML5, Color Theory in Trading, UX for Quants, Khalid Naami]
