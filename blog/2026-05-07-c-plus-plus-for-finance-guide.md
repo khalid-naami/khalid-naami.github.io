@@ -26,7 +26,7 @@ In the high-stakes arena of quantitative finance, there is no prize for second p
 
 ## The Sovereign of Speed
 
-C++ has maintained its dominance in finance for decades, not out of nostalgia, but out of absolute necessity. While other languages prioritize ease of use, C++ prioritizes **deterministic performance** and **hardware efficiency**.
+C++ has maintained its dominance in finance for decades, not out of nostalgia, but out of absolute necessity. While other languages prioritize ease of use, C++ prioritizes **deterministic performance** and **hardware efficiency**, often serving as the high-speed backend for systems prototyped in [high-performance Julia](/blog/julia-for-finance-high-performance-computing-guide) or managed via [resilient Scala pipelines](/blog/scala-in-fintech-big-data-functional-programming-guide).
 
 1.  **Manual Memory Management**: Unlike languages with "Garbage Collection" (like Java or Python), C++ allows developers to control exactly when and how memory is allocated and freed. In high-frequency trading (HFT), a garbage collector pausing for a few milliseconds is unacceptable. C++ eliminates these "pauses," ensuring consistent, low-latency execution.
 2.  **Zero-Overhead Abstractions**: The core philosophy of C++ is that you don't pay for what you don't use. You can build complex, high-level architectures without sacrificing the performance of low-level assembly code.
