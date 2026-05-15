@@ -1,6 +1,6 @@
 ---
 title: "R for Finance: Statistical Powerhouse of Quant Research"
-description: "Master financial data science with R. Learn how to leverage the CRAN ecosystem for institutional-grade econometrics, portfolio optimization, and advanced statistical risk modeling."
+description: "Master financial data science with R. Use the CRAN ecosystem for institutional-grade econometrics, portfolio optimization, and advanced risk modeling."
 authors: [khalid]
 tags: [Science & Technology, R language, data science, statistical analysis, financial modeling]
 keywords: [R Language Finance, Quantitative Statistics, Econometrics R, Portfolio Optimization R, Risk Modeling R, Tidyverse Finance, CRAN Ecosystem, Quantmod, PerformanceAnalytics, financial data science, Khalid Naami]
