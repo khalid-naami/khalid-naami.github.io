@@ -1,6 +1,6 @@
 ---
 title: "The Game of Probabilities: Stochastic Processes"
-description: "Master the mathematics of uncertainty with stochastic risk management. Learn how to transition from a deterministic mindset to a probabilistic statistical edge in financial markets."
+description: "Master uncertainty with stochastic risk management. Transition from a deterministic mindset to a probabilistic statistical edge in financial markets."
 authors: [khalid]
 tags: [Daily Analysis, probability, stochastic processes, risk management, mathematics]
 keywords: [Stochastic Processes, Market Probabilities, Risk Management Statistics, Random Walk Theory, Quantitative Trading, statistical edge, financial determinism, probability distribution]
