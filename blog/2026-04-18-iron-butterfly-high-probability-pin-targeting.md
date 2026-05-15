@@ -3,18 +3,18 @@ title: "The Iron Butterfly: High-Probability Pin Targeting"
 description: "Deploy the Iron Butterfly strategy for high-probability pin targeting. Capitalize on options expiration dynamics and market maker gravity levels."
 authors: [khalid]
 tags: [Dashboard Options, iron-butterfly, options-strategy, quantitative-finance, delta-neutral]
-keywords: [Iron Butterfly, Options Strategy, Theta Decay, Pin Risk, Delta Neutral, Gamma Exposure, Dashboard Options]
+keywords: [Options Iron Butterfly, Pin targeting strategies, High probability options income, Neutral market strategies, Iron Butterfly risk management, Options pinning mechanics, Iron Butterfly, Options Strategy, Theta Decay, Pin Risk, Delta Neutral, Gamma Exposure, Dashboard Options]
 image: "/img/iron_butterfly.webp"
 slug: iron-butterfly-high-probability-pin-targeting
 date: 2026-04-18T14:00:00Z
-schema_type: ScholarlyArticle
+schema_type: [ScholarlyArticle, SoftwareApplication, HowTo]
 ---
 
 # The Iron Butterfly: High-Probability Pin Targeting
 
-The **Iron Butterfly** is the ultimate synthesis of probability and precision. By combining the broad-based theta collection of an Iron Condor with the pinpoint target of a Butterfly, we create a strategy that weaponizes time decay with an incredible risk-to-reward ratio. It is the sniper's choice for a range-bound market.
+The **Iron Butterfly** represents the ultimate synthesis of statistical probability and structural precision. By merging the broad-based Theta harvest of an Iron Condor with the surgical precision of a [Butterfly Spread](/blog/butterfly-spread-precision-targeting-options), this strategy weaponizes time decay with an optimized risk-to-reward profile, particularly when aligned with [market gravity centers](/blog/options-max-pain-theory-market-gravity).
 
-The Iron Butterfly is an advanced, non-directional, defined-risk strategy. For the academic strategic analyst, it is the ultimate tool for monetizing high implied volatility environments while maintaining absolute control over capital exposure.
+The Iron Butterfly is an advanced, non-directional, defined-risk strategy. For the academic strategic analyst, it serves as the definitive tool for monetizing high implied volatility environments while maintaining absolute control over capital exposure.
 
 <!-- truncate -->
 
