@@ -1,6 +1,6 @@
 ---
 title: "C++ for Finance: The Bedrock of Low Latency Systems"
-description: "Engineer ultra-low latency trading systems with C++. Learn how manual memory management, zero-overhead abstractions, and direct hardware interaction drive the world's most sophisticated HFT engines."
+description: "Engineer ultra-low latency trading systems with C++. Learn how manual memory, zero-overhead abstractions, and direct hardware drive sophisticated HFT engines."
 authors: [khalid]
 tags: [Science & Technology, c++, quantitative finance, high frequency trading, financial infrastructure]
 keywords: [C++ for Finance, HFT Programming, Low Latency Trading, Memory Management Finance, Quantitative Algorithms C++, Standard Template Library Finance, Zero-Overhead Abstractions, Kernel Bypass, SIMD, Hardware Efficiency, Khalid Naami]
