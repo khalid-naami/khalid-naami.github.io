@@ -44,8 +44,12 @@ function generateRss() {
         // Make image URLs absolute
         htmlContent = htmlContent.replace(/src="\/img\//g, `src="${SITE_URL}/img/`);
         
-        // Clean Docusaurus specific tags (like :::tip)
-        htmlContent = htmlContent.replace(/:::[\s\S]+?\n/g, '');
+        // Clean Docusaurus specific tags (like :::tip and :::)
+        htmlContent = htmlContent.replace(/:::[\s\S]*?\n/g, '');
+        htmlContent = htmlContent.replace(/:::/g, '');
+        
+        // Escape CDATA closing sequence to prevent premature closure
+        htmlContent = htmlContent.replace(/]]>/g, ']]&gt;');
 
         // Determine the primary category (the first tag)
         let primaryCategory = 'Financial Intelligence';
@@ -55,18 +59,23 @@ function generateRss() {
             primaryCategory = data.tags.split(',')[0].replace(/[\[\]'"]/g, '').trim();
         }
 
+        const cleanTitle = escapeXml(data.title).substring(0, 240);
+        const cleanUrl = url.substring(0, 243);
+
         const itemXml = `
         <item turbo="true">
-            <link>${url}</link>
-            <title>${escapeXml(data.title)}</title>
+            <link>${cleanUrl}</link>
+            <title>${cleanTitle}</title>
             <author>${escapeXml(data.authors ? String(data.authors).replace(/[\[\]'"]/g, '') : 'Khalid Naami')}</author>
             <category>${escapeXml(primaryCategory)}</category>
             <pubDate>${date}</pubDate>
+            <description>${escapeXml(data.description || data.title).substring(0, 500)}</description>
             <yandex:genre>article</yandex:genre>
+            <yandex:full-text>${escapeXml(content.substring(0, 1000))}</yandex:full-text>
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>${escapeXml(data.title)}</h1>
+                        <h1>${cleanTitle}</h1>
                         ${data.image ? `<figure><img src="${SITE_URL}${data.image.startsWith('/') ? '' : '/'}${data.image}" /></figure>` : ''}
                     </header>
                     ${htmlContent}
@@ -81,7 +90,8 @@ function generateRss() {
 <rss xmlns:yandex="http://news.yandex.ru" 
      xmlns:media="http://search.yahoo.com/mrss/" 
      xmlns:turbo="http://turbo.yandex.ru" 
-     version="2.0">
+     version="2.0"
+     xml:lang="en">
     <channel>
         <title>Khalid Naami - Strategic Analysis &amp; Financial Intelligence</title>
         <link>${SITE_URL}</link>
