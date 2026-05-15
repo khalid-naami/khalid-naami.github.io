@@ -26,7 +26,7 @@ In the era of high-frequency data, the ability to translate raw information into
 
 ## The Power of Python in Financial Engineering
 
-Python has long been the undisputed king of financial data science. Its ecosystem, powered by libraries like **Pandas** for data manipulation, **NumPy** for numerical computing, and **SciPy** for advanced mathematical functions, provides the perfect foundation for modeling options pricing and Greeks. 
+Python has long been the undisputed king of financial data science. Its ecosystem, powered by libraries like [Pandas for high-performance data engineering](/blog/pandas-finance-high-performance-data-engineering), **NumPy** for numerical computing, and **SciPy** for advanced mathematical functions, provides the perfect foundation for modeling options pricing and Greeks. 
 
 When we talk about options analysis, we are dealing with multidimensional risk. Calculating Delta, Gamma, Theta, and Vega across thousands of strikes and multiple expiration dates requires a language that is both expressive and efficient. Python’s ability to handle vectorized operations means we can compute complex Black-Scholes models or Monte Carlo simulations in a fraction of the time it would take in traditional spreadsheet software.
 
@@ -37,7 +37,7 @@ While Python handles the "brain" of the operation, Streamlit provides the "face.
 ### Key Advantages for Options Traders:
 
 1.  **Real-Time Interactivity**: As market data streams in, Streamlit components can update dynamically. For a trader tracking intraday **Gamma Exposure (GEX)**, this real-time feedback is critical.
-2.  **Custom Visualization**: Using integration with **Plotly** or **Altair**, we can create 3D volatility surfaces or interactive payoff diagrams that allow users to simulate complex multi-leg strategies like Iron Condors or Butterfly Spreads.
+2.  **Custom Visualization**: Using integration with [Plotly for interactive data science](/blog/plotly-fintech-interactive-data-science-python), we can create 3D volatility surfaces or interactive payoff diagrams that allow users to simulate complex multi-leg strategies like Iron Condors or Butterfly Spreads.
 3.  **Rapid Prototyping**: In the fast-moving world of finance, an idea that takes weeks to deploy is often obsolete. Streamlit allows us to go from a Jupyter notebook concept to a production-ready dashboard in hours.
 
 ## Application in Dashboard Options
