@@ -1,6 +1,6 @@
 ---
 title: "JavaScript in Finance: Real-Time Dashboards"
-description: "Power real-time financial visualization with JavaScript. Learn how to leverage WebSockets, asynchronous programming, and D3.js to build high-performance trading dashboards and interactive heatmaps."
+description: "Power real-time financial visualization with JavaScript. Use WebSockets, async patterns, and D3.js to build high-performance trading dashboards and heatmaps."
 authors: [khalid]
 tags: [Science & Technology, javascript, finance, data visualization, fintech, real-time data]
 keywords: [JavaScript for Finance, Node.js Fintech, Real-time Data Streaming, WebSocket Finance, Trading Platforms JS, Financial Visualization JS, D3.js, V8 Engine, Asynchronous Programming, interactive charts, Khalid Naami]
