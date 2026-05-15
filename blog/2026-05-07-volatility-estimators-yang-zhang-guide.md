@@ -1,6 +1,6 @@
 ---
 title: "Volatility: Log-Returns to Yang-Zhang"
-description: "Master the mathematics of risk with the Yang-Zhang volatility estimator. Learn how quantitative analysts decode market uncertainty from simple log-returns to institutional-grade OHLC models."
+description: "Master risk with the Yang-Zhang volatility estimator. Decode market uncertainty from simple log-returns to high-fidelity institutional-grade OHLC models."
 authors: [khalid]
 tags: [Daily Analysis, volatility, quantitative finance, risk management, mathematics]
 keywords: [Yang-Zhang estimator, volatility measurement, log-returns, quantitative finance, market risk, algorithmic trading, volatility estimators, OHLC models, financial mathematics]
