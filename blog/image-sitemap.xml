@@ -14,7 +14,7 @@
     <loc>https://khalidnaami.com/blog/guide-to-reading-daily-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/daily-posts.webp</image:loc>
-      <image:caption><![CDATA[Learn how to decode my daily market analysis. Understand the difference between lagging data and my reverse-engineering method for structural market flows.]]></image:caption>
+      <image:caption><![CDATA[Master the methodology behind structural market analysis. Learn how to decode institutional flows, reverse-engineer price action, and use quantitative data as your primary trading edge.]]></image:caption>
       <image:title><![CDATA[A Strategic Guide to Reading My Daily Analysis]]></image:title>
     </image:image>
   </url>
@@ -22,7 +22,7 @@
     <loc>https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/momentum-mean-reversion.webp</image:loc>
-      <image:caption><![CDATA[Explore the history of Efficient Markets, Momentum, and Mean Reversion. Understand how supply and demand dynamics drive structural market movements.]]></image:caption>
+      <image:caption><![CDATA[Deconstruct the physics of the market. Explore the Efficient Market Hypothesis (EMH) and learn how supply/demand imbalances drive the cycles of momentum and mean reversion.]]></image:caption>
       <image:title><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -30,7 +30,7 @@
     <loc>https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
-      <image:caption><![CDATA[An in-depth exploration of the mathematics and psychological forces behind mean reversion strategies in today's high-volatility financial markets.]]></image:caption>
+      <image:caption><![CDATA[Master the gravity of the markets with mean reversion strategies. Learn how to combine Z-score analysis, GEX regimes, and volatility mean reversion for a statistical edge.]]></image:caption>
       <image:title><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -54,7 +54,7 @@
     <loc>https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Statistical-arbitrage.webp</image:loc>
-      <image:caption><![CDATA[Dive deep into Statistical Arbitrage and Mean Reversion. Master Cointegration, ADF, and the Johansen test to identify profitable market equilibrium trades.]]></image:caption>
+      <image:caption><![CDATA[Master the mathematical discipline of Statistical Arbitrage (StatArb). Learn how to use cointegration, stationarity tests, and Z-score signals to exploit pricing inefficiencies.]]></image:caption>
       <image:title><![CDATA[Statistical Arbitrage: Mastering Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -70,7 +70,7 @@
     <loc>https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/bernard-baruch.webp</image:loc>
-      <image:caption><![CDATA[Master essential trading principles and risk management. Learn why quantitative options data provides a structural edge over traditional technical analysis.]]></image:caption>
+      <image:caption><![CDATA[Master the shift from subjective chart patterns to objective quantitative data. Learn why options flows and institutional hedging create a structural edge over traditional technical analysis.]]></image:caption>
       <image:title><![CDATA[Trading Principles: Why Data Beats Technical Analysis]]></image:title>
     </image:image>
   </url>
@@ -126,7 +126,7 @@
     <loc>https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Fair%20Bet%20and%20Kelly.webp</image:loc>
-      <image:caption><![CDATA[Optimize your portfolio with the Kelly Criterion. Learn mathematical position sizing to maximize long-term wealth while minimizing the risk of ruin.]]></image:caption>
+      <image:caption><![CDATA[Master the mathematics of wealth creation with the Kelly Criterion. Learn how to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin.]]></image:caption>
       <image:title><![CDATA[Fair Bets & Kelly Criterion: Mastering Position Sizing]]></image:title>
     </image:image>
   </url>
@@ -134,7 +134,7 @@
     <loc>https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/probability.webp</image:loc>
-      <image:caption><![CDATA[Deep dive into stochastic risk management. Master the game of probabilities to decode market expectations and price action.]]></image:caption>
+      <image:caption><![CDATA[Master the mathematics of uncertainty with stochastic risk management. Learn how to transition from a deterministic mindset to a probabilistic statistical edge in financial markets.]]></image:caption>
       <image:title><![CDATA[The Game of Probabilities: Stochastic Processes]]></image:title>
     </image:image>
   </url>
@@ -174,7 +174,7 @@
     <loc>https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/VaR-Beta-Sharpe-Sortino.webp</image:loc>
-      <image:caption><![CDATA[Unveil critical Risk Metrics like VaR, Beta, Sharpe, and Sortino ratios. Quantify and benchmark your trading performance against market benchmarks.]]></image:caption>
+      <image:caption><![CDATA[Quantify your trading performance with essential risk metrics. Learn how to benchmark your portfolio using VaR, Beta, and risk-adjusted return ratios like Sharpe and Sortino.]]></image:caption>
       <image:title><![CDATA[Risk Metrics 101: VaR, Beta, Sharpe & Sortino]]></image:title>
     </image:image>
   </url>
@@ -190,7 +190,7 @@
     <loc>https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/volatility.webp</image:loc>
-      <image:caption><![CDATA[Decode Volatility from basic Log-Returns to the advanced Yang-Zhang estimator. Master the mathematics of risk measurement for algorithmic trading.]]></image:caption>
+      <image:caption><![CDATA[Master the mathematics of risk with the Yang-Zhang volatility estimator. Learn how quantitative analysts decode market uncertainty from simple log-returns to institutional-grade OHLC models.]]></image:caption>
       <image:title><![CDATA[Volatility: Log-Returns to Yang-Zhang]]></image:title>
     </image:image>
   </url>
