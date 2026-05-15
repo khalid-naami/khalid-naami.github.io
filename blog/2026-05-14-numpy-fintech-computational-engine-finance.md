@@ -4,7 +4,7 @@ description: "Harness NumPy for high-frequency financial modeling. Use vectorize
 authors: [khalid]
 tags: [Science & Technology, NumPy, Python, Data Science, Fintech, Quantitative Analysis]
 keywords: [NumPy Finance, Numerical Python, Quantitative Analysis, High Speed Computing, Financial Engineering, Data Science Stack, N-Dimensional Array, Vectorized Operations, Monte Carlo Simulations, Linear Algebra, Khalid Naami]
-image: /img/numpy.webp
+image: /img/numpy-v2.webp
 slug: numpy-fintech-computational-engine-finance
 date: 2026-05-14T08:00:00+00:00
 schema_type: TechArticle
@@ -14,7 +14,7 @@ schema_type: TechArticle
 
 While Pandas provides the structure and Plotly provides the vision, **NumPy** (Numerical Python) provides the raw, unadulterated power. In the world of quantitative finance, where Greek sensitivities and thousands of simulations must be calculated instantly, NumPy is the essential engine.
 
-![Visualization of High-Performance Numerical Computing with NumPy Arrays](/img/numpy.webp)
+![Visualization of High-Performance Numerical Computing with NumPy Arrays](/img/numpy-v2.webp)
 
 <!-- truncate -->
 
