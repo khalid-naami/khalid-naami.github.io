@@ -1,6 +1,6 @@
 ---
 title: "Fair Bets & Kelly Criterion: Mastering Position Sizing"
-description: "Master the mathematics of wealth creation with the Kelly Criterion. Learn how to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin."
+description: "Master wealth creation with the Kelly Criterion. Learn to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin."
 authors: [khalid]
 tags: [Daily Analysis, risk management, kelly criterion, expected value, mathematics]
 keywords: [Kelly Criterion, Position Sizing, Risk Management Math, Optimal Bet Size, Trading Discipline, Fortune's Formula, Expected Value (EV), Gambler's Ruin, quantitative trading, portfolio optimization]
