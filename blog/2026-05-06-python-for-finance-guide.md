@@ -36,7 +36,7 @@ The dominance of Python in finance isn’t accidental. It’s the result of a ma
 
 Financial markets generate billions of data points every second. Python is the “lens” that brings this chaos into focus.
 
-*   **Time-Series Analysis**: Finance is inherently chronological. Python excels at handling time-series data, making it easy to calculate moving averages, volatility regimes, and correlation matrices.
+*   **Time-Series Analysis**: Finance is inherently chronological. Python excels at handling time-series data, making it easy to calculate moving averages, [advanced volatility estimators](/blog/volatility-log-returns-yang-zhang-estimator-guide), and correlation matrices.
 *   **Predictive Modeling**: With the integration of Scikit-learn and TensorFlow, Python is at the forefront of applying Machine Learning to financial forecasting and risk management.
 *   **Risk Management**: Quantitative analysts (Quants) use Python to run Monte Carlo simulations and Value-at-Risk (VaR) calculations, ensuring that portfolios are protected against “Black Swan” events.
 
