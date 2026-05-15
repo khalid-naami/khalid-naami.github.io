@@ -1,6 +1,6 @@
 ---
 title: "Statistical Arbitrage: Mastering Mean Reversion"
-description: "Master the mathematical discipline of Statistical Arbitrage (StatArb). Learn how to use cointegration, stationarity tests, and Z-score signals to exploit pricing inefficiencies."
+description: "Master Statistical Arbitrage (StatArb). Use cointegration, stationarity tests, and Z-score signals to exploit high-probability pricing inefficiencies."
 authors: [khalid]
 tags: [Daily Analysis, Statistical Arbitrage, Mean Reversion, Quantitative Trading, Risk Management]
 keywords: [Statistical Arbitrage, Mean Reversion, Cointegration, ADF Test, Johansen Test, CADF, Hedge Ratio, Market Neutral, Pairs Trading, Algorithmic Trading, risk-free spread, quantitative finance]
