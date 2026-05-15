@@ -37,7 +37,7 @@ In trading, every millisecond counts. NumPy is written in C and Fortran, giving 
 ### Why NumPy is Essential for Finance:
 *   **Monte Carlo Simulations**: Running 100,000 paths for a portfolio's Value at Risk (VaR) requires the speed that only NumPy can provide.
 *   **Linear Algebra**: Calculating hedge ratios and portfolio optimizations involves matrix mathematics—NumPy’s specialty.
-*   **Fourier Transforms**: Used in advanced volatility modeling to decompose market signals.
+*   **Fourier Transforms**: Used in advanced [volatility modeling and estimators](/blog/volatility-log-returns-yang-zhang-estimator-guide) to decompose market signals and capture the true underlying risk.
 
 ## 3. The "Holy Trinity" of Data Science
 
