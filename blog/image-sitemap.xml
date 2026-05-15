@@ -6,7 +6,7 @@
     <loc>https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/numpy.webp</image:loc>
-      <image:caption><![CDATA[Explore how NumPy powers high-speed financial calculations. Learn how it integrates with Pandas and Plotly to deliver institutional-grade analytics.]]></image:caption>
+      <image:caption><![CDATA[Harness the power of Numerical Python (NumPy) for high-frequency financial modeling. Learn how vectorized operations and N-dimensional arrays drive institutional-grade quantitative analysis.]]></image:caption>
       <image:title><![CDATA[NumPy in Fintech: The Computational Engine of Finance]]></image:title>
     </image:image>
   </url>
@@ -38,7 +38,7 @@
     <loc>https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/pandas.webp</image:loc>
-      <image:caption><![CDATA[Master Pandas for financial data analysis. Learn how to handle large timeseries datasets and integrate them with Plotly and Streamlit for rapid insights.]]></image:caption>
+      <image:caption><![CDATA[Master financial data engineering with Pandas. Learn how to process millions of market data points using vectorization, time-series alignment, and rolling window optimizations.]]></image:caption>
       <image:title><![CDATA[Pandas for Finance: High-Performance Data Engineering]]></image:title>
     </image:image>
   </url>
@@ -46,7 +46,7 @@
     <loc>https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/plotly.webp</image:loc>
-      <image:caption><![CDATA[Discover how Plotly, Python, and Streamlit combine to create powerful interactive financial dashboards. Master data visualization for quantitative finance.]]></image:caption>
+      <image:caption><![CDATA[Master interactive financial visualization with Plotly. Learn how to build 3D volatility surfaces, real-time risk heatmaps, and dynamic GEX dashboards using the Python fintech stack.]]></image:caption>
       <image:title><![CDATA[Plotly in Fintech: Interactive Data Science with Python]]></image:title>
     </image:image>
   </url>
@@ -62,7 +62,7 @@
     <loc>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
-      <image:caption><![CDATA[A deep dive into how Streamlit and Python are transforming the landscape of financial data analysis and options trading dashboards.]]></image:caption>
+      <image:caption><![CDATA[Build high-performance financial dashboards with Streamlit and Python. Learn how to translate complex options data into interactive 3D volatility surfaces and real-time GEX visualizations.]]></image:caption>
       <image:title><![CDATA[Streamlit and Python: Quantitative Options Analysis]]></image:title>
     </image:image>
   </url>
