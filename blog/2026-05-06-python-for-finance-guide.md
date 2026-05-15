@@ -1,6 +1,6 @@
 ---
 title: "Python for Finance: Modern Quant Analysis"
-description: "Master modern quantitative analysis with Python. Learn how to leverage Pandas, NumPy, and Scikit-learn for algorithmic trading, risk management, and financial data automation."
+description: "Master modern quantitative analysis with Python. Use Pandas, NumPy, and Scikit-learn for algorithmic trading, risk management, and financial data automation."
 authors: [khalid]
 tags: [Science & Technology, python, finance, data analysis, quantitative trading]
 keywords: [Python for Finance, Quantitative Analysis Python, Algorithmic Trading, Scipy Finance, Black-Scholes Python, Financial Machine Learning, Time-Series Analysis, Monte Carlo Simulations, Value-at-Risk (VaR), Fintech Automation, Khalid Naami]
