@@ -6,7 +6,7 @@ tags: [Science & Technology, Polars, Rust, Python, Data Science, Fintech, Quanti
 keywords: [Polars Finance, High Performance DataFrames, Rust Fintech, Quantitative Data Engineering, Polars vs Pandas, Multi-threaded Data Processing, Lazy API, Fintech Analytics, Memory Efficient Data Science, Khalid Naami]
 image: /img/polars.webp
 slug: polars-fintech-high-performance-data-frames
-date: 2026-05-15T12:45:00+00:00
+date: 2026-05-16T12:45:00+00:00
 schema_type: [TechArticle, SoftwareApplication, HowTo]
 ---
 
