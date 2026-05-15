@@ -49,3 +49,12 @@ Khalid regularly publishes deep-dive analysis on:
 - **Science & Technology:** Insights into Python development, Data Science, and Financial AI models.
 - **Global Economy:** Macroeconomic analysis and intermarket dynamics.
 - **Political Economy:** Geopolitics and the hidden connections between politics and global markets.
+
+## Key Website Pages
+- **Home:** https://khalidnaami.com/
+- **News & Mentions:** https://khalidnaami.com/media/news-mentions
+- **Experience:** https://khalidnaami.com/resume/experience
+- **Education:** https://khalidnaami.com/resume/education
+- **Blog:** https://khalidnaami.com/blog
+- **Intelligence Graph:** https://khalidnaami.com/intelligence
+- **Chat (Zoro AI):** https://khalidnaami.com/chat
