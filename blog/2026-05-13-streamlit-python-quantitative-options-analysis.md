@@ -1,6 +1,6 @@
 ---
 title: "Streamlit and Python: Quantitative Options Analysis"
-description: "Build high-performance financial dashboards with Streamlit and Python. Learn how to translate complex options data into interactive 3D volatility surfaces and real-time GEX visualizations."
+description: "Build financial dashboards with Streamlit and Python. Translate complex options data into interactive 3D volatility surfaces and real-time GEX visuals."
 authors: [khalid]
 tags: [Science & Technology, Streamlit, Python, Financial Engineering, Data Science]
 keywords: [Streamlit, Python for Finance, Options Analysis, Data Visualization, Quantitative Trading, Financial Intelligence, Reactive UI Framework, Data Pipeline, Volatility Surface Analysis, GEX visualization, Black-Scholes Python, Khalid Naami]
