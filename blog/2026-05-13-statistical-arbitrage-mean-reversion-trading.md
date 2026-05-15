@@ -70,7 +70,7 @@ At **Dashboard Options**, we use these statistical models to filter out noise. B
 
 ## Conclusion: From Theory to Profit
 
-Statistical Arbitrage requires a rigorous mathematical approach and the right analytical tools. By mastering Cointegration, the ADF test, and risk management protocols, you move from "guessing" the next move to "calculating" the inevitable return to equilibrium.
+Statistical Arbitrage requires a rigorous mathematical approach and the right analytical tools. These models are typically built and optimized using the [Python for Finance ecosystem](/blog/python-for-finance-data-analysis-guide) and [high-performance Pandas data engineering](/blog/pandas-finance-high-performance-data-engineering). By mastering Cointegration, the ADF test, and risk management protocols, you move from "guessing" the next move to "calculating" the inevitable return to equilibrium.
 
 Don't trade on hope. Trade on the math of the markets.
 
