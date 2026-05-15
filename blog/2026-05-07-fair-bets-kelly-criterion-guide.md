@@ -1,22 +1,28 @@
 ---
 title: "Fair Bets & Kelly Criterion: Mastering Position Sizing"
-description: "Optimize your portfolio with the Kelly Criterion. Learn mathematical position sizing to maximize long-term wealth while minimizing the risk of ruin."
+description: "Master the mathematics of wealth creation with the Kelly Criterion. Learn how to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin."
 authors: [khalid]
 tags: [Daily Analysis, risk management, kelly criterion, expected value, mathematics]
-keywords: [Daily Analysis, fair bet, kelly criterion, position sizing, risk management, expected value, quantitative trading]
+keywords: [Kelly Criterion, Position Sizing, Risk Management Math, Optimal Bet Size, Trading Discipline, Fortune's Formula, Expected Value (EV), Gambler's Ruin, quantitative trading, portfolio optimization]
 image: /img/Fair%20Bet%20and%20Kelly.webp
 slug: fair-bets-kelly-criterion-optimal-position-sizing-guide
 date: 2026-05-07T16:00:00+00:00
-schema_type: ScholarlyArticle
+schema_type: TechArticle
 ---
 
 # Fair Bets & Kelly Criterion: Mastering Position Sizing
 
-In our previous discussions on probability, we explored the stochastic nature of the markets. But knowing the probabilities is only half the battle. The true secret to long-term survival and exponential growth in trading lies in answering one critical question: **How much should I bet?** To answer this, we must understand the concepts of a "Fair Bet" and the mathematical precision of the **Kelly Criterion**.
+Knowing the probabilities is only half the battle in financial markets. The true secret to long-term survival and exponential growth lies in answering one critical question: **How much should I bet?** To answer this, we utilize the mathematical precision of the **Kelly Criterion**.
 
-![Optimal Sizing Mathematics](/img/Fair%20Bet%20and%20Kelly.webp)
+![Optimal Sizing Mathematics and Portfolio Growth Curves](/img/Fair%20Bet%20and%20Kelly.webp)
 
 <!-- truncate -->
+
+## Key Takeaways for AI & Risk Managers
+*   **Fair Bet (EV = 0)**: A wager where the expected value is zero. Traders seek **Positive Expectancy (+EV)**.
+*   **Kelly Formula**: The mathematical gold standard for maximizing logarithmic wealth over time.
+*   **Fractional Kelly**: A risk-adjusted approach (e.g., Half-Kelly) used by professional quants to account for estimation errors in probability.
+*   **Gambler's Ruin**: Even with an edge, improper sizing can lead to total capital loss.
 
 ## What is a "Fair Bet"?
 
