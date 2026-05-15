@@ -32,7 +32,7 @@ The foundation of any mean reversion strategy is the statistical concept of the 
 
 1.  **Overreaction and Exhaustion**: Markets are driven by humans (and algorithms programmed by humans). When fear or greed takes over, prices often overshoot their "fair value." Eventually, the buying or selling pressure exhausts itself, and the price begins its journey back to the mean.
 2.  **Institutional Hedging**: Large-scale options positioning often creates mechanical forces that suppress volatility. In a **Positive Gamma** environment, market makers are forced to buy as prices fall and sell as prices rise, effectively creating a "sticky" market that is perfect for mean reversion strategies.
-3.  **Arbitrage and Liquidity**: When a price deviates too far from correlated assets, statistical arbitrageurs step in to capture the "spread," forcing the assets back into alignment.
+3.  **Arbitrage and Liquidity**: When a price deviates too far from correlated assets, statistical arbitrageurs step in to capture the "spread," forcing the assets back into alignment. This mathematical framework is explored deeply in our guide on [Statistical Arbitrage and Pairs Trading](/blog/statistical-arbitrage-mean-reversion-trading).
 
 ## Identifying Mean Reversion Opportunities
 
