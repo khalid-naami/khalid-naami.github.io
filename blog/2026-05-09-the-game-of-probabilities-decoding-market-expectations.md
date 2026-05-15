@@ -26,7 +26,7 @@ The options market is a forward-looking engine. It doesn't tell us what *will* h
 
 *Analyzing the Shifts: Understanding how market expectations evolve as new data hits the tape.*
 
-When the implied probability of a move is significantly higher or lower than its historical realized frequency, we find an "edge." This is where the math of the Kelly Criterion meets the reality of the price action.
+When the implied probability of a move is significantly higher or lower than its historical realized frequency, we find an "edge." This is where the [mathematical logic of the Kelly Criterion](/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide) meets the reality of the price action, allowing for optimized capital allocation based on [quantifiable Risk Metrics like VaR](/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide).
 
 ## 2. The Power of Strike-Level Intelligence
 
