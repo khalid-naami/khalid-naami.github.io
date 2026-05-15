@@ -158,7 +158,7 @@
     <loc>https://khalidnaami.com/blog/r-language-for-financial-data-science-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/data-science-R.webp</image:loc>
-      <image:caption><![CDATA[Utilize R Language for Financial Data Science. Execute advanced statistical modeling, econometrics, and risk analysis to extract actionable insights.]]></image:caption>
+      <image:caption><![CDATA[Master financial data science with R. Learn how to leverage the CRAN ecosystem for institutional-grade econometrics, portfolio optimization, and advanced statistical risk modeling.]]></image:caption>
       <image:title><![CDATA[R for Finance: Statistical Powerhouse of Quant Research]]></image:title>
     </image:image>
   </url>
@@ -166,7 +166,7 @@
     <loc>https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/react-js.webp</image:loc>
-      <image:caption><![CDATA[Build scalable and reactive trading dashboards using React.js. Learn the architecture behind modern, high-performance financial web applications.]]></image:caption>
+      <image:caption><![CDATA[Build high-performance trading interfaces with React.js. Learn how component-based architecture and Virtual DOM optimizations drive reactive, institutional-grade financial web applications.]]></image:caption>
       <image:title><![CDATA[React.js Fintech: Scalable Trading Dashboards]]></image:title>
     </image:image>
   </url>
@@ -182,7 +182,7 @@
     <loc>https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Scala.webp</image:loc>
-      <image:caption><![CDATA[Discover Scala in Fintech. Utilize functional programming and Apache Spark to process massive financial datasets and build scalable trading pipelines.]]></image:caption>
+      <image:caption><![CDATA[Engineer resilient financial systems with Scala. Learn how to leverage functional programming, the JVM, and Apache Spark to build high-concurrency trading pipelines and big data analytics.]]></image:caption>
       <image:title><![CDATA[Scala for Finance: Functional Programming in Trading]]></image:title>
     </image:image>
   </url>
