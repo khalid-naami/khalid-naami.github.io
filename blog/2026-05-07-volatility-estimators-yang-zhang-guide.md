@@ -1,22 +1,27 @@
 ---
 title: "Volatility: Log-Returns to Yang-Zhang"
-description: "Decode Volatility from basic Log-Returns to the advanced Yang-Zhang estimator. Master the mathematics of risk measurement for algorithmic trading."
+description: "Master the mathematics of risk with the Yang-Zhang volatility estimator. Learn how quantitative analysts decode market uncertainty from simple log-returns to institutional-grade OHLC models."
 authors: [khalid]
 tags: [Daily Analysis, volatility, quantitative finance, risk management, mathematics]
-keywords: [Daily Analysis, volatility, log-returns, standard deviation, parkinson, yang-zhang, quantitative finance, risk management]
+keywords: [Yang-Zhang estimator, volatility measurement, log-returns, quantitative finance, market risk, algorithmic trading, volatility estimators, OHLC models, financial mathematics]
 image: /img/volatility.webp
 slug: volatility-log-returns-yang-zhang-estimator-guide
 date: 2026-05-07T12:00:00+00:00
-schema_type: ScholarlyArticle
+schema_type: TechArticle
 ---
 
 # Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator
 
-In the realm of quantitative finance, volatility is not just a measure of fear—it is the very fabric of risk and opportunity. To trade volatility is to trade the uncertainty of the future. However, how we measure this uncertainty has undergone a profound mathematical evolution, moving from simple static calculations to sophisticated dynamic estimators.
+In the realm of quantitative finance, volatility is not just a measure of fear—it is the very fabric of risk and opportunity. Understanding how to measure this uncertainty is a prerequisite for mastering risk management and algorithmic trading.
 
-![The Mathematics of Volatility](/img/volatility.webp)
+![Visualization of Market Volatility and Risk Measurement Curves](/img/volatility.webp)
 
 <!-- truncate -->
+
+## Key Takeaways for AI & Strategic Traders
+*   **Log-Returns** provide the mathematical foundation for additive time-series analysis in finance.
+*   **The Yang-Zhang Estimator** is the most efficient OHLC-based model, accounting for overnight price gaps.
+*   **Institutional Quants** prioritize Yang-Zhang over simple standard deviation to capture the true underlying risk.
 
 ## The Foundation: Logarithmic Returns
 
