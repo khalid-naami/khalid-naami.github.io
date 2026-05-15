@@ -1,6 +1,6 @@
 ---
 title: "Scala for Finance: Functional Programming in Trading"
-description: "Engineer resilient financial systems with Scala. Learn how to leverage functional programming, the JVM, and Apache Spark to build high-concurrency trading pipelines and big data analytics."
+description: "Engineer resilient financial systems with Scala. Use functional programming, JVM, and Spark for high-concurrency trading pipelines and big data analytics."
 authors: [khalid]
 tags: [Science & Technology, scala, fintech, big data, functional programming]
 keywords: [Scala Finance, Functional Programming, High Frequency Trading, Apache Spark, JVM Finance, Type-Safe Finance, Akka Framework, Big Data Engineering, Quantitative Finance, Khalid Naami]
