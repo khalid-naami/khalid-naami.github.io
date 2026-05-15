@@ -1,6 +1,6 @@
 ---
 title: "Trading Principles: Why Data Beats Technical Analysis"
-description: "Master the shift from subjective chart patterns to objective quantitative data. Learn why options flows and institutional hedging create a structural edge over traditional technical analysis."
+description: "Master the shift to objective quantitative data. Learn why options flows and institutional hedging create a structural edge over traditional analysis."
 authors: [khalid]
 tags: [Daily Analysis, Trading Principles, Risk Management, Quantitative Analysis, options]
 keywords: [Quantitative Analysis, Technical Analysis, Market Data, Lagging Indicators, Reverse Engineering, Institutional Trading, Data-Driven Strategy, Market Microstructure, Causal Order Flow, GEX, mechanical hedging]
