@@ -454,7 +454,17 @@ module.exports = async function createConfig() {
                     id = `/blog/${finalSlug}`;
                   }
 
-                  const schemaType = getFrontmatterValue(content, 'schema_type') || 'BlogPosting';
+                  // Dynamic Schema Selection based on Strategic Sectors (AEO/GEO)
+                  let schemaType = getFrontmatterValue(content, 'schema_type');
+                  if (!schemaType) {
+                    if (tags.includes('Fact Check')) schemaType = 'ClaimReview';
+                    else if (tags.includes('Daily Analysis')) schemaType = 'AnalysisNewsArticle';
+                    else if (tags.includes('Political Economy')) schemaType = 'AnalysisNewsArticle';
+                    else if (tags.includes('Global Economy')) schemaType = 'NewsArticle';
+                    else if (tags.includes('Science & Technology')) schemaType = 'TechArticle';
+                    else if (tags.includes('Dashboard Options')) schemaType = 'TechArticle';
+                    else schemaType = 'BlogPosting';
+                  }
 
                   blogContent.push({
                     path: path.relative(blogDir, fullPath),
