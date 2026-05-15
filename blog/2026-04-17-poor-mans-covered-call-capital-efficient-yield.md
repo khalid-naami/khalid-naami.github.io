@@ -3,18 +3,18 @@ title: "The Poor Man's Covered Call: Capital Efficient Yield"
 description: "Learn the Poor Man’s Covered Call strategy to leverage options for capital-efficient yield and high-probability income."
 authors: [khalid]
 tags: [Dashboard Options, covered-call, diagonal-spread, options-strategy, quantitative-finance]
-keywords: [Poor Mans Covered Call, Diagonal Spread, LEAPS, Capital Efficiency, Options Strategy, Quantitative Trading, Theta Decay]
+keywords: [Poor Man's Covered Call, Diagonal Debit Spread strategies, Capital efficient options yield, LEAPS covered call strategy, Synthetic long stock options, Options income generation, Poor Mans Covered Call, Diagonal Spread, LEAPS, Capital Efficiency, Options Strategy, Quantitative Trading, Theta Decay]
 image: "/img/pmcc.webp"
 slug: poor-mans-covered-call-capital-efficient-yield
 date: 2026-04-17T14:00:00Z
-schema_type: ScholarlyArticle
+schema_type: [ScholarlyArticle, SoftwareApplication, HowTo]
 ---
 
 # The Poor Man's Covered Call: Capital Efficient Yield
 
-The traditional Covered Call is a great yield generator, but it’s capital-intensive and often inefficient. Why lock up six figures of capital to own 100 shares of SPY when you can replicate the exact same payoff at a fraction of the cost? The **Poor Man's Covered Call** is the professional's answer to capital efficiency, allowing you to weaponize leverage without sacrificing the structural safety of the trade.
+While the traditional [Covered Call](/blog/covered-call-generating-quantitative-yield) remains a staple for yield generation, it is inherently capital-intensive and frequently inefficient from a portfolio optimization perspective. There is little strategic justification for encumbering six figures of capital to hold 100 shares of SPY when one can replicate the identical payoff profile at a fraction of the notional cost. The **Poor Man's Covered Call (PMCC)**—structurally a Diagonal Debit Spread—is the professional's answer to capital efficiency, weaponizing leverage without sacrificing the structural safety of the trade.
 
-For the quantitative analyst, capital efficiency is paramount. To solve this problem, academic traders employ the **Diagonal Spread**, colloquially known as the **Poor Man's Covered Call (PMCC)**. It structurally replicates the mathematical payout of a Covered Call using a fraction of the capital.
+For the quantitative analyst, capital efficiency is paramount. By employing a synthetic long position via LEAPS, academic traders can manufacture income similar to [Cash-Secured Puts](/blog/cash-secured-put-acquiring-assets-discount) but with significantly reduced margin requirements.
 
 <!-- truncate -->
 
