@@ -50,7 +50,7 @@ df['MA20'] = df['Close'].rolling(window=20).mean()
 Pandas doesn't work in isolation. It is the "bridge" that connects our entire technical stack:
 
 1.  **Data Source**: Raw JSON/CSV data is loaded into a **Pandas DataFrame**.
-2.  **Engineering**: We use Pandas to calculate Greeks, Z-Scores, and GEX levels.
+2.  **Engineering**: We use Pandas to calculate Greeks, Z-Scores, and GEX levels. It is the core engine for identifying [Statistical Arbitrage opportunities](/blog/statistical-arbitrage-mean-reversion-trading) by calculating co-integration and mean-reversion signals across multiple asset classes.
 3.  **Visualization**: The cleaned DataFrame is passed directly to **Plotly** to render interactive charts.
 4.  **Deployment**: **Streamlit** uses the Pandas state to update the UI reactively as new market data flows in.
 
