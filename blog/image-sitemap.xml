@@ -118,7 +118,7 @@
     <loc>https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/c++.webp</image:loc>
-      <image:caption><![CDATA[Explore C++ in Quantitative Finance. Learn why low-latency execution and high-performance computing are critical for high-frequency trading systems.]]></image:caption>
+      <image:caption><![CDATA[Engineer ultra-low latency trading systems with C++. Learn how manual memory management, zero-overhead abstractions, and direct hardware interaction drive the world's most sophisticated HFT engines.]]></image:caption>
       <image:title><![CDATA[C++ for Finance: The Bedrock of Low Latency Systems]]></image:title>
     </image:image>
   </url>
@@ -142,7 +142,7 @@
     <loc>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/html-css.webp</image:loc>
-      <image:caption><![CDATA[Master HTML and CSS for Fintech UI/UX. Learn to craft intuitive, fast, and professional trading interfaces that empower quantitative analysts.]]></image:caption>
+      <image:caption><![CDATA[Design high-stakes financial interfaces with HTML5 and CSS3. Learn how to engineer data-dense dashboards that prioritize clarity, accessibility, and split-second decision-making.]]></image:caption>
       <image:title><![CDATA[HTML & CSS in Fintech: Pro Trading UI]]></image:title>
     </image:image>
   </url>
@@ -150,7 +150,7 @@
     <loc>https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/julia.webp</image:loc>
-      <image:caption><![CDATA[Explore Julia for Finance and high-performance computing. Accelerate your quantitative models and pricing algorithms with this modern language.]]></image:caption>
+      <image:caption><![CDATA[Solve the 'Two-Language Problem' with Julia. Learn how this high-performance language combines the ease of Python with the raw speed of C++ for Monte Carlo simulations and stochastic modeling.]]></image:caption>
       <image:title><![CDATA[Julia for Finance: High-Performance Quant Research]]></image:title>
     </image:image>
   </url>
@@ -214,7 +214,7 @@
     <loc>https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/python.webp</image:loc>
-      <image:caption><![CDATA[Leverage Python for Finance. Master quantitative analysis, data manipulation, and algorithmic trading using pandas, numpy, and machine learning.]]></image:caption>
+      <image:caption><![CDATA[Master modern quantitative analysis with Python. Learn how to leverage Pandas, NumPy, and Scikit-learn for algorithmic trading, risk management, and financial data automation.]]></image:caption>
       <image:title><![CDATA[Python for Finance: Modern Quant Analysis]]></image:title>
     </image:image>
   </url>
