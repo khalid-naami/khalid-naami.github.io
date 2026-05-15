@@ -38,7 +38,7 @@ You cannot talk about Scala in finance without talking about **Apache Spark**. W
 
 *   **Massive Data Pipelines**: Financial institutions use Scala/Spark to process decades of historical tick data for backtesting and quantitative research.
 *   **Real-Time Analytics**: Using Spark Streaming with Scala allows for real-time fraud detection and liquidity analysis, providing a level of insight that traditional databases simply cannot match.
-*   **Performance Edge**: Because Scala runs natively on the JVM and is statically typed, its performance in large-scale data transformations is significantly faster than interpreted alternatives.
+*   **Performance Edge**: Because Scala runs natively on the JVM and is statically typed, its performance in large-scale data transformations is significantly faster than interpreted alternatives. For the absolute highest speeds required in HFT, it is often paired with [low-latency C++ systems](/blog/c-plus-plus-quantitative-finance-low-latency-guide) or [high-performance Julia algorithms](/blog/julia-for-finance-high-performance-computing-guide).
 
 ## Building Resilient Financial Infrastructure
 
