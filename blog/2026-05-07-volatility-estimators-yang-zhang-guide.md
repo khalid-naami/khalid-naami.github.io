@@ -63,7 +63,7 @@ Yang and Zhang realized that total volatility is the sum of three components:
 2.  **Open-to-Close Volatility**: The movement within the trading day.
 3.  **The Weighted OHLC Range**: Integrating the Rogers-Satchell drift-independent logic.
 
-By merging these, Yang-Zhang provides a measure that is up to **14 times more efficient** than the simple close-to-close standard deviation. It is the comprehensive benchmark used by modern institutional quants to understand the true underlying risk of an asset.
+By merging these, Yang-Zhang provides a measure that is up to **14 times more efficient** than the simple close-to-close standard deviation. Implementing these models requires high-performance computing; at Dashboard Options, we rely on the [NumPy computational engine](/blog/numpy-fintech-computational-engine-finance) and [Pandas data engineering](/blog/pandas-finance-high-performance-data-engineering) to process these OHLC models in real-time.
 
 ## The Bottom Line
 
