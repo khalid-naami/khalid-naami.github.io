@@ -1,6 +1,6 @@
 ---
 title: "Pandas for Finance: High-Performance Data Engineering"
-description: "Master financial data engineering with Pandas. Learn how to process millions of market data points using vectorization, time-series alignment, and rolling window optimizations."
+description: "Master financial data engineering with Pandas. Process millions of market data points using vectorization, time-series alignment, and window optimizations."
 authors: [khalid]
 tags: [Science & Technology, Pandas, Python, Data Science, Fintech, Quantitative Analysis]
 keywords: [Pandas Finance, Python Data Analysis, Financial Timeseries, High Performance Computing, Quantitative Finance, Data Engineering, Vectorization, Data Alignment, Rolling Windows, Timeseries Handling, Khalid Naami]
