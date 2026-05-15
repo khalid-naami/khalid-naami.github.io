@@ -1,6 +1,6 @@
 ---
 title: "Market Dynamics: Efficiency, Momentum & Mean Reversion"
-description: "Deconstruct the physics of the market. Explore the Efficient Market Hypothesis (EMH) and learn how supply/demand imbalances drive the cycles of momentum and mean reversion."
+description: "Deconstruct market physics. Explore the Efficient Market Hypothesis (EMH) and learn how supply/demand imbalances drive momentum and mean reversion cycles."
 authors: [khalid]
 tags: [Daily Analysis, Market Dynamics, Efficient Market, Momentum, Mean Reversion, options]
 keywords: [Efficient Market Hypothesis, EMH, Momentum Trading, Mean Reversion, Supply and Demand, Market Dynamics, Reflexivity, George Soros, Adaptive Markets, Quantitative Finance, Khalid Naami]
