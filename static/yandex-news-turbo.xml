@@ -3131,7 +3131,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
                 <![CDATA[
                     <header>
                         <h1>NumPy in Fintech: The Computational Engine of Finance</h1>
-                        <figure><img src="https://khalidnaami.com/img/numpy.webp" /></figure>
+                        <figure><img src="https://khalidnaami.com/img/numpy-v2.webp" /></figure>
                     </header>
                     <h1>NumPy in Fintech: The Computational Engine of Finance</h1>
 <p>While Pandas provides the structure and Plotly provides the vision, <strong>NumPy</strong> (Numerical Python) provides the raw, unadulterated power. In the world of quantitative finance, where we must calculate complex Greek sensitivities and run thousands of simulations in the blink of an eye, NumPy is the invisible engine that makes it all possible.</p>
@@ -3157,7 +3157,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
 <li><strong>Plotly/Matplotlib</strong>: Takes the NumPy results and renders them into visual intelligence (the Dashboard).</li>
 </ol>
 <p>When combined with <strong>Streamlit</strong>, this stack allows us to serve institutional-grade analytics to a global audience with zero latency.</p>
-<p><img src="https://khalidnaami.com/img/numpy.webp" alt="NumPy Computational Power"></p>
+<p><img src="https://khalidnaami.com/img/numpy-v2.webp" alt="NumPy Computational Power"></p>
 <p><em>NumPy provides the mathematical foundation for every complex model in our dashboard.</em></p>
 <h2>Conclusion</h2>
 <p>NumPy is the bedrock of modern scientific computing in Python. By leveraging its power, we ensure that our analysis is not just accurate, but fast enough to keep up with the volatility of the markets. At <strong>Dashboard Options</strong>, NumPy is the force that turns complex math into trading opportunities.</p>
