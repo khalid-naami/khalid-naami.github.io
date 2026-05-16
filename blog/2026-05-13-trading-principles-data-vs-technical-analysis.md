@@ -48,7 +48,6 @@ Traditional TA might see "resistance" at a certain price point, but our Dashboar
 
 Trading is a game of probabilities, not certainties. By shifting your focus from subjective chart patterns to objective quantitative data—including the use of [advanced volatility estimators](/blog/volatility-log-returns-yang-zhang-estimator-guide) to measure true market risk—you stop guessing and start calculating. Master your principles, manage your risk, and let the data be your edge.
 
-![Bernard Baruch Trading Wisdom](/img/bernard-baruch.webp)
 
 _“The main purpose of the stock market is to make fools of as many men as possible.” — Bernard Baruch. Don't be one of them. Use data._
 
