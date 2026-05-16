@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
           <div className="col col--8 col--offset-2">
             <h1>Privacy Policy</h1>
             <p className="description" style={{ color: 'var(--ifm-color-emphasis-600)', marginBottom: '2rem' }}>
-              Last Updated: April 15, 2026
+              Last Updated: May 15, 2026
             </p>
 
             <section className="margin-bottom--lg">
@@ -52,6 +52,15 @@ export default function PrivacyPolicy() {
                 Google, as a third-party vendor, may use cookies to serve ads on our site. Google's use of the DART cookie enables it 
                 to serve ads to users based on their visit to our site and other sites on the Internet. 
                 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+              </p>
+            </section>
+
+            <section className="margin-bottom--lg">
+              <h2>GDPR & CCPA Rights</h2>
+              <p>
+                Depending on your location, you have the right to access the personal information we hold about you and to ask 
+                that your personal information be corrected, updated, or deleted. If you would like to exercise this right, 
+                please contact us via the information provided below.
               </p>
             </section>
 
