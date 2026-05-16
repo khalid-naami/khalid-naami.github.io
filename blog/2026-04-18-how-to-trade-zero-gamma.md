@@ -20,14 +20,14 @@ Often referred to as the 'Gamma Flip,' this is the exact price level where the a
 
 ## What is the Zero Gamma Line?
 
-To trade it, we must define it. Gamma Exposure (GEX) is the total amount of hedging required by option dealers (market makers). 
+To trade it, we must define it. <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>) is the total amount of hedging required by option dealers (market makers). 
 
 *   When GEX is **Positive**, dealers buy dips and sell rips. This suppresses volatility.
 *   When GEX is **Negative**, dealers sell dips and buy rips. This accelerates volatility.
 
 The **Zero Gamma Line** is the exact price threshold where dealer exposure equals zero. It is the boundary line between the two regimes. When an asset crosses this line, the fundamental behavior of the market changes instantly.
 
-## Strategy 1: The Zero-Line Bounce (Mean Reversion)
+## Strategy 1: The Zero-Line Bounce (<a href="/blog/modern-market-strategies-mastering-mean-reversion" target="_blank">Mean Reversion</a>)
 
 When the market is broadly in a positive Gamma regime, it tends to be \"sticky.\" It moves slowly upward or trades sideways. 
 
