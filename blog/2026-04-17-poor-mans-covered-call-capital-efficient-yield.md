@@ -69,4 +69,4 @@ Just as with the traditional Covered Call, the placement of the short strike dic
 
 The Poor Man's Covered Call is the ultimate expression of capital efficiency. It allows a trader to diversify their portfolio by gaining exposure to expensive, high-quality assets without locking up massive amounts of liquidity.
 
-By understanding the exponential nature of Theta decay and utilizing Gamma Exposure (GEX) to defend the short strikes, the strategic analyst transforms a simple spread into a high-leverage yield engine.
+By understanding the exponential nature of Theta decay and utilizing <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>) to defend the short strikes, the strategic analyst transforms a simple spread into a high-leverage yield engine.
