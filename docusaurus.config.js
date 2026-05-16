@@ -464,6 +464,8 @@ module.exports = async function createConfig() {
                     else if (tags.includes('Global Economy')) schemaType = 'NewsArticle';
                     else if (tags.includes('Science & Technology')) schemaType = 'TechArticle';
                     else if (tags.includes('Dashboard Options')) schemaType = 'TechArticle';
+                    else if (tags.includes('Facts and events')) schemaType = 'Report';
+                    else if (tags.includes('Breaking news')) schemaType = 'NewsArticle';
                     else schemaType = 'BlogPosting';
                   }
 
