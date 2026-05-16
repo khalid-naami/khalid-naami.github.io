@@ -71,7 +71,6 @@ The pipeline for a mean reversion trade follows a precise sequence:
 
 Mastering mean reversion requires discipline and a deep understanding of market mechanics. It is a strategy of patience—waiting for the market to become irrational and then positioning yourself for the inevitable return to sanity. As we continue to develop more advanced analytical tools at **Dashboard Options**, our goal remains the same: to provide you with the mathematical edge needed to navigate the gravity of the markets.
 
-![Modern Mean Reversion Strategies](/img/modern-market-strategies-mean-reversion.webp)
 
 _Don't chase the noise. Trade the gravity. Discover the power of mean reversion with Dashboard Options._
 
