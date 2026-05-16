@@ -22,7 +22,7 @@ For the uneducated retail trader, Negative Gamma is a chaotic nightmare. For the
 
 In a Positive Gamma regime, market makers stabilize the market by trading *against* the trend (buying dips, selling rips). In a Negative Gamma regime, their positioning is completely flipped.
 
-When the aggregate dealer Gamma Exposure (GEX) falls below zero, market makers find themselves short Gamma. This creates a terrifying feedback loop for them, but an incredible opportunity for you. 
+When the aggregate dealer <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>) falls below zero, market makers find themselves short Gamma. This creates a terrifying feedback loop for them, but an incredible opportunity for you. 
 *   **As the market drops:** Their Delta becomes increasingly positive (meaning they are losing money). To hedge, they are mechanically forced to **short sell** the underlying asset. This selling pushes the price even lower, forcing them to short even more.
 *   **As the market rallies:** Their Delta becomes negative. To hedge, they are forced to **buy** the underlying asset, fueling rapid, violent short-covering rallies.
 
