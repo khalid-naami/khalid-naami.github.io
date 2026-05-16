@@ -1,6 +1,7 @@
 /* eslint-disable react/no-danger */
 import React from 'react';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 import CustomBlogList from '../../components/Blog/CustomBlogList';
 
 export default function BlogListPageWrapper(props) {
@@ -48,6 +49,54 @@ export default function BlogListPageWrapper(props) {
       description={metadata?.blogDescription || 'Blog posts'}
       noFooter={false}
     >
+      <Head>
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": "Khalid Naami's Blog & Strategic Analysis",
+            "description": "Explore in-depth market insights, global macroeconomics, technology trends, political economy, geopolitics, mysterious historical events, and breaking news now.",
+            "url": "https://khalidnaami.com/blog",
+            "about": [
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Science & Technology",
+                "description": "Programming, Data Science & AI"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Dashboard Options",
+                "description": "Platform & Operations"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Daily Analysis",
+                "description": "Market Insights & Daily Strategy"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Global Economy",
+                "description": "Global Macroeconomics"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Political Economy",
+                "description": "Geopolitics & Hidden Markets"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Facts and events",
+                "description": "Mysterious Events & Historical Passages"
+              },
+              {
+                "@type": "CreativeWorkSeries",
+                "name": "Breaking news",
+                "description": "Urgent Updates & Latest Developments"
+              }
+            ]
+          })}
+        </script>
+      </Head>
       <div className="blog-wrapper blog-wrapper--no-sidebar">
         <div style={{ 
           maxWidth: '1200px', 
