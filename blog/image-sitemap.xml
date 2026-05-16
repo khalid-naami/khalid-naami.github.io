@@ -3,10 +3,18 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/polars.webp</image:loc>
+      <image:caption><![CDATA[Master high-performance data engineering with Polars. Learn how this Rust-based engine provides lightning-fast multi-threaded processing for Fintech.]]></image:caption>
+      <image:title><![CDATA[Polars in Fintech: Next-Gen High-Performance DataFrames]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance</loc>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/numpy.webp</image:loc>
-      <image:caption><![CDATA[Harness the power of Numerical Python (NumPy) for high-frequency financial modeling. Learn how vectorized operations and N-dimensional arrays drive institutional-grade quantitative analysis.]]></image:caption>
+      <image:loc>https://khalidnaami.com/img/numpy-v2.webp</image:loc>
+      <image:caption><![CDATA[Harness NumPy for high-frequency financial modeling. Use vectorized operations and N-dimensional arrays for institutional quantitative analysis.]]></image:caption>
       <image:title><![CDATA[NumPy in Fintech: The Computational Engine of Finance]]></image:title>
     </image:image>
   </url>
@@ -22,7 +30,7 @@
     <loc>https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/momentum-mean-reversion.webp</image:loc>
-      <image:caption><![CDATA[Deconstruct the physics of the market. Explore the Efficient Market Hypothesis (EMH) and learn how supply/demand imbalances drive the cycles of momentum and mean reversion.]]></image:caption>
+      <image:caption><![CDATA[Deconstruct market physics. Explore the Efficient Market Hypothesis (EMH) and learn how supply/demand imbalances drive momentum and mean reversion cycles.]]></image:caption>
       <image:title><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -30,7 +38,7 @@
     <loc>https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/modern-market-strategies-mean-reversion.webp</image:loc>
-      <image:caption><![CDATA[Master the gravity of the markets with mean reversion strategies. Learn how to combine Z-score analysis, GEX regimes, and volatility mean reversion for a statistical edge.]]></image:caption>
+      <image:caption><![CDATA[Master market gravity with mean reversion. Combine Z-score analysis, GEX regimes, and volatility mean reversion for a definitive statistical edge.]]></image:caption>
       <image:title><![CDATA[Modern Market Strategies: Mastering Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -38,7 +46,7 @@
     <loc>https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/pandas.webp</image:loc>
-      <image:caption><![CDATA[Master financial data engineering with Pandas. Learn how to process millions of market data points using vectorization, time-series alignment, and rolling window optimizations.]]></image:caption>
+      <image:caption><![CDATA[Master financial data engineering with Pandas. Process millions of market data points using vectorization, time-series alignment, and window optimizations.]]></image:caption>
       <image:title><![CDATA[Pandas for Finance: High-Performance Data Engineering]]></image:title>
     </image:image>
   </url>
@@ -46,7 +54,7 @@
     <loc>https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/plotly.webp</image:loc>
-      <image:caption><![CDATA[Master interactive financial visualization with Plotly. Learn how to build 3D volatility surfaces, real-time risk heatmaps, and dynamic GEX dashboards using the Python fintech stack.]]></image:caption>
+      <image:caption><![CDATA[Master interactive financial visualization with Plotly. Build 3D volatility surfaces, real-time risk heatmaps, and dynamic GEX dashboards using Python.]]></image:caption>
       <image:title><![CDATA[Plotly in Fintech: Interactive Data Science with Python]]></image:title>
     </image:image>
   </url>
@@ -54,7 +62,7 @@
     <loc>https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Statistical-arbitrage.webp</image:loc>
-      <image:caption><![CDATA[Master the mathematical discipline of Statistical Arbitrage (StatArb). Learn how to use cointegration, stationarity tests, and Z-score signals to exploit pricing inefficiencies.]]></image:caption>
+      <image:caption><![CDATA[Master Statistical Arbitrage (StatArb). Use cointegration, stationarity tests, and Z-score signals to exploit high-probability pricing inefficiencies.]]></image:caption>
       <image:title><![CDATA[Statistical Arbitrage: Mastering Mean Reversion]]></image:title>
     </image:image>
   </url>
@@ -62,7 +70,7 @@
     <loc>https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/streamlit-featured.webp</image:loc>
-      <image:caption><![CDATA[Build high-performance financial dashboards with Streamlit and Python. Learn how to translate complex options data into interactive 3D volatility surfaces and real-time GEX visualizations.]]></image:caption>
+      <image:caption><![CDATA[Build financial dashboards with Streamlit and Python. Translate complex options data into interactive 3D volatility surfaces and real-time GEX visuals.]]></image:caption>
       <image:title><![CDATA[Streamlit and Python: Quantitative Options Analysis]]></image:title>
     </image:image>
   </url>
@@ -70,7 +78,7 @@
     <loc>https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/bernard-baruch.webp</image:loc>
-      <image:caption><![CDATA[Master the shift from subjective chart patterns to objective quantitative data. Learn why options flows and institutional hedging create a structural edge over traditional technical analysis.]]></image:caption>
+      <image:caption><![CDATA[Master the shift to objective quantitative data. Learn why options flows and institutional hedging create a structural edge over traditional analysis.]]></image:caption>
       <image:title><![CDATA[Trading Principles: Why Data Beats Technical Analysis]]></image:title>
     </image:image>
   </url>
@@ -118,7 +126,7 @@
     <loc>https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/c++.webp</image:loc>
-      <image:caption><![CDATA[Engineer ultra-low latency trading systems with C++. Learn how manual memory management, zero-overhead abstractions, and direct hardware interaction drive the world's most sophisticated HFT engines.]]></image:caption>
+      <image:caption><![CDATA[Engineer ultra-low latency trading systems with C++. Learn how manual memory, zero-overhead abstractions, and direct hardware drive sophisticated HFT engines.]]></image:caption>
       <image:title><![CDATA[C++ for Finance: The Bedrock of Low Latency Systems]]></image:title>
     </image:image>
   </url>
@@ -126,7 +134,7 @@
     <loc>https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Fair%20Bet%20and%20Kelly.webp</image:loc>
-      <image:caption><![CDATA[Master the mathematics of wealth creation with the Kelly Criterion. Learn how to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin.]]></image:caption>
+      <image:caption><![CDATA[Master wealth creation with the Kelly Criterion. Learn to calculate optimal position sizing to maximize long-term growth and prevent the risk of ruin.]]></image:caption>
       <image:title><![CDATA[Fair Bets & Kelly Criterion: Mastering Position Sizing]]></image:title>
     </image:image>
   </url>
@@ -134,7 +142,7 @@
     <loc>https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/probability.webp</image:loc>
-      <image:caption><![CDATA[Master the mathematics of uncertainty with stochastic risk management. Learn how to transition from a deterministic mindset to a probabilistic statistical edge in financial markets.]]></image:caption>
+      <image:caption><![CDATA[Master uncertainty with stochastic risk management. Transition from a deterministic mindset to a probabilistic statistical edge in financial markets.]]></image:caption>
       <image:title><![CDATA[The Game of Probabilities: Stochastic Processes]]></image:title>
     </image:image>
   </url>
@@ -142,7 +150,7 @@
     <loc>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/html-css.webp</image:loc>
-      <image:caption><![CDATA[Design high-stakes financial interfaces with HTML5 and CSS3. Learn how to engineer data-dense dashboards that prioritize clarity, accessibility, and split-second decision-making.]]></image:caption>
+      <image:caption><![CDATA[Design financial interfaces with HTML5 and CSS3. Engineer data-dense dashboards that prioritize clarity, accessibility, and split-second decision-making.]]></image:caption>
       <image:title><![CDATA[HTML & CSS in Fintech: Pro Trading UI]]></image:title>
     </image:image>
   </url>
@@ -150,7 +158,7 @@
     <loc>https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/julia.webp</image:loc>
-      <image:caption><![CDATA[Solve the 'Two-Language Problem' with Julia. Learn how this high-performance language combines the ease of Python with the raw speed of C++ for Monte Carlo simulations and stochastic modeling.]]></image:caption>
+      <image:caption><![CDATA[Solve the 'Two-Language Problem' with Julia. Combine Python's ease with C++ speed for high-performance Monte Carlo simulations and stochastic modeling.]]></image:caption>
       <image:title><![CDATA[Julia for Finance: High-Performance Quant Research]]></image:title>
     </image:image>
   </url>
@@ -158,7 +166,7 @@
     <loc>https://khalidnaami.com/blog/r-language-for-financial-data-science-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/data-science-R.webp</image:loc>
-      <image:caption><![CDATA[Master financial data science with R. Learn how to leverage the CRAN ecosystem for institutional-grade econometrics, portfolio optimization, and advanced statistical risk modeling.]]></image:caption>
+      <image:caption><![CDATA[Master financial data science with R. Use the CRAN ecosystem for institutional-grade econometrics, portfolio optimization, and advanced risk modeling.]]></image:caption>
       <image:title><![CDATA[R for Finance: Statistical Powerhouse of Quant Research]]></image:title>
     </image:image>
   </url>
@@ -166,7 +174,7 @@
     <loc>https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/react-js.webp</image:loc>
-      <image:caption><![CDATA[Build high-performance trading interfaces with React.js. Learn how component-based architecture and Virtual DOM optimizations drive reactive, institutional-grade financial web applications.]]></image:caption>
+      <image:caption><![CDATA[Build high-performance trading interfaces with React.js. Use component-based architecture and Virtual DOM for institutional financial web applications.]]></image:caption>
       <image:title><![CDATA[React.js Fintech: Scalable Trading Dashboards]]></image:title>
     </image:image>
   </url>
@@ -174,7 +182,7 @@
     <loc>https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/VaR-Beta-Sharpe-Sortino.webp</image:loc>
-      <image:caption><![CDATA[Quantify your trading performance with essential risk metrics. Learn how to benchmark your portfolio using VaR, Beta, and risk-adjusted return ratios like Sharpe and Sortino.]]></image:caption>
+      <image:caption><![CDATA[Quantify trading performance with essential risk metrics. Benchmark your portfolio using VaR, Beta, and risk-adjusted ratios like Sharpe and Sortino.]]></image:caption>
       <image:title><![CDATA[Risk Metrics 101: VaR, Beta, Sharpe & Sortino]]></image:title>
     </image:image>
   </url>
@@ -182,7 +190,7 @@
     <loc>https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/Scala.webp</image:loc>
-      <image:caption><![CDATA[Engineer resilient financial systems with Scala. Learn how to leverage functional programming, the JVM, and Apache Spark to build high-concurrency trading pipelines and big data analytics.]]></image:caption>
+      <image:caption><![CDATA[Engineer resilient financial systems with Scala. Use functional programming, JVM, and Spark for high-concurrency trading pipelines and big data analytics.]]></image:caption>
       <image:title><![CDATA[Scala for Finance: Functional Programming in Trading]]></image:title>
     </image:image>
   </url>
@@ -190,7 +198,7 @@
     <loc>https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/volatility.webp</image:loc>
-      <image:caption><![CDATA[Master the mathematics of risk with the Yang-Zhang volatility estimator. Learn how quantitative analysts decode market uncertainty from simple log-returns to institutional-grade OHLC models.]]></image:caption>
+      <image:caption><![CDATA[Master risk with the Yang-Zhang volatility estimator. Decode market uncertainty from simple log-returns to high-fidelity institutional-grade OHLC models.]]></image:caption>
       <image:title><![CDATA[Volatility: Log-Returns to Yang-Zhang]]></image:title>
     </image:image>
   </url>
@@ -198,7 +206,7 @@
     <loc>https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/javas.webp</image:loc>
-      <image:caption><![CDATA[Power real-time financial visualization with JavaScript. Learn how to leverage WebSockets, asynchronous programming, and D3.js to build high-performance trading dashboards and interactive heatmaps.]]></image:caption>
+      <image:caption><![CDATA[Power real-time financial visualization with JavaScript. Use WebSockets, async patterns, and D3.js to build high-performance trading dashboards and heatmaps.]]></image:caption>
       <image:title><![CDATA[JavaScript in Finance: Real-Time Dashboards]]></image:title>
     </image:image>
   </url>
@@ -214,7 +222,7 @@
     <loc>https://khalidnaami.com/blog/python-for-finance-data-analysis-guide</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/python.webp</image:loc>
-      <image:caption><![CDATA[Master modern quantitative analysis with Python. Learn how to leverage Pandas, NumPy, and Scikit-learn for algorithmic trading, risk management, and financial data automation.]]></image:caption>
+      <image:caption><![CDATA[Master modern quantitative analysis with Python. Use Pandas, NumPy, and Scikit-learn for algorithmic trading, risk management, and financial data automation.]]></image:caption>
       <image:title><![CDATA[Python for Finance: Modern Quant Analysis]]></image:title>
     </image:image>
   </url>
@@ -403,7 +411,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-expansion</loc>
+    <loc>https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-acceleration</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/negative-gamma-v2.webp</image:loc>
       <image:caption><![CDATA[Learn how to trade Negative Gamma environments. Capitalize on volatility expansion and price swings when market maker hedging accelerates moves.]]></image:caption>
@@ -419,7 +427,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://khalidnaami.com/blog/how-to-trade-zero-gamma-volatility-pivot</loc>
+    <loc>https://khalidnaami.com/blog/how-to-trade-zero-gamma-market-inflection</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/zero-gex-v2.webp</image:loc>
       <image:caption><![CDATA[Learn how to trade the Zero Gamma level as a critical volatility pivot. Master the transition zones where market makers amplify price momentum.]]></image:caption>
