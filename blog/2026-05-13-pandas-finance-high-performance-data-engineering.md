@@ -54,7 +54,6 @@ Pandas doesn't work in isolation. It is the "bridge" that connects our entire te
 3.  **Visualization**: The cleaned DataFrame is passed directly to **Plotly** to render interactive charts.
 4.  **Deployment**: **Streamlit** uses the Pandas state to update the UI reactively as new market data flows in.
 
-![Pandas Data Engineering](/img/pandas.webp)
 
 *Pandas is the engine that transforms raw market noise into clean, actionable financial data.*
 
