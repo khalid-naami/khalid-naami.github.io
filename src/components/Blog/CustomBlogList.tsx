@@ -38,7 +38,7 @@ interface CustomBlogListProps {
   posts: BlogPost[];
 }
 
-export default function CustomBlogList({ posts }: CustomBlogListProps) {
+export default function CustomBlogList({ posts }: CustomBlogListProps): React.ReactElement {
   const history = useHistory();
   const location = useLocation();
 
@@ -91,7 +91,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
     const tagRegex = /tag:(\S+)\s/g;
     const newTags: string[] = [];
 
-    const remainingText = value.replace(tagRegex, (match, tag) => {
+    const remainingText = value.replace(tagRegex, (match: string, tag: string) => {
       if (tag && !selectedTags.includes(tag)) {
         newTags.push(tag);
       }
@@ -114,8 +114,8 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
   
   const allTags = Array.from(
     new Set(
-      posts.flatMap(post => 
-        post.metadata?.tags?.map(tag => tag.label) || []
+      posts.flatMap((post: BlogPost) => 
+        post.metadata?.tags?.map((tag: { label: string; permalink: string }) => tag.label) || []
       )
     )
   ).sort();
@@ -129,11 +129,11 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
         ...(post.metadata?.tags?.map(tag => tag.label.toLowerCase()) || [])
       ].join(' ');
       
-      return searchTerms.every(term => contentToSearch.includes(term));
+      return searchTerms.every((term: string) => contentToSearch.includes(term));
     })();
     
     const tagMatch = selectedTags.length === 0 || 
-      selectedTags.every(selectedTag => 
+      selectedTags.every((selectedTag: string) => 
         post?.metadata?.tags?.some(tag => 
           tag.label.toLowerCase() === selectedTag.toLowerCase()
         )
@@ -147,13 +147,13 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
 
   const toggleTag = (tagLabel: string) => {
     const newTags = selectedTags.includes(tagLabel)
-      ? selectedTags.filter(tag => tag !== tagLabel)
+      ? selectedTags.filter((tag: string) => tag !== tagLabel)
       : [...selectedTags, tagLabel];
     updateUrlParams({ tags: newTags });
   };
 
   const removeTag = (tagLabel: string) => {
-    const newTags = selectedTags.filter(tag => tag !== tagLabel);
+    const newTags = selectedTags.filter((tag: string) => tag !== tagLabel);
     updateUrlParams({ tags: newTags });
   };
 
@@ -210,8 +210,10 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
             { tag: 'Dashboard Options', desc: 'Platform & Operations' },
             { tag: 'Daily Analysis', desc: 'Market Insights & Daily Strategy' },
             { tag: 'Global Economy', desc: 'Global Macroeconomics' },
-            { tag: 'Political Economy', desc: 'Geopolitics & Hidden Markets' }
-          ].map(category => (
+            { tag: 'Political Economy', desc: 'Geopolitics & Hidden Markets' },
+            { tag: 'Facts and events', desc: 'Mysterious Events & Historical Passages' },
+            { tag: 'Breaking news', desc: 'Urgent Updates & Latest Developments' }
+          ].map((category: { tag: string; desc: string }) => (
             <button
               type="button"
               key={category.tag}
@@ -258,19 +260,19 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
             
             {selectedTags.length > 0 && (
               <div className={styles.activeFiltersDisplay}>
-                {selectedTags.map(tag => (
+                {selectedTags.map((tag: string) => (
                   <div
                     key={tag}
                     className={styles.activeFilterChip}
                     role="button"
                     tabIndex={0}
                     onClick={() => toggleTag(tag)}
-                    onKeyPress={(e) => { if (e.key === 'Enter') toggleTag(tag); }}
+                    onKeyPress={(e: React.KeyboardEvent) => { if (e.key === 'Enter') toggleTag(tag); }}
                   >
                     <span>{tag}</span>
                     <button 
                       type="button"
-                      onClick={(e) => { e.stopPropagation(); removeTag(tag); }}
+                      onClick={(e: React.MouseEvent) => { e.stopPropagation(); removeTag(tag); }}
                       className={styles.removeFilterButton}
                       title={`Remove ${tag} filter`}
                     >
@@ -289,7 +291,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
                 type="number"
                 id="reading-time"
                 value={minReadingTime ?? ''}
-                onChange={(e) => handleReadingTimeChange(e.target.value ? Number.parseInt(e.target.value, 10) : undefined)}
+                onChange={(e: React.ChangeEvent<HTMLInputElement>) => handleReadingTimeChange(e.target.value ? Number.parseInt(e.target.value, 10) : undefined)}
                 onKeyDown={handleReadingTimeKeyDown}
                 min="0"
                 className={styles.readingTimeInput}
@@ -301,14 +303,14 @@ export default function CustomBlogList({ posts }: CustomBlogListProps) {
       </div>
       {filteredPosts.length > 0 ? (
         <ul className={styles.postList}>
-          {filteredPosts.map((post) => (
+          {filteredPosts.map((post: BlogPost) => (
             <li className={styles.postItem} key={post.id}>
               <div className={styles.postContent}>
                 <div className={styles.postDate}>{formatDateForDisplay(post.metadata?.date)}</div>
                 
                 <div className={styles.metaContainer}>
                   <div className={styles.tagsContainer}>
-                    {post.metadata?.tags?.map((tag) => (
+                    {post.metadata?.tags?.map((tag: { label: string; permalink: string }) => (
                       <button
                         type="button"
                         key={tag.label}
