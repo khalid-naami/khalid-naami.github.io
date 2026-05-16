@@ -10,9 +10,9 @@ slug: how-dealers-use-gamma-exposure
 schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
-# How Option Dealers Use Gamma Exposure To Trade
+# How Option Dealers Use <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> To Trade
 
-Dismiss the prevailing macro narratives and earnings cycles; the actual 'structural plumbing' of contemporary markets is propelled by the mechanical hedging imperatives of options dealers. Deciphering how dealers manage their **Gamma Exposure (GEX)** is akin to visualizing the underlying source code of the market—it elucidates the rationale behind price action, independent of the news cycle.
+Dismiss the prevailing macro narratives and earnings cycles; the actual 'structural plumbing' of contemporary markets is propelled by the mechanical hedging imperatives of options dealers. Deciphering how dealers manage their **Gamma Exposure (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>)** is akin to visualizing the underlying source code of the market—it elucidates the rationale behind price action, independent of the news cycle.
 
 Understanding how these dealers use [the power of Gamma](/blog/the-power-of-gamma) to manage their books is the key to anticipating market turning points before they materialize.
 
