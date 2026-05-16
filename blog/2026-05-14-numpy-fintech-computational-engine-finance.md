@@ -49,7 +49,7 @@ NumPy does not work alone; it is part of a perfectly integrated ecosystem:
 
 When combined with **Streamlit**, this stack allows us to serve institutional-grade analytics to a global audience with zero latency.
 
-![NumPy Computational Power](/img/numpy.webp)
+![NumPy Computational Power](/img/numpy-v2.webp)
 
 *NumPy provides the mathematical foundation for every complex model in our dashboard.*
 
