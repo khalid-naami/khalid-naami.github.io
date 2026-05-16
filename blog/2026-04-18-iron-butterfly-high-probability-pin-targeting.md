@@ -54,9 +54,9 @@ Retail traders often use Iron Butterflies to blindly bet that a stock won't move
 ### The Positive Gamma Prerequisite
 The Iron Butterfly requires a "sticky" market. Therefore, it should exclusively be deployed in a **Positive Gamma Regime**. In this environment, Option Dealers are actively buying dips and selling rips, suppressing volatility and trapping the underlying asset in a tight range. This mechanical dealer hedging does the work of keeping the price inside the "tent" of your Butterfly.
 
-### Targeting the "Pin" via 0DTE GEX
+### Targeting the "Pin" via 0DTE <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>
 In the modern landscape of Zero Days to Expiration (0DTE) options, the Iron Butterfly is the weapon of choice for trading the intraday "Pin."
-If intraday Gamma Exposure (GEX) data reveals a monolithic concentration of Gamma at the $510 strike for SPY, a quantitative analyst knows that dealers will actively hedge to push the closing price toward $510. By centering an Iron Butterfly exactly at $510 a few hours before the close, the trader collects a massive premium and uses the institutional dealer flow to guide the price directly into their maximum profit zone.
+If intraday <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (GEX) data reveals a monolithic concentration of Gamma at the $510 strike for SPY, a quantitative analyst knows that dealers will actively hedge to push the closing price toward $510. By centering an Iron Butterfly exactly at $510 a few hours before the close, the trader collects a massive premium and uses the institutional dealer flow to guide the price directly into their maximum profit zone.
 
 ## Conclusion
 
