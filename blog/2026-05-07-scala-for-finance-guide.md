@@ -34,7 +34,7 @@ At its core, Scala (Scalable Language) was designed to address the limitations o
 
 ## The King of Big Data: Apache Spark
 
-You cannot talk about Scala in finance without talking about **Apache Spark**. While Spark has APIs for Python and R, it was built in Scala, and it is where the language truly shines.
+You cannot talk about Scala in finance without talking about **Apache Spark**. While Spark has APIs for <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> and R, it was built in Scala, and it is where the language truly shines.
 
 *   **Massive Data Pipelines**: Financial institutions use Scala/Spark to process decades of historical tick data for backtesting and quantitative research.
 *   **Real-Time Analytics**: Using Spark Streaming with Scala allows for real-time fraud detection and liquidity analysis, providing a level of insight that traditional databases simply cannot match.
