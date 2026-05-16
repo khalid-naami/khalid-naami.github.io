@@ -30,7 +30,6 @@ Many retail traders confuse correlation with cointegration. Two assets can be hi
 
 Mathematically, if we have two non-stationary price series, $X$ and $Y$, they are cointegrated if a linear combination of them exists that is stationary. This stationary series is our "Spread," and it is the foundation of our mean reversion strategy.
 
-![Statistical Arbitrage Framework](/img/Statistical-arbitrage.webp)
 
 *The StatArb pipeline: From data ingestion to cointegration testing and signal execution.*
 
