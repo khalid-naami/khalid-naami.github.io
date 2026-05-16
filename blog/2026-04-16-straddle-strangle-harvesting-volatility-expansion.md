@@ -55,7 +55,7 @@ When you buy a Straddle, you are betting that the market's expectation of future
 
 The primary enemy of these strategies is **Theta** (time decay). Because you are purchasing two options, you are suffering double the normal Theta decay. If the market consolidates and IV drops (the "IV Crush"), your position will bleed capital rapidly. Therefore, academic traders never hold a long Straddle into expiration unless the position is already deeply profitable.
 
-## Strategic Implementation via Gamma Exposure (GEX)
+## Strategic Implementation via <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>)
 
 Deploying a Straddle randomly is a mathematically losing proposition due to Theta decay. You must use institutional metrics to time the explosion.
 
