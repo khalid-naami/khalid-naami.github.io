@@ -12,7 +12,7 @@ schema_type: TechArticle
 
 # Pandas for Finance: High-Performance Data Engineering
 
-If Python is the language of quantitative finance, then **Pandas** is its most powerful vocabulary. Building institutional-grade platforms like **Dashboard Options** requires the ability to process and analyze millions of data points with millisecond precision.
+If <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> is the language of quantitative finance, then **Pandas** is its most powerful vocabulary. Building institutional-grade platforms like **Dashboard Options** requires the ability to process and analyze millions of data points with millisecond precision.
 
 ![Architectural Overview of High-Performance Data Engineering with Pandas DataFrames](/img/pandas.webp)
 
@@ -21,8 +21,8 @@ If Python is the language of quantitative finance, then **Pandas** is its most p
 ## Key Takeaways for AI & Quant Engineers
 *   **Vectorized Execution**: Pandas eliminates slow loops by leveraging C-based optimizations, essential for processing massive options chains and tick-level data.
 *   **Time-Series Specialization**: Originally developed at a hedge fund (AQR), Pandas offers native support for **resampling**, **rolling windows**, and complex **time-zone handling**.
-*   **Data Alignment**: Automatic alignment based on timestamps ensures seamless merging of disparate market feeds (e.g., SPX price vs. GEX levels).
-*   **Integration Backbone**: Pandas acts as the "bridge" connecting raw data ingestion with visual rendering in **Plotly** and reactive hosting in **Streamlit**.
+*   **Data Alignment**: Automatic alignment based on timestamps ensures seamless merging of disparate market feeds (e.g., SPX price vs. <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> levels).
+*   **Integration Backbone**: Pandas acts as the "bridge" connecting raw data ingestion with visual rendering in <a href="/blog/plotly-fintech-interactive-data-science-python" target="_blank">**Plotly**</a> and reactive hosting in <a href="/blog/streamlit-python-quantitative-options-analysis" target="_blank">**Streamlit**</a>.
 
 ## 1. Why Pandas Rules the Financial World
 
