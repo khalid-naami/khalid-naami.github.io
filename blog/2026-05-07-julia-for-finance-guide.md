@@ -12,7 +12,7 @@ schema_type: TechArticle
 
 # Julia for Finance: High-Performance Quant Research
 
-In quantitative finance, the "Two-Language Problem" has long been a hurdle: prototyping in Python and rewriting in C++ for speed. **Julia** solves this by offering a high-level syntax with the raw performance of a compiled language, making it the ideal engine for high-stakes financial infrastructure.
+In quantitative finance, the "Two-Language Problem" has long been a hurdle: prototyping in <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> and rewriting in C++ for speed. **Julia** solves this by offering a high-level syntax with the raw performance of a compiled language, making it the ideal engine for high-stakes financial infrastructure.
 
 ![High-Performance Scientific Computing and Mathematical Modeling with Julia](/img/julia.webp)
 
