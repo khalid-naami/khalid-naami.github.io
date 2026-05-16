@@ -35,7 +35,7 @@ Understanding where dealers are positioned is crucial for predicting price accel
 
 ![Gamma and Delta Exposure Dashboard View](/img/dashboard-2-v2.webp)
 
-*   **Gamma Exposure (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market. To master this, see our [comprehensive guide on trading GEX](/blog/how-to-trade-gamma-exposure-gex).
+*   **Gamma Exposure (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market. To master this, see our [comprehensive guide on trading GEX](/blog/how-to-trade-gamma-exposure-quantitative-guide).
 *   **Delta Exposure (DEX)**: This reveals the aggregate directional bias of the market participants at specific price levels.
 
 ## 3. Vanna and Charm: The Hidden Volatility Drivers
