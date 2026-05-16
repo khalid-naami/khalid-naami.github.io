@@ -3,6 +3,22 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/numba-python-high-speed-data-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/numba.webp</image:loc>
+      <image:caption><![CDATA[Discover how Numba transforms Python and NumPy into high-performance engines for data analysis, delivering near C-level speeds for quantitative workflows.]]></image:caption>
+      <image:title><![CDATA[Numba: Accelerating Python for High-Speed Data Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/scipy-python-scientific-computing-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/scipy.webp</image:loc>
+      <image:caption><![CDATA[Explore how SciPy powers scientific computing and advanced data analysis in Python, providing essential algorithms for optimization, stats, and integration.]]></image:caption>
+      <image:title><![CDATA[SciPy: The Engine for Scientific Computing in Python]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/polars.webp</image:loc>

@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/numba-python-high-speed-data-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Numba: Accelerating Python for High-Speed Data Analysis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/numba.webp</image:loc>
+      <image:title><![CDATA[Numba: Accelerating Python for High-Speed Data Analysis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/scipy-python-scientific-computing-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[SciPy: The Engine for Scientific Computing in Python]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/scipy.webp</image:loc>
+      <image:title><![CDATA[SciPy: The Engine for Scientific Computing in Python]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames</loc>
     <news:news>
       <news:publication>
