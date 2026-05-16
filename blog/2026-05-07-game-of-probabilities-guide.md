@@ -34,7 +34,7 @@ Many retail traders treat the market this way. They believe that if an "RSI is o
 In mathematics, a **Stochastic Process** (or random process) is one where the sequence of events is governed by probability rather than certainty. While we cannot predict the exact next price of the S&P 500, we can model the *distribution* of its potential future prices.
 
 1.  **Random Walks**: The most basic stochastic model is the "Random Walk." It suggests that price changes are independent of each other.
-2.  **Mean Reversion**: A stochastic process where prices tend to return to a long-term average over time.
+2.  <a href="/blog/modern-market-strategies-mastering-mean-reversion" target="_blank">**Mean Reversion**</a>: A stochastic process where prices tend to return to a long-term average over time.
 3.  **Volatility Clustering**: The observation that large changes tend to be followed by large changes, of either sign.
 
 ## What is "Probability" Really?
