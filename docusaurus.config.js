@@ -14,7 +14,7 @@ module.exports = async function createConfig() {
   return {
     title: 'Khalid Naami',
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/zoro-favicon.png',
 
   url: 'https://khalidnaami.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -388,6 +388,7 @@ module.exports = async function createConfig() {
   clientModules: [require.resolve('./src/js/navbar-active-links.js')],
 
   plugins: [
+    /** @param {any} context */
     async function blogLlmsPlugin(context) {
       return {
         name: 'blog-llms-plugin',
@@ -500,6 +501,7 @@ module.exports = async function createConfig() {
 
           return { blogContent };
         },
+        /** @param {{content: any, outDir: string}} param0 */
         postBuild: async ({ content, outDir }) => {
           if (!content || typeof content !== 'object' || !('blogContent' in content)) {
             throw new Error('Invalid content format');
@@ -771,9 +773,11 @@ ${imageItems}
     //     domain: 'khalid-naami.github.io'
     //   }
     // ],
+    /** @param {any} context @param {any} options */
     async function myPlugin(context, options) {
       return {
         name: 'docusaurus-tailwindcss',
+        /** @param {any} postcssOptions */
         configurePostCss(postcssOptions) {
           // Appends TailwindCSS and AutoPrefixer.
           postcssOptions.plugins.push(require('tailwindcss'));
