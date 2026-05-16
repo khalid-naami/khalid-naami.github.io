@@ -27,7 +27,7 @@ The core of the dashboard features a live intraday chart for major tickers like 
 ![Intraday Price and Key Greek Levels](/img/dashboard-1-v2.webp)
 
 *   **Call Wall & Put Wall**: We identify the absolute strikes where the highest concentration of open interest sits, acting as powerful magnets or barriers for price.
-*   **Zero GEX**: This is the "pivot point" of the market. Above this level, the market is in a stable regime; below it, volatility typically expands.
+*   **Zero <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>**: This is the "pivot point" of the market. Above this level, the market is in a stable regime; below it, volatility typically expands.
 
 ## 2. Gamma and Delta: The Pillars of Exposure
 
@@ -35,7 +35,7 @@ Understanding where dealers are positioned is crucial for predicting price accel
 
 ![Gamma and Delta Exposure Dashboard View](/img/dashboard-2-v2.webp)
 
-*   **Gamma Exposure (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market. To master this, see our [comprehensive guide on trading GEX](/blog/how-to-trade-gamma-exposure-quantitative-guide).
+*   **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (GEX)**: We show you exactly which strikes will cause the most hedging activity as price moves. High GEX strikes act as "sticky" points for the market. To master this, see our [comprehensive guide on trading GEX](/blog/how-to-trade-gamma-exposure-quantitative-guide).
 *   **Delta Exposure (DEX)**: This reveals the aggregate directional bias of the market participants at specific price levels.
 
 ## 3. Vanna and Charm: The Hidden Volatility Drivers
