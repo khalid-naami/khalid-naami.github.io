@@ -56,7 +56,7 @@ Is the current trend sustainable, or is it running on fumes? Technical analysis 
 
 *Measuring the Pulse: Analyzing the strength of the move to avoid "buying the top" or "shorting the bottom."*
 
-By combining momentum oscillators with intraday GEX shifts, we can see if the "fuel" (liquidity) is supporting the move or if the market is ready for a mean-reversion.
+By combining momentum oscillators with intraday <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> shifts, we can see if the "fuel" (liquidity) is supporting the move or if the market is ready for a mean-reversion.
 
 ## 5. The Final Verdict: Actionable Intelligence
 
