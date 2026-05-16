@@ -55,4 +55,5 @@ Because dealers are hedging *with* the trend, intraday price action in a Negativ
 
 Trading a Negative Gamma environment requires a complete psychological and strategic shift. You must abandon the comfort of selling premium and embrace the reality of Volatility Expansion.
 
-By using the deep quantitative data provided by our [Institutional Analytics](/blog/ultimate-dashboard-guide), you can identify the exact moment the market slips into Negative Gamma. When that happens, you stop fighting the storm, and you start riding it.
+By using the deep quantitative data provided by our [Institutional Analytics](/blog/ultimate-options-dashboard-guide), you can identify the exact moment the market slips into Negative Gamma. 
+When that happens, you stop fighting the storm, and you start riding it.
