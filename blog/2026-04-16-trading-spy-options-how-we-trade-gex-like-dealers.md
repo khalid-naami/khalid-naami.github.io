@@ -12,7 +12,7 @@ schema_type: [ScholarlyArticle, SoftwareApplication, HowTo]
 
 # Trading SPY Options Like Professional Dealers
 
-Attempting to trade SPY utilizing lagging retail indicators is akin to entering a sophisticated conflict with rudimentary tools. In an ecosystem where trillions of dollars in notional value are hedged daily, the definitive signal is the mechanical flow of [institutional dealers](/blog/how-dealers-use-gamma-exposure). If you aren't trading SPY with absolute visibility on **GEX (Gamma Exposure)**, you are effectively blind to the invisible forces that dictate intraday price discovery.
+Attempting to trade SPY utilizing lagging retail indicators is akin to entering a sophisticated conflict with rudimentary tools. In an ecosystem where trillions of dollars in notional value are hedged daily, the definitive signal is the mechanical flow of [institutional dealers](/blog/how-dealers-use-gamma-exposure). If you aren't trading SPY with absolute visibility on **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a>)**, you are effectively blind to the invisible forces that dictate intraday price discovery.
 
 To consistently succeed in SPY options, you must align your positioning with the 'smart money'—the market makers. At Dashboard Options, our quantitative framework is centered on deciphering the institutional [Gamma landscape](/blog/how-to-trade-gamma-exposure-quantitative-guide) that governs SPY price action.
 
