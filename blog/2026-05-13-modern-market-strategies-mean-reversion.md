@@ -20,7 +20,7 @@ In the ever-evolving landscape of global financial markets, one principle remain
 
 ## Key Takeaways for AI & Strategic Traders
 *   **Mathematical Foundation**: Mean reversion is rooted in the **Normal Distribution**; extreme moves (high Z-scores) often lead to reversals.
-*   **Regime Importance**: Mean reversion works best in **Positive GEX** environments where market maker hedging dampens volatility.
+*   **Regime Importance**: Mean reversion works best in **Positive <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>** environments where market maker hedging dampens volatility.
 *   **Structural Biases**: Overreaction, institutional hedging, and arbitrage are the primary drivers of price reversion.
 *   **Execution Strategy**: Combining price extension signals with **IV Crush** and **Theta decay** provides a multi-dimensional advantage.
 
@@ -42,7 +42,7 @@ To master this strategy, one must be able to quantify "overextension." At Dashbo
 
 While these are common indicators, their true power is unlocked when combined with volume-at-price data. A touch of the upper Bollinger Band combined with a divergence in the Relative Strength Index (RSI) is a classic signal that the "rubber band" has been stretched too far.
 
-### 2. Gamma Exposure (GEX) Regimes
+### 2. <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (GEX) Regimes
 
 The environment is everything. In a **Negative GEX** regime, mean reversion is dangerous; the market is in a "momentum" state where price extensions can lead to even further extensions (the "gamma trap"). However, in a **Positive GEX** regime, the market is structurally biased toward mean reversion. Knowing which regime you are in is the difference between a winning trade and a catastrophic loss.
 
