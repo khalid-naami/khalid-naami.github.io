@@ -49,7 +49,7 @@ The Covered Call is a **negative Vega** strategy. You want to deploy this strate
 
 Retail investors often sell Covered Calls blindly, arbitrarily picking strikes based on arbitrary percentage gains. This is a highly inefficient approach that often leads to shares being called away at the worst possible time. 
 
-Academic traders use **Gamma Exposure (GEX)** provided by **Dashboard Options** to mathematically place their short strikes.
+Academic traders use **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>)** provided by **Dashboard Options** to mathematically place their short strikes.
 
 ### Targeting Gamma Walls (The Institutional Ceiling)
 When executing a Covered Call, you generally want to keep your shares while collecting the premium. Therefore, you must place your short strike at a level the market is mathematically unlikely to breach.
