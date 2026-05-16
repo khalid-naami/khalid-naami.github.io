@@ -10,7 +10,7 @@ date: 2026-05-13T20:00:00+00:00
 schema_type: TechArticle
 ---
 
-# Statistical Arbitrage: Mastering Mean Reversion
+# Statistical Arbitrage: Mastering <a href="/blog/modern-market-strategies-mastering-mean-reversion" target="_blank">Mean Reversion</a>
 
 Statistical Arbitrage (StatArb) is a mathematical discipline that exploits pricing inefficiencies between related financial instruments. Unlike simple technical analysis, StatArb relies on **Cointegration**—the "invisible leash" that ensures two assets eventually return to their historical equilibrium.
 
@@ -66,7 +66,7 @@ In StatArb, the greatest risk is **Divergence**. A cointegrated relationship can
 
 ## 6. Integration with Dashboard Options
 
-At **Dashboard Options**, we use these statistical models to filter out noise. By combining StatArb signals with **GEX (Gamma Exposure)** data, we can identify *why* a spread is diverging. If a pair is diverging but GEX is extremely positive, dealer hedging might actually accelerate the mean reversion, providing a higher-conviction entry point.
+At **Dashboard Options**, we use these statistical models to filter out noise. By combining StatArb signals with **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a>)** data, we can identify *why* a spread is diverging. If a pair is diverging but GEX is extremely positive, dealer hedging might actually accelerate the mean reversion, providing a higher-conviction entry point.
 
 ## Conclusion: From Theory to Profit
 
