@@ -48,7 +48,7 @@ The Butterfly is a negative Vega strategy. Because you are net short premium at 
 
 ## Strategic Implementation: Hunting the "Pin"
 
-Deploying a Butterfly Spread randomly is mathematically suboptimal. The true power of this strategy is unlocked when it is combined with **Gamma Exposure (GEX)** analysis provided by platforms like **Dashboard Options**.
+Deploying a Butterfly Spread randomly is mathematically suboptimal. The true power of this strategy is unlocked when it is combined with **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>)** analysis provided by platforms like **Dashboard Options**.
 
 ### Trading the 0DTE Pin Risk
 In the modern era of Zero Days to Expiration (0DTE) options, intraday volume is massive. This creates massive Gamma concentrations at specific strikes. If the SPX index is trading at 5100 on the afternoon of expiration, and there is a monolithic concentration of 0DTE GEX at the 5100 strike, Option Dealers will actively hedge to \"pin\" the closing price exactly at 5100. 
