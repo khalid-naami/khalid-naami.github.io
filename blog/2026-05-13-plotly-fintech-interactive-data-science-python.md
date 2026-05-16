@@ -10,7 +10,7 @@ date: 2026-05-13T15:00:00+00:00
 schema_type: TechArticle
 ---
 
-# Plotly in Fintech: Interactive Data Science with Python
+# Plotly in Fintech: Interactive Data Science with <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a>
 
 In high-stakes finance, static charts are obsolete. When dealing with multidimensional data like options Greeks and implied volatility surfaces, traders need interactive tools. **Plotly**, built on D3.js and WebGL, provides the foundation for translating complex models into actionable visual intelligence.
 
@@ -28,7 +28,7 @@ In high-stakes finance, static charts are obsolete. When dealing with multidimen
 
 Financial data is rarely linear. A single stock price is just the tip of the iceberg; beneath it lies a vast sea of derivatives data, liquidity metrics, and volatility regimes. Traditional libraries like Matplotlib produce excellent static images, but Plotly allows the user to:
 
-*   **Zoom and Pan**: Investigate specific micro-moves in intraday GEX charts.
+*   **Zoom and Pan**: Investigate specific micro-moves in intraday <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> charts.
 *   **Hover Tooltips**: Instantly see exact price levels and gamma values without cluttering the screen.
 *   **3D Surfaces**: Visualize volatility skews and term structures in a way that static 2D plots cannot capture.
 
@@ -36,9 +36,9 @@ Financial data is rarely linear. A single stock price is just the tip of the ice
 
 The true "magic" happens when Plotly is integrated into a modern web ecosystem. In our development at **Dashboard Options**, we utilize a powerful triad:
 
-1.  **Python (Pandas/NumPy)**: The engine that processes raw market data.
+1.  **Python (<a href="/blog/pandas-finance-high-performance-data-engineering" target="_blank">Pandas</a>/<a href="/blog/numpy-fintech-computational-engine-finance" target="_blank">NumPy</a>)**: The engine that processes raw market data.
 2.  **Plotly**: The visualization layer that renders the data into interactive charts.
-3.  **Streamlit**: The reactive framework that hosts these charts in a high-performance web application.
+3.  <a href="/blog/streamlit-python-quantitative-options-analysis" target="_blank">**Streamlit**</a>: The reactive framework that hosts these charts in a high-performance web application.
 
 By combining these tools, we can build dashboards that respond instantly to user input—such as changing an expiration date or filtering for a specific strike price—without the overhead of traditional web development.
 
