@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/ai-capex-off-balance-sheet-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[AI Capex Off-Balance Sheet Debt: The Next 2008-Style Crisis!]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ai-capex-off-balance-sheet-debt.webp</image:loc>
+      <image:title><![CDATA[AI Capex Off-Balance Sheet Debt: The Next 2008-Style Crisis!]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/ai-deception-flawed-iran-war-model</loc>
     <news:news>
       <news:publication>
