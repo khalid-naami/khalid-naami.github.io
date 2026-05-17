@@ -41,7 +41,7 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="SciPy" term="SciPy"/>
         <category label="Python" term="Python"/>
         <category label="NumPy" term="NumPy"/>
@@ -82,7 +82,7 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="Numba" term="Numba"/>
         <category label="Python" term="Python"/>
         <category label="NumPy" term="NumPy"/>
@@ -130,7 +130,7 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="Polars" term="Polars"/>
         <category label="Rust" term="Rust"/>
         <category label="Python" term="Python"/>
@@ -181,7 +181,7 @@
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="NumPy" term="NumPy"/>
         <category label="Python" term="Python"/>
         <category label="Data Science" term="Data Science"/>
@@ -189,7 +189,7 @@
         <category label="Quantitative Analysis" term="Quantitative Analysis"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Market Dynamics: Efficiency, Momentum & Mean Reversion]]></title>
+        <title type="html"><![CDATA[Market Dynamics: Efficiency, Momentum &amp; Mean Reversion]]></title>
         <id>https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion</id>
         <link href="https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion"/>
         <updated>2026-05-13T22:00:00.000Z</updated>
@@ -424,7 +424,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="Pandas" term="Pandas"/>
         <category label="Python" term="Python"/>
         <category label="Data Science" term="Data Science"/>
@@ -477,7 +477,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="Plotly" term="Plotly"/>
         <category label="Python" term="Python"/>
         <category label="Data Science" term="Data Science"/>
@@ -536,7 +536,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="Streamlit" term="Streamlit"/>
         <category label="Python" term="Python"/>
         <category label="Financial Engineering" term="Financial Engineering"/>
@@ -605,7 +605,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
         <category label="Market Neutrality" term="Market Neutrality"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OI & Volume Analysis: Master Options Flow and Liquidity]]></title>
+        <title type="html"><![CDATA[OI &amp; Volume Analysis: Master Options Flow and Liquidity]]></title>
         <id>https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide</id>
         <link href="https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide"/>
         <updated>2026-05-09T11:30:00.000Z</updated>
@@ -677,7 +677,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
         <category label="market-sentiment" term="market-sentiment"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technical & Historical Analysis: The Quantitative Edge]]></title>
+        <title type="html"><![CDATA[Technical &amp; Historical Analysis: The Quantitative Edge]]></title>
         <id>https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge</id>
         <link href="https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge"/>
         <updated>2026-05-09T10:10:00.000Z</updated>
@@ -827,9 +827,9 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
 <p>This is why raw notional value is misleading. It overstates your risk for OTM options and understates the impact for deep In-the-Money (ITM) positions.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="defining-delta-adjusted-exposure">Defining Delta-Adjusted Exposure<a href="https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk#defining-delta-adjusted-exposure" class="hash-link" aria-label="Direct link to Defining Delta-Adjusted Exposure" title="Direct link to Defining Delta-Adjusted Exposure">​</a></h2>
 <p><strong>Delta-Adjusted Exposure</strong> (or Delta-Adjusted Notional) is the metric that translates an options position into its "stock equivalent." It tells you exactly how many shares of the underlying stock you would need to own to have the same directional risk.</p>
-<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Delta-Adjusted&nbsp;Notional</mtext><mo>=</mo><mo stretchy="false">(</mo><mtext>Contracts</mtext><mo>×</mo><mtext>Multiplier</mtext><mo stretchy="false">)</mo><mo>×</mo><mtext>Price</mtext><mo>×</mo><mtext>Delta</mtext></mrow><annotation encoding="application/x-tex">\text{Delta-Adjusted Notional} = (\text{Contracts} \times \text{Multiplier}) \times \text{Price} \times \text{Delta}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Delta-Adjusted&nbsp;Notional</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mopen">(</span><span class="mord text"><span class="mord">Contracts</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord text"><span class="mord">Multiplier</span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em"></span><span class="mord text"><span class="mord">Price</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.6944em"></span><span class="mord text"><span class="mord">Delta</span></span></span></span></span></span>
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Delta-Adjusted&amp;nbsp;Notional</mtext><mo>=</mo><mo stretchy="false">(</mo><mtext>Contracts</mtext><mo>×</mo><mtext>Multiplier</mtext><mo stretchy="false">)</mo><mo>×</mo><mtext>Price</mtext><mo>×</mo><mtext>Delta</mtext></mrow><annotation encoding="application/x-tex">\text{Delta-Adjusted Notional} = (\text{Contracts} \times \text{Multiplier}) \times \text{Price} \times \text{Delta}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Delta-Adjusted&amp;nbsp;Notional</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mopen">(</span><span class="mord text"><span class="mord">Contracts</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord text"><span class="mord">Multiplier</span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em"></span><span class="mord text"><span class="mord">Price</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.6944em"></span><span class="mord text"><span class="mord">Delta</span></span></span></span></span></span>
 <p>Alternatively, in share terms:</p>
-<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Synthetic&nbsp;Shares</mtext><mo>=</mo><mo stretchy="false">(</mo><mtext>Contracts</mtext><mo>×</mo><mtext>Multiplier</mtext><mo stretchy="false">)</mo><mo>×</mo><mtext>Delta</mtext></mrow><annotation encoding="application/x-tex">\text{Synthetic Shares} = (\text{Contracts} \times \text{Multiplier}) \times \text{Delta}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Synthetic&nbsp;Shares</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mopen">(</span><span class="mord text"><span class="mord">Contracts</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord text"><span class="mord">Multiplier</span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.6944em"></span><span class="mord text"><span class="mord">Delta</span></span></span></span></span></span>
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Synthetic&amp;nbsp;Shares</mtext><mo>=</mo><mo stretchy="false">(</mo><mtext>Contracts</mtext><mo>×</mo><mtext>Multiplier</mtext><mo stretchy="false">)</mo><mo>×</mo><mtext>Delta</mtext></mrow><annotation encoding="application/x-tex">\text{Synthetic Shares} = (\text{Contracts} \times \text{Multiplier}) \times \text{Delta}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Synthetic&amp;nbsp;Shares</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mopen">(</span><span class="mord text"><span class="mord">Contracts</span></span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord text"><span class="mord">Multiplier</span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.6944em"></span><span class="mord text"><span class="mord">Delta</span></span></span></span></span></span>
 <p><img decoding="async" loading="lazy" alt="Delta-Adjusted Exposure Analysis" src="https://khalidnaami.com/assets/images/delta-adjusted-v2-66358546e3b2f2e71a60de0c45a98323.webp" width="1200" height="674" class="img_ev3q"></p>
 <p><em>Visualizing directional risk: Comparing raw notional values to the actual market impact across different strikes.</em></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-it-matters-for-your-portfolio">Why It Matters for Your Portfolio<a href="https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk#why-it-matters-for-your-portfolio" class="hash-link" aria-label="Direct link to Why It Matters for Your Portfolio" title="Direct link to Why It Matters for Your Portfolio">​</a></h2>
@@ -864,7 +864,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
         <category label="exposure" term="exposure"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Risk Metrics 101: VaR, Beta, Sharpe & Sortino]]></title>
+        <title type="html"><![CDATA[Risk Metrics 101: VaR, Beta, Sharpe &amp; Sortino]]></title>
         <id>https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide</id>
         <link href="https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide"/>
         <updated>2026-05-07T18:00:00.000Z</updated>
@@ -951,7 +951,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="scala" term="scala"/>
         <category label="fintech" term="fintech"/>
         <category label="big data" term="big data"/>
@@ -995,14 +995,14 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="c++" term="c++"/>
         <category label="quantitative finance" term="quantitative finance"/>
         <category label="high frequency trading" term="high frequency trading"/>
         <category label="financial infrastructure" term="financial infrastructure"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fair Bets & Kelly Criterion: Mastering Position Sizing]]></title>
+        <title type="html"><![CDATA[Fair Bets &amp; Kelly Criterion: Mastering Position Sizing]]></title>
         <id>https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide</id>
         <link href="https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
@@ -1145,7 +1145,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="julia" term="julia"/>
         <category label="high performance computing" term="high performance computing"/>
         <category label="fintech" term="fintech"/>
@@ -1189,7 +1189,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="R language" term="R language"/>
         <category label="data science" term="data science"/>
         <category label="statistical analysis" term="statistical analysis"/>
@@ -1293,14 +1293,14 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="react" term="react"/>
         <category label="react.js" term="react.js"/>
         <category label="fintech" term="fintech"/>
         <category label="web development" term="web development"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML & CSS in Fintech: Pro Trading UI]]></title>
+        <title type="html"><![CDATA[HTML &amp; CSS in Fintech: Pro Trading UI]]></title>
         <id>https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide</id>
         <link href="https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide"/>
         <updated>2026-05-07T08:00:00.000Z</updated>
@@ -1337,7 +1337,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="html" term="html"/>
         <category label="css" term="css"/>
         <category label="fintech" term="fintech"/>
@@ -1382,7 +1382,7 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="javascript" term="javascript"/>
         <category label="finance" term="finance"/>
         <category label="data visualization" term="data visualization"/>
@@ -1427,14 +1427,14 @@ When the Z-Score hits an extreme (e.g., +2 or -2), we enter the trade, betting t
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
         </author>
-        <category label="Science & Technology" term="Science & Technology"/>
+        <category label="Science &amp; Technology" term="Science &amp; Technology"/>
         <category label="python" term="python"/>
         <category label="finance" term="finance"/>
         <category label="data analysis" term="data analysis"/>
         <category label="quantitative trading" term="quantitative trading"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultimate Options Dashboard: Price & Greeks]]></title>
+        <title type="html"><![CDATA[Ultimate Options Dashboard: Price &amp; Greeks]]></title>
         <id>https://khalidnaami.com/blog/ultimate-options-dashboard-guide</id>
         <link href="https://khalidnaami.com/blog/ultimate-options-dashboard-guide"/>
         <updated>2026-05-06T11:00:00.000Z</updated>
@@ -1649,7 +1649,7 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
 <p>Imagine you are driving a high-performance sports car on a straight highway.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-delta-is-your-velocity-v">1. Delta is your Velocity (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>v</mi></mrow><annotation encoding="application/x-tex">v</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em"></span><span class="mord mathnormal" style="margin-right:0.0359em">v</span></span></span></span>)<a href="https://khalidnaami.com/blog/options-physics-synergy#1-delta-is-your-velocity-v" class="hash-link" aria-label="Direct link to 1-delta-is-your-velocity-v" title="Direct link to 1-delta-is-your-velocity-v">​</a></h3>
 <p>Delta measures how far your option's price moves for every $1 change in the underlying asset. In physics terms, this is <strong>Velocity</strong>. It tells you how fast you are gaining (or losing) money as the stock moves.</p>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi><mo>=</mo><mfrac><mtext>Change&nbsp;in&nbsp;Price</mtext><mtext>Change&nbsp;in&nbsp;Underlying</mtext></mfrac></mrow><annotation encoding="application/x-tex">\Delta = \frac{\text{Change in Price}}{\text{Change in Underlying}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em"></span><span class="mord">Δ</span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1.4133em;vertical-align:-0.4811em"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322em"><span style="top:-2.655em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Change&nbsp;in&nbsp;Underlying</span></span></span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:0.04em"></span></span><span style="top:-3.4461em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Change&nbsp;in&nbsp;Price</span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi><mo>=</mo><mfrac><mtext>Change&amp;nbsp;in&amp;nbsp;Price</mtext><mtext>Change&amp;nbsp;in&amp;nbsp;Underlying</mtext></mfrac></mrow><annotation encoding="application/x-tex">\Delta = \frac{\text{Change in Price}}{\text{Change in Underlying}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em"></span><span class="mord">Δ</span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:1.4133em;vertical-align:-0.4811em"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322em"><span style="top:-2.655em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Change&amp;nbsp;in&amp;nbsp;Underlying</span></span></span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:0.04em"></span></span><span style="top:-3.4461em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Change&amp;nbsp;in&amp;nbsp;Price</span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
 <ul>
 <li><strong>Cruising at 50 mph:</strong> Your Delta is 0.50. For every mile the market travels, you move forward half a mile.</li>
 <li><strong>Full Speed at 100 mph:</strong> Your Delta is 1.00. You are now moving "dollar-for-dollar" with the stock.</li>
@@ -1755,7 +1755,7 @@ Combining Delta (Velocity) and Gamma (Acceleration) is the secret to professiona
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-gamma">What is Gamma?<a href="https://khalidnaami.com/blog/the-power-of-gamma#what-is-gamma" class="hash-link" aria-label="Direct link to What is Gamma?" title="Direct link to What is Gamma?">​</a></h2>
 <p>Mathematically, Gamma is the second derivative of the option price with respect to the underlying asset’s price. More simply, it measures the rate of acceleration for Delta.</p>
 <span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi mathvariant="normal">Γ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">∂</mi><mi mathvariant="normal">Δ</mi></mrow><mrow><mi mathvariant="normal">∂</mi><mi>S</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi mathvariant="normal">∂</mi><mn>2</mn></msup><mi>V</mi></mrow><mrow><mi mathvariant="normal">∂</mi><msup><mi>S</mi><mn>2</mn></msup></mrow></mfrac></mrow><annotation encoding="application/x-tex">\Gamma = \frac{\partial \Delta}{\partial S} = \frac{\partial^2 V}{\partial S^2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em"></span><span class="mord">Γ</span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:2.0574em;vertical-align:-0.686em"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714em"><span style="top:-2.314em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord" style="margin-right:0.0556em">∂</span><span class="mord mathnormal" style="margin-right:0.0576em">S</span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:0.04em"></span></span><span style="top:-3.677em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord" style="margin-right:0.0556em">∂</span><span class="mord">Δ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:2.1771em;vertical-align:-0.686em"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4911em"><span style="top:-2.314em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord" style="margin-right:0.0556em">∂</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0576em">S</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7401em"><span style="top:-2.989em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:0.04em"></span></span><span style="top:-3.677em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord"><span class="mord" style="margin-right:0.0556em">∂</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em"><span style="top:-3.063em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.2222em">V</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span>
-<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Change&nbsp;in&nbsp;Delta</mtext><mo>=</mo><mi mathvariant="normal">Γ</mi><mo>×</mo><mtext>Price&nbsp;Change</mtext></mrow><annotation encoding="application/x-tex">\text{Change in Delta} = \Gamma \times \text{Price Change}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Change&nbsp;in&nbsp;Delta</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em"></span><span class="mord">Γ</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Price&nbsp;Change</span></span></span></span></span></span>
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>Change&amp;nbsp;in&amp;nbsp;Delta</mtext><mo>=</mo><mi mathvariant="normal">Γ</mi><mo>×</mo><mtext>Price&amp;nbsp;Change</mtext></mrow><annotation encoding="application/x-tex">\text{Change in Delta} = \Gamma \times \text{Price Change}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Change&amp;nbsp;in&amp;nbsp;Delta</span></span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em"></span><span class="mord">Γ</span><span class="mspace" style="margin-right:0.2222em"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em"></span><span class="mord text"><span class="mord">Price&amp;nbsp;Change</span></span></span></span></span></span>
 <p>If Delta is the “speed” of your option price, Gamma is the “acceleration.” When an option has high Gamma, its Delta can jump from 0.20 to 0.80 very quickly, making the position significantly more sensitive to market moves.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-characteristics-of-gamma">Key Characteristics of Gamma<a href="https://khalidnaami.com/blog/the-power-of-gamma#key-characteristics-of-gamma" class="hash-link" aria-label="Direct link to Key Characteristics of Gamma" title="Direct link to Key Characteristics of Gamma">​</a></h2>
 <ul>
