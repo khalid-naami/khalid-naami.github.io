@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/ai-deception-flawed-iran-war-model</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ai-israel-iran-war-scenario.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Israel's AI-generated intelligence predicting a seamless 7-day war against Iran. Discover the structural flaws and risks of a 10-year regional crisis.]]></image:caption>
+      <image:title><![CDATA[America & Israel's War on Iran: Trump's Deception by AI]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/numba-python-high-speed-data-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/numba.webp</image:loc>
