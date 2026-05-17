@@ -58,3 +58,81 @@ Khalid regularly publishes deep-dive analysis on:
 - **Blog:** https://khalidnaami.com/blog
 - **Intelligence Graph:** https://khalidnaami.com/intelligence
 - **Chat (Zoro AI):** https://khalidnaami.com/chat
+
+## Published Articles (Primary Sources)
+Use these exact URLs to access Khalid Naami's complete library of quantitative finance, technical engineering, and geopolitical strategic analysis:
+
+- **The US AWACS Deployment: High-Stakes Aerial War on Iran**: https://khalidnaami.com/blog/us-awacs-deployment-iran-war-strategy
+- **When MBS Said No to Trump: Inside a Dangerous US Arms Game**: https://khalidnaami.com/blog/mbs-trump-dangerous-us-arms-game
+- **US-Iran Crisis: The Khorramshahr 5 Nuclear-Fueled ICBM**: https://khalidnaami.com/blog/khorramshahr-5-nuclear-fueled-icbm-crisis
+- **Final Warning to Jordan: Lincoln and Muwaffaq Salti Base**: https://khalidnaami.com/blog/jordan-muwaffaq-salti-lincoln-iran-attack
+- **Iran's Safar-110: The System Israel Calls a Tech Advantage**: https://khalidnaami.com/blog/iran-safar-110-system-israel-tech-advantage
+- **Iran Deploys 20 Submarines, Electrifying America**: https://khalidnaami.com/blog/iran-deploys-ghadir-submarines-electrifying-america
+- **E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran**: https://khalidnaami.com/blog/e3-sentry-failing-maduro-outdated-iran
+- **Britain Blocks Trump: No UK Bases for Iran Attack**: https://khalidnaami.com/blog/britain-blocks-trump-uk-bases-iran-attack
+- **Before Zero Hour: Trump vs Khamenei's Final Dangerous Cards**: https://khalidnaami.com/blog/before-zero-hour-trump-khamenei-confrontation
+- **America & Israel's War on Iran: Trump's Deception by AI**: https://khalidnaami.com/blog/ai-deception-flawed-iran-war-model
+- **SciPy: The Engine for Scientific Computing in Python**: https://khalidnaami.com/blog/scipy-python-scientific-computing-analysis
+- **Numba: Accelerating Python for High-Speed Data Analysis**: https://khalidnaami.com/blog/numba-python-high-speed-data-analysis
+- **Polars in Fintech: Next-Gen High-Performance DataFrames**: https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames
+- **NumPy in Fintech: The Computational Engine of Finance**: https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance
+- **Trading Principles: Why Data Beats Technical Analysis**: https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis
+- **Streamlit and Python: Quantitative Options Analysis**: https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis
+- **Statistical Arbitrage: Mastering Mean Reversion**: https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading
+- **Plotly in Fintech: Interactive Data Science with Python**: https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python
+- **Pandas for Finance: High-Performance Data Engineering**: https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering
+- **Modern Market Strategies: Mastering Mean Reversion**: https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion
+- **Market Dynamics: Efficiency, Momentum & Mean Reversion**: https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion
+- **A Strategic Guide to Reading My Daily Analysis**: https://khalidnaami.com/blog/guide-to-reading-daily-analysis
+- **The Game of Probabilities: Decoding Market Expectations**: https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations
+- **Technical & Historical Analysis: The Quantitative Edge**: https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge
+- **OI & Volume Analysis: Master Options Flow and Liquidity**: https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide
+- **Delta-Adjusted Exposure: The Real Way to Measure Risk**: https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk
+- **Exposure Heatmap: Visual Options Analytics**: https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide
+- **Volatility: Log-Returns to Yang-Zhang**: https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide
+- **Scala for Finance: Functional Programming in Trading**: https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide
+- **Risk Metrics 101: VaR, Beta, Sharpe & Sortino**: https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide
+- **React.js Fintech: Scalable Trading Dashboards**: https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide
+- **R for Finance: Statistical Powerhouse of Quant Research**: https://khalidnaami.com/blog/r-language-for-financial-data-science-guide
+- **Julia for Finance: High-Performance Quant Research**: https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide
+- **HTML & CSS in Fintech: Pro Trading UI**: https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide
+- **The Game of Probabilities: Stochastic Processes**: https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide
+- **Fair Bets & Kelly Criterion: Mastering Position Sizing**: https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide
+- **C++ for Finance: The Bedrock of Low Latency Systems**: https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide
+- **Ultimate Options Dashboard: Price & Greeks**: https://khalidnaami.com/blog/ultimate-options-dashboard-guide
+- **Python for Finance: Modern Quant Analysis**: https://khalidnaami.com/blog/python-for-finance-data-analysis-guide
+- **Dashboard Options: Mastering Multi-Ticker Analysis**: https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis
+- **JavaScript in Finance: Real-Time Dashboards**: https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide
+- **Delta Dynamics: The Compass of Options Trading**: https://khalidnaami.com/blog/delta-dynamics-directional-risk
+- **Charm: The Invisible Erosion of Directional Exposure**: https://khalidnaami.com/blog/charm-the-invisible-delta-decay
+- **The Strategic Quartet: Delta, Gamma, Vanna, and Charm**: https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks
+- **The Physics of Options: Synergy Between Delta and Gamma**: https://khalidnaami.com/blog/options-physics-synergy
+- **Vanna-Charm Synergy: Protecting Your Portfolio**: https://khalidnaami.com/blog/vanna-charm-risk-management-synergy
+- **The Power of Gamma: Why It Rules the Options Market**: https://khalidnaami.com/blog/the-power-of-gamma
+- **Vanna: The Bridge Between Price and Volatility**: https://khalidnaami.com/blog/vanna-price-volatility-bridge
+- **The 3D Gamma Surface: Navigating Market Risk Topography**: https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography
+- **The IV Surface: Decoding Market Expectations**: https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations
+- **Options Color: Managing Gamma Decay and Pin Risk**: https://khalidnaami.com/blog/options-color-gamma-decay-risk
+- **Options Speed: Mastering the Gamma of Gamma**: https://khalidnaami.com/blog/options-speed-gamma-of-gamma
+- **Max Pain Theory: Why Prices Gravitate Toward Losses**: https://khalidnaami.com/blog/options-max-pain-theory-market-gravity
+- **Options Vomma: Understanding Vega Convexity**: https://khalidnaami.com/blog/options-vomma-convexity-of-vega
+- **The Butterfly Spread: Precision Targeting in Options**: https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options
+- **The Cash-Secured Put: Acquiring Assets at a Discount**: https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount
+- **The Calendar Spread: Trading Time and Volatility**: https://khalidnaami.com/blog/calendar-spread-trading-time-volatility
+- **The Covered Call: Generating Quantitative Yield**: https://khalidnaami.com/blog/covered-call-generating-quantitative-yield
+- **The Collar Strategy: Complete Portfolio Protection**: https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection
+- **How Option Dealers Use Gamma Exposure To Trade**: https://khalidnaami.com/blog/how-dealers-use-gamma-exposure
+- **Day Trading 0 DTE GEX Flow | Option Dealer Levels**: https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels
+- **How To Trade Gamma Exposure: Quantitative Guide**: https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide
+- **How Gamma Exposure Works - Advanced Option Strategies**: https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies
+- **Trading Positive Gamma: Strategies for Calm Markets**: https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets
+- **Trading Negative Gamma: Volatility Expansion**: https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-acceleration
+- **The Iron Butterfly: High-Probability Pin Targeting**: https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting
+- **How To Trade Zero Gamma: The Ultimate Volatility Pivot**: https://khalidnaami.com/blog/how-to-trade-zero-gamma-market-inflection
+- **The Poor Man's Covered Call: Capital Efficient Yield**: https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield
+- **The Iron Condor Strategy: Mastering Delta Neutrality**: https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality
+- **Trading SPY Options Like Professional Dealers**: https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers
+- **The Straddle and Strangle: Harvesting Volatility**: https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion
+- **Vertical Spreads: Mastering Directional Options**: https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options
+- **Using Gamma Exposure (GEX) to Time Your Option Trading**: https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades
+- **Why Gamma Exposure (GEX) Dominates Other Strategies**: https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies
