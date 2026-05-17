@@ -34,6 +34,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-deploys-ghadir-submarines-electrifying-america</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iran Deploys 20 Submarines, Electrifying America]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-ghadir-submarines.webp</image:loc>
+      <image:title><![CDATA[Iran Deploys 20 Submarines, Electrifying America]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/jordan-muwaffaq-salti-lincoln-iran-attack</loc>
     <news:news>
       <news:publication>
@@ -61,6 +76,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/khorramshahr-5-missile.webp</image:loc>
       <image:title><![CDATA[US-Iran Crisis: The Khorramshahr 5 Nuclear-Fueled ICBM]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/mbs-trump-dangerous-us-arms-game</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[When MBS Said No to Trump: Inside a Dangerous US Arms Game]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mbs-trump-f35-arms-game.webp</image:loc>
+      <image:title><![CDATA[When MBS Said No to Trump: Inside a Dangerous US Arms Game]]></image:title>
     </image:image>
   </url>
   <url>
