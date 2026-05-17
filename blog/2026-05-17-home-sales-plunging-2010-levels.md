@@ -2,7 +2,7 @@
 title: "Home Sales PLUNGING to 2010 Levels: Real Job Market Collapse"
 description: "U.S. home sales are plunging to 2010 levels as a hidden job market contraction and a massive 2.4 million employment gap freeze buyer demand despite lower rates."
 authors: [khalid]
-tags: [Global Economy, Geopolitics, Real Estate, Debt, Labor Market, Global Macro]
+tags: [Global Economy, Real Estate, Debt, Labor Market, Global Macro]
 keywords: [U.S. Home Sales, Housing Market Collapse, Job Market Contraction, Employment Gap, Mortgage Delinquencies, Federal Reserve, Larry Yun, Global Economy, Khalid Naami]
 image: /img/home-sales-plunging-2010-levels.webp
 slug: home-sales-plunging-2010-levels
