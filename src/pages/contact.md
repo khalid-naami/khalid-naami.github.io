@@ -12,7 +12,7 @@ We value your feedback, questions, and business inquiries. Whether you have a qu
 
 The best and fastest way to reach out is via email. We strive to respond to all legitimate inquiries within 48-72 business hours.
 
-📧 **Email Support:** [Supportkhalidnaami@gmail.com](mailto:Supportkhalidnaami@gmail.com)
+📧 **Email Support:** [research@khalidnaami.com](mailto:research@khalidnaami.com)
 
 ## Other Ways to Connect
 You can also connect with us or follow our latest updates on our social media platforms:
