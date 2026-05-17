@@ -9,6 +9,8 @@ Disallow: /privacy
 Disallow: /disclaimer
 Disallow: /blog/authors/
 Disallow: /blog/archive
+Disallow: /blog/atom.xml
+Disallow: /blog/rss.xml
 
 # Regional Search Engines
 User-agent: Yeti
