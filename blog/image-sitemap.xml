@@ -11,6 +11,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/us-awacs-deployment-iran-war-strategy</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-awacs-iran-strategy.webp</image:loc>
+      <image:caption><![CDATA[Analyzing the massive US deployment of E-3 AWACS around Iran. Explore the strategic risks, electronic warfare tactics, and threats to American global hegemony.]]></image:caption>
+      <image:title><![CDATA[The US AWACS Deployment: High-Stakes Aerial War on Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/numba-python-high-speed-data-analysis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/numba.webp</image:loc>
