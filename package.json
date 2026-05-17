@@ -14,7 +14,7 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "update-posts": "node scripts/update-popular-posts.js",
     "indexnow": "node scripts/indexnow.js",
-    "postbuild": "npm run indexnow"
+    "postbuild": "node scripts/fix-xml.js && npm run indexnow"
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
