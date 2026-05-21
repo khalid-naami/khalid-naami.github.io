@@ -3,6 +3,46 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/chinese-satellites-breaking-us-israel-space-monopoly</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mizarvision.webp</image:loc>
+      <image:caption><![CDATA[How Chinese commercial Jilin-1 satellites provide real-time HD video tracking to Iran, breaking the US-Israeli intelligence monopoly.]]></image:caption>
+      <image:title><![CDATA[Chinese Satellites: Breaking US-Israel Space Monopoly]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iran-su-22-drone-russian-mi-28-tandem</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iranian-sukhoi-22-fighter-surprise.webp</image:loc>
+      <image:caption><![CDATA[Analyzing the strategic threat of Russian Mi-28 helicopters in Iran and their tactical integration with unmanned Su-22M4 fighter-bombers.]]></image:caption>
+      <image:title><![CDATA[Iran's Su-22 Drone and Russian Mi-28: A Lethal Air Tandem]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/mbs-lindsey-graham-meeting-conservative-islam</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mbs-lindsey-graham-meeting.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Saudi Prince Mohammed bin Salman's meeting with Senator Lindsey Graham and the US shift toward Conservative Islam and economic empowerment.]]></image:caption>
+      <image:title><![CDATA[MBS and Lindsey Graham: The Rise of Conservative Islam]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkey-akinci-drone-air-combat-erdogan-strategy</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/turkey-akinci-drone-air-combat.webp</image:loc>
+      <image:caption><![CDATA[Turkey exploits the US-Iran crisis to fast-track its Akinci drone air-to-air combat capability and Tayfun missiles into mass production, reshaping deterrence.]]></image:caption>
+      <image:title><![CDATA[Erdogan's War Machine: Akinci Drone Enters Air Combat]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkey-hypersonic-missile-tayfun-block-4</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/turkiye-hypersonic-missiles-range-6000.webp</image:loc>
+      <image:caption><![CDATA[Turkey accelerates mass production of the Tayfun Block 4 hypersonic missile with a potential range of 6,000 km, reshaping the Middle East balance of power.]]></image:caption>
+      <image:title><![CDATA[Turkey's Hypersonic Shift: The Tayfun Block 4 Missile]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/ai-capex-off-balance-sheet-debt</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/ai-capex-off-balance-sheet-debt.webp</image:loc>
