@@ -79,6 +79,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/dollar-strength-rate-crashes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Dollar Strength, Rate Crashes]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dollar-strength-rate-crashes.webp</image:loc>
+      <image:title><![CDATA[Dollar Strength, Rate Crashes]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/european-banks-hoard-safety-credit-crisis-spreads</loc>
     <news:news>
       <news:publication>
@@ -136,6 +151,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/oracle-layoffs-credit-cycle-turns.webp</image:loc>
       <image:title><![CDATA[Oracle Layoffs: Credit Cycle Turns as Bubbles Burst]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/private-credit-liquidity-squeeze-goldman-sachs-fitch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Private Credit Squeeze: Outflows Exceed Inflows]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/goldman.webp</image:loc>
+      <image:title><![CDATA[Private Credit Squeeze: Outflows Exceed Inflows]]></image:title>
     </image:image>
   </url>
   <url>
