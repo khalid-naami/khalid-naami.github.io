@@ -4969,5 +4969,85 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
                 ]]>
             </turbo:content>
         </item>
+        <item turbo="true">
+            <link>https://khalidnaami.com/blog/repo-fails-spike-global-collateral-squeeze</link>
+            <title>Repo Fails Hit $415B: The Global Collateral Squeeze</title>
+            <author>khalid</author>
+            <category>Global Economy</category>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <description>Repo failures spike to $415B as foreign central banks liquidate $107B in Treasuries, exposing a severe global collateral and Eurodollar shortage.</description>
+            <yandex:genre>article</yandex:genre>
+            <yandex:full-text>Repo Fails Hit 415.5 billion** in the first week of April. Meanwhile, Treasury bill yields are tumbling as financial institutions scramble for high-quality collateral, and foreign central banks are liquidating their reserves at an alarming pace. ![Repo Fails Hit 415.5 billion** for the week beginning April 1. This is the highest level since the mid-December liquidity squeeze. While mainstream commentators will point out that this week coincided with the end of the quarter (when balance sheets typically contract), comparing it to the same week in 2025—when fails were under 380 billion two weeks prior (the week of March 18). graph TD A[&amp;quot;Eurodollar System (Binary)&amp;quot;] --&amp;gt; B[&amp;quot;USD Cash (Ledger Entries)&amp;quot;] A --&amp;gt; C[&amp;quot;Pristine Collateral (US Treasuries)&amp;quot;] C -- &amp;quot;Squeeze / Shortage&amp;quot; --&amp;gt; D[&amp;quot;Repo Fails Spike (415.5 billion. * **April 8:** The 4-week yield fell to **3.67%**. * **April 10:** The yield plummeted to **3.64%**—a massive **10 basis point drop** in a market where moves are usually measured in fractions of a basis point. Similar downward moves occurred in the 8-week bill and the 3-month Treasury bill (which dropped by 6 basis points). These highly unusual yield drops represent a panic bid for collateral. Institutions are willing to accept lower and lower yields just to get their hands on pristine T-bills to secure their balance sheets. ## The Energy Shock and the Dollar Squeeze This intense collateral scramble is the direct consequence of the **geopolitical energy shock** that has since transformed into a **global dollar squeeze**. When oil prices spike due to Middle Eastern tensions (specifically around the Strait of Hormuz), the macro loop is simple: 1. **Oil importers need more dollars:** To purchase the same physical volume of crude, importing countries suddenly require a massive, unexpected increase in USD liquidity. 2. **They scramble to the Eurodollar market:** Importers turn to global commercial banks for short-term dollar funding. 3. **Banks contract credit:** At the same time, global Eurodollar banks (especially in Europe) are facing private credit losses and economic contraction. Becoming highly risk-averse, they refuse to supply new dollars without pristine collateral. ## The Nigerian Mirror: Oil Exporters Squeezed Too To help domestic companies and oil importers who cannot secure funding on their own, foreign central banks are forced to mobilize their reserves. They sell their liquid Treasury holdings to generate cash and lend it locally. We saw this dynamic in East Asia last week with **Taiwan** and **Indonesia**. But the ultimate proof of this global squeeze comes from **Nigeria**—a major OPEC member and oil exporter. Logically, an oil exporter should be drowning in USD inflows during an energy shock. But Nigeria’s central bank had to do the exact opposite. According to data compiled by Bloomberg, Nigeria’s foreign exchange reserves **declined for 16 consecutive days** leading up to April 8—the longest continuous drop since July 2025. The Central Bank of Nigeria&amp;#39;s reserves fell by **49 billion**. Nigeria’s central bank had to liquidate its Treasury holdings to support its domestic currency, the Naira, and provide USD liquidity to its financial system. Why? Because the shortage of USD funding is so severe and global that even oil-exporting nations are finding it difficult and expensive to secure Eurodollar credit. The supply of offshore dollars has contracted globally. ## A 107.7 billion** in US Treasury holdings. To put this in perspective: * **The 2023 Banking Crisis:** Foreign central banks liquidated **161 billion**. We are currently witnessing a liquidation wave that far exceeds the 2023 banking crisis and is rapidly approaching the systemic panic levels of March 2020. USD Reserve Liquidations (Comparison): ┌──────────────────────────────────────────────────────────┐ │ March 2020 (Pandemic Panic) : 107.7 Billion │ │ March 2023 (Banking Crisis) : $87 Billion │ └──────────────────────────────────────────────────────────┘ ## Conclusion The massive spike in repo fails and the scramble for short-term Treasury bills are clear warnings that the global financial plumbing is severely constricted. Even if geopolitical tensions ease and oil prices stabilize, the underlying structural issues will not disappear. The combination of a cooling global economy (driven by China&amp;#39;s deep structural slowdown) and the ongoing unwinding of the private credit bubble will keep Eurodollar lenders extremely defensive. The Eurodollar system is starved for pristine collateral, and as central banks continue to deplete their Treasury reserves to fight the dollar shortage, the squeeze in repo plumbing will only intensify. --- *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*</yandex:full-text>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Repo Fails Hit $415B: The Global Collateral Squeeze</h1>
+                        <figure><img src="https://khalidnaami.com/img/global-liquidity-crisis.webp" /></figure>
+                    </header>
+                    <h1>Repo Fails Hit 415.5 billion** in the first week of April. Meanwhile, Treasury bill yields are tumbling as financial institutions scramble for high-quality collateral, and foreign central banks are liquidating their reserves at an alarming pace.</h1>
+<p>![Repo Fails Hit 415.5 billion** for the week beginning April 1. This is the highest level since the mid-December liquidity squeeze. </p>
+<p>While mainstream commentators will point out that this week coincided with the end of the quarter (when balance sheets typically contract), comparing it to the same week in 2025—when fails were under <strong>380 billion</strong> two weeks prior (the week of March 18).</p>
+<pre><code class="language-mermaid">graph TD
+    A[&quot;Eurodollar System (Binary)&quot;] --&gt; B[&quot;USD Cash (Ledger Entries)&quot;]
+    A --&gt; C[&quot;Pristine Collateral (US Treasuries)&quot;]
+    C -- &quot;Squeeze / Shortage&quot; --&gt; D[&quot;Repo Fails Spike (415.5 billion.
+* **April 8:** The 4-week yield fell to **3.67%**.
+* **April 10:** The yield plummeted to **3.64%**—a massive **10 basis point drop** in a market where moves are usually measured in fractions of a basis point.
+
+Similar downward moves occurred in the 8-week bill and the 3-month Treasury bill (which dropped by 6 basis points). 
+
+These highly unusual yield drops represent a panic bid for collateral. Institutions are willing to accept lower and lower yields just to get their hands on pristine T-bills to secure their balance sheets.
+
+## The Energy Shock and the Dollar Squeeze
+
+This intense collateral scramble is the direct consequence of the **geopolitical energy shock** that has since transformed into a **global dollar squeeze**.
+
+When oil prices spike due to Middle Eastern tensions (specifically around the Strait of Hormuz), the macro loop is simple:
+1. **Oil importers need more dollars:** To purchase the same physical volume of crude, importing countries suddenly require a massive, unexpected increase in USD liquidity.
+2. **They scramble to the Eurodollar market:** Importers turn to global commercial banks for short-term dollar funding.
+3. **Banks contract credit:** At the same time, global Eurodollar banks (especially in Europe) are facing private credit losses and economic contraction. Becoming highly risk-averse, they refuse to supply new dollars without pristine collateral.
+
+## The Nigerian Mirror: Oil Exporters Squeezed Too
+
+To help domestic companies and oil importers who cannot secure funding on their own, foreign central banks are forced to mobilize their reserves. They sell their liquid Treasury holdings to generate cash and lend it locally. 
+
+We saw this dynamic in East Asia last week with **Taiwan** and **Indonesia**. But the ultimate proof of this global squeeze comes from **Nigeria**—a major OPEC member and oil exporter.
+
+Logically, an oil exporter should be drowning in USD inflows during an energy shock. But Nigeria’s central bank had to do the exact opposite. 
+
+According to data compiled by Bloomberg, Nigeria’s foreign exchange reserves **declined for 16 consecutive days** leading up to April 8—the longest continuous drop since July 2025. The Central Bank of Nigeria&#39;s reserves fell by **49 billion**. 
+
+Nigeria’s central bank had to liquidate its Treasury holdings to support its domestic currency, the Naira, and provide USD liquidity to its financial system. 
+
+Why? Because the shortage of USD funding is so severe and global that even oil-exporting nations are finding it difficult and expensive to secure Eurodollar credit. The supply of offshore dollars has contracted globally.
+
+## A 107.7 billion** in US Treasury holdings. 
+
+To put this in perspective:
+* **The 2023 Banking Crisis:** Foreign central banks liquidated **161 billion**.
+
+We are currently witnessing a liquidation wave that far exceeds the 2023 banking crisis and is rapidly approaching the systemic panic levels of March 2020. 
+</code></pre>
+<p>  USD Reserve Liquidations (Comparison):
+  ┌──────────────────────────────────────────────────────────┐
+  │ March 2020 (Pandemic Panic)       : 107.7 Billion       │
+  │ March 2023 (Banking Crisis)       : $87 Billion          │
+  └──────────────────────────────────────────────────────────┘</p>
+<pre><code>
+## Conclusion
+
+The massive spike in repo fails and the scramble for short-term Treasury bills are clear warnings that the global financial plumbing is severely constricted. 
+
+Even if geopolitical tensions ease and oil prices stabilize, the underlying structural issues will not disappear. The combination of a cooling global economy (driven by China&#39;s deep structural slowdown) and the ongoing unwinding of the private credit bubble will keep Eurodollar lenders extremely defensive. 
+
+The Eurodollar system is starved for pristine collateral, and as central banks continue to deplete their Treasury reserves to fight the dollar shortage, the squeeze in repo plumbing will only intensify.
+
+---
+*This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+</code></pre>
+
+                ]]>
+            </turbo:content>
+        </item>
     </channel>
 </rss>

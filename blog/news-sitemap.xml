@@ -63,4 +63,19 @@
       <image:title><![CDATA[Oracle Layoffs: Credit Cycle Turns as Bubbles Burst]]></image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/repo-fails-spike-global-collateral-squeeze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Repo Fails Hit $415B: The Global Collateral Squeeze]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/global-liquidity-crisis.webp</image:loc>
+      <image:title><![CDATA[Repo Fails Hit $415B: The Global Collateral Squeeze]]></image:title>
+    </image:image>
+  </url>
 </urlset>
