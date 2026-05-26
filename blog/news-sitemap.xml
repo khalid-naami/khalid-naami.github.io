@@ -4,78 +4,63 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://khalidnaami.com/blog/chinese-satellites-breaking-us-israel-space-monopoly</loc>
+    <loc>https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral</loc>
     <news:news>
       <news:publication>
         <news:name>Khalid Naami</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-22T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Chinese Satellites: Breaking US-Israel Space Monopoly]]></news:title>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blackstone BCRED: First Loss Signals Toxic Waste Spiral]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/mizarvision.webp</image:loc>
-      <image:title><![CDATA[Chinese Satellites: Breaking US-Israel Space Monopoly]]></image:title>
+      <image:loc>https://khalidnaami.com/img/blackstone-bcred-credit-crisis.webp</image:loc>
+      <image:title><![CDATA[Blackstone BCRED: First Loss Signals Toxic Waste Spiral]]></image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://khalidnaami.com/blog/iran-su-22-drone-russian-mi-28-tandem</loc>
+    <loc>https://khalidnaami.com/blog/jamie-dimon-private-credit-warning</loc>
     <news:news>
       <news:publication>
         <news:name>Khalid Naami</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-22T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Iran's Su-22 Drone and Russian Mi-28: A Lethal Air Tandem]]></news:title>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Dimon's Warning: Private Credit 'Probably Not' Systemic]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/iranian-sukhoi-22-fighter-surprise.webp</image:loc>
-      <image:title><![CDATA[Iran's Su-22 Drone and Russian Mi-28: A Lethal Air Tandem]]></image:title>
+      <image:loc>https://khalidnaami.com/img/jamie-dimon-credit-crisis.webp</image:loc>
+      <image:title><![CDATA[Dimon's Warning: Private Credit 'Probably Not' Systemic]]></image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://khalidnaami.com/blog/mbs-lindsey-graham-meeting-conservative-islam</loc>
+    <loc>https://khalidnaami.com/blog/european-banks-hoard-safety-credit-crisis-spreads</loc>
     <news:news>
       <news:publication>
         <news:name>Khalid Naami</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-22T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[MBS and Lindsey Graham: The Rise of Conservative Islam]]></news:title>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[European Banks Hoard Safety as Credit Crisis Spreads]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/mbs-lindsey-graham-meeting.webp</image:loc>
-      <image:title><![CDATA[MBS and Lindsey Graham: The Rise of Conservative Islam]]></image:title>
+      <image:loc>https://khalidnaami.com/img/european-banks-private-credit-crisis.webp</image:loc>
+      <image:title><![CDATA[European Banks Hoard Safety as Credit Crisis Spreads]]></image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://khalidnaami.com/blog/turkey-akinci-drone-air-combat-erdogan-strategy</loc>
+    <loc>https://khalidnaami.com/blog/oracle-layoffs-credit-cycle-turns</loc>
     <news:news>
       <news:publication>
         <news:name>Khalid Naami</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-22T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Erdogan's War Machine: Akinci Drone Enters Air Combat]]></news:title>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Oracle Layoffs: Credit Cycle Turns as Bubbles Burst]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/turkey-akinci-drone-air-combat.webp</image:loc>
-      <image:title><![CDATA[Erdogan's War Machine: Akinci Drone Enters Air Combat]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/turkey-hypersonic-missile-tayfun-block-4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Turkey's Hypersonic Shift: The Tayfun Block 4 Missile]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/turkiye-hypersonic-missiles-range-6000.webp</image:loc>
-      <image:title><![CDATA[Turkey's Hypersonic Shift: The Tayfun Block 4 Missile]]></image:title>
+      <image:loc>https://khalidnaami.com/img/oracle-layoffs-credit-cycle-turns.webp</image:loc>
+      <image:title><![CDATA[Oracle Layoffs: Credit Cycle Turns as Bubbles Burst]]></image:title>
     </image:image>
   </url>
 </urlset>

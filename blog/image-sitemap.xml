@@ -3,6 +3,38 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/blackstone-bcred-credit-crisis.webp</image:loc>
+      <image:caption><![CDATA[Blackstone's $83B flagship BCRED fund posts its first credit loss. It's not the losses that kill markets—it's the collapse of trust and forced liquidations.]]></image:caption>
+      <image:title><![CDATA[Blackstone BCRED: First Loss Signals Toxic Waste Spiral]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/jamie-dimon-private-credit-warning</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/jamie-dimon-credit-crisis.webp</image:loc>
+      <image:caption><![CDATA[JPMorgan CEO Jamie Dimon warns private credit losses will exceed expectations, hedging that the shadow banking sector is only 'probably not' systemic.]]></image:caption>
+      <image:title><![CDATA[Dimon's Warning: Private Credit 'Probably Not' Systemic]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/european-banks-hoard-safety-credit-crisis-spreads</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/european-banks-private-credit-crisis.webp</image:loc>
+      <image:caption><![CDATA[European banks are buying record government bonds while their CEOs deny private credit risk. Deutsche Bank warns systemic fallout is being dangerously underestimated.]]></image:caption>
+      <image:title><![CDATA[European Banks Hoard Safety as Credit Crisis Spreads]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/oracle-layoffs-credit-cycle-turns</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/oracle-layoffs-credit-cycle-turns.webp</image:loc>
+      <image:caption><![CDATA[Oracle's massive layoffs and UBS gating investors confirm the credit cycle has turned, as Fitch reports PIK defaults hitting a 14-year high.]]></image:caption>
+      <image:title><![CDATA[Oracle Layoffs: Credit Cycle Turns as Bubbles Burst]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/chinese-satellites-breaking-us-israel-space-monopoly</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/mizarvision.webp</image:loc>
