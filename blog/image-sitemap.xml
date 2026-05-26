@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/blackrock-private-credit-doj-investigation</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/blackrock.webp</image:loc>
+      <image:caption><![CDATA[A DOJ investigation into BlackRock's private credit valuations, Carlyle's dividend cuts, and Blue Owl's buybacks signal Stage 2 of the credit bubble collapse.]]></image:caption>
+      <image:title><![CDATA[BlackRock Probe: Private Credit Valuation Squeeze]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/blackstone-bcred-credit-crisis.webp</image:loc>
@@ -56,6 +64,22 @@
       <image:loc>https://khalidnaami.com/img/global-liquidity-crisis.webp</image:loc>
       <image:caption><![CDATA[Repo failures spike to $415B as foreign central banks liquidate $107B in Treasuries, exposing a severe global collateral and Eurodollar shortage.]]></image:caption>
       <image:title><![CDATA[Repo Fails Hit $415B: The Global Collateral Squeeze]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-xi-summit-inside-chinas-collapsing-credit</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-pboc-credit-collapse.webp</image:loc>
+      <image:caption><![CDATA[While markets focus on the Trump-Xi summit, China's bank lending has collapsed, with April household loans falling by a record 750 billion yuan.]]></image:caption>
+      <image:title><![CDATA[Trump-Xi Summit: Inside China's Collapsing Credit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uk-political-earthquake-price-of-flat-payrolls</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uk-political-earthquake.webp</image:loc>
+      <image:caption><![CDATA[Reform UK's historic surge and the collapse of Labour and the Tories reveal the devastating cost of a hidden European labor market and income crisis.]]></image:caption>
+      <image:title><![CDATA[UK Political Earthquake: The Price of Flat Payrolls]]></image:title>
     </image:image>
   </url>
   <url>

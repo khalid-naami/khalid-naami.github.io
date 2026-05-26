@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/blackrock-private-credit-doj-investigation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[BlackRock Probe: Private Credit Valuation Squeeze]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/blackrock.webp</image:loc>
+      <image:title><![CDATA[BlackRock Probe: Private Credit Valuation Squeeze]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral</loc>
     <news:news>
       <news:publication>
@@ -106,6 +121,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/global-liquidity-crisis.webp</image:loc>
       <image:title><![CDATA[Repo Fails Hit $415B: The Global Collateral Squeeze]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-xi-summit-inside-chinas-collapsing-credit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump-Xi Summit: Inside China's Collapsing Credit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-pboc-credit-collapse.webp</image:loc>
+      <image:title><![CDATA[Trump-Xi Summit: Inside China's Collapsing Credit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uk-political-earthquake-price-of-flat-payrolls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[UK Political Earthquake: The Price of Flat Payrolls]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uk-political-earthquake.webp</image:loc>
+      <image:title><![CDATA[UK Political Earthquake: The Price of Flat Payrolls]]></image:title>
     </image:image>
   </url>
 </urlset>
