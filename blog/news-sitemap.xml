@@ -34,6 +34,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/china-economic-contraction-fictional-recovery-ends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[China's April Data Collapse: Fictional Recovery Ends]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-economic-contraction.webp</image:loc>
+      <image:title><![CDATA[China's April Data Collapse: Fictional Recovery Ends]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/china-sends-huge-warning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[China Sends Huge Warning: Inside the Credit Collapse]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-sends-huge-warning.webp</image:loc>
+      <image:title><![CDATA[China Sends Huge Warning: Inside the Credit Collapse]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/jamie-dimon-private-credit-warning</loc>
     <news:news>
       <news:publication>
@@ -121,21 +151,6 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/global-liquidity-crisis.webp</image:loc>
       <image:title><![CDATA[Repo Fails Hit $415B: The Global Collateral Squeeze]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/trump-xi-summit-inside-chinas-collapsing-credit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Trump-Xi Summit: Inside China's Collapsing Credit]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/china-pboc-credit-collapse.webp</image:loc>
-      <image:title><![CDATA[Trump-Xi Summit: Inside China's Collapsing Credit]]></image:title>
     </image:image>
   </url>
   <url>
