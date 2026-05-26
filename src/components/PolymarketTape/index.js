@@ -39,7 +39,7 @@ const PolymarketTape = () => {
 
     setLoading(true);
     const fetchMarkets = async () => {
-      const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=10';
+      const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=60';
       try {
         let response;
         try {
@@ -99,7 +99,7 @@ const PolymarketTape = () => {
       if (formattedMarkets.length === 0) {
         setTimeout(fetchMarkets, 5000);
       } else {
-        setMarkets(formattedMarkets);
+        setMarkets(formattedMarkets.slice(0, 10));
         setLoading(false);
       }
     };
