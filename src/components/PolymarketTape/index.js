@@ -11,31 +11,9 @@ const getGaugeColor = (percentage) => {
 const PolymarketTape = () => {
   const [markets, setMarkets] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [shouldLoad, setShouldLoad] = useState(false);
 
   useEffect(() => {
-    if (!ExecutionEnvironment.canUseDOM || shouldLoad) return;
-
-    const handleInteraction = () => {
-      setShouldLoad(true);
-      window.removeEventListener('scroll', handleInteraction);
-      window.removeEventListener('mousemove', handleInteraction);
-      window.removeEventListener('touchstart', handleInteraction);
-    };
-
-    window.addEventListener('scroll', handleInteraction, { passive: true });
-    window.addEventListener('mousemove', handleInteraction, { passive: true });
-    window.addEventListener('touchstart', handleInteraction, { passive: true });
-
-    return () => {
-      window.removeEventListener('scroll', handleInteraction);
-      window.removeEventListener('mousemove', handleInteraction);
-      window.removeEventListener('touchstart', handleInteraction);
-    };
-  }, [shouldLoad]);
-
-  useEffect(() => {
-    if (!shouldLoad) return;
+    if (!ExecutionEnvironment.canUseDOM) return;
 
     setLoading(true);
     const fetchMarkets = async () => {
@@ -105,9 +83,9 @@ const PolymarketTape = () => {
     };
 
     fetchMarkets();
-  }, [shouldLoad]);
+  }, []);
 
-  if (!shouldLoad || markets.length === 0) {
+  if (markets.length === 0) {
     return <div className={styles.tapeContainer} style={{ minHeight: '64px', backgroundColor: 'transparent' }} />;
   }
   
