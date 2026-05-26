@@ -6,7 +6,7 @@ tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, 
 keywords: [Jamie Dimon, JPMorgan Shareholders Letter, Private Credit Crisis, Shadow Banking, Leverage Lending, Labor Market Defaults, Carry Trade Tokyo, ISM Employment, Khalid Naami]
 image: /img/jamie-dimon-credit-crisis.webp
 slug: jamie-dimon-private-credit-warning
-date: 2026-05-26T15:00:00+00:00
+date: 2026-05-26T11:00:00+00:00
 schema_type: [TechArticle, NewsArticle]
 ---
 

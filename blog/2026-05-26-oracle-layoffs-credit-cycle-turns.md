@@ -6,7 +6,7 @@ tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, 
 keywords: [Oracle Layoffs, Credit Cycle Turns, Fitch PIK Defaults, UBS Gated Fund, Corporate Debt Crisis, Private Credit, Shadow Banking, Liquidity Squeeze, Khalid Naami]
 image: /img/oracle-layoffs-credit-cycle-turns.webp
 slug: oracle-layoffs-credit-cycle-turns
-date: 2026-05-26T14:00:00+00:00
+date: 2026-05-26T10:00:00+00:00
 schema_type: [TechArticle, NewsArticle]
 ---
 
