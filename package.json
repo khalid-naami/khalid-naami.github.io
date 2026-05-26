@@ -17,11 +17,11 @@
     "postbuild": "node scripts/generate-yandex-turbo.js && node scripts/fix-xml.js && npm run indexnow"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.4.0",
-    "@docusaurus/plugin-content-pages": "^3.4.0",
-    "@docusaurus/plugin-google-analytics": "^3.4.0",
-    "@docusaurus/plugin-google-tag-manager": "^3.4.0",
-    "@docusaurus/preset-classic": "^3.4.0",
+    "@docusaurus/core": "^3.10.1",
+    "@docusaurus/plugin-content-pages": "^3.10.1",
+    "@docusaurus/plugin-google-analytics": "^3.10.1",
+    "@docusaurus/plugin-google-tag-manager": "^3.10.1",
+    "@docusaurus/preset-classic": "^3.10.1",
     "@mdx-js/react": "^3.1.0",
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
@@ -49,7 +49,7 @@
     "tailwindcss-radix": "^2.8.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.4.0",
+    "@docusaurus/module-type-aliases": "^3.10.1",
     "@types/d3": "^7.4.3",
     "@types/react-select": "^5.0.0"
   },
