@@ -6,7 +6,7 @@ tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Glob
 keywords: [European Banks Credit Crisis, Deutsche Bank Osman Turman, ECB Bank Lending Survey, Private Credit Europe, Barclays Venkat, Morgan Stanley Conference, Banco de Mexico Rate Cut, IFO Germany, Trichet 2008 Repeat, Khalid Naami]
 image: /img/european-banks-private-credit-crisis.webp
 slug: european-banks-hoard-safety-credit-crisis-spreads
-date: 2026-05-26T09:00:00+00:00
+date: 2026-05-26T10:15:00+00:00
 schema_type: [TechArticle, NewsArticle]
 ---
 

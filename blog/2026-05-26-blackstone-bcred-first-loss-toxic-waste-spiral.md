@@ -6,7 +6,7 @@ tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, 
 keywords: [Blackstone BCRED, Private Credit Crisis, Shadow Banking Run, Toxic Waste, John Gray Blackstone, Blue Owl Capital, Ares Capital, CLO Debt, Bear Stearns 2007, Maiden Lane, Khalid Naami]
 image: /img/blackstone-bcred-credit-crisis.webp
 slug: blackstone-bcred-first-loss-toxic-waste-spiral
-date: 2026-05-26T12:00:00+00:00
+date: 2026-05-26T10:00:00+00:00
 schema_type: [TechArticle, NewsArticle]
 ---
 
