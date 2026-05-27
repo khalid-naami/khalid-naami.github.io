@@ -211,8 +211,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps): React.Re
             { tag: 'Daily Analysis', desc: 'Market Insights & Daily Strategy' },
             { tag: 'Global Economy', desc: 'Global Macroeconomics' },
             { tag: 'Political Economy', desc: 'Geopolitics & Hidden Markets' },
-            { tag: 'Facts and events', desc: 'Mysterious Events & Historical Passages' },
-            { tag: 'Breaking news', desc: 'Urgent Updates & Latest Developments' }
+            { tag: 'Facts and events', desc: 'Mysterious Events & Historical Passages' }
           ].map((category: { tag: string; desc: string }) => (
             <button
               type="button"
