@@ -46,6 +46,13 @@ export default function CustomFooter() {
             <div className="col text-center">
               <h2 className="mb-4 text-xl font-bold">Let's stay in touch.</h2>
               <div className="flex justify-center space-x-4">
+                {/* Pinterest */}
+                <a href="https://www.pinterest.com/khnaami/_saved/" target="_blank" rel="noreferrer" className="text-black dark:text-white hover:opacity-85 hover:scale-110 transition-transform duration-300" title="Pinterest" aria-label="Pinterest">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.966 1.406-5.966s-.359-.72-.359-1.781c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.27 1.03-.997 2.317-1.492 3.121 1.127.35 2.322.539 3.56.539 6.614 0 11.985-5.367 11.985-11.987C24.004 5.367 18.63 0 12.017 0z"/>
+                  </svg>
+                </a>
+
                 {/* Personal Socials */}
                 <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="text-black dark:text-white hover:opacity-85 hover:scale-110 transition-transform duration-300" title="Personal X" aria-label="Follow Khalid Naami on X">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
