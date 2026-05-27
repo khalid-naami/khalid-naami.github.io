@@ -37,22 +37,25 @@ export default function TickerTape() {
       script.async = true;
 
       const isDarkTheme = document.documentElement.getAttribute('data-theme') === 'dark';
-
       const widgetConfig = {
         symbols: [
           { proName: 'FOREXCOM:SPXUSD', title: 'S&P 500 Index' },
+          { proName: 'AMEX:SPY', title: 'SPY ETF' },
+          { proName: 'FOREXCOM:NAS100', title: 'Nasdaq 100 Index' },
+          { proName: 'NASDAQ:QQQ', title: 'QQQ ETF' },
+          { proName: 'AMEX:DIA', title: 'DIA Dow ETF' },
+          { proName: 'FOREXCOM:DJI', title: 'Dow Jones 30' },
+          { proName: 'AMEX:GLD', title: 'GLD Gold ETF' },
+          { proName: 'TVC:GOLD', title: 'Gold Spot' },
+          { proName: 'AMEX:SLV', title: 'SLV Silver ETF' },
+          { proName: 'TVC:SILVER', title: 'Silver Spot' },
+          { proName: 'AMEX:USO', title: 'USO Oil ETF' },
+          { proName: 'TVC:USOIL', title: 'WTI Crude Oil' },
           { proName: 'BITSTAMP:BTCUSD', title: 'Bitcoin' },
           { proName: 'BITSTAMP:ETHUSD', title: 'Ethereum' },
-          { proName: 'NASDAQ:TSLA', title: 'Tesla' },
-          { proName: 'NASDAQ:AAPL', title: 'Apple' },
-          { proName: 'NASDAQ:META', title: 'Meta' },
-          { proName: 'NASDAQ:GOOGL', title: 'Google' },
-          { proName: 'NASDAQ:MSFT', title: 'Microsoft' },
           { proName: 'NASDAQ:NVDA', title: 'Nvidia' },
-          { proName: 'NASDAQ:AMZN', title: 'Amazon' },
-          { proName: 'TVC:GOLD', title: 'Gold' },
-          { proName: 'TVC:SILVER', title: 'Silver' },
-          { proName: 'TVC:USOIL', title: 'WTI Crude Oil' },
+          { proName: 'NASDAQ:AAPL', title: 'Apple' },
+          { proName: 'NASDAQ:TSLA', title: 'Tesla' },
         ],
         showSymbolLogo: true,
         isTransparent: true,
