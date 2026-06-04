@@ -7,7 +7,7 @@ keywords: [R Language Finance, Quantitative Statistics, Econometrics R, Portfoli
 image: /img/data-science-R.webp
 slug: r-language-for-financial-data-science-guide
 date: 2026-05-07T12:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # R for Finance: Statistical Powerhouse of Quant Research
