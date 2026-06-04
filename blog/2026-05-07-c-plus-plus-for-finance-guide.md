@@ -42,7 +42,7 @@ Where exactly does C++ sit in a modern quantitative infrastructure?
 
 ## The Quantitative Choice
 
-At **Dashboard Options**, we understand that while data analysis starts with research-friendly languages, the ultimate execution of financial strategy depends on the industrial-strength reliability of C++. It is the language of the "Heavy Lifters"—the systems that ensure the global financial engine never stops turning.
+At [**Dashboard Options**](https://dashboardoptions.com/), we understand that while data analysis starts with research-friendly languages, the ultimate execution of financial strategy depends on the industrial-strength reliability of C++. It is the language of the "Heavy Lifters"—the systems that ensure the global financial engine never stops turning.
 
 ## The Bottom Line
 
