@@ -66,7 +66,7 @@ Data without action is just noise. The goal of technical and historical analysis
 
 *The Execution View: Merging all technical and quantitative inputs into a single trading plan.*
 
-At **Dashboard Options**, we provide the data, but it is your mastery of these technical and historical principles that turns that data into profit. 
+At [**Dashboard Options**](https://dashboardoptions.com/), we provide the data, but it is your mastery of these technical and historical principles that turns that data into profit. 
 
 ## Conclusion
 
