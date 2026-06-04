@@ -49,7 +49,7 @@ The strategic value of hypersonic missile systems was highlighted during the rec
 
 A similar dynamic is playing out in South Asia with Pakistan’s development of the *Shaheen* series and its pursuit of intercontinental capabilities. Despite Western sanctions, Islamabad is maneuvering diplomatically to protect its nuclear deterrent and missile research from foreign intervention. 
 
-For Turkey and Pakistan, the outcome of the US confrontation with Iran is critical. A US failure to dismantle Iran's deterrent structure indirectly strengthens the strategic immunity of both Ankara and Islamabad. Conversely, if Iran's capabilities are rolled back, both countries realize they could face similar pressure next. Consequently, Turkey's rapid acceleration of its missile production serves as a proactive shield to ensure its defense autonomy and deter external threats.
+For Turkey and Pakistan, the outcome of the US [confrontation with Iran](/blog/before-zero-hour-trump-khamenei-confrontation) is critical. A US failure to dismantle Iran's deterrent structure indirectly strengthens the strategic immunity of both Ankara and Islamabad. Conversely, if Iran's capabilities are rolled back, both countries realize they could face similar pressure next. Consequently, Turkey's rapid acceleration of its missile production serves as a proactive shield to ensure its defense autonomy and deter external threats.
 
 ---
 *Note: This article is part of our Political Economy series, providing deep strategic analysis on global macroeconomic and geopolitical shifts.*
