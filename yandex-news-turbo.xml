@@ -4205,7 +4205,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/new-home-sales-collapse-energy-shock</link>
-            <title>New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!</title>
+            <title>New Home Sales Plunge 17.6%: 2008 Policy Repeat</title>
             <author>khalid</author>
             <category>Global Economy</category>
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
@@ -4215,7 +4215,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!</h1>
+                        <h1>New Home Sales Plunge 17.6%: 2008 Policy Repeat</h1>
                         <figure><img src="https://khalidnaami.com/img/new-home-sales-collapse-energy-shock.webp" /></figure>
                     </header>
                     <h1>New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!</h1>
