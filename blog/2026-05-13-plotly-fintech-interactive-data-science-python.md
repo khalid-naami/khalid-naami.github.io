@@ -7,7 +7,7 @@ keywords: [Plotly Finance, Python Data Science, Streamlit Dashboard, Financial V
 image: /img/plotly.webp
 slug: plotly-fintech-interactive-data-science-python
 date: 2026-05-13T15:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Plotly in Fintech: Interactive Data Science with <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a>
