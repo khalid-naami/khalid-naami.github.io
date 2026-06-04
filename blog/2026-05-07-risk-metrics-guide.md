@@ -58,6 +58,6 @@ Advanced **Multi-Dimensional Risk Models** go beyond static historical data. The
 
 ## The Bottom Line
 
-Returns are what you want, but risk is what you get. By integrating **Beta, Sharpe, Sortino, and VaR** into your trading workflow, you move away from emotional decision-making and toward a disciplined, quantitative approach. At **Dashboard Options**, we provide the real-time data needed to fuel these calculations, allowing you to manage your risk like a professional institution.
+Returns are what you want, but risk is what you get. By integrating **Beta, Sharpe, Sortino, and VaR** into your trading workflow, you move away from emotional decision-making and toward a disciplined, quantitative approach. At [**Dashboard Options**](https://dashboardoptions.com/), we provide the real-time data needed to fuel these calculations, allowing you to manage your risk like a professional institution.
 
 *Don't just count your profits—measure the risk you took to get them. That is the hallmark of a master trader.*
