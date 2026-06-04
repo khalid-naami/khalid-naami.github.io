@@ -3,11 +3,11 @@ title: "Dashboard Options for Finance: The Quantitative Edge"
 description: "Master the options market with Dashboard Options for Finance. Discover our advanced GEX tracking, 3D volatility surfaces, and institutional flow data."
 authors: [khalid]
 tags: [Daily Analysis, options, analytics, visualization]
-keywords: [Dashboard Options, Options Analytics, Gamma Exposure, GEX, Volatility Surface, Institutional Flow, Option Greeks, Quantitative Finance]
+keywords: [Dashboard Options, Quantitative Finance, Options Analysis, Option Greeks, Risk Management, Option Surfaces, Financial Analytics]
 image: /img/dashboard-options-finance.webp
 slug: dashboard-options-finance-quantitative-edge
 date: 2026-06-04T13:00:00Z
-schema_type: [TechArticle, SoftwareApplication]
+schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
 # Dashboard Options for Finance: The Quantitative Edge
