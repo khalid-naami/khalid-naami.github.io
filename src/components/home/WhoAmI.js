@@ -6,7 +6,7 @@ function WhoAmI({ level = 2 }) {
     <Section title="Who am I?" level={level}>
       <div className="text-xl text-center max-w-3xl mx-auto">
         <p>
-          <strong>Founder, Owner, & CEO at Dashboard Options.</strong>
+          <strong>Founder, Owner, & CEO at <a href="https://dashboardoptions.com/" target="_blank" rel="noreferrer">Dashboard Options</a>.</strong>
         </p>
       </div>
       
