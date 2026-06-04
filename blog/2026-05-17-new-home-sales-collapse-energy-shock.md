@@ -1,5 +1,5 @@
 ---
-title: "New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!"
+title: "New Home Sales Plunge 17.6%: 2008 Policy Repeat"
 description: "New home sales collapsed by 17.6% as a massive global energy shock hits a fragile economy, while the ECB and BoE mimic their disastrous 2008 inflation mistakes."
 authors: [khalid]
 tags: [Global Economy, Real Estate, Debt, Energy Markets, Central Banks, Global Macro]
