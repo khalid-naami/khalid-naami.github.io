@@ -1,5 +1,5 @@
 ---
-title: "Private Credit Slump: Swiss Pension Fund Triggers Gate Limit"
+title: "Private Credit Slump: Swiss Pension Fund Gate"
 description: "A Swiss pension fund withdrawal forces a private credit fund to gate redemptions. Lenders avoid software loans as tech assets face a subprime-style debt spiral."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, Global Macro]
