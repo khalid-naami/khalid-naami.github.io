@@ -130,3 +130,6 @@ The DOJ investigation into BlackRock is not an isolated regulatory headache. It 
 
 ---
 *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
