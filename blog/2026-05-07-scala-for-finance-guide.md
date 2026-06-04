@@ -42,7 +42,7 @@ You cannot talk about Scala in finance without talking about **Apache Spark**. W
 
 ## Building Resilient Financial Infrastructure
 
-At **Dashboard Options**, we understand that the future of finance is distributed. Scala provides the architectural stability needed to build systems that are not only fast but resilient. It is the language of the "Data Engineers"—the people who ensure the data flows safely and correctly, no matter the scale.
+At [**Dashboard Options**](https://dashboardoptions.com/), we understand that the future of finance is distributed. Scala provides the architectural stability needed to build systems that are not only fast but resilient. It is the language of the "Data Engineers"—the people who ensure the data flows safely and correctly, no matter the scale.
 
 ## The Bottom Line
 
