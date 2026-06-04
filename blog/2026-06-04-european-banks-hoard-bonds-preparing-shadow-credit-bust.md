@@ -1,5 +1,5 @@
 ---
-title: "European Banks Hoard Bonds: Preparing for Shadow Credit Bust"
+title: "European Banks Hoard Bonds: Shadow Credit Risk"
 description: "European banks buy record sovereign bonds despite potential ECB rate hikes, choosing liquidity safety over loan growth as European shadow credit stresses mount."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
