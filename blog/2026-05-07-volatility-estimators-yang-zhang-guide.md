@@ -7,7 +7,7 @@ keywords: [Yang-Zhang estimator, volatility measurement, log-returns, quantitati
 image: /img/volatility.webp
 slug: volatility-log-returns-yang-zhang-estimator-guide
 date: 2026-05-07T12:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Decoding Volatility: From Log-Returns to the Yang-Zhang Estimator
