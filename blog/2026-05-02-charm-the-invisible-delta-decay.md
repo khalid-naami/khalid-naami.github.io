@@ -58,3 +58,6 @@ Returning to our physics analogy:
 3.  **The "Silent Hedge":** Managing Charm allows you to stay ahead of the "Monday Morning Gap" by anticipating how time will naturally shift your exposure.
 
 In the world of derivatives, time is not just about losing value (Theta); it’s about the changing structure of your risk. Mastering Charm is the final step in truly understanding the "Ghost in the Machine" of the options market.
+
+---
+_Master the markets with the right tools. Explore our advanced analytics at [Dashboard Options](https://dashboardoptions.com/)._
