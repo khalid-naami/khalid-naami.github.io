@@ -82,3 +82,6 @@ As long as the real employment gap continues to widen by millions of jobs, lower
 
 ---
 *This analysis is part of our Global Economy series, focusing on deep structural macroeconomic trends, housing markets, and labor dynamics.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
