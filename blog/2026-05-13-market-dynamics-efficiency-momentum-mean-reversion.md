@@ -51,4 +51,4 @@ At its most basic level, every price move is a result of the relationship betwee
 Understanding the history and the mechanical background of these forces is essential for any quantitative strategist. The market is not a random walk; it is a structured system driven by the physics of supply and demand. By identifying which regime the market is in, you can choose the right tool for the job—whether it's riding the momentum or betting on the reversion.
 
 ---
-_Note: This article is part of our Daily Analysis series, focusing on the quantitative foundations of modern trading._
+_Note: This article is part of our [Daily Analysis](https://dashboardoptions.com/) series, focusing on the quantitative foundations of modern trading._
