@@ -7,7 +7,7 @@ keywords: [C++ for Finance, HFT Programming, Low Latency Trading, Memory Managem
 image: /img/c++.webp
 slug: c-plus-plus-quantitative-finance-low-latency-guide
 date: 2026-05-07T16:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # C++ for Finance: The Bedrock of Low Latency Systems
