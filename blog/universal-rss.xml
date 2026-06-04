@@ -13,7 +13,7 @@
     <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://khalidnaami.com</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
-    <lastBuildDate>Thu, 04 Jun 2026 18:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:26:36 GMT</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -201,6 +201,90 @@
       <media:group>
         <media:content url="https://khalidnaami.com/img/china-radar-eye-of-dragon-iran.webp" type="image/webp"/>
         <media:thumbnail url="https://khalidnaami.com/img/china-radar-eye-of-dragon-iran.webp"/>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[EW Deficit: US Compass Call Fails to Blind Iran]]></title>
+      <link>https://khalidnaami.com/blog/electronic-warfare-deficit-ec130h-compass-call</link>
+      <guid isPermaLink="false">https://khalidnaami.com/blog/electronic-warfare-deficit-ec130h-compass-call</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <author>research@khalidnaami.com (Khalid Naami)</author>
+      <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
+      <category><![CDATA[Geopolitics]]></category><category><![CDATA[Political Economy]]></category><category><![CDATA[US Military]]></category><category><![CDATA[Israel]]></category><category><![CDATA[Iran]]></category><category><![CDATA[Electronic Warfare]]></category><category><![CDATA[Military Strategy]]></category><category><![CDATA[Cyber Security]]></category>
+      <description><![CDATA[Classified leaks reveal U.S. EC-130H and new EA-37B electronic warfare planes struggle to blind Iran's early warning radars, delaying preemptive strike plans.]]></description>
+      <content:encoded><![CDATA[<p>The massive U.S. and Israeli military buildup in the Middle East has encountered a significant technical obstacle. Highly classified reports delivered to the congressional &quot;Gang of Eight&quot; reveal that the U.S. Air Force’s premier electronic warfare (EW) asset, the <strong>EC-130H Compass Call</strong>, and its next-generation successor, the <strong>EA-37B</strong>, are struggling to suppress Iran&#39;s integrated air defense networks. This unexpected jamming deficit has created a major hurdle for air campaign planners, contributing to the hesitation discussed in <a href="/blog/us-congress-classified-briefing-iran-war-risks">Classified Briefing: Congress Warned on Iran War</a>.</p>
+<!-- truncate -->
+
+<p><img src="/img/ec130h-compass-call-electronic-warfare.webp" alt="EW Deficit: US Compass Call Fails to Blind Iran"></p>
+<h2>The Compass Call Doctrine: Silent Suppression</h2>
+<p>The EC-130H Compass Call is a strategic weapon designed to disrupt enemy communications, radar, and GPS-guided systems without firing a single kinetic round. Historically, it served as a key asset in U.S. air operations:</p>
+<ul>
+<li><strong>Venezuela &amp; Syria</strong>: Jammed early warning radars, allowing strike aircraft to enter protected airspace.</li>
+<li><strong>Libya</strong>: Suppressed Muammar Gaddafi&#39;s military communications and intercepted calls to coordinate rebel movements.</li>
+<li><strong>Lebanon</strong>: Linked by intelligence reports to the pager and walkie-talkie communication disruptions.</li>
+<li><strong>Airborne Cyber Attacks</strong>: The platform can inject malicious code directly into wireless networks to disable air defense systems (SEAD - Suppression of Enemy Air Defenses).</li>
+</ul>
+<p>However, during recent operations near the Strait of Hormuz, the Compass Call has faced unexpected difficulties.</p>
+<h2>The Iranian Electronic Defense</h2>
+<p>Western planners are realizing that Iran’s communication networks are highly resilient to standard U.S. jamming protocols. Iran&#39;s military communications and ballistic missile guidance systems have been designed to operate outside standard GPS networks. By bypassing GPS, Iran’s missile forces successfully hit their target zones during recent live-fire maneuvers supervised by the <strong>Madinah Command</strong>, despite the presence of U.S. EW platforms.</p>
+<p>Furthermore, Iran&#39;s advanced early warning radar networks (which include the Chinese-supplied radar networks analyzed in <a href="/blog/dragons-eye-chinese-radar-neutralizes-us-stealth">The Dragon&#39;s Eye: Chinese Radar Neutralizes US Stealth</a>) have proven highly resistant to U.S. jamming.</p>
+<h2>Deployments and Vulnerable Bases</h2>
+<p>The U.S. has expanded its electronic warfare fleet in the Gulf by 100%, deploying a total of four EC-130H aircraft and the newly arrived EA-37B. These EW assets are operating out of two primary hubs:</p>
+<ol>
+<li><strong>Ali Al Salem Air Base</strong> (Kuwait)</li>
+<li><strong>Al Dhafra Air Base</strong> (UAE)</li>
+</ol>
+<p>Because they host these critical EW assets, Ali Al Salem and Al Dhafra are prime targets for Iranian retaliatory strikes. In late January 2026, the first operational EA-37B (based on the Gulfstream G550 platform, previously designated EC-37B) landed at Ramstein Air Base in Germany before transitioning directly to the Gulf.</p>
+<p>The failure to blind Iran&#39;s air defenses has delayed preemptive strike plans. U.S. planners recognize that without complete electronic suppression, a strike would not surprise Iran. The early warning systems would remain active, allowing Iran to launch its hypersonic missile swarm (detailed in <a href="/blog/greek-report-iran-missile-swarm-ababil">Greek Report: Iran Preps 670 Hypersonic Missiles</a>) instantly.</p>
+<p>For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit <a href="https://dashboardoptions.com/">Dashboard Options</a>. Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through <a href="https://eurodongold.com">Augusta Precious Metals</a>.</p>
+<hr>
+<p><strong>Related Analysis:</strong></p>
+<ul>
+<li><a href="/blog/us-congress-classified-briefing-iran-war-risks">Classified Briefing: Congress Warned on Iran War</a></li>
+<li><a href="/blog/two-loop-strategy-us-f22-raptors-israel-iran">Redrawing the Map: US Deploys F-22s to Israel</a></li>
+<li><a href="/blog/greek-report-iran-missile-swarm-ababil">Greek Report: Iran Preps 670 Hypersonic Missiles</a></li>
+<li><a href="/blog/terror-of-calm-israel-chemical-weapons-pretext">Terror of Calm: Israel Warns of Iranian WMDs</a></li>
+</ul>
+]]></content:encoded>
+      <yandex:full-text><![CDATA[<p>The massive U.S. and Israeli military buildup in the Middle East has encountered a significant technical obstacle. Highly classified reports delivered to the congressional &quot;Gang of Eight&quot; reveal that the U.S. Air Force’s premier electronic warfare (EW) asset, the <strong>EC-130H Compass Call</strong>, and its next-generation successor, the <strong>EA-37B</strong>, are struggling to suppress Iran&#39;s integrated air defense networks. This unexpected jamming deficit has created a major hurdle for air campaign planners, contributing to the hesitation discussed in <a href="/blog/us-congress-classified-briefing-iran-war-risks">Classified Briefing: Congress Warned on Iran War</a>.</p>
+<!-- truncate -->
+
+<p><img src="/img/ec130h-compass-call-electronic-warfare.webp" alt="EW Deficit: US Compass Call Fails to Blind Iran"></p>
+<h2>The Compass Call Doctrine: Silent Suppression</h2>
+<p>The EC-130H Compass Call is a strategic weapon designed to disrupt enemy communications, radar, and GPS-guided systems without firing a single kinetic round. Historically, it served as a key asset in U.S. air operations:</p>
+<ul>
+<li><strong>Venezuela &amp; Syria</strong>: Jammed early warning radars, allowing strike aircraft to enter protected airspace.</li>
+<li><strong>Libya</strong>: Suppressed Muammar Gaddafi&#39;s military communications and intercepted calls to coordinate rebel movements.</li>
+<li><strong>Lebanon</strong>: Linked by intelligence reports to the pager and walkie-talkie communication disruptions.</li>
+<li><strong>Airborne Cyber Attacks</strong>: The platform can inject malicious code directly into wireless networks to disable air defense systems (SEAD - Suppression of Enemy Air Defenses).</li>
+</ul>
+<p>However, during recent operations near the Strait of Hormuz, the Compass Call has faced unexpected difficulties.</p>
+<h2>The Iranian Electronic Defense</h2>
+<p>Western planners are realizing that Iran’s communication networks are highly resilient to standard U.S. jamming protocols. Iran&#39;s military communications and ballistic missile guidance systems have been designed to operate outside standard GPS networks. By bypassing GPS, Iran’s missile forces successfully hit their target zones during recent live-fire maneuvers supervised by the <strong>Madinah Command</strong>, despite the presence of U.S. EW platforms.</p>
+<p>Furthermore, Iran&#39;s advanced early warning radar networks (which include the Chinese-supplied radar networks analyzed in <a href="/blog/dragons-eye-chinese-radar-neutralizes-us-stealth">The Dragon&#39;s Eye: Chinese Radar Neutralizes US Stealth</a>) have proven highly resistant to U.S. jamming.</p>
+<h2>Deployments and Vulnerable Bases</h2>
+<p>The U.S. has expanded its electronic warfare fleet in the Gulf by 100%, deploying a total of four EC-130H aircraft and the newly arrived EA-37B. These EW assets are operating out of two primary hubs:</p>
+<ol>
+<li><strong>Ali Al Salem Air Base</strong> (Kuwait)</li>
+<li><strong>Al Dhafra Air Base</strong> (UAE)</li>
+</ol>
+<p>Because they host these critical EW assets, Ali Al Salem and Al Dhafra are prime targets for Iranian retaliatory strikes. In late January 2026, the first operational EA-37B (based on the Gulfstream G550 platform, previously designated EC-37B) landed at Ramstein Air Base in Germany before transitioning directly to the Gulf.</p>
+<p>The failure to blind Iran&#39;s air defenses has delayed preemptive strike plans. U.S. planners recognize that without complete electronic suppression, a strike would not surprise Iran. The early warning systems would remain active, allowing Iran to launch its hypersonic missile swarm (detailed in <a href="/blog/greek-report-iran-missile-swarm-ababil">Greek Report: Iran Preps 670 Hypersonic Missiles</a>) instantly.</p>
+<p>For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit <a href="https://dashboardoptions.com/">Dashboard Options</a>. Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through <a href="https://eurodongold.com">Augusta Precious Metals</a>.</p>
+<hr>
+<p><strong>Related Analysis:</strong></p>
+<ul>
+<li><a href="/blog/us-congress-classified-briefing-iran-war-risks">Classified Briefing: Congress Warned on Iran War</a></li>
+<li><a href="/blog/two-loop-strategy-us-f22-raptors-israel-iran">Redrawing the Map: US Deploys F-22s to Israel</a></li>
+<li><a href="/blog/greek-report-iran-missile-swarm-ababil">Greek Report: Iran Preps 670 Hypersonic Missiles</a></li>
+<li><a href="/blog/terror-of-calm-israel-chemical-weapons-pretext">Terror of Calm: Israel Warns of Iranian WMDs</a></li>
+</ul>
+]]></yandex:full-text>
+      <yandex:genre>article</yandex:genre>
+      
+      <media:group>
+        <media:content url="https://khalidnaami.com/img/ec130h-compass-call-electronic-warfare.webp" type="image/webp"/>
+        <media:thumbnail url="https://khalidnaami.com/img/ec130h-compass-call-electronic-warfare.webp"/>
       </media:group>
     </item>
     <item>
