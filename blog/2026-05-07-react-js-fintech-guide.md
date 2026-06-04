@@ -7,7 +7,7 @@ keywords: [React JS Fintech, Real-time UI, Financial Dashboards, State Managemen
 image: /img/react-js.webp
 slug: react-js-fintech-scalable-dashboards-guide
 date: 2026-05-07T10:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # React.js in Fintech: Scalable Trading Dashboards
