@@ -42,7 +42,7 @@ Why do the world’s top financial institutions still rely on R? Because some ta
 
 ## The Synergy with Modern Technology
 
-At **Dashboard Options**, we recognize that the best platforms are built on a diversity of tools. While our front-end is reactive and our back-end is versatile, our deepest statistical insights are often born from the mathematical foundations that R provides.
+At [**Dashboard Options**](https://dashboardoptions.com/), we recognize that the best platforms are built on a diversity of tools. While our front-end is reactive and our back-end is versatile, our deepest statistical insights are often born from the mathematical foundations that R provides.
 
 ## The Bottom Line
 
