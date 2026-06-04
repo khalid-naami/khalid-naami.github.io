@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/dashboard-options-finance-quantitative-edge</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dashboard-options-finance.webp</image:loc>
+      <image:caption><![CDATA[Master the options market with Dashboard Options for Finance. Discover our advanced GEX tracking, 3D volatility surfaces, and institutional flow data.]]></image:caption>
+      <image:title><![CDATA[Dashboard Options for Finance: The Quantitative Edge]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/my-trading-principles-wall-street-casino-my-story</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/casino-roulette.webp</image:loc>
