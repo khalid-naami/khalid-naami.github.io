@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, China, Iran, US Military, Military Technology, Political Economy]
 image: /img/china-radar-eye-of-dragon-iran.webp
 slug: dragons-eye-chinese-radar-neutralizes-us-stealth
+keywords: [Chinese Radar, Eye of the Dragon, US Stealth Fighter, Sayyad G3, Iran Air Defense, Chinese Military Radar, Stealth Detection, Geopolitics]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 In modern warfare, electronic supremacy determines the victor. As the United States and Israel prepare for a potential conflict with Iran, a massive technological development has surfaced. Intelligence reports indicate that China has deployed or integrated its advanced multi-frequency radar technology, the **Liyuan-1** (often referred to as the "Eye of the Dragon"), to support Iranian defense operations, effectively neutralizing the Western stealth advantage.
