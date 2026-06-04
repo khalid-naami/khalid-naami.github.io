@@ -101,3 +101,6 @@ Instead of recognizing this demand destruction, central banks are repeating thei
 
 ---
 *This analysis is part of our Global Macro series, focusing on housing markets, energy shocks, and central bank policy cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
