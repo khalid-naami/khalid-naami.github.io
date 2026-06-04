@@ -7,7 +7,7 @@ keywords: [Kelly Criterion, Position Sizing, Risk Management Math, Optimal Bet S
 image: /img/Fair%20Bet%20and%20Kelly.webp
 slug: fair-bets-kelly-criterion-optimal-position-sizing-guide
 date: 2026-05-07T16:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Fair Bets & Kelly Criterion: Mastering Position Sizing
