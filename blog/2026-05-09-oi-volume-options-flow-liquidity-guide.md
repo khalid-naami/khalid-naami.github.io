@@ -102,4 +102,4 @@ Market maker positioning can indicate institutional sentiment. By analyzing thes
 
 ## Conclusion
 
-Open Interest and Volume are the lifeblood of the options market. By merging these metrics with Greeks and OCC positioning data, you gain a 360-degree view of the market. At **Dashboard Options**, our tools bring this data to life, allowing you to follow the flow and trade with the strength of the market behind you.
+Open Interest and Volume are the lifeblood of the options market. By merging these metrics with Greeks and OCC positioning data, you gain a 360-degree view of the market. At [**Dashboard Options**](https://dashboardoptions.com/), our tools bring this data to life, allowing you to follow the flow and trade with the strength of the market behind you.
