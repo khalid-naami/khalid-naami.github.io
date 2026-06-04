@@ -3,7 +3,7 @@ title: "US-Iran Escalation: MQ-4C Triton Drone Disappears in Gulf"
 description: "A high-altitude US Navy MQ-4C Triton drone disappears near Iran's coast amid electronic warfare jamming and a 48-hour ultimatum from President Trump."
 date: 2026-06-04
 authors: khalid
-tags: [Geopolitics, Middle East, US Navy, Iran, Daily Analysis, Military Strategy]
+tags: [Geopolitics, Middle East, US Navy, Iran, Political Economy, Military Strategy]
 image: /img/us-navy-mq4c-triton-drone.webp
 slug: us-iran-escalation-mq4c-triton-drone-disappears-in-gulf
 ---
