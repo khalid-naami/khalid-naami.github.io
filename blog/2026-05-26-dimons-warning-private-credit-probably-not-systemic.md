@@ -104,3 +104,6 @@ It is not a carbon copy of the 2008 subprime mortgage crisis. It is a modern, sh
 
 ---
 *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
