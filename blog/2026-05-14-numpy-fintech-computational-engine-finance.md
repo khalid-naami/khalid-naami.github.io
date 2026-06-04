@@ -54,7 +54,7 @@ When combined with <a href="/blog/streamlit-python-quantitative-options-analysis
 
 ## Conclusion
 
-NumPy is the bedrock of modern scientific computing in Python. By leveraging its power, we ensure that our analysis is not just accurate, but fast enough to keep up with the volatility of the markets. At **Dashboard Options**, NumPy is the force that turns complex math into trading opportunities.
+NumPy is the bedrock of modern scientific computing in Python. By leveraging its power, we ensure that our analysis is not just accurate, but fast enough to keep up with the volatility of the markets. At [**Dashboard Options**](https://dashboardoptions.com/), NumPy is the force that turns complex math into trading opportunities.
 
 ---
 _Note: This article is part of our Science and Technologies series, focusing on the quantitative foundations of modern trading._
