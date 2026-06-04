@@ -50,7 +50,7 @@ When initiated At-the-Money (ATM), the Calendar Spread is perfectly **Delta-neut
 
 ## Strategic Implementation via Market Mechanics
 
-Executing a Calendar Spread blindly before an earnings report is a common retail disaster. The post-earnings "IV Crush" will destroy the long Vega profile of the trade. An academic analyst uses structural data from **Dashboard Options** to time the trade with precision.
+Executing a Calendar Spread blindly before an earnings report is a common retail disaster. The post-earnings "IV Crush" will destroy the long Vega profile of the trade. An academic analyst uses structural data from [**Dashboard Options**](https://dashboardoptions.com/) to time the trade with precision.
 
 ### The Positive Gamma Prerequisite
 The absolute best environment for a Calendar Spread is a **Positive Gamma Regime**. 
