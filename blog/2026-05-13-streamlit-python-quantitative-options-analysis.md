@@ -7,7 +7,7 @@ keywords: [Streamlit, Python for Finance, Options Analysis, Data Visualization, 
 image: /img/streamlit-featured.webp
 slug: streamlit-python-quantitative-options-analysis
 date: 2026-05-13T11:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Streamlit and <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a>: Quantitative Options Analysis
