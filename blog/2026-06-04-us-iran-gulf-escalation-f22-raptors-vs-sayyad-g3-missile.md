@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, Middle East, US Military, Iran, Political Economy]
 image: /img/gulf-brinkmanship-iran-us.webp
 slug: us-iran-gulf-escalation-f22-raptors-vs-sayyad-g3-missile
+keywords: [F-22 Raptors, Sayyad G3, US Iran Escalation, Persian Gulf, Air Defense Missiles, Fighter Jets, Geopolitics]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 The Persian Gulf is witnessing a military escalation of unprecedented scale, drawing stark comparisons to the build-up leading to the 2003 Iraq war. Roughly one-third (30%) of the United States Navy and a quarter (25%) of the U.S. Air Force are currently positioned around Iran. This massive concentration of force represents a level of combat readiness not seen in decades, raising critical questions about whether the regional stand-off is on the verge of erupting into a direct military confrontation.
