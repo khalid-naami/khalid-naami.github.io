@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, Russia, Iran, US Military, Europe, Political Economy]
 image: /img/russia-iran-souda-bay-strategic-threat.webp
 slug: the-souda-bay-threat-russia-iran-geopolitical-axis
+keywords: [Souda Bay Threat, Russia Iran Axis, Mediterranean Security, US Military Bases, Kremlin Support, Drone Logistics, Geopolitics]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 A potential war between the United States and Iran is reshaping global geopolitical strategies, providing Russia with a strategic window of opportunity. For Moscow, a major conflict in the Middle East—a crisis that has repeatedly challenged American hegemony since October 7—serves to drain Western military power. Under the surface, this escalation is not just a regional stand-off, but a critical struggle to define the rules of the new world order.
