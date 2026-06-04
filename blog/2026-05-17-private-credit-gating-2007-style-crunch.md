@@ -1,5 +1,5 @@
 ---
-title: "Private Credit Gating: A Shocking 2007-Style Credit Crunch!!"
+title: "Private Credit Gating: 2007-Style Credit Crunch"
 description: "Private credit is freezing as Blue Owl gates withdrawals, sparking a modern shadow bank run, high defaults, and systemic 2007-style fears across credit markets."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, Global Macro]
