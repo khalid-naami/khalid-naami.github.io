@@ -7,7 +7,7 @@ keywords: [Efficient Market Hypothesis, EMH, Momentum Trading, Mean Reversion, S
 image: /img/momentum-mean-reversion.webp
 slug: market-dynamics-efficiency-momentum-mean-reversion
 date: 2026-05-13T22:00:00+00:00
-schema_type: AnalysisNewsArticle
+schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
 # Market Dynamics: Efficiency, Momentum & Mean Reversion
