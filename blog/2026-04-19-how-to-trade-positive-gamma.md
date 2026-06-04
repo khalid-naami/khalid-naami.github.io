@@ -46,7 +46,7 @@ The most robust way to trade a Positive Gamma regime is to align yourself with t
 
 ## Strategy 2: Trading the "Gamma Walls"
 
-In a Positive Gamma environment, large concentrations of Gamma act as impenetrable walls. Using quantitative tools like **Dashboard Options**, you can visualize exactly where these walls are located (e.g., a massive Call Gamma concentration at the SPX 5100 strike).
+In a Positive Gamma environment, large concentrations of Gamma act as impenetrable walls. Using quantitative tools like [**Dashboard Options**](https://dashboardoptions.com/), you can visualize exactly where these walls are located (e.g., a massive Call Gamma concentration at the SPX 5100 strike).
 
 *   **The Strategy:** If the price approaches this Gamma Wall, you can initiate mean-reverting trades (like selling Call Credit Spreads right at the wall). The dealer hedging flows will actively defend this strike, providing you with a high-probability structural advantage.
 
