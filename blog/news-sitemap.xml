@@ -79,6 +79,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/the-souda-bay-threat-russia-iran-geopolitical-axis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[The Souda Bay Threat: Russia-Iran Geopolitical Axis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/russia-iran-souda-bay-strategic-threat.webp</image:loc>
+      <image:title><![CDATA[The Souda Bay Threat: Russia-Iran Geopolitical Axis]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-home-prices-decline-case-shiller-fhfa</loc>
     <news:news>
       <news:publication>
