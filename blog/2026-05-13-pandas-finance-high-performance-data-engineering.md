@@ -12,7 +12,7 @@ schema_type: TechArticle
 
 # Pandas for Finance: High-Performance Data Engineering
 
-If <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> is the language of quantitative finance, then **Pandas** is its most powerful vocabulary. Building institutional-grade platforms like **Dashboard Options** requires the ability to process and analyze millions of data points with millisecond precision.
+If <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> is the language of quantitative finance, then **Pandas** is its most powerful vocabulary. Building institutional-grade platforms like [**Dashboard Options**](https://dashboardoptions.com/) requires the ability to process and analyze millions of data points with millisecond precision.
 
 ![Architectural Overview of High-Performance Data Engineering with Pandas DataFrames](/img/pandas.webp)
 
