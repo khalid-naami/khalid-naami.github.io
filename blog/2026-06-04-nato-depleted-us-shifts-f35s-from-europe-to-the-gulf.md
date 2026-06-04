@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, US Navy, US Air Force, NATO, Europe, Political Economy, Middle East]
 image: /img/us-stealth-bomber-task-force-gulf.webp
 slug: nato-depleted-us-shifts-f35s-from-europe-to-the-gulf
+keywords: [NATO Depletion, F-35 Shift, US Air Force, Persian Gulf, Russian Threat, Ukraine Aid, Geopolitics, Military Strategy]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 The threat of a looming war between the United States and Iran has led to an unprecedented reallocation of American military power. By transferring core air and naval assets from European command theaters to the Middle East, Washington has inadvertently depleted NATO's northern and southern flanks. This massive shift in military posture represents a direct strategic gain for Russia, leaving Europe vulnerable as the U.S. commits its high-value stealth wings to the Gulf.
