@@ -64,3 +64,6 @@ Gamma moves inversely to volatility. As IV rises, Gamma decreases because the hi
 > ”In summary, Gamma acts as the ‘accelerator’ of an option’s price. It is most explosive for short-term, at-the-money contracts and tends to stabilize as volatility increases or as the option moves further away from the current market price.”
 
 In conclusion, while Delta gives you a snapshot of your current exposure, Gamma provides the roadmap for how that exposure will evolve. Mastering Gamma is the difference between simply trading and truly managing a professional-grade portfolio.
+
+---
+_Master the markets with the right tools. Explore our advanced analytics at [Dashboard Options](https://dashboardoptions.com/)._
