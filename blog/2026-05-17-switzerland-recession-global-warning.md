@@ -109,3 +109,6 @@ The Swiss canary is singing a clear song: the global economy has forgotten how t
 
 ---
 *This analysis is part of our Global Economy series, providing deep strategic insights into international trade, currency moves, and central bank policies.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
