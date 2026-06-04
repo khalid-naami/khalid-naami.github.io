@@ -12,7 +12,7 @@ schema_type: [TechArticle, NewsArticle]
 
 # The US AWACS Deployment: High-Stakes Aerial War on Iran
 
-The United States is currently throwing all its strategic weight into the airspace and coastal waters surrounding Iran. Today, we are witnessing an unprecedented deployment of aerial assets: 50% of America's Airborne Warning and Control System (AWACS) capabilities—specifically six out of its twelve operational E-3 Sentry aircraft—are now positioned around Iran. 
+The United States is currently throwing all its strategic weight into the airspace and coastal waters surrounding Iran. Today, we are witnessing an unprecedented deployment of aerial assets: 50% of America's Airborne Warning and Control System (AWACS) capabilities—specifically six out of its twelve operational [E-3 Sentry](/blog/e3-sentry-failing-maduro-outdated-iran) aircraft—are now positioned around Iran. 
 
 ![The US AWACS Deployment: High-Stakes Aerial War on Iran](/img/us-awacs-iran-strategy.webp)
 
@@ -28,7 +28,7 @@ However, the pressing question echoing through Washington—and particularly on 
 
 The political stakes of this deployment are existential. By committing its full might, the US faces a binary outcome: absolute victory or a total loss of global leadership. 
 
-Iran's Supreme Leader, Ali Khamenei, understands that American hegemony is on the line. If Iran transforms into a military quagmire, the United States will suffer a severe strategic retreat, much like Russia's recent geopolitical setbacks. A post-war America bogged down in Iran will not be the same superpower it was before. 
+Iran's Supreme Leader, Ali [Khamenei](/blog/before-zero-hour-trump-khamenei-confrontation), understands that American hegemony is on the line. If Iran transforms into a military quagmire, the United States will suffer a severe strategic retreat, much like Russia's recent geopolitical setbacks. A post-war America bogged down in Iran will not be the same superpower it was before. 
 
 Furthermore, committing 50% of its AWACS fleet to the Middle East drastically reduces Washington's ability to command conflicts elsewhere. This hyper-focus on Iran could inadvertently "liberate" Latin America from US strategic oversight. Simultaneously, bypassing the UN Security Council to launch this war sets a precedent that normalizes the breach of international law, effectively giving Russia the green light to crush Kyiv with impunity. Every escalation in the US-Iran theater directly alters the balance of power in the Russia-Ukraine conflict.
 
@@ -46,7 +46,7 @@ On the other side of the equation, intelligence suggests Russia has introduced i
 
 Parallel to diplomatic negotiations, the US is making it clear that all military options, including all-out war, are actively prepared. However, the Iranians have a very specific strategy to counter this massive aerial armada: **Electronic Warfare (EW) and the destruction of ground bases.**
 
-In the early days of any conflict, Iranian forces will relentlessly target massive US installations, particularly the Al Udeid Air Base in Qatar and the Muwaffaq Salti Air Base in Jordan. If these ground-based command and control centers are destroyed, the entire management of the F-35 and F-22 fleets will fall squarely on the AWACS aircraft serving as alternative command posts.
+In the early days of any conflict, Iranian forces will relentlessly target massive US installations, particularly the Al Udeid Air Base in Qatar and the [Muwaffaq Salti](/blog/jordan-muwaffaq-salti-lincoln-iran-attack) Air Base in Jordan. If these ground-based command and control centers are destroyed, the entire management of the F-35 and F-22 fleets will fall squarely on the AWACS aircraft serving as alternative command posts.
 
 This brings us to the most critical vulnerability: **What happens if the alternative command is neutralized?**
 
