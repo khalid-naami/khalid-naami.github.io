@@ -49,6 +49,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/israel-special-forces-gulfstream</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Gulfstream Recon: Israel's Pre-Strike Intel Ops on Iran]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-special-forces-gulfstream.webp</image:loc>
+      <image:title><![CDATA[Gulfstream Recon: Israel's Pre-Strike Intel Ops on Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/my-trading-principles-wall-street-casino-my-story</loc>
     <news:news>
       <news:publication>
@@ -181,6 +196,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/israel-us-iranian-proxy-fears.webp</image:loc>
       <image:title><![CDATA[US-Israel Strategic Anxiety: Proxy War Threats in Jordan]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-munitions-depletion-pentagon-warns-trump-on-iran-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US Munitions Depletion: Pentagon Warns Trump on Iran War]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-defense-depletion-israel-iran.webp</image:loc>
+      <image:title><![CDATA[US Munitions Depletion: Pentagon Warns Trump on Iran War]]></image:title>
     </image:image>
   </url>
 </urlset>
