@@ -40,7 +40,7 @@ While Python handles the "brain" of the operation, Streamlit provides the "face.
 2.  **Custom Visualization**: Using integration with [Plotly for interactive data science](/blog/plotly-fintech-interactive-data-science-python), we can create 3D volatility surfaces or interactive payoff diagrams that allow users to simulate complex multi-leg strategies like Iron Condors or Butterfly Spreads.
 3.  **Rapid Prototyping**: In the fast-moving world of finance, an idea that takes weeks to deploy is often obsolete. Streamlit allows us to go from a Jupyter notebook concept to a production-ready dashboard in hours.
 
-## Application in Dashboard Options
+## Application in [Dashboard Options](https://dashboardoptions.com/)
 
 In our platform, **Dashboard Options**, we utilize these technologies to process massive amounts of options flow data. Our goal is to reveal the "hidden plumbing" of the market—the dealer hedging flows that drive price action.
 
