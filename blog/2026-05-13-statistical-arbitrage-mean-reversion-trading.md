@@ -63,7 +63,7 @@ In StatArb, the greatest risk is **Divergence**. A cointegrated relationship can
 *   **Half-Life Calculation**: We use the Ornstein-Uhlenbeck process to calculate the "Half-Life" of the mean reversion. If the trade doesn't revert within a reasonable timeframe, we close it to free up capital.
 *   **Exposure Heatmaps**: Monitoring total sector exposure ensures that a single event doesn't impact multiple pairs simultaneously.
 
-## 6. Integration with Dashboard Options
+## 6. Integration with [Dashboard Options](https://dashboardoptions.com/)
 
 At **Dashboard Options**, we use these statistical models to filter out noise. By combining StatArb signals with **<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a>)** data, we can identify *why* a spread is diverging. If a pair is diverging but GEX is extremely positive, dealer hedging might actually accelerate the mean reversion, providing a higher-conviction entry point.
 
