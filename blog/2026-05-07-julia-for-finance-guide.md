@@ -42,7 +42,7 @@ Where does Julia truly shine in the modern financial market?
 
 ## The Future of Fintech Infrastructure
 
-At **Dashboard Options**, we are constantly monitoring the technological horizon. While Python remains the versatile backbone of data science, Julia is rapidly becoming the engine of choice for the next generation of high-stakes, high-speed financial infrastructure.
+At [**Dashboard Options**](https://dashboardoptions.com/), we are constantly monitoring the technological horizon. While Python remains the versatile backbone of data science, Julia is rapidly becoming the engine of choice for the next generation of high-stakes, high-speed financial infrastructure.
 
 ## The Bottom Line
 
