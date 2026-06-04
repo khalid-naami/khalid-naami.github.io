@@ -93,4 +93,49 @@
       <image:title><![CDATA[Home Prices Fall: Case-Shiller and FHFA Signal Housing Slump]]></image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-iran-escalation-mq4c-triton-drone-disappears-in-gulf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US-Iran Escalation: MQ-4C Triton Drone Disappears in Gulf]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-navy-mq4c-triton-drone.webp</image:loc>
+      <image:title><![CDATA[US-Iran Escalation: MQ-4C Triton Drone Disappears in Gulf]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-iran-gulf-escalation-f22-raptors-vs-sayyad-g3-missile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US-Iran Gulf Escalation: F-22 Raptors vs Sayyad G3 Missile]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/gulf-brinkmanship-iran-us.webp</image:loc>
+      <image:title><![CDATA[US-Iran Gulf Escalation: F-22 Raptors vs Sayyad G3 Missile]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-israel-strategic-anxiety-proxy-war-threats-in-jordan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US-Israel Strategic Anxiety: Proxy War Threats in Jordan]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-us-iranian-proxy-fears.webp</image:loc>
+      <image:title><![CDATA[US-Israel Strategic Anxiety: Proxy War Threats in Jordan]]></image:title>
+    </image:image>
+  </url>
 </urlset>
