@@ -12,7 +12,7 @@ schema_type: [TechArticle, NewsArticle]
 
 # Final Warning to Jordan: Lincoln and Muwaffaq Salti Base
 
-Why are Chinese satellites today intensely focused on Jordan's Muwaffaq Al-Salti Air Base? The answer goes far beyond routine military monitoring. There are direct calls to neutralize Jordan from this war and prevent the regional circumstances from destroying the country. The destruction of Jordan would serve no purpose other than giving Israel the opportunity to transfer Palestinians into it.
+Why are [Chinese satellites](/blog/chinese-satellites-breaking-us-israel-space-monopoly) today intensely focused on Jordan's Muwaffaq Al-Salti Air Base? The answer goes far beyond routine military monitoring. There are direct calls to neutralize Jordan from this war and prevent the regional circumstances from destroying the country. The destruction of Jordan would serve no purpose other than giving Israel the opportunity to transfer Palestinians into it.
 
 ![Final Warning to Jordan: Lincoln and Muwaffaq Salti Base](/img/muwaffaq-salti-jordan-base.webp)
 
@@ -22,7 +22,7 @@ This may be part of developments with massive regional repercussions. Looking at
 
 ## Thomas Friedman's Warning and the Real War
 
-The second critical issue is the one raised by American journalist Thomas Friedman of *The New York Times*, who harshly criticized Netanyahu, stating that the war on Iran is a cover for the real war currently being waged in the West Bank. Why is Jordan part of this war? Striking Jordan provides cover for what is happening in the occupied territories.
+The second critical issue is the one raised by American journalist Thomas Friedman of *The New York Times*, who harshly criticized Netanyahu, stating that the [war on Iran](/blog/ai-deception-flawed-iran-war-model) is a cover for the real war currently being waged in the West Bank. Why is Jordan part of this war? Striking Jordan provides cover for what is happening in the occupied territories.
 
 What Olmert says and what Friedman writes reveals that direct confrontational messages are now being delivered straight to the capital, Amman. When satellite imagery confirms that Jordan now possesses offensive capabilities, including F-35 fighters, the implications are immediate: with F-35s present, Muwaffaq Al-Salti base becomes, by sheer military necessity and regardless of any political calculations, a mandatory target for Iranian strikes.
 
