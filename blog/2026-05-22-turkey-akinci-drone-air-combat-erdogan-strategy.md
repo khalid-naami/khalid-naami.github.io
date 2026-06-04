@@ -41,7 +41,7 @@ Turkey's defense acceleration is not coincidental. It follows a precise strategi
 **Why now?** The United States is trapped in a diplomatic and military quagmire with Iran. Israel is focused entirely on the Iranian threat and cannot open a second confrontational front against a NATO ally. This creates a unique window where technologies that would normally trigger US or Israeli objections can be pushed through to production without consequence.
 
 **The pattern is clear:**
-* **Tayfun Block 4 missile:** Entered serial production with a declared range of 3,000 km (real potential range of 6,000 km based on Turkey's consistent doubling pattern).
+* **[Tayfun Block 4](/blog/turkey-hypersonic-missile-tayfun-block-4) missile:** Entered serial production with a declared range of 3,000 km (real potential range of 6,000 km based on Turkey's consistent doubling pattern).
 * **Akinci air-to-air capability:** Successfully tested and immediately scheduled for mass production in 2026.
 * **Eren munition:** Moving directly from testing to serial production to establish it as a fait accompli before any future sanctions or restrictions can be imposed.
 
