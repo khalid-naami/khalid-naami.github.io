@@ -68,6 +68,6 @@ In the real world of trading, our estimates of **p** (probability) and **b** (od
 
 ## The Bottom Line
 
-Trading is not about being right; it is about managing the relationship between your edge and your capital. A "Fair Bet" is the starting point of pricing, but the **Kelly Criterion** is the engine of wealth creation. At **Dashboard Options**, our tools help you identify the +EV opportunities, but it is your mastery of these mathematical sizing principles that will ensure your long-term success.
+Trading is not about being right; it is about managing the relationship between your edge and your capital. A "Fair Bet" is the starting point of pricing, but the **Kelly Criterion** is the engine of wealth creation. At [**Dashboard Options**](https://dashboardoptions.com/), our tools help you identify the +EV opportunities, but it is your mastery of these mathematical sizing principles that will ensure your long-term success.
 
 *Master the math of the bet, and the market will stop being a gamble and start being a business.*
