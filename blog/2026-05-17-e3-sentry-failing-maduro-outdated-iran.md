@@ -12,7 +12,7 @@ schema_type: [TechArticle, NewsArticle]
 
 # E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran
 
-At the moment the United States was deploying its E-3 Sentry AWACS aircraft around Iran, the entire world praised this show of force. Today, however, specialized American publications are telling a very different story: the massive deployment of this aging fleet to the Iran crisis is exposing alarming vulnerabilities.
+At the moment the United States was deploying its E-3 Sentry [AWACS aircraft](/blog/us-awacs-deployment-iran-war-strategy) around Iran, the entire world praised this show of force. Today, however, specialized American publications are telling a very different story: the massive deployment of this aging fleet to the Iran crisis is exposing alarming vulnerabilities.
 
 ![E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran](/img/e3-sentry-failing-iran.webp)
 
