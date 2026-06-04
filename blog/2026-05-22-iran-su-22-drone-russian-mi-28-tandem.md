@@ -1,5 +1,5 @@
 ---
-title: "Iran's Su-22 Drone and Russian Mi-28: A Lethal Air Tandem"
+title: "Iran Su-22 Drone & Russian Mi-28: Air Tandem"
 description: "Analyzing the strategic threat of Russian Mi-28 helicopters in Iran and their tactical integration with unmanned Su-22M4 fighter-bombers."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Iran, Russia, Military Technology, Global Macro]
