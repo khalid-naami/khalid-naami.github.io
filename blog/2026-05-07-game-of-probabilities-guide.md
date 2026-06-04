@@ -52,6 +52,6 @@ Why is this the core of professional trading? Because if you understand that eve
 
 ## The Bottom Line
 
-Moving from a deterministic mindset to a probabilistic one is the single most important transition a trader can make. It is the shift from being a gambler to being a casino owner. At **Dashboard Options**, we provide the tools to visualize these probabilities, turning the chaos of the market into the clarity of statistical risk management.
+Moving from a deterministic mindset to a probabilistic one is the single most important transition a trader can make. It is the shift from being a gambler to being a casino owner. At [**Dashboard Options**](https://dashboardoptions.com/), we provide the tools to visualize these probabilities, turning the chaos of the market into the clarity of statistical risk management.
 
 *Stop asking what will happen next. Start asking what the probabilities are, and how much you are willing to bet on them.*
