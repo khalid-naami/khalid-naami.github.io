@@ -66,7 +66,7 @@ The response will be "decisive and proportionate." If the US strikes with 160 mi
 
 ## The American Dilemma
 
-From the American perspective, the plan was clear: strike the missile cities with bombers, launch from Diego Garcia and British bases, mix the cards, and end the matter. A "limited" operation—like Midnight Hammer—but targeting the missile program instead of the nuclear program. Trump would win, and the negotiations would resume with Iran's uranium suspension proceeding as planned.
+From the American perspective, the plan was clear: strike the missile cities with bombers, launch from Diego Garcia and [British bases](/blog/britain-blocks-trump-uk-bases-iran-attack), mix the cards, and end the matter. A "limited" operation—like Midnight Hammer—but targeting the missile program instead of the nuclear program. Trump would win, and the negotiations would resume with Iran's uranium suspension proceeding as planned.
 
 But Iran has refused categorically. This strike will not pass because it targets not the regime, as the American President claims, but the missile cities—Iran's most critical strategic deterrent.
 
