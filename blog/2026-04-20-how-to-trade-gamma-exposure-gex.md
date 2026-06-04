@@ -47,7 +47,7 @@ Once you know the regime, you need to find your targets. Gamma Walls are specifi
 
 ![GEX and DEX Visualized](/img/trade-gamma-v2.webp)
 
-*Using tools like Dashboard Options to map out GEX and DEX (Delta Exposure) provides a clear, quantitative roadmap of dealer positioning.*
+*Using tools like [Dashboard Options](https://dashboardoptions.com/) to map out GEX and DEX (Delta Exposure) provides a clear, quantitative roadmap of dealer positioning.*
 
 ## Step 3: Trade the Zero-Gamma Pivot
 
