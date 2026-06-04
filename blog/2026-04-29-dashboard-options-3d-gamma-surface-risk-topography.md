@@ -11,7 +11,7 @@ schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 
 # The 3D Gamma Surface: Navigating Market Risk Topography
 
-The options market possesses a tangible, mathematical geometry. To ignore this structure is to trade with a significant blind spot. Traditional option chains flatten the most critical data into two-dimensional tables, obscuring the complex interdependencies of risk. The **3D Gamma Surface** within **Dashboard Options** restores the market's true 'topography,' revealing the massive peaks of dealer exposure and the valleys of stability that drive price action.
+The options market possesses a tangible, mathematical geometry. To ignore this structure is to trade with a significant blind spot. Traditional option chains flatten the most critical data into two-dimensional tables, obscuring the complex interdependencies of risk. The **3D Gamma Surface** within [**Dashboard Options**](https://dashboardoptions.com/) restores the market's true 'topography,' revealing the massive peaks of dealer exposure and the valleys of stability that drive price action.
 
 <!-- truncate -->
 
