@@ -79,6 +79,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/imec-corridor-us-china-india-iran-clash</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IMEC Corridor: US and India Strategy to Check China]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/imec-corridor-india-israel-geopolitics.webp</image:loc>
+      <image:title><![CDATA[IMEC Corridor: US and India Strategy to Check China]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/israel-special-forces-gulfstream</loc>
     <news:news>
       <news:publication>
@@ -91,6 +106,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/israel-special-forces-gulfstream.webp</image:loc>
       <image:title><![CDATA[Gulfstream Recon: Israel's Pre-Strike Intel Ops on Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/missing-f22-raptor-ovda-satellite-mystery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Missing F-22: Satellite Imagery Exposes Ovda Base Flaws]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f22-ovda-airbase-satellite-mystery.webp</image:loc>
+      <image:title><![CDATA[Missing F-22: Satellite Imagery Exposes Ovda Base Flaws]]></image:title>
     </image:image>
   </url>
   <url>
@@ -211,6 +241,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/russia-iran-souda-bay-strategic-threat.webp</image:loc>
       <image:title><![CDATA[The Souda Bay Threat: Russia-Iran Geopolitical Axis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkish-f16-crash-sabotage-military-partnership</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[F-16 Sabotage: US Blocks Egypt-Turkey Fighter Upgrades]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/turkish-f16-crash-sabotage-egypt-partnership.webp</image:loc>
+      <image:title><![CDATA[F-16 Sabotage: US Blocks Egypt-Turkey Fighter Upgrades]]></image:title>
     </image:image>
   </url>
   <url>
