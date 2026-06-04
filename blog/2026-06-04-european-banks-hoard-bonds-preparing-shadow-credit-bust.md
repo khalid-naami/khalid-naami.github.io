@@ -3,11 +3,11 @@ title: "European Banks Hoard Bonds: Preparing for Shadow Credit Bust"
 description: "European banks buy record sovereign bonds despite potential ECB rate hikes, choosing liquidity safety over loan growth as European shadow credit stresses mount."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [European Banks, ECB Rate Hikes, Sovereign Bonds Hoarding, Shadow Credit Bust, Euribor Futures Curve, Germany Recession, France Contraction, Block Trust IRA, Liquidity Crunch, Global Economy, Khalid Naami]
+keywords: [European Banks, Shadow Credit, Sovereign Bonds, Bond Hoarding, ECB Rates, Credit Crisis, Banking System, Shadow Banking]
 image: /img/european-central-bank.webp
 slug: european-banks-hoard-bonds-preparing-shadow-credit-bust
 date: 2026-06-04T17:00:00Z
-schema_type: [NewsArticle, TechArticle]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # European Banks Hoard Bonds: Preparing for Shadow Credit Bust
