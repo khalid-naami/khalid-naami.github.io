@@ -1,5 +1,5 @@
 ---
-title: "Switzerland Enters Recession: Ultimate Global Macro Warning!"
+title: "Swiss Recession: Ultimate Global Macro Warning"
 description: "Switzerland has entered a recession, flashing a massive global warning as negative yields, a soaring Franc, and deep deflation expose the failure of rate cuts!!"
 authors: [khalid]
 tags: [Global Economy, Central Banks, Currency, Debt, Global Macro]
