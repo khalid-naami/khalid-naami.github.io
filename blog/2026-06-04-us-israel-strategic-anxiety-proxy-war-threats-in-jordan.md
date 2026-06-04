@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, Middle East, US Military, Israel, Jordan, Lebanon, Political Economy]
 image: /img/israel-us-iranian-proxy-fears.webp
 slug: us-israel-strategic-anxiety-proxy-war-threats-in-jordan
+keywords: [US Israel Anxiety, Jordan Proxy War, Border Infiltration, Iraqi Militias, Airfield Security, Geopolitical Stress]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 The strategic calculations of the United States and Israel are currently dominated by two major security fears. As regional tensions escalate, intelligence assessments suggest that the next phase of conflict may not be waged via direct state-on-state strikes, but rather through highly coordinated proxy campaigns designed to bypass air defense umbrellas and destabilize key intermediate states. At the center of this geopolitical anxiety are the vulnerability of U.S. bases in Jordan and the shifting command structure of Hezbollah in Lebanon.
