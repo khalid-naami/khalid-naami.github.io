@@ -3691,7 +3691,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/before-zero-hour-trump-khamenei-confrontation</link>
-            <title>Before Zero Hour: Trump vs Khamenei&apos;s Final Dangerous Cards</title>
+            <title>Before Zero Hour: Trump vs Khamenei&apos;s Cards</title>
             <author>khalid</author>
             <category>Political Economy</category>
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
@@ -3701,7 +3701,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>Before Zero Hour: Trump vs Khamenei&apos;s Final Dangerous Cards</h1>
+                        <h1>Before Zero Hour: Trump vs Khamenei&apos;s Cards</h1>
                         <figure><img src="https://khalidnaami.com/img/before-zero-hour-trump-khamenei.webp" /></figure>
                     </header>
                     <h1>Before Zero Hour: Trump vs Khamenei&#39;s Final Dangerous Cards</h1>
@@ -3801,7 +3801,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/e3-sentry-failing-maduro-outdated-iran</link>
-            <title>E-3 Sentry Failing: Maduro&apos;s Planes Now Outdated vs Iran</title>
+            <title>E-3 Sentry Failing: AWACS Fleet Outdated vs Iran</title>
             <author>khalid</author>
             <category>Political Economy</category>
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
@@ -3811,7 +3811,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>E-3 Sentry Failing: Maduro&apos;s Planes Now Outdated vs Iran</h1>
+                        <h1>E-3 Sentry Failing: AWACS Fleet Outdated vs Iran</h1>
                         <figure><img src="https://khalidnaami.com/img/e3-sentry-failing-iran.webp" /></figure>
                     </header>
                     <h1>E-3 Sentry Failing: Maduro&#39;s Planes Now Outdated vs Iran</h1>
@@ -3995,7 +3995,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/iran-safar-110-system-israel-tech-advantage</link>
-            <title>Iran&apos;s Safar-110: The System Israel Calls a Tech Advantage</title>
+            <title>Iran Safar-110: Israel Notes Iranian Tech Edge</title>
             <author>khalid</author>
             <category>Political Economy</category>
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
@@ -4005,7 +4005,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>Iran&apos;s Safar-110: The System Israel Calls a Tech Advantage</h1>
+                        <h1>Iran Safar-110: Israel Notes Iranian Tech Edge</h1>
                         <figure><img src="https://khalidnaami.com/img/iran-safar-110-comms-system.webp" /></figure>
                     </header>
                     <h1>Iran&#39;s Safar-110: The System Israel Calls a Tech Advantage</h1>
@@ -4146,7 +4146,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/mbs-trump-dangerous-us-arms-game</link>
-            <title>When MBS Said No to Trump: Inside a Dangerous US Arms Game</title>
+            <title>When MBS Said No to Trump: Inside the Arms Game</title>
             <author>khalid</author>
             <category>Political Economy</category>
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
@@ -4156,7 +4156,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>When MBS Said No to Trump: Inside a Dangerous US Arms Game</h1>
+                        <h1>When MBS Said No to Trump: Inside the Arms Game</h1>
                         <figure><img src="https://khalidnaami.com/img/mbs-trump-f35-arms-game.webp" /></figure>
                     </header>
                     <h1>When MBS Said No to Trump: Inside a Dangerous US Arms Game</h1>
@@ -4554,7 +4554,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/iran-su-22-drone-russian-mi-28-tandem</link>
-            <title>Iran&apos;s Su-22 Drone and Russian Mi-28: A Lethal Air Tandem</title>
+            <title>Iran Su-22 Drone &amp; Russian Mi-28: Air Tandem</title>
             <author>khalid</author>
             <category>Political Economy</category>
             <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
@@ -4564,7 +4564,7 @@ df[&#39;MA20&#39;] = df[&#39;Close&#39;].rolling(window=20).mean()
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>Iran&apos;s Su-22 Drone and Russian Mi-28: A Lethal Air Tandem</h1>
+                        <h1>Iran Su-22 Drone &amp; Russian Mi-28: Air Tandem</h1>
                         <figure><img src="https://khalidnaami.com/img/iranian-sukhoi-22-fighter-surprise.webp" /></figure>
                     </header>
                     <h1>Iran&#39;s Su-22 Drone and Russian Mi-28: A Lethal Air Tandem</h1>
@@ -7002,7 +7002,7 @@ _Monitor global market regimes and institutional credit flows in real-time with 
         </item>
         <item turbo="true">
             <link>https://khalidnaami.com/blog/us-munitions-depletion-pentagon-warns-trump-on-iran-war</link>
-            <title>US Munitions Depletion: Pentagon Warns Trump on Iran War</title>
+            <title>US Munitions Depletion: Pentagon Warns Trump</title>
             <author>khalid</author>
             <category>Geopolitics</category>
             <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
@@ -7012,7 +7012,7 @@ _Monitor global market regimes and institutional credit flows in real-time with 
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>US Munitions Depletion: Pentagon Warns Trump on Iran War</h1>
+                        <h1>US Munitions Depletion: Pentagon Warns Trump</h1>
                         <figure><img src="https://khalidnaami.com/img/us-defense-depletion-israel-iran.webp" /></figure>
                     </header>
                     <p>A major political and military crisis is unfolding in Washington following highly classified leaks from the Pentagon. Detailed minutes of a private White House meeting reveal that General Ryzan Kean, Chairman of the Joint Chiefs of Staff, warned President Donald Trump that a large-scale war against Iran is highly risky due to severe depletion of key U.S. munitions. The document highlights that years of continuous air defense operations to protect Israel have drained the U.S. strategic arsenal, exposing the limits of American military preparedness.</p>
