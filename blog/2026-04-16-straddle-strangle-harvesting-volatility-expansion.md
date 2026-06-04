@@ -64,7 +64,7 @@ Deploying a Straddle randomly is a mathematically losing proposition due to Thet
 The absolute perfect environment to deploy a Long Straddle or Strangle is the precise moment the market transitions into a **Negative Gamma Regime**.
 When the aggregate Gamma Exposure (GEX) of the market drops below zero, Option Dealers are forced to sell into weakness and buy into strength. This mechanical hedging fundamentally destroys market stability and guarantees volatility expansion.
 
-By utilizing **Dashboard Options** to track the Zero-Gamma line, a quantitative trader can initiate a Straddle exactly as the line is breached. The ensuing dealer-driven chaos will fuel the required directional movement, paying off the Straddle handsomely.
+By utilizing [**Dashboard Options**](https://dashboardoptions.com/) to track the Zero-Gamma line, a quantitative trader can initiate a Straddle exactly as the line is breached. The ensuing dealer-driven chaos will fuel the required directional movement, paying off the Straddle handsomely.
 
 ### The Earnings "IV Crush" Trap
 
