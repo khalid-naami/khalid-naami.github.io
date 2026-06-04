@@ -1,5 +1,5 @@
 ---
-title: "Home Prices Fall: Case-Shiller and FHFA Signal Housing Slump"
+title: "Home Prices Fall: Case-Shiller & FHFA Slump"
 description: "U.S. home price growth slows as Case-Shiller and FHFA indexes fall. Pandemic-era booms in Texas and Florida reverse under energy shocks and a weak labor market."
 authors: [khalid]
 tags: [Global Economy, Real Estate, Debt, Energy Markets, Central Banks, Global Macro]
