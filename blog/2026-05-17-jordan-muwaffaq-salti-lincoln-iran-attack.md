@@ -1,5 +1,5 @@
 ---
-title: "Final Warning to Jordan: Lincoln and Muwaffaq Salti Base"
+title: "Final Warning to Jordan: Muwaffaq Salti Base"
 description: "Chinese satellites expose Jordan's Muwaffaq Salti base as the primary US attack hub against Iran. EA-18G Growlers and F-35s reveal a full offensive posture."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Jordan, Global Macro]
