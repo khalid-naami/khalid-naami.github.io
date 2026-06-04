@@ -45,4 +45,4 @@ SciPy bridges the gap between basic data manipulation and profound scientific in
 For anyone serious about pushing the boundaries of quantitative analysis in Python, mastering SciPy is an absolute imperative.
 
 ---
-_Note: This article is part of our Science and Technologies series, focusing on the quantitative foundations of modern analysis._
+_Note: This article is part of our [Science and Technologies](https://dashboardoptions.com/) series, focusing on the quantitative foundations of modern analysis._
