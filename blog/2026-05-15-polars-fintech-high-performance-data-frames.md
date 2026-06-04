@@ -53,4 +53,4 @@ Polars represents the next evolution of the financial data engineering stack. By
 As we continue to push the boundaries of real-time market analysis, tools like Polars will be the foundation upon which the next generation of high-frequency trading and risk management systems are built.
 
 ---
-_Note: This article is part of our Science and Technologies series, focusing on the quantitative foundations of modern trading._
+_Note: This article is part of our [Science and Technologies](https://dashboardoptions.com/) series, focusing on the quantitative foundations of modern trading._
