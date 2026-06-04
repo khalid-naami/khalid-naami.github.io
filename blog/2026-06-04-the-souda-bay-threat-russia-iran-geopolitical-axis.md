@@ -3,7 +3,7 @@ title: "The Souda Bay Threat: Russia-Iran Geopolitical Axis"
 description: "As US-Iran war risks rise, Dugin warns of a joint Russia-Iran strategy targeting Souda Bay US base in Greece to end Western hegemony in the Mediterranean."
 date: 2026-06-04
 authors: khalid
-tags: [Geopolitics, Russia, Iran, US Military, Europe, Daily Analysis]
+tags: [Geopolitics, Russia, Iran, US Military, Europe, Political Economy]
 image: /img/russia-iran-souda-bay-strategic-threat.webp
 slug: the-souda-bay-threat-russia-iran-geopolitical-axis
 ---
