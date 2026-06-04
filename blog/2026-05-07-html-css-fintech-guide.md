@@ -42,7 +42,7 @@ In Fintech, "Performance" isn't just about server speed; it’s about the speed 
 
 ## The Bridge to the User
 
-At **Dashboard Options**, we believe that the most powerful quantitative tools are useless if they are difficult to navigate. Our commitment to clean HTML and CSS is what allows our users to focus on the *market* rather than struggling with the *tool*.
+At [**Dashboard Options**](https://dashboardoptions.com/), we believe that the most powerful quantitative tools are useless if they are difficult to navigate. Our commitment to clean HTML and CSS is what allows our users to focus on the *market* rather than struggling with the *tool*.
 
 ## The Bottom Line
 
