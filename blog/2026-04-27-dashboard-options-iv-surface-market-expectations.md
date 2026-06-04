@@ -11,7 +11,7 @@ schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 
 # The IV Surface: Decoding Market Expectations
 
-Introductory finance often simplifies Implied Volatility (IV) into a static percentage, but on a professional trading desk, we recognize it as a dynamic, multi-dimensional landscape. The **IV Surface** tool within **Dashboard Options** transitions your analysis from speculative guesswork about 'cheap' vs. 'expensive' options to a systematic [decoding of market expectations](/blog/the-game-of-probabilities-decoding-market-expectations) across the entire volatility term structure.
+Introductory finance often simplifies Implied Volatility (IV) into a static percentage, but on a professional trading desk, we recognize it as a dynamic, multi-dimensional landscape. The **IV Surface** tool within [**Dashboard Options**](https://dashboardoptions.com/) transitions your analysis from speculative guesswork about 'cheap' vs. 'expensive' options to a systematic [decoding of market expectations](/blog/the-game-of-probabilities-decoding-market-expectations) across the entire volatility term structure.
 
 <!-- truncate -->
 
