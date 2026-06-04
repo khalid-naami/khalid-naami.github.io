@@ -7,7 +7,7 @@ keywords: [HTML CSS Fintech, Financial UI/UX, Data-Dense Design, Responsive Fina
 image: /img/html-css.webp
 slug: html-css-fintech-ui-ux-guide
 date: 2026-05-07T08:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # HTML & CSS in Fintech: Pro Trading UI
