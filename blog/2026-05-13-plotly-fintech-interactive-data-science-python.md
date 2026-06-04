@@ -34,7 +34,7 @@ Financial data is rarely linear. A single stock price is just the tip of the ice
 
 ## 2. The Synergy: Python, Plotly, and Streamlit
 
-The true "magic" happens when Plotly is integrated into a modern web ecosystem. In our development at **Dashboard Options**, we utilize a powerful triad:
+The true "magic" happens when Plotly is integrated into a modern web ecosystem. In our development at [**Dashboard Options**](https://dashboardoptions.com/), we utilize a powerful triad:
 
 1.  **Python (<a href="/blog/pandas-finance-high-performance-data-engineering" target="_blank">Pandas</a>/<a href="/blog/numpy-fintech-computational-engine-finance" target="_blank">NumPy</a>)**: The engine that processes raw market data.
 2.  **Plotly**: The visualization layer that renders the data into interactive charts.
