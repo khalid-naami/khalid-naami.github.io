@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/my-trading-principles-wall-street-casino-my-story</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/casino-roulette.webp</image:loc>
+      <image:caption><![CDATA[Discover why the financial market behaves like a complex casino and how tracking options data (specifically call options flow) can give you a positive expected value edge.]]></image:caption>
+      <image:title><![CDATA[My Trading Principles: The Wall Street Casino and My Story]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/blackrock-private-credit-doj-investigation</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/blackrock.webp</image:loc>
