@@ -32,7 +32,7 @@ In contrast, **Options Data (GEX, Vanna, Charm)** is **causal**. It reveals the 
 
 ## 2. Basic Risk Management: The First Principle
 
-No strategy, no matter how advanced, can survive without disciplined risk management. At **Dashboard Options**, we prioritize three core rules:
+No strategy, no matter how advanced, can survive without disciplined risk management. At [**Dashboard Options**](https://dashboardoptions.com/), we prioritize three core rules:
 
 *   **Position Sizing**: Never risk more than 1-2% of your total capital on a single trade. This ensures that a "black swan" event won't wipe out your portfolio.
 *   **The Kelly Criterion**: Use mathematical models to size your bets based on your probability of winning. Data gives you that probability; a chart pattern does not.
