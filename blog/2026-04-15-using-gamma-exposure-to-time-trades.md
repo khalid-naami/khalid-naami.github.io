@@ -64,4 +64,4 @@ If a stock has been rallying for days, look at the distribution of call Gamma. E
 
 Timing the market is impossible if you are relying on guesswork or lagging technical lines. However, when you use <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">**Gamma Exposure**</a>, you are no longer guessing. You are simply reading the order book of the market makers.
 
-By using tools like the 3D Gamma Surface provided by **Dashboard Options**, you can align your trade timing with the inescapable, mathematical reality of institutional hedging.
+By using tools like the 3D Gamma Surface provided by [**Dashboard Options**](https://dashboardoptions.com/), you can align your trade timing with the inescapable, mathematical reality of institutional hedging.
