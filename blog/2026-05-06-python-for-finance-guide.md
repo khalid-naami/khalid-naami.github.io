@@ -42,7 +42,7 @@ Financial markets generate billions of data points every second. Python is the â
 
 ## Integrating Python with our Dashboard
 
-At **Dashboard Options**, Python is the invisible engine under the hood. It powers our Greeks calculations, processes our real-time flow data, and generates the visual levels you see on your screen. When you look at a **Gamma Wall** or a **Vanna Squeeze** on our platform, you are looking at the direct output of Python-driven data science.
+At [**Dashboard Options**](https://dashboardoptions.com/), Python is the invisible engine under the hood. It powers our Greeks calculations, processes our real-time flow data, and generates the visual levels you see on your screen. When you look at a **Gamma Wall** or a **Vanna Squeeze** on our platform, you are looking at the direct output of Python-driven data science.
 
 ## The Bottom Line
 
