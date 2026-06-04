@@ -7,7 +7,7 @@ keywords: [NumPy Finance, Numerical Python, Quantitative Analysis, High Speed Co
 image: /img/numpy-v2.webp
 slug: numpy-fintech-computational-engine-finance
 date: 2026-05-14T08:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # NumPy in Fintech: The Computational Engine of Finance
