@@ -1,5 +1,5 @@
 ---
-title: "US-Iran Gulf Escalation: F-22 Raptors vs Sayyad G3 Missile"
+title: "US-Iran Gulf Escalation: F-22 vs Sayyad G3"
 description: "US naval build-up near Iran reaches 2003 levels as Tehran designates EU forces as terrorists. Iran deploys Sayyad G3 missiles to counter US F-22 Raptors."
 date: 2026-06-04
 authors: khalid
