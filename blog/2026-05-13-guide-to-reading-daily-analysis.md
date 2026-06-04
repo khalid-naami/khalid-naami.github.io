@@ -1,6 +1,6 @@
 ---
 title: "A Strategic Guide to Reading My Daily Analysis"
-description: "Master the methodology behind structural market analysis. Learn how to decode institutional flows, reverse-engineer price action, and use quantitative data as your primary trading edge."
+description: "Master structural market analysis. Learn how to decode institutional flows, reverse-engineer price action, and use quantitative data as your trading edge."
 authors: [khalid]
 tags: [Daily Analysis, Trading Guide, Market Structure, Quantitative Analysis, options]
 keywords: [Daily Analysis Guide, Market Structure, Reverse Engineering, Options Data, Trading Strategy, Financial Intelligence, Khalid Naami, institutional flows, price action decoding, quantitative edge]
