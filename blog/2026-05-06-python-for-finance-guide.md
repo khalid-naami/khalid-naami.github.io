@@ -7,7 +7,7 @@ keywords: [Python for Finance, Quantitative Analysis Python, Algorithmic Trading
 image: /img/python.webp
 slug: python-for-finance-data-analysis-guide
 date: 2026-05-06T13:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Python for Finance: The Engine of Modern Quantitative Analysis
