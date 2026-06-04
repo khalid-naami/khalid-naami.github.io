@@ -7,7 +7,7 @@ keywords: [Scala Finance, Functional Programming, High Frequency Trading, Apache
 image: /img/Scala.webp
 slug: scala-in-fintech-big-data-functional-programming-guide
 date: 2026-05-07T18:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Scala for Finance: Functional Programming in Trading
