@@ -3,7 +3,7 @@ title: "US-Israel Strategic Anxiety: Proxy War Threats in Jordan"
 description: "Israel and the US face growing anxiety over Iranian proxy operations in Jordan, potential border incursions, and IRGC leadership over Hezbollah in Lebanon."
 date: 2026-06-04
 authors: khalid
-tags: [Geopolitics, Middle East, US Military, Israel, Jordan, Lebanon, Daily Analysis]
+tags: [Geopolitics, Middle East, US Military, Israel, Jordan, Lebanon, Political Economy]
 image: /img/israel-us-iranian-proxy-fears.webp
 slug: us-israel-strategic-anxiety-proxy-war-threats-in-jordan
 ---
