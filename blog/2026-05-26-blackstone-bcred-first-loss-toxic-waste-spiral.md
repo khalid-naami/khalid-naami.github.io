@@ -79,3 +79,6 @@ It is not the credit losses that will transform this credit bust into a credit c
 
 ---
 *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
