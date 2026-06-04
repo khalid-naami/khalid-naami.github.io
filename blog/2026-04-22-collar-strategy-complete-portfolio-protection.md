@@ -63,3 +63,6 @@ When constructing the Zero-Cost Collar, strike placement is vital:
 The Collar Strategy is the ultimate expression of quantitative risk management. It represents a mature transition from aggressively seeking returns to structurally protecting wealth.
 
 By using the premium from a Covered Call to finance a Protective Put, and by timing the execution using <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> data, the strategic analyst mathematically eliminates catastrophic tail-risk without spending a dime of portfolio capital.
+
+---
+_Master the markets with the right tools. Explore our advanced analytics at [Dashboard Options](https://dashboardoptions.com/)._
