@@ -45,7 +45,7 @@ The core American strategy is to sever the Saudi-Turkish defense relationship. T
 *   You prevent me from acquiring them through Pakistan
 *   And now you want to stop me from manufacturing them with Turkey?
 
-**Why?** Because Trump insists on being the exclusive supplier. Any deal with another partner will cascade into subsequent deals, and America's market share will evaporate. Drones like the Turkish Akıncı, 5th-generation fighters—all of these represent losses for America.
+**Why?** Because Trump insists on being the exclusive supplier. Any deal with another partner will cascade into subsequent deals, and America's market share will evaporate. Drones like the Turkish [Akıncı](/blog/turkey-akinci-drone-air-combat-erdogan-strategy), 5th-generation fighters—all of these represent losses for America.
 
 ## The Saudi Strategic Dilemma
 
