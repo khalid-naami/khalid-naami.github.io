@@ -3,11 +3,11 @@ title: "My Trading Principles: The Wall Street Casino and My Story"
 description: "Discover why the financial market behaves like a complex casino and how tracking options data (specifically call options flow) can give you a positive expected value edge."
 authors: [khalid]
 tags: [Daily Analysis, options, trading-strategy, market-mechanics]
-keywords: [Trading Principles, Wall Street Casino, Option Greeks, Gold Options, Call Options Flow, Positive Expected Value, Gamma Hedging, Khalid Naami]
+keywords: [Trading Principles, Wall Street Casino, Trading Story, Options Trading, Risk Management, Kelly Criterion, Market Speculation]
 image: /img/casino-roulette.webp
 slug: my-trading-principles-wall-street-casino-my-story
 date: 2026-06-04T12:00:00Z
-schema_type: [ScholarlyArticle, TechnicalArticle]
+schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
 # My Trading Principles: The Wall Street Casino and My Story
