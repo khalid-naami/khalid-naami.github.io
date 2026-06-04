@@ -6,11 +6,15 @@ description: "US maneuvers to isolate Pakistan and India from Iran, securing Bag
 image: "/img/imec-corridor-india-israel-geopolitics.webp"
 keywords: [IMEC corridor, India Middle East Europe, US-China competition, nuclear containment, Bagram Airbase, Pakistan geopolitical shift, India Israel alliance, global trade routes]
 schema_type: [TechArticle, NewsArticle]
+authors: khalid
+slug: imec-corridor-us-china-india-iran-clash
 ---
 
-![IMEC Corridor Geopolitics](/img/imec-corridor-india-israel-geopolitics.webp)
-
 The global geopolitical landscape is undergoing a structural realignment as the United States intensifies its efforts to secure the **India-Middle East-Europe Economic Corridor (IMEC)**. This ambitious trade route, originally designed to counter China's Belt and Road Initiative (BRI), has become the centerpiece of a high-stakes containment strategy. According to intelligence assessments, Washington is executing a complex diplomatic and military program to isolate regional powers, secure strategic launchpads, and force a new global nuclear consensus.
+
+<!-- truncate -->
+
+![IMEC Corridor Geopolitics](/img/imec-corridor-india-israel-geopolitics.webp)
 
 ### The Diplomatic Pincers: Isolating Pakistan and Realigning India
 
@@ -26,7 +30,7 @@ This military build-up operates in tandem with strategic deployments elsewhere i
 
 ### Containing the Dragon: Capping China's Nuclear Stockpile
 
-Beyond trade corridors and airbases, the ultimate objective of this escalation is to force China into a new global strategic framework. Washington seeks to compel Beijing to join a revised nuclear treaty—modeled after the Strategic Arms Reduction Treaty (START)—alongside the US and Russia. 
+Beyond trade corridors and airbases, the ultimate objective of this escalation is to force China into a new global strategic framework. Washington seeks to compel Beijing to join a revised nuclear treaty—modeled after the Strategic Arms Reduction Treaty (START)—alongside the US and Russia.
 
 The proposed framework aims to freeze China’s nuclear arsenal:
 *   **Target Cap:** Freezing China's active nuclear warheads between 600 and 1,000.
