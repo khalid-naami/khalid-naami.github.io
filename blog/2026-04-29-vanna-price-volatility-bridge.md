@@ -59,3 +59,6 @@ Following our physics analogy:
 3.  **Hedging Logic:** Understanding Vanna allows you to predict *when* others will be forced to trade, giving you a significant edge in timing market reversals.
 
 Vanna is where the "Math" meets the "Machine." By mastering this bridge, you move from trading price action to trading the actual structure of the market itself.
+
+---
+_Master the markets with the right tools. Explore our advanced analytics at [Dashboard Options](https://dashboardoptions.com/)._
