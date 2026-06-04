@@ -142,3 +142,6 @@ The April data has finally caught up to the structural warnings of the credit an
 
 ---
 *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
