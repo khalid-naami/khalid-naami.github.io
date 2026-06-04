@@ -53,7 +53,7 @@ _Visualizing the Diagonal Spread: The strategy leverages the disparity in Theta 
 
 ## Strategic Implementation via Market Structure
 
-To execute a PMCC successfully, you cannot simply guess which strikes to choose. You must apply structural discipline using tools like **Dashboard Options**.
+To execute a PMCC successfully, you cannot simply guess which strikes to choose. You must apply structural discipline using tools like [**Dashboard Options**](https://dashboardoptions.com/).
 
 ### Optimizing the Long Strike (The Anchor)
 
