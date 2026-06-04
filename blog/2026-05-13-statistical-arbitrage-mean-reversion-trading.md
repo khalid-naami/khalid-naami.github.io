@@ -7,7 +7,7 @@ keywords: [Statistical Arbitrage, Mean Reversion, Cointegration, ADF Test, Johan
 image: /img/Statistical-arbitrage.webp
 slug: statistical-arbitrage-mean-reversion-trading
 date: 2026-05-13T20:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Statistical Arbitrage: Mastering <a href="/blog/modern-market-strategies-mastering-mean-reversion" target="_blank">Mean Reversion</a>
