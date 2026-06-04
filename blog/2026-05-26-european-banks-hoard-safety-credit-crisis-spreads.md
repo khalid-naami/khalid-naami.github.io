@@ -1,6 +1,6 @@
 ---
 title: "European Banks Hoard Safety as Credit Crisis Spreads"
-description: "European banks are buying record government bonds while their CEOs deny private credit risk. Deutsche Bank warns systemic fallout is being dangerously underestimated."
+description: "European banks buy record government bonds while CEOs deny private credit risk. Deutsche Bank warns systemic fallout is dangerously underestimated."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
 keywords: [European Banks Credit Crisis, Deutsche Bank Osman Turman, ECB Bank Lending Survey, Private Credit Europe, Barclays Venkat, Morgan Stanley Conference, Banco de Mexico Rate Cut, IFO Germany, Trichet 2008 Repeat, Khalid Naami]
