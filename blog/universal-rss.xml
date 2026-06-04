@@ -13,7 +13,7 @@
     <atom:link href="https://khalidnaami.com/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://khalidnaami.com</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
-    <lastBuildDate>Thu, 04 Jun 2026 18:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:55:51 GMT</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -6891,7 +6891,7 @@ Most of what we cover at Eurodollar University concerns the mechanics of the glo
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
       <category><![CDATA[Daily Analysis]]></category><category><![CDATA[Trading Guide]]></category><category><![CDATA[Market Structure]]></category><category><![CDATA[Quantitative Analysis]]></category><category><![CDATA[options]]></category>
-      <description><![CDATA[Master the methodology behind structural market analysis. Learn how to decode institutional flows, reverse-engineer price action, and use quantitative data as your primary trading edge.]]></description>
+      <description><![CDATA[Master structural market analysis. Learn how to decode institutional flows, reverse-engineer price action, and use quantitative data as your trading edge.]]></description>
       <content:encoded><![CDATA[<h1>A Strategic Guide to Reading My Daily Analysis</h1>
 <p>Every market participant is looking for an edge, but most are looking in the wrong places. To navigate the modern market with precision, you must stop looking at what <em>happened</em> (lagging data) and start looking at what the market is <em>pricing in</em> (causal structure).</p>
 <p><img src="/img/daily-posts.webp" alt="Operational Framework for Daily Market Analysis and Flow Decoding"></p>
