@@ -105,3 +105,6 @@ The creep of off-balance sheet SPVs and structured shadow debt has built a dange
 
 ---
 *This analysis is part of our Global Macro series, focusing on corporate debt structures, shadow banking plumbing, and the technology capex cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
