@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/bulgarian-border-scramble-f16-mystery-oil-deal</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/turkish-f16-second-plane-mystery.webp</image:loc>
+      <image:caption><![CDATA[An unknown radar track on the Bulgarian border triggers a Turkish F-16 scramble and crash, exposing a US-backed oil play to split Turkey from Russia.]]></image:caption>
+      <image:title><![CDATA[F-16 Scramble: Bulgarian Border Crash Mystery]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/dashboard-options-finance-quantitative-edge</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/dashboard-options-finance.webp</image:loc>
@@ -16,6 +24,14 @@
       <image:loc>https://khalidnaami.com/img/china-radar-eye-of-dragon-iran.webp</image:loc>
       <image:caption><![CDATA[China's new multi-frequency radar system, Liyuan-1, provides Iran with real-time tracking of F-22 and F-35 stealth jets, neutralizing US first-strike surprise.]]></image:caption>
       <image:title><![CDATA[The Dragon's Eye: Chinese Radar Neutralizes US Stealth]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/durand-line-war-pakistan-ttp-nuclear-threat</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/pakistan-afghanistan-open-war.webp</image:loc>
+      <image:caption><![CDATA[Clashes erupt on the Durand Line as Pakistan fights TTP militants. OSINT analysts warn of a US-India-Israel axis aiming to dismantle Islamabad's nuclear arsenal.]]></image:caption>
+      <image:title><![CDATA[Durand Line War: Pakistan's Nuclear Security]]></image:title>
     </image:image>
   </url>
   <url>

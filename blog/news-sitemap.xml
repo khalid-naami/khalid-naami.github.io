@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/bulgarian-border-scramble-f16-mystery-oil-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[F-16 Scramble: Bulgarian Border Crash Mystery]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/turkish-f16-second-plane-mystery.webp</image:loc>
+      <image:title><![CDATA[F-16 Scramble: Bulgarian Border Crash Mystery]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/dashboard-options-finance-quantitative-edge</loc>
     <news:news>
       <news:publication>
@@ -31,6 +46,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/china-radar-eye-of-dragon-iran.webp</image:loc>
       <image:title><![CDATA[The Dragon's Eye: Chinese Radar Neutralizes US Stealth]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/durand-line-war-pakistan-ttp-nuclear-threat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Durand Line War: Pakistan's Nuclear Security]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/pakistan-afghanistan-open-war.webp</image:loc>
+      <image:title><![CDATA[Durand Line War: Pakistan's Nuclear Security]]></image:title>
     </image:image>
   </url>
   <url>
