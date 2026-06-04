@@ -34,7 +34,7 @@ Modern fintech isn't just about fast math; it’s about making that math actiona
 
 ## Data Visualization: Making Data Actionable
 
-At **Dashboard Options**, we rely heavily on JavaScript to turn "invisible" Greeks into visual realities.
+At [**Dashboard Options**](https://dashboardoptions.com/), we rely heavily on JavaScript to turn "invisible" Greeks into visual realities.
 
 *   **Interactive Greeks**: When you hover over a **Gamma Surface** or filter through **Options Flow**, JavaScript is calculating those visual transitions on the fly.
 *   **Dynamic Filtering**: Sorting through thousands of institutional block trades in milliseconds requires the speed of modern JavaScript engines (like V8).
