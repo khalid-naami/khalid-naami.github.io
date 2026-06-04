@@ -7,7 +7,7 @@ keywords: [JavaScript for Finance, Node.js Fintech, Real-time Data Streaming, We
 image: /img/javas.webp
 slug: javascript-for-finance-data-visualization-guide
 date: 2026-05-06T15:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # JavaScript in Finance: Powering Real-Time Financial Dashboards
