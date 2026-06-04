@@ -1,5 +1,5 @@
 ---
-title: "E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran"
+title: "E-3 Sentry Failing: AWACS Fleet Outdated vs Iran"
 description: "US deploys 40% of its aging E-3 AWACS fleet against Iran. The same planes that captured Maduro are now deemed obsolete, exposing critical gaps in Alaska and the UK."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Electronic Warfare, Global Macro]
