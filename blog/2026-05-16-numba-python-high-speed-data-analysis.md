@@ -45,4 +45,4 @@ Numba represents the perfect marriage between Python's developer-friendly syntax
 As data continues to grow in complexity, integrating Numba into your quantitative toolkit is no longer just an optimization—it is a necessity.
 
 ---
-_Note: This article is part of our Science and Technologies series, focusing on the quantitative foundations of modern analysis._
+_Note: This article is part of our [Science and Technologies](https://dashboardoptions.com/) series, focusing on the quantitative foundations of modern analysis._
