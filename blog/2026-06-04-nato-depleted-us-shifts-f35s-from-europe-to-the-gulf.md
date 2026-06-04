@@ -3,7 +3,7 @@ title: "NATO Depleted: US Shifts F-35s from Europe to the Gulf"
 description: "The US redeploys 45% of its air power and F-35 jets from NATO Norway exercises to the Middle East, leaving Europe vulnerable and exposing Souda Bay base."
 date: 2026-06-04
 authors: khalid
-tags: [Geopolitics, US Navy, US Air Force, NATO, Europe, Daily Analysis, Middle East]
+tags: [Geopolitics, US Navy, US Air Force, NATO, Europe, Political Economy, Middle East]
 image: /img/us-stealth-bomber-task-force-gulf.webp
 slug: nato-depleted-us-shifts-f35s-from-europe-to-the-gulf
 ---
