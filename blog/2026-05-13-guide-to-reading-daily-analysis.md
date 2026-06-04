@@ -48,7 +48,7 @@ This structural approach was further explored in our deep dive into [Modern Mark
 
 ## Conclusion
 
-My goal at **Dashboard Options** is to strip away the noise of the retail market and provide you with a transparent view of institutional positioning. To deliver this high-performance experience, we built our platform using [React.js for scalable dashboards](/blog/react-js-fintech-scalable-dashboards-guide) and [professional HTML/CSS architecture](/blog/html-css-fintech-ui-ux-guide), ensuring that complex data is both fast and intuitive. By using these guides and my daily analysis, you move from following the news to leading with the math.
+My goal at [**Dashboard Options**](https://dashboardoptions.com/) is to strip away the noise of the retail market and provide you with a transparent view of institutional positioning. To deliver this high-performance experience, we built our platform using [React.js for scalable dashboards](/blog/react-js-fintech-scalable-dashboards-guide) and [professional HTML/CSS architecture](/blog/html-css-fintech-ui-ux-guide), ensuring that complex data is both fast and intuitive. By using these guides and my daily analysis, you move from following the news to leading with the math.
 
 
 _“The market is a machine for turning noise into signal—if you have the right decoder.” — Khalid Naami._
