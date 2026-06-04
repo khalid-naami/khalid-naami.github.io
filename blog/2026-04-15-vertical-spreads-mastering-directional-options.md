@@ -54,7 +54,7 @@ _Visualizing the Vertical Spread: The step-like structure strictly caps the maxi
 
 ## Strategic Implementation via Market Structure
 
-While the Vertical Spread is mathematically superior to naked options, its success depends entirely on structural timing and target placement. Academic traders rely on platforms like **Dashboard Options** to identify where to strike.
+While the Vertical Spread is mathematically superior to naked options, its success depends entirely on structural timing and target placement. Academic traders rely on platforms like [**Dashboard Options**](https://dashboardoptions.com/) to identify where to strike.
 
 ### Targeting the Gamma Walls
 
