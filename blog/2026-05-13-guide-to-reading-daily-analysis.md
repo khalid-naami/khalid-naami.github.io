@@ -7,7 +7,7 @@ keywords: [Daily Analysis Guide, Market Structure, Reverse Engineering, Options 
 image: /img/daily-posts.webp
 slug: guide-to-reading-daily-analysis
 date: 2026-05-13T21:00:00+00:00
-schema_type: AnalysisNewsArticle
+schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
 # A Strategic Guide to Reading My Daily Analysis
