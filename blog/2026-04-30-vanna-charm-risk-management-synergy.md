@@ -60,3 +60,6 @@ If you don't know your Charm and Vanna levels, you are driving blind in a disast
 The market is not just a collection of opinions; it is a **structural engine** driven by Greeks. Charm and Vanna are the pistons of that engine. 
 
 By integrating these two powerful metrics, you move beyond "guessing" the next move. You begin to see the invisible lines of force that dictate where the market *must* go to maintain its balance. Protection isn't about being right; it's about being structurally sound.
+
+---
+_Master the markets with the right tools. Explore our advanced analytics at [Dashboard Options](https://dashboardoptions.com/)._
