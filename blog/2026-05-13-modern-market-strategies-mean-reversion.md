@@ -36,7 +36,7 @@ The foundation of any mean reversion strategy is the statistical concept of the 
 
 ## Identifying Mean Reversion Opportunities
 
-To master this strategy, one must be able to quantify "overextension." At Dashboard Options, we utilize several sophisticated tools to help our users find these inflection points.
+To master this strategy, one must be able to quantify "overextension." At [Dashboard Options](https://dashboardoptions.com/), we utilize several sophisticated tools to help our users find these inflection points.
 
 ### 1. The Power of Bollinger Bands and RSI
 
