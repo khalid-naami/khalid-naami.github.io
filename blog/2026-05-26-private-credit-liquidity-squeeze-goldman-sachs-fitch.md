@@ -141,3 +141,6 @@ The transition to Stage 2 is complete. When capital exits the shadow banking sys
 
 ---
 *This analysis is part of our Global Macro series, focusing on credit markets, shadow banking plumbing, and systemic corporate debt cycles.*
+
+---
+_Monitor global market regimes and institutional credit flows in real-time with [Dashboard Options](https://dashboardoptions.com/)._
