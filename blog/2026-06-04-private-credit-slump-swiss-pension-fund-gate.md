@@ -3,11 +3,11 @@ title: "Private Credit Slump: Swiss Pension Fund Triggers Gate Limit"
 description: "A Swiss pension fund withdrawal forces a private credit fund to gate redemptions. Lenders avoid software loans as tech assets face a subprime-style debt spiral."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, Global Macro]
-keywords: [Private Credit Crisis, Swiss Pension Fund, Gated Redemptions, Software Loans Stigma, Shadow Banking Run, Blackstone BCRED, Monetary Metals, Subprime Software, Valuation Marks, Global Economy, Khalid Naami]
+keywords: [Private Credit Slump, Swiss Pension Fund, Gating Redemptions, Software Loans, Credit Crunch, Debt Spiral, Systemic Risk]
 image: /img/private-credit-crunch.webp
 slug: private-credit-slump-swiss-pension-fund-gate
 date: 2026-06-04T15:00:00Z
-schema_type: [NewsArticle, TechArticle]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Private Credit Slump: Swiss Pension Fund Triggers Gate Limit
