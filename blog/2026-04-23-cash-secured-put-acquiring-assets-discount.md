@@ -48,7 +48,7 @@ A strategic analyst waits for these moments of panic. By selling Cash-Secured Pu
 
 ## Strategic Strike Placement via <a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">Gamma Exposure</a> (<a href="/blog/how-to-trade-gamma-exposure-quantitative-guide" target="_blank">GEX</a>)
 
-The most common mistake retail traders make is selling Puts at arbitrary, "round number" strike prices. Academic traders use institutional data from **Dashboard Options** to place their strikes mathematically.
+The most common mistake retail traders make is selling Puts at arbitrary, "round number" strike prices. Academic traders use institutional data from [**Dashboard Options**](https://dashboardoptions.com/) to place their strikes mathematically.
 
 ### Targeting the Put Gamma Wall
 When selling a Put, you are establishing the exact price at which you are willing to catch a falling knife. To ensure you do not catch a knife that keeps falling, you must place your strike below a massive structural floor.
