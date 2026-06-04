@@ -7,7 +7,7 @@ keywords: [Quantitative Analysis, Technical Analysis, Market Data, Lagging Indic
 image: /img/bernard-baruch.webp
 slug: trading-principles-data-vs-technical-analysis
 date: 2026-05-13T19:00:00+00:00
-schema_type: AnalysisNewsArticle
+schema_type: [ScholarlyArticle, SoftwareApplication, TechArticle]
 ---
 
 # Trading Principles: Why Data Beats Technical Analysis
