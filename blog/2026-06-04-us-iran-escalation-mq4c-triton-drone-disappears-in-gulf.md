@@ -6,6 +6,8 @@ authors: khalid
 tags: [Geopolitics, Middle East, US Navy, Iran, Political Economy, Military Strategy]
 image: /img/us-navy-mq4c-triton-drone.webp
 slug: us-iran-escalation-mq4c-triton-drone-disappears-in-gulf
+keywords: [MQ-4C Triton, US Navy Drone, Gulf Escalation, Drone Disappearance, Iran Air Defense, Persian Gulf Conflict, Military Intel]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 The Persian Gulf is on a knife-edge following the loss of a high-value United States Navy MQ-4C Triton surveillance drone near the Iranian coast. Valued at approximately $180 million, the high-altitude aircraft disappeared from radar screens during a critical 48-hour window after President Donald Trump issued an ultimatum regarding potential strikes on Iran's nuclear and military infrastructure. The incident serves as a stark warning from Tehran that any military campaign will come at an immediate and devastating cost.
