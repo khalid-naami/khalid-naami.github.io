@@ -48,7 +48,7 @@ As the UN bureaucracy fails—symbolized by Trump's metaphorical "broken escalat
 
 A conflict now might paradoxically favor London; if the United States breaks under the weight of a regional war, the only remaining Western leader will be British. The geopolitical landscape is a delicate standoff between the "Crowned King in London" and the "Uncrowned King" (Trump) who desperately seeks to be crowned.
 
-## The Decisive Power Play and Khamenei's Surprise
+## The Decisive Power Play and [Khamenei's](/blog/before-zero-hour-trump-khamenei-confrontation) Surprise
 
 Britain is currently shielding Saudi Arabia's decision to deny the US the use of Saudi bases for striking Iran. The situation is now decisive: neither Riyadh nor London sees any justification for an attack. This is the first major victory for Iranian diplomacy, achieved from a position of sheer strength.
 
@@ -56,7 +56,7 @@ The strength Iran displayed forced the West to reconsider and grant deadlines. W
 
 ## Conclusion
 
-This entire situation reveals that the 10-day deadline is merely a period for anxious reassessment. Behind closed doors, as reported by Axios, advisors are deeply divided. The West is fractured, and Britain has played its final, most potent card to support Saudi Arabia and definitively reject the war on Iran.
+This entire situation reveals that the 10-day deadline is merely a period for anxious reassessment. Behind closed doors, as reported by Axios, advisors are deeply divided. The West is fractured, and Britain has played its final, most potent card to support Saudi Arabia and definitively reject the [war on Iran](/blog/ai-deception-flawed-iran-war-model).
 
 ---
 *Note: This article is part of our Political Economy series, providing deep strategic analysis on global macroeconomic and geopolitical shifts.*
