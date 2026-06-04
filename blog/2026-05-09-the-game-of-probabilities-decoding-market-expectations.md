@@ -66,7 +66,7 @@ Quantitative analysis strips away the emotion of trading. It replaces "I think" 
 
 *The Unified View: Merging all probability metrics into a single actionable strategy.*
 
-At **Dashboard Options**, we provide the tools to visualize these complex distributions. By understanding the game of probabilities, you stop guessing and start calculating. You move from being a gambler to being the house.
+At [**Dashboard Options**](https://dashboardoptions.com/), we provide the tools to visualize these complex distributions. By understanding the game of probabilities, you stop guessing and start calculating. You move from being a gambler to being the house.
 
 ## Conclusion
 
