@@ -54,4 +54,4 @@ As the value of these puts drops, the dealers' Delta exposure changes. To remain
 
 Day trading 0DTE options is not about reading moving averages or drawing trendlines on a 5-minute chart. It is a game of understanding structural liquidity and tracking the intraday hedging requirements of Option Dealers. 
 
-By utilizing platforms like **Dashboard Options** to track real-time GEX Flow, you stop reacting to the market and start anticipating the mechanical forces that control it.
+By utilizing platforms like [**Dashboard Options**](https://dashboardoptions.com/) to track real-time GEX Flow, you stop reacting to the market and start anticipating the mechanical forces that control it.
