@@ -7,7 +7,7 @@ keywords: [Pandas Finance, Python Data Analysis, Financial Timeseries, High Perf
 image: /img/pandas.webp
 slug: pandas-finance-high-performance-data-engineering
 date: 2026-05-13T16:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Pandas for Finance: High-Performance Data Engineering
