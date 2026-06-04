@@ -1,5 +1,5 @@
 ---
-title: "Before Zero Hour: Trump vs Khamenei's Final Dangerous Cards"
+title: "Before Zero Hour: Trump vs Khamenei's Cards"
 description: "Trump plans strikes from Diego Garcia and RAF Fairford. Iran responds at the UN: all US assets in the region are legitimate targets. Zero hour approaches."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Nuclear Policy, Global Macro]
