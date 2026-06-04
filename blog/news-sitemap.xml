@@ -184,6 +184,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/two-loop-strategy-us-f22-raptors-israel-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Redrawing the Map: US Deploys F-22s to Israel]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f22-raptors-israel-strike-iran.webp</image:loc>
+      <image:title><![CDATA[Redrawing the Map: US Deploys F-22s to Israel]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-home-prices-decline-case-shiller-fhfa</loc>
     <news:news>
       <news:publication>
