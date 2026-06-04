@@ -1,5 +1,5 @@
 ---
-title: "Private Market Contagion: Private Equity Gating Redemptions"
+title: "Private Market Contagion: Private Equity Gating"
 description: "Redemption runs spread from private credit to private equity as Swiss giant Partners Group gates its Evergreen fund. BofA warns of BDC credit rating downgrades."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, Global Macro]
