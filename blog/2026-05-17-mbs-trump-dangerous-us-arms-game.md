@@ -1,5 +1,5 @@
 ---
-title: "When MBS Said No to Trump: Inside a Dangerous US Arms Game"
+title: "When MBS Said No to Trump: Inside the Arms Game"
 description: "Saudi Arabia refuses US pressure to abandon Turkish and Pakistani fighters. Analyzing the F-35 Israeli veto and the battle for 5th-gen jet independence."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Diplomacy, Global Macro]
