@@ -1,5 +1,5 @@
 ---
-title: "US Munitions Depletion: Pentagon Warns Trump on Iran War"
+title: "US Munitions Depletion: Pentagon Warns Trump"
 description: "Pentagon leaks reveal Joint Chiefs Chairman warns Trump that US missile stocks are depleted due to Israel's defense, raising risks of a war with Iran."
 date: 2026-06-04
 authors: khalid
