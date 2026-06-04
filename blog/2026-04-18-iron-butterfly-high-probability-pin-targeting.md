@@ -49,7 +49,7 @@ This is a strictly **negative Vega** strategy. You are selling the most expensiv
 
 ## Strategic Implementation via Market Structure
 
-Retail traders often use Iron Butterflies to blindly bet that a stock won't move. Academic analysts use **Dashboard Options** data to mathematically guarantee that the stock *cannot* move easily.
+Retail traders often use Iron Butterflies to blindly bet that a stock won't move. Academic analysts use [**Dashboard Options**](https://dashboardoptions.com/) data to mathematically guarantee that the stock *cannot* move easily.
 
 ### The Positive Gamma Prerequisite
 The Iron Butterfly requires a "sticky" market. Therefore, it should exclusively be deployed in a **Positive Gamma Regime**. In this environment, Option Dealers are actively buying dips and selling rips, suppressing volatility and trapping the underlying asset in a tight range. This mechanical dealer hedging does the work of keeping the price inside the "tent" of your Butterfly.
