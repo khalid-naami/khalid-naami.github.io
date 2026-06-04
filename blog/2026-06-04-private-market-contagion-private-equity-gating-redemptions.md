@@ -3,11 +3,11 @@ title: "Private Market Contagion: Private Equity Gating Redemptions"
 description: "Redemption runs spread from private credit to private equity as Swiss giant Partners Group gates its Evergreen fund. BofA warns of BDC credit rating downgrades."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Debt, Corporate Finance, Global Macro]
-keywords: [Private Equity Gating, Private Credit Contagion, Partners Group Global Value Fund, Cliffwater LLC Redemptions, BofA BDC Downgrade, Alternative Asset Class Run, Subprime Software, Shadow Banking Crisis, Global Economy, Khalid Naami]
+keywords: [Private Market Contagion, Private Equity Gating, Partners Group, Evergreen Fund, BDC Downgrade, Credit Rating, Redemption Runs]
 image: /img/private-equity-contagion.webp
 slug: private-market-contagion-private-equity-gating-redemptions
 date: 2026-06-04T16:00:00Z
-schema_type: [NewsArticle, TechArticle]
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Private Market Contagion: Private Equity Gating Redemptions
