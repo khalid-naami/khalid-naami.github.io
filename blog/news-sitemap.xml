@@ -296,11 +296,11 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-04T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Home Prices Fall: Case-Shiller and FHFA Signal Housing Slump]]></news:title>
+      <news:title><![CDATA[Home Prices Fall: Case-Shiller & FHFA Slump]]></news:title>
     </news:news>
     <image:image>
       <image:loc>https://khalidnaami.com/img/us-housing-market-slowdown.webp</image:loc>
-      <image:title><![CDATA[Home Prices Fall: Case-Shiller and FHFA Signal Housing Slump]]></image:title>
+      <image:title><![CDATA[Home Prices Fall: Case-Shiller & FHFA Slump]]></image:title>
     </image:image>
   </url>
   <url>
