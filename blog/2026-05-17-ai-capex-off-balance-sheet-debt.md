@@ -1,5 +1,5 @@
 ---
-title: "AI Capex Off-Balance Sheet Debt: The Next 2008-Style Crisis!"
+title: "AI Capex Off-Balance Sheet Debt: 2008-Style Risk"
 description: "Meta's new plans for massive layoffs to conserve cash match BIS warnings on off-balance sheet SPV structures threatening to collapse the systemic AI capex boom."
 authors: [khalid]
 tags: [Global Economy, Technology, Debt, Corporate Finance, Shadow Banking, Global Macro]
