@@ -7,7 +7,7 @@ keywords: [Value at Risk (VaR), Beta Coefficient, Sharpe Ratio, Sortino Ratio, R
 image: /img/VaR-Beta-Sharpe-Sortino.webp
 slug: risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide
 date: 2026-05-07T18:00:00+00:00
-schema_type: TechArticle
+schema_type: [TechArticle, NewsArticle]
 ---
 
 # Risk Metrics 101: VaR, Beta, Sharpe & Sortino
