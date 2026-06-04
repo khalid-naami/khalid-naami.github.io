@@ -47,7 +47,7 @@ By looking at total market GEX, a quantitative analyst immediately knows which "
 
 ![Dominance of GEX Analysis](/img/why-gamma-exposure-v2.webp)
 
-_Platforms like Dashboard Options provide the critical visualization needed to track these institutional flows, rendering traditional charting obsolete._
+_Platforms like [Dashboard Options](https://dashboardoptions.com/) provide the critical visualization needed to track these institutional flows, rendering traditional charting obsolete._
 
 ## 4. Unmatched Precision in Timing
 
