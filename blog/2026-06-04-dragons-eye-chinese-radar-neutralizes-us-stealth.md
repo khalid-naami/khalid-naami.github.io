@@ -3,7 +3,7 @@ title: "The Dragon's Eye: Chinese Radar Neutralizes US Stealth"
 description: "China's new multi-frequency radar system, Liyuan-1, provides Iran with real-time tracking of F-22 and F-35 stealth jets, neutralizing US first-strike surprise."
 date: 2026-06-04
 authors: khalid
-tags: [Geopolitics, China, Iran, US Military, Military Technology, Daily Analysis]
+tags: [Geopolitics, China, Iran, US Military, Military Technology, Political Economy]
 image: /img/china-radar-eye-of-dragon-iran.webp
 slug: dragons-eye-chinese-radar-neutralizes-us-stealth
 ---
