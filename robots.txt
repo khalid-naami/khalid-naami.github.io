@@ -9,6 +9,9 @@ Disallow: /privacy
 Disallow: /disclaimer
 Disallow: /blog/authors/
 Disallow: /blog/archive
+Disallow: /assets/
+Disallow: /img/
+
 
 # Regional Search Engines
 User-agent: Yeti
