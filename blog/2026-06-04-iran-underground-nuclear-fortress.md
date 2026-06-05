@@ -2,7 +2,7 @@
 title: "Iran Underground Fortress: Trump Dilemma"
 description: "Bloomberg satellite analysis reveals Iran's massive underground nuclear and missile network, posing a major military challenge for bunker-buster strikes."
 authors: [khalid]
-tags: [Geopolitics, Political Economy, Daily Analysis]
+tags: [Geopolitics, Political Economy]
 keywords: [Iran underground nuclear fortress, Bloomberg Natanz satellite, GBU-57 MOP bomb failure, Mount Kahir missile complex, Parchin military corridor, Trump Iran strike dilemma, bunker buster concrete penetration, solid fuel missile tunnels, Israeli Mossad air defense sabotage, F-22 Patriot air defense trap, Geopolitics, Political Economy]
 image: "/img/iran-underground-nuclear-fortress.webp"
 slug: iran-underground-nuclear-fortress-trump-dilemma
