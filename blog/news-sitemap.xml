@@ -4,6 +4,396 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/akrotiri-strike-u2-spy-plane-hangar-hit-in-cyprus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Akrotiri Strike: U-2 Hangar Hit in Cyprus]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/raf-akrotiri-u2-hangar-strike.webp</image:loc>
+      <image:title><![CDATA[Akrotiri Strike: U-2 Hangar Hit in Cyprus]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/al-udeid-strike-us-regional-evacuation-ordered</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Al Udeid Strike: U.S. Orders Regional Evacuation]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/al-udeid-strike-us-evacuation.webp</image:loc>
+      <image:title><![CDATA[Al Udeid Strike: U.S. Orders Regional Evacuation]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/bahrain-bases-disabled-us-fifth-fleet-radome-struck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Bahrain Bases Disabled: Fifth Fleet Radome Struck]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/bahrain-fifth-fleet-radar-domes-strike.webp</image:loc>
+      <image:title><![CDATA[Bahrain Bases Disabled: Fifth Fleet Radome Struck]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/cia-offices-targeted-regional-strike-casualties</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[CIA Stations Struck: U.S. Intelligence Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/cia-offices-targeted-middle-east.webp</image:loc>
+      <image:title><![CDATA[CIA Stations Struck: U.S. Intelligence Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/doomsday-plane-us-deploys-e6b-mercury-to-uk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Doomsday Plane: US Deploys E-6B Mercury]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/e6b-mercury-doomsday-plane.webp</image:loc>
+      <image:title><![CDATA[Doomsday Plane: US Deploys E-6B Mercury]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/fattah-hypersonic-strikes-israel-command-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Fattah Hypersonic Strikes: Israel Command Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ramat-david-strike-fattah.webp</image:loc>
+      <image:title><![CDATA[Fattah Hypersonic Strikes: Israel Command Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/hormuz-blockade-strait-closed-cia-riyadh-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hormuz Blockade: Strait Closed as CIA Riyadh Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/strait-of-hormuz-blockade.webp</image:loc>
+      <image:title><![CDATA[Hormuz Blockade: Strait Closed as CIA Riyadh Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iran-retaliates-us-fifth-fleet-base-struck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iran Retaliates: US Fifth Fleet Base Struck]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-war-hits-manama.webp</image:loc>
+      <image:title><![CDATA[Iran Retaliates: US Fifth Fleet Base Struck]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/irgc-commander-named-irans-defense-chief</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IRGC Commander Named Iran's Defense Chief]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-military-integration-defense.webp</image:loc>
+      <image:title><![CDATA[IRGC Commander Named Iran's Defense Chief]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-devastated-4853-buildings-destroyed-by-missiles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel Devastated: 4,853 Buildings Destroyed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-property-damage-missile.webp</image:loc>
+      <image:title><![CDATA[Israel Devastated: 4,853 Buildings Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-pentagon-hakirya-strike-thaad-bypassed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel Pentagon Struck: THAAD Bypassed in Tel Aviv]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-pentagon-hakirya-strike.webp</image:loc>
+      <image:title><![CDATA[Israel Pentagon Struck: THAAD Bypassed in Tel Aviv]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/joint-command-hezbollah-strikes-tel-aviv-command</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Joint Command: Hezbollah Strikes Tel Aviv Command]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hezbollah-israel-precision-strike.webp</image:loc>
+      <image:title><![CDATA[Joint Command: Hezbollah Strikes Tel Aviv Command]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/missile-fabrication-turkey-denies-iran-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Missile Fabrication: Turkey Denies Iran Strike]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/cyprus-base-patriot-intercept.webp</image:loc>
+      <image:title><![CDATA[Missile Fabrication: Turkey Denies Iran Strike]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/mokhber-leads-iran-transition-amid-strategic-rift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Mokhber Leads Iran Transition Amid Strategic Rift]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mohammad-mokhber-iran-transition.webp</image:loc>
+      <image:title><![CDATA[Mokhber Leads Iran Transition Amid Strategic Rift]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/netanyahu-forced-underground-khaibar-missile-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Netanyahu Forced Underground: Khaibar Strike Misses]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/netanyahu-underground-bunker-khaibar-strike.webp</image:loc>
+      <image:title><![CDATA[Netanyahu Forced Underground: Khaibar Strike Misses]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/prince-sultan-air-base-strike-378-expeditionary-wing-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Prince Sultan Air Base: 378th Wing Struck]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/prince-sultan-air-base-strike.webp</image:loc>
+      <image:title><![CDATA[Prince Sultan Air Base: 378th Wing Struck]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/prsm-escalation-us-fires-ballistic-missiles-from-gulf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[PrSM Escalation: US Fires Missiles from Gulf]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/prsm-himars-gulf-launch.webp</image:loc>
+      <image:title><![CDATA[PrSM Escalation: US Fires Missiles from Gulf]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/qatar-radar-strike-us-early-warning-blinded</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Qatar Radar Strike: U.S. Early Warning Blinded]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/an-fps-132-uewr-qatar.webp</image:loc>
+      <image:title><![CDATA[Qatar Radar Strike: U.S. Early Warning Blinded]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/thaad-blinded-antpy2-radars-destroyed-in-gulf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[THAAD Blinded: AN/TPY-2 Radars Destroyed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/antpy2-radar-destroyed.webp</image:loc>
+      <image:title><![CDATA[THAAD Blinded: AN/TPY-2 Radars Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/thaad-radar-destroyed-uae-air-defense-pierced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[THAAD Radar Destroyed: UAE Air Defense Pierced]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/thaad-radar-ruwais-uae-strike.webp</image:loc>
+      <image:title><![CDATA[THAAD Radar Destroyed: UAE Air Defense Pierced]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/tomahawk-crisis-us-missile-stockpiles-depleted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Tomahawk Crisis: US Missile Stockpiles Depleted]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tomahawk-missile-depletion.webp</image:loc>
+      <image:title><![CDATA[Tomahawk Crisis: US Missile Stockpiles Depleted]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-agrees-to-talk-with-irans-new-leaders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Agrees to Talk with Iran's New Leaders]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-iran-negotiations-atlantic.webp</image:loc>
+      <image:title><![CDATA[Trump Agrees to Talk with Iran's New Leaders]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-destroyer-struck-deep-indian-ocean-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[U.S. Destroyer Struck: Deep Indian Ocean Attack]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-destroyer-indian-ocean-strike.webp</image:loc>
+      <image:title><![CDATA[U.S. Destroyer Struck: Deep Indian Ocean Attack]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-f15-cyber-attack-kuwait-crashes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[F-15 Cyber Attack: Nine U.S. Jets Lost in Kuwait]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-f15-cyber-attack-kuwait.webp</image:loc>
+      <image:title><![CDATA[F-15 Cyber Attack: Nine U.S. Jets Lost in Kuwait]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-lincoln-carrier-strike-group-logistics-siege</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[USS Lincoln Under Siege: Logistics Ships Struck]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-lincoln-logistics-siege.webp</image:loc>
+      <image:title><![CDATA[USS Lincoln Under Siege: Logistics Ships Struck]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-lincoln-hit-hypersonic-missile-strikes-carrier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[USS Lincoln Hit: Hypersonic Missile Strikes Carrier]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-lincoln-struck-hypersonic-missile.webp</image:loc>
+      <image:title><![CDATA[USS Lincoln Hit: Hypersonic Missile Strikes Carrier]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/bulgarian-border-scramble-f16-mystery-oil-deal</loc>
     <news:news>
       <news:publication>
