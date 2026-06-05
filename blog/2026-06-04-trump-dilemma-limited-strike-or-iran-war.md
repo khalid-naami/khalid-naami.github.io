@@ -2,7 +2,7 @@
 title: "Trump Dilemma: Limited Strike or Iran War"
 description: "Trump faces a divided Pentagon over Iran strikes as Iraqi groups warn of long war and US controls oil funds. Internal debates highlight limited strike options."
 authors: [khalid]
-tags: [Geopolitics, Political Economy, Daily Analysis]
+tags: [Geopolitics, Political Economy]
 keywords: [Trump Iran war, Pentagon pizza index, limited strike Iran, Steve Witkoff Abbas Araqchi, Kata'ib Hezbollah warning, Iraq Federal Reserve oil, US strategic oil control, Lindsey Graham Iran strike, Geneva negotiations, Vienna technical talks, Geopolitics, Political Economy]
 image: "/img/trump-pentagon-iran-decision.webp"
 slug: trump-dilemma-limited-strike-or-iran-war
