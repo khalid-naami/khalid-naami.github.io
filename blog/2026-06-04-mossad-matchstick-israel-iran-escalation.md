@@ -2,7 +2,7 @@
 title: "Mossad Matchstick: Israel-Iran Brinkmanship"
 description: "Israel prepares for conflict as Mossad highlights Khamenei's speech, triggering diplomat evacuations, air defense mobilization, and high-cost B-2 missions."
 authors: [khalid]
-tags: [Geopolitics, Political Economy, Daily Analysis]
+tags: [Geopolitics, Political Economy]
 keywords: [Israel Iran escalation, Mossad matchstick Khamenei, diplomat evacuation Israel, Beer Sheva missile shelters, Israel air defense mobilization, B-2 bomber operation cost, Operation Midnight Hammer cost, Trump Iran strike strategy, Marco Rubio Israel visit, Negev F-22 base, Geopolitics, Political Economy]
 image: "/img/mossad-matchstick-israel-iran.webp"
 slug: mossad-matchstick-israel-iran-brinkmanship
