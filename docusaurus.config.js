@@ -14,7 +14,7 @@ module.exports = async function createConfig() {
   return {
     title: 'Khalid Naami',
     tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
-    favicon: 'favicon.ico',
+    favicon: 'favicon.png',
 
   url: 'https://khalidnaami.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
