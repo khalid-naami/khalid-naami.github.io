@@ -18,7 +18,7 @@ While Hebrew media outlets like Walla and the Israeli Broadcasting Authority (IB
 
 ### The Missing Jet: A Failed Avenger Drone Integration?
 
-The absence of the twelfth F-22 Raptor has fueled speculation within defense circles. According to leaks from regional military exercises, the missing aircraft was involved in a highly classified, joint US-Israel combat simulation. The test was designed to test the **"combat cloud"** (سحابة القتال) concept, utilizing the F-22 as a flying command-and-control node directing a stealthy MQ-20 Avenger Unmanned Combat Aerial Vehicle (UCAV) flying ahead of it.
+The absence of the twelfth F-22 Raptor has fueled speculation within defense circles. According to leaks from regional military exercises, the missing aircraft was involved in a highly classified, joint US-Israel combat simulation. The trial was designed to test the **"combat cloud"** (سحابة القتال) concept, utilizing the F-22 as a flying command-and-control node directing a stealthy MQ-20 Avenger Unmanned Combat Aerial Vehicle (UCAV) flying ahead of it.
 
 Reports suggest that during the test:
 *   The communication links between the F-22’s avionics and the Avenger drone failed to synchronize.
