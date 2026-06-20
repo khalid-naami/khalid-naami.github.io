@@ -45,7 +45,7 @@ While the U.S. struggles with stockpile management, its regional allies face imm
 
 The relentless drone and missile strikes have kept continuous air sirens sounding across Haifa and northern industrial zones, forcing workers into underground bomb shelters. This constant disruption has halted work at ammunition and missile component factories. 
 
-Without active production lines, Israel is unable to replenish its tactical reserves, complicating its military options. This industrial slowdown, coupled with the [coordinated strikes on Tel Aviv command centers](/blog/joint-command-hezbollah-strikes-tel-aviv-command), has forced regional commanders to reconsider their strategy, realizing that their high-rate ammunition expenditure is unsustainable against a prepared adversary.
+Without active production lines, Israel is unable to replenish its tactical reserves, complicating its military options. This industrial slowdown, coupled with the [coordinated strikes on Tel Aviv command centers](/blog/joint-command-hezbollah-strikes-tel-aviv-command) has forced regional commanders to reconsider their strategy, realizing that their high-rate ammunition expenditure is unsustainable against a prepared adversary.
 
 ---
 
