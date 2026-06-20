@@ -22,11 +22,11 @@ There are growing indications of a coordinated effort by regional intelligence s
 
 In late 2025, the TTP announced a major administrative restructuring for 2026. The group’s leader, Noor Wali Mehsud, assumed the title of "Mufti Wali Noor," signaling a shift toward centralized religious and military authority. 
 
-A notable aspect of this restructuring was the TTP’s declaration of a fictitious "Kashmir Province" (ولاية كشمير) within its administrative divisions. However, U.S. and regional intelligence documents suggest this move was primarily a public relations exercise. 
+A notable aspect of this restructuring was the TTP’s declaration of a fictitious "Kashmir Province" (ولاية كشمير) within its administrative divisions. However, intelligence documents suggest this move was primarily a public relations exercise. 
 
 Reports indicate a quiet agreement between the TTP, Indian intelligence services, and Israeli technical advisors. Under this understanding:
 *   **The Kashmir Cessation:** The TTP agreed to halt all military activities in Jammu and Kashmir.
-*   **Logistical Support:** In exchange, Indian intelligence agreed to provide the TTP with financial resources, advanced U.S.-style drone technologies, and Israeli-manufactured night-vision laser optics. 
+*   **Logistical Support:** In exchange, Indian intelligence agreed to provide the TTP with financial resources, advanced drone technologies, and Israeli-manufactured night-vision laser optics. 
 *   **Kabul-Delhi Rapprochement:** This arrangement coincides with India upgrading its technical mission in Kabul to a full embassy. During a visit by Taliban Foreign Minister Amir Khan Muttaqi to New Delhi in October 2025, Indian External Affairs Minister S. Jaishankar described Pakistan as a "common threat" to both nations.
 
 ![Pakistan-Afghanistan Open War](/img/pakistan-afghanistan-open-war.webp)
@@ -41,11 +41,11 @@ The military results of this operation have been highly contested:
 *   **Pakistani Claims:** Islamabad reports that air strikes hit 27 TTP coordinates, neutralizing 133 militants and wounding 22 others, while capturing nine strategic border outposts.
 *   **TTP Claims:** Conversely, TTP spokespersons claim to have held their positions, neutralized 55 Pakistani soldiers, and seized 19 border outposts.
 
-Despite the intensity of the air strikes, Kabul has condemned the U.S.-backed Pakistani incursions as a violation of Afghan sovereignty, denying that they host TTP training camps.
+Despite the intensity of the air strikes, Kabul has condemned the incursions as a violation of Afghan sovereignty, denying that they host TTP training camps.
 
 ## The Strategic Objective: Seizing the Islamic Bomb
 
-For Pakistan's defense establishment, the escalation along the Durand Line is not merely a border dispute, but an existential threat to its national security. Since Iran maintains a religious fatwa against the production of nuclear weapons and is negotiating a nuclear framework with the U.S., Pakistan remains the sole nuclear power in the Muslim world.
+For Pakistan's defense establishment, the escalation along the Durand Line is not merely a border dispute, but an existential threat to its national security. Since Iran maintains a religious fatwa against the production of nuclear weapons and is negotiating a nuclear framework with the West, Pakistan remains the sole nuclear power in the Muslim world.
 
 Pakistani intelligence services believe that the ultimate goal of the India-Israel axis is to use the TTP, operating under a new drone command led by Saleem Haqqani, to launch attacks on nuclear research facilities and military installations. If these attacks succeed in creating instability, it would provide a pretext for a U.S.-led international intervention to secure and dismantle Pakistan’s nuclear arsenal under the guise of global safety.
 
@@ -57,4 +57,4 @@ As fighting continues along the Durand Line, the conflict threatens to draw in n
 
 ---
 
-*To analyze how South Asian geopolitical escalations and commodity supply risks influence derivatives pricing and options volatility, access our analytics at [Dashboard Options](https://dashboardoptions.com/). To hedge against U.S. currency debasement and sovereign default risks, explore physical gold and wealth protection strategies through [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how South Asian geopolitical escalations and commodity supply risks influence derivatives pricing and options volatility, access our analytics at [Dashboard Options](https://dashboardoptions.com/). To hedge against currency debasement and sovereign default risks, explore physical gold and wealth protection strategies through [Augusta Precious Metals](https://eurodongold.com).*
