@@ -34,7 +34,7 @@ This shortage makes a sustained air campaign against Iran highly challenging, a 
 
 President Trump reacted angrily on Truth Social, calling the leaks "Fake News" designed to undermine U.S. resolve. He denied that General Kean opposed military action, claiming instead that the General believed any conflict with Iran would lead to a swift victory.
 
-Trump asserted that Iran's nuclear capabilities were already disabled during the U.S. stealth-bomber operation, code-named **"Midnight Hammer"**, which utilized B-2 Spirit stealth bombers to strike key underground facilities. Trump wrote: *"I am the one who decides. I prefer to reach a deal over no deal, but if we don't, it will be a very day for that country and its citizens."*
+Trump asserted that Iran's nuclear capabilities were already disabled during the U.S. stealth-bomber operation, code-named **"Midnight Hammer"**, which utilized B-2 Spirit stealth bombers to strike key underground facilities. Trump wrote: *"I am the one who decides. I prefer to reach a deal over no deal, but if we don't, it will be a very bad day for that country and its citizens."*
 
 ## The Operational Reality: Hitting Hundreds of Targets
 
