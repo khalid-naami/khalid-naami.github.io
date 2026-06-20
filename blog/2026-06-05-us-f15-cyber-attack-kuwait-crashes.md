@@ -20,7 +20,7 @@ While Kuwaiti officials attribute the crashes to "technical circumstances," stat
 
 ## The Cyber Attack and F-15 Avionics Failures
 
-The incident represents a major electronic warfare development. According to military reports, a total of nine U.S. Air Force F-15 fighter jets crashed or were rendered inoperable during takeoff sequences at local airfields. 
+The incident represents a major electronic warfare development. According to military reports, a total of nine U.S. Air Force F-15 fighter jets crashed or were rendered inoperative during takeoff sequences at local airfields. 
 
 The mechanics of the disruption include:
 *   **Avionics Override:** Iranian electronic warfare units executed a cyber-penetration of the F-15s' primary flight data computers, overriding autopilot and thrust control systems during the critical takeoff phase.
