@@ -123,7 +123,7 @@ Moving forward, there are three critical factors to watch:
 2.  **Builder Incentives**: If buy-downs and discounts get bigger, it tells you the market is weaker than the headline prices suggest.
 3.  **Insurance and Taxes**: In states like Florida, the all-in monthly payment matters far more than the listing price.
 
-The housing market is not saying everything's going to crash tomorrow, but it is absolutely sending a macroeconomic slowdown signal. The pandemic-era boom is over, and the market right now is sending us a very warning about the real state of the global economy.
+The housing market is not saying everything's going to crash tomorrow, but it is absolutely sending a macroeconomic slowdown signal. The pandemic-era boom is over, and the market right now is sending us a very clear warning about the real state of the global economy.
 
 ---
 
