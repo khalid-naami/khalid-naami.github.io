@@ -41,7 +41,7 @@ To achieve profitability, a trader must first understand the mechanical forces t
 It is crucial to understand the distinct operational boundaries between two completely different market participants:
 
 *   **The Investor**: An investor focuses on long-term value creation. They analyze corporate balance sheets, cash flows, macroeconomic trends, and compound earnings. The investor buys a piece of a business and expects their capital to grow alongside the expansion of the underlying economy over years or decades.
-*   **The Speculator**: A professional speculator operates in the short-to-medium term. They do not buy assets to hold them forever; they look for **short-term price inefficiencies**. The speculator is a probability manager who utilizes mathematical risk parameters and liquidity flows to capture price moves.
+*   **The Speculator**: A professional speculator operates in the short-to-medium term. They do not buy assets to hold them forever; they look for **short-term price inefficiencies**. The speculator is a probability manager who utilizes mathematical risk parameters and liquidity flows to capture rapid price moves.
 
 ---
 
