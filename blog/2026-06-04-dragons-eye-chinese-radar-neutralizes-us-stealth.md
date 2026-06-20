@@ -36,7 +36,13 @@ The platform can detect and track hypersonic glide vehicles and advanced ballist
 
 The deployment of Liyuan-1 data changes the rules of engagement. Historically, the United States has relied on stealth technology to execute devastating first strikes with minimal warning. 
 
-With Chinese satellite and sea-based assets have reportedly mapped the coordinates of Patriot PAC-3 battery deployments and F-16 fighter positions across U.S. bases in the Gulf. This removes the operational ambiguity that Washington relies on to deter attacks. 
+With Chinese radar systems providing real-time data to Tehran, this advantage is gone. As Iranian President Masoud Pezeshkian recently noted: *"We monitor every movement of the U.S. military with absolute precision."*
+
+By integrating the Liyuan-1 tracking feed with Iran’s air defense systems, such as the Chinese-supplied **HQ-9B** surface-to-air missile network, Iran can now direct defensive fire against stealth targets. This integration turns Iran's missile defense into a highly lethal network. This capability builds on previous electronic achievements, similar to [Iran's Safar-110 System: Challenging Western Tech Superiority](/blog/iran-safar-110-system-israel-tech-advantage).
+
+## Eliminating Operational Ambiguity
+
+Furthermore, Chinese satellite and sea-based assets have reportedly mapped the coordinates of Patriot PAC-3 battery deployments and F-16 fighter positions across U.S. bases in the Gulf. This removes the operational ambiguity that Washington relies on to deter attacks. 
 
 In addition, the Liyuan-1's capability to detect low-flying helicopters and aircraft on radar hinders specialized commando or rescue operations, which depend on stealth and low-altitude ingress.
 
