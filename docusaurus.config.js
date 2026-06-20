@@ -108,7 +108,8 @@ module.exports = async function createConfig() {
               "https://substack.com/@khnaami",
               "https://share.streamlit.io/user/khalidnaami3-wq",
               "https://cal.com/khnaami",
-              "https://www.youtube.com/@DashboardOptions"
+              "https://www.youtube.com/@khalid-naami",
+              "https://www.instagram.com/khalid_naami"
             ]
           },
           {
@@ -129,8 +130,7 @@ module.exports = async function createConfig() {
             "foundingDate": "2024-01-01",
             "sameAs": [
               "https://x.com/DashboardOption",
-              "https://www.linkedin.com/company/dashboard-options/",
-              "https://www.youtube.com/@DashboardOptions"
+              "https://www.linkedin.com/company/dashboard-options/"
             ]
           },
           {
@@ -342,7 +342,11 @@ module.exports = async function createConfig() {
               },
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/@DashboardOptions',
+                href: 'https://www.youtube.com/@khalid-naami',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/khalid_naami',
               },
             ],
           },
