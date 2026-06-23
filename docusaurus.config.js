@@ -108,8 +108,7 @@ module.exports = async function createConfig() {
               "https://substack.com/@khnaami",
               "https://share.streamlit.io/user/khalidnaami3-wq",
               "https://cal.com/khnaami",
-              "https://www.youtube.com/@khalid-naami",
-              "https://www.instagram.com/khalid_naami"
+              "https://www.youtube.com/@khalid-naami"
             ]
           },
           {
@@ -343,10 +342,6 @@ module.exports = async function createConfig() {
               {
                 label: 'YouTube',
                 href: 'https://www.youtube.com/@khalid-naami',
-              },
-              {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/khalid_naami',
               },
             ],
           },
