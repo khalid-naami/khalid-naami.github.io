@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://khalidnaami.com/blog/bond-yields-rise-fed-policy-mistake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Bond Yields Rise: Why the Fed Is Making a Mistake]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/bond-yields-fed-mistake-not-inflation.webp</image:loc>
+      <image:title><![CDATA[Bond Yields Rise: Why the Fed Is Making a Mistake]]></image:title>
+    </image:image>
+  </url>
+</urlset>
