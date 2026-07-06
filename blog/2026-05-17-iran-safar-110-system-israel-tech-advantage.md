@@ -1,6 +1,6 @@
 ---
 title: "Iran Safar-110: Israel Notes Iranian Tech Edge"
-description: "Israel admits Iran's Safar-110 military comms system ensures technological superiority. Analyzing the H-110 drone, EW immunity, and broken Western tech monopoly."
+description: "Israel admits Iran's Safar-110 military comms system ensures tech superiority. Analyzing the H-110 drone, EW immunity, and the Western monopoly break."
 authors: [khalid]
 tags: [Political Economy, Geopolitics, Middle East, Military Technology, Electronic Warfare, Global Macro]
 keywords: [Iran Safar 110, Military Communications, H-110 Drone, IRGC Technology, Electronic Warfare Immunity, EMP Resistance, Israel Tech Monopoly, RQ-170 Sentinel, Political Economy, Khalid Naami]
