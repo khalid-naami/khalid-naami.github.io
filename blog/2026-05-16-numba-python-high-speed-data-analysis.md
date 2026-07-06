@@ -12,7 +12,7 @@ schema_type: [TechArticle, SoftwareApplication, HowTo]
 
 # Numba: Accelerating Python for High-Speed Data Analysis
 
-In the realm of quantitative data analysis, <a href="/blog/python-for-finance-guide" target="_blank">Python</a> is the undisputed king of ease and flexibility. However, its interpreted nature often creates bottlenecks when handling heavy numerical computations. This is where **Numba** enters the scene, offering a revolutionary solution that compiles Python code "Just-In-Time" (JIT) to deliver near C-level performance.
+In the realm of quantitative data analysis, <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> is the undisputed king of ease and flexibility. However, its interpreted nature often creates bottlenecks when handling heavy numerical computations. This is where **Numba** enters the scene, offering a revolutionary solution that compiles Python code "Just-In-Time" (JIT) to deliver near C-level performance.
 
 <img src="/img/numba.webp" alt="High-Performance Data Processing with Numba and Python" width="600" height="337" style={{ display: 'block', margin: '0 auto' }} />
 
