@@ -159,6 +159,14 @@ module.exports = async function createConfig() {
         content: 'sQeDE0mYzpbw__O7s2zcGpaRT1EciCRo73eaHX-KO6E',
       },
     },
+    {
+      tagName: 'script',
+      attributes: {
+        async: 'true',
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8642876133836674',
+        crossorigin: 'anonymous',
+      },
+    },
   ],
 
   presets: [
