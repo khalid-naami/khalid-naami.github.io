@@ -59,7 +59,7 @@ They solve a major, structural problem that I have highlighted for a very long t
 
 **Monetary Metals** has fixed this. They allow you to earn a real, physical yield paid *in* physical gold, without giving up ownership. This is not an ETF, a paper claim, or a speculative fund. It is your physical gold working for you, depositing more physical ounces into your account every single month.
 
-If you believe in gold as a long-term store of value, this changes everything. Visit **[monetary-metals.com/nider](https://www.monetary-metals.com/nider)** to learn more.
+If you believe in gold as a long-term store of value, this changes everything. Visit **[monetary-metals.com](https://monetary-metals.com)** to learn more.
 
 *Disclosure: Monetary Metals is a paid sponsor. Always consult a qualified financial professional before making investment decisions.*
 :::
