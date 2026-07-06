@@ -33,4 +33,19 @@
       <image:title><![CDATA[The Credit Cycle: Where Are We in the Downswing?]]></image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/ecb-policy-mistake-european-banks-buy-safety</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[ECB Policy Mistake: Why European Banks Buy Safety]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/euro-banks-ecb-mistake.webp</image:loc>
+      <image:title><![CDATA[ECB Policy Mistake: Why European Banks Buy Safety]]></image:title>
+    </image:image>
+  </url>
 </urlset>
