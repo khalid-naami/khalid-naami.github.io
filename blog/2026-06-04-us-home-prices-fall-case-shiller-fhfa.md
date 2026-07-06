@@ -36,7 +36,7 @@ We got more evidence of that earlier today as well. Consumer confidence is down,
 
 ## Case-Shiller Confirms the Turning Point
 
-Let's start with Case-Shiller. The [S&P CoreLogic Case-Shiller Index](https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/) is one of the most widely followed home price measures in the country because it looks at repeat sales. In other words, it's not just comparing whatever mix of homes happen to sell this month versus last month. It's trying to track price changes for the same homes over time. And that makes it useful for spotting turning points. 
+Let's start with Case-Shiller. The [S&P CoreLogic Case-Shiller Index](https://en.wikipedia.org/wiki/Case%E2%80%93Shiller_index) is one of the most widely followed home price measures in the country because it looks at repeat sales. In other words, it's not just comparing whatever mix of homes happen to sell this month versus last month. It's trying to track price changes for the same homes over time. And that makes it useful for spotting turning points. 
 
 And the latest turning point is pretty obvious. The 20-city index has now declined for two consecutive months on a seasonally adjusted basis. The national average was basically zero in February before also falling in March, which is the latest data that just came out. 
 
@@ -49,11 +49,11 @@ Now, that does not mean every city is down year-over-year. It doesn't mean every
 ---
 
 > ### Sponsor Spotlight: Monetary Metals
-> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://www.monetary-metals.com/snyder), lets you do. 
+> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://monetary-metals.com), lets you do. 
 > 
 > Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it. 
 > 
-> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com/snyder](https://www.monetary-metals.com/snyder) to see if they're the right fit for you.
+> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com](https://monetary-metals.com) to see if they're the right fit for you.
 
 ---
 
