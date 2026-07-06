@@ -12,7 +12,7 @@ schema_type: [TechArticle, SoftwareApplication, HowTo]
 
 # SciPy: The Engine for Scientific Computing in Python
 
-While standard analytical libraries provide the foundation for manipulating data, the true mathematical heavy lifting in <a href="/blog/python-for-finance-guide" target="_blank">Python</a> relies on **SciPy**. Standing for "Scientific Python," this powerhouse library is the bedrock of quantitative modeling, engineering, and advanced statistical analysis.
+While standard analytical libraries provide the foundation for manipulating data, the true mathematical heavy lifting in <a href="/blog/python-for-finance-data-analysis-guide" target="_blank">Python</a> relies on **SciPy**. Standing for "Scientific Python," this powerhouse library is the bedrock of quantitative modeling, engineering, and advanced statistical analysis.
 
 <img src="/img/scipy.webp" alt="Scientific Computing and Advanced Data Analysis with SciPy" width="600" height="337" style={{ display: 'block', margin: '0 auto' }} />
 
