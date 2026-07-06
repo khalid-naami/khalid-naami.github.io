@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ai-datacenter-bubble-burst.webp</image:loc>
+      <image:caption><![CDATA[Shadow banks face rising redemptions, forcing Blue Owl and Blackstone to limit exits, squeezing the credit that funds the AI data center boom.]]></image:caption>
+      <image:title><![CDATA[AI Bubble Burst: Private Credit Spills Into Data Centers]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/bond-yields-rise-fed-policy-mistake</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/bond-yields-fed-mistake-not-inflation.webp</image:loc>

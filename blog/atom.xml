@@ -2,12 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khalidnaami.com/blog</id>
     <title>Khalid Naami Blog</title>
-    <updated>2026-07-06T17:00:00.000Z</updated>
+    <updated>2026-07-06T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://khalidnaami.com/blog"/>
     <subtitle>Khalid Naami Blog</subtitle>
     <icon>https://khalidnaami.com/favicon.png</icon>
     <rights>Copyright © 2026 Khalid Naami.</rights>
+    <entry>
+        <title type="html"><![CDATA[AI Bubble Burst: Private Credit Spills Into Data Centers]]></title>
+        <id>https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers</id>
+        <link href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers"/>
+        <updated>2026-07-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shadow banks face rising redemptions, forcing Blue Owl and Blackstone to limit exits, squeezing the credit that funds the AI data center boom.]]></summary>
+        <content type="html"><![CDATA[<p>The private credit bust is starting to spread into the AI sector. Specifically, the massive data center buildout that was largely financed by shadow banks is now facing a severe liquidity squeeze.</p>
+<p>The mechanism behind this transmission is simple: the run on shadow banks has not abated. AI's core danger has always been that the virtually unlimited capital it demands to reach maturity might eventually run out. That day has arrived.</p>
+<p><img decoding="async" loading="lazy" alt="AI Datacenter Bubble Burst" src="https://khalidnaami.com/assets/images/ai-datacenter-bubble-burst-132e1951f39418ec61bf1c0179dfe16f.webp" width="600" height="337" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-liquidity-trap-blue-owl-and-blackstone-limit-exits">The Liquidity Trap: Blue Owl and Blackstone Limit Exits<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#the-liquidity-trap-blue-owl-and-blackstone-limit-exits" class="hash-link" aria-label="Direct link to The Liquidity Trap: Blue Owl and Blackstone Limit Exits" title="Direct link to The Liquidity Trap: Blue Owl and Blackstone Limit Exits" translate="no">​</a></h2>
+<p>For months, the official narrative from alternative asset managers was comforting: yeah, there are some redemption requests, but the underlying assets are performing perfectly. The gates are working exactly as designed, meaning there is nothing systemic to worry about.</p>
+<p>But the actual behavior of these funds tells a very different story:</p>
+<ul>
+<li class=""><strong>Blue Owl's Redemption Squeeze</strong>: Two of Blue Owl's largest private credit funds faced massive withdrawal requests for the second consecutive quarter. Its flagship Credit Income Corp saw redemptions climb to <strong>18.8%</strong> of outstanding shares in Q2, while its technology-focused partner saw requests equal to <strong>38.1%</strong> of its shares.</li>
+<li class=""><strong>Imposing Gates</strong>: Because these funds hold illiquid corporate loans, they cannot act like daily liquid bank accounts. Blue Owl was forced to cap withdrawals once again.</li>
+<li class=""><strong>Trapped Capital</strong>: Bloomberg reports that private credit funds are currently keeping roughly <strong>$14 billion</strong> trapped as managers try to outlast the redemption storm.</li>
+</ul>
+<p>When nearly two-fifths of investors ask to exit a technology credit fund in a single quarter, the problem is no longer one of messaging. It is a fundamental break in trust.</p>
+<hr>
+<blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="sponsor-spotlight-monetary-metals">Sponsor Spotlight: Monetary Metals<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#sponsor-spotlight-monetary-metals" class="hash-link" aria-label="Direct link to Sponsor Spotlight: Monetary Metals" title="Direct link to Sponsor Spotlight: Monetary Metals" translate="no">​</a></h3>
+<p>What if your gold could actually pay you every single month in more gold? That's what today's sponsor, <a href="https://monetary-metals.com/" target="_blank" rel="noopener noreferrer" class="">Monetary Metals</a>, lets you do.</p>
+<p>Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it.</p>
+<p>If you're a long-term gold holder looking for a smarter way to store value, check them out at <a href="https://monetary-metals.com/" target="_blank" rel="noopener noreferrer" class="">monetary-metals.com</a> to see if they're the right fit for you.</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="funding-the-dream-the-infrastructure-squeeze">Funding the Dream: The Infrastructure Squeeze<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#funding-the-dream-the-infrastructure-squeeze" class="hash-link" aria-label="Direct link to Funding the Dream: The Infrastructure Squeeze" title="Direct link to Funding the Dream: The Infrastructure Squeeze" translate="no">​</a></h2>
+<p>The AI boom is not just a software narrative; it is a physical, capital-intensive infrastructure boom. Developing city-sized data centers requires massive upfront debt.</p>
+<p>During the upswing of the <a class="" href="https://khalidnaami.com/blog/credit-cycle-turn-downswing">credit cycle</a>, private credit was flush with capital and eager to finance any developer with an AI story. But when funds are hit with billions in redemptions, their incentives change.</p>
+<p>Instead of stretching for the next speculative infrastructure deal, credit managers must focus on preserving cash, managing redemption queues, and protecting their liquidity. The focus shifts from funding expansion to underwriting the downside. When the marginal credit dollar becomes skeptical, the entire growth curve of the AI buildout is disrupted.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mega-projects-walk-away-qts-and-blackstone-sell-offs">Mega Projects Walk-Away: QTS and Blackstone Sell-Offs<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#mega-projects-walk-away-qts-and-blackstone-sell-offs" class="hash-link" aria-label="Direct link to Mega Projects Walk-Away: QTS and Blackstone Sell-Offs" title="Direct link to Mega Projects Walk-Away: QTS and Blackstone Sell-Offs" translate="no">​</a></h2>
+<p>This capital retrenchment is no longer theoretical. It is showing up in major asset sales and terminated projects:</p>
+<ul>
+<li class=""><strong>Blackstone Cashing Out</strong>: Blackstone sold its stakes in three major Northern Virginia data centers to Digital Realty for <strong>$3.5 billion</strong>. While Blackstone remains active in infrastructure, selling off these hot assets less than three years after entering the joint venture signals a search for liquidity.</li>
+<li class=""><strong>QTS Terminates Mega Campus</strong>: QTS has walked away from its portion of the massive Digital Gateway data center campus in Prince William County, Virginia. The project was supposed to cover over 800 acres and bring in <strong>$100 billion</strong> in spending. Compass Data Centers (backed by Brookfield) had already pulled out of the same site in May.</li>
+<li class=""><strong>BlackRock Exit</strong>: The CEO of a troubled BlackRock private credit fund is exiting, showing that operational and reputational stress is mounting.</li>
+</ul>
+<p>During a genuine, self-sustaining boom, developers do not walk away from megatechnology corridors. They only abandon these projects when the cost of capital and financing constraints make them unviable.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="underwriting-the-downside-the-marginal-dollar-turns-skeptical">Underwriting the Downside: The Marginal Dollar Turns Skeptical<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#underwriting-the-downside-the-marginal-dollar-turns-skeptical" class="hash-link" aria-label="Direct link to Underwriting the Downside: The Marginal Dollar Turns Skeptical" title="Direct link to Underwriting the Downside: The Marginal Dollar Turns Skeptical" translate="no">​</a></h2>
+<p>The AI trade has been treated purely as a technology story, but it is fundamentally a financing story. The data center valuations, market capitalizations, and power contracts all rely on capital being cheap, predictable, and elastic.</p>
+<p>As shadow banks enter a defensive phase, the AI trend must pass a much harder economic test:</p>
+<ol>
+<li class=""><strong>Strict Cash Flow Demands</strong>: Lenders are demanding signed leases, guaranteed power grid access, and clear exits rather than funding projections.</li>
+<li class=""><strong>Beveridge Flatness</strong>: As seen in the recent <a class="" href="https://khalidnaami.com/blog/microsoft-layoffs-ai-excuse-hiring-freeze">Microsoft layoffs</a> and the <a class="" href="https://khalidnaami.com/blog/june-jobs-report-payback-labor-market-cracks">June jobs report</a>, corporate managers are already cutting costs to protect margins, which will impact enterprise AI software demand.</li>
+<li class=""><strong>Extrapolation Ends</strong>: Bubbles rely on assuming speculative projects should be funded at the same valuations as completed, top-tier assets. Once credit tightens, this extrapolation breaks.</li>
+</ol>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion-the-financing-reality-behind-the-hype">Conclusion: The Financing Reality Behind the Hype<a href="https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers#conclusion-the-financing-reality-behind-the-hype" class="hash-link" aria-label="Direct link to Conclusion: The Financing Reality Behind the Hype" title="Direct link to Conclusion: The Financing Reality Behind the Hype" translate="no">​</a></h2>
+<p>The technology behind AI has a real future, but the current infrastructure bubble was built on a flood of easy money from Wall Street's shadow banking system.</p>
+<p>Now that investors are demanding their cash back, the floodwaters are cresting. Capping withdrawals, selling off core assets, and abandoning mega projects are the early indicators of a turning cycle. Once the debt markets tighten, the AI infrastructure boom will have to adjust to the cold realities of demand destruction and credit contraction.</p>
+<hr>
+<p><em>This analysis is part of our Global Macro series, focusing on shadow banking plumbing, corporate debt markets, and the AI infrastructure bubble.</em></p>
+<hr>
+<p><em>Monitor global macroeconomic indicators, options volume, and liquidity regimes in real-time with <a href="https://dashboardoptions.com/" target="_blank" rel="noopener noreferrer" class="">Dashboard Options</a>.</em></p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Global Economy" term="Global Economy"/>
+        <category label="Credit Markets" term="Credit Markets"/>
+        <category label="Shadow Banking" term="Shadow Banking"/>
+        <category label="Central Banks" term="Central Banks"/>
+        <category label="Global Macro" term="Global Macro"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June Jobs Report: The Labor Market Cracks Under Payback]]></title>
         <id>https://khalidnaami.com/blog/june-jobs-report-payback-labor-market-cracks</id>
