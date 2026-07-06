@@ -39,11 +39,11 @@ There are obvious differences, but in the grand scheme of how credit bubbles tur
 ---
 
 > ### Sponsor Spotlight: Monetary Metals
-> Gold is a classic safe haven, but other than sitting in a vault, it doesn't do anything. Today's sponsor, [Monetary Metals](https://monetary-metals.com/nder), fixes that. 
+> Gold is a classic safe haven, but other than sitting in a vault, it doesn't do anything. Today's sponsor, [Monetary Metals](https://www.monetary-metals.com/nder), fixes that. 
 > 
 > They let you earn real yield paid in physical gold without giving up ownership. It's not a paper claim; it's your physical gold working for you, depositing monthly yield directly into your account. Fully insured and transparent. 
 > 
-> Check them out at [monetary-metals.com/nder](https://monetary-metals.com/nder) to see how they can put your idle gold to work.
+> Check them out at [monetary-metals.com/nder](https://www.monetary-metals.com/nder) to see how they can put your idle gold to work.
 
 ---
 
