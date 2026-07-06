@@ -58,7 +58,7 @@ While everyone's personal situation is different, it is important to understand 
 
 We are proud to partner with **Augusta Precious Metals**. Like us, their approach is **education-first**. They will walk you through exactly how a gold IRA works—the mechanics, fees, and custodian setup—letting you decide if it is a fit for your wealth preservation strategy.
 
-To learn more and receive a free comprehensive guide, visit **[eurodollargold.com](http://eurodollargold.com)** or text **EURO to 35052**.
+To learn more and receive a free comprehensive guide, visit **[augustapreciousmetals.com](https://www.augustapreciousmetals.com)** or text **EURO to 35052**.
 
 *Disclosure: Augusta Precious Metals is a paid sponsor. This content is for educational purposes only and does not constitute investment advice. Consult a qualified financial professional before making any investment decisions.*
 :::
