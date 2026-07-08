@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/araghchi-plan-b-fail-israel-nuclear-dimona</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/araghchi-plan-b-nuclear-dimona.webp</image:loc>
+      <image:caption><![CDATA[Iran's Araghchi warns Israel's Phase 2 nuclear strikes will fail. With 42% of missiles intact and Khorramshahr targeting Dimona, the calculus shifts.]]></image:caption>
+      <image:title><![CDATA[Araghchi: Plan B Will Fail Like Plan A Did]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/ai-datacenter-bubble-burst.webp</image:loc>

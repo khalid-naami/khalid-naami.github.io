@@ -4,93 +4,18 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://khalidnaami.com/blog/ai-bubble-burst-private-credit-data-centers</loc>
+    <loc>https://khalidnaami.com/blog/araghchi-plan-b-fail-israel-nuclear-dimona</loc>
     <news:news>
       <news:publication>
         <news:name>Khalid Naami</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[AI Bubble Burst: Private Credit Spills Into Data Centers]]></news:title>
+      <news:publication_date>2026-07-08T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Araghchi: Plan B Will Fail Like Plan A Did]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>https://khalidnaami.com/img/ai-datacenter-bubble-burst.webp</image:loc>
-      <image:title><![CDATA[AI Bubble Burst: Private Credit Spills Into Data Centers]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/bond-yields-rise-fed-policy-mistake</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Bond Yields Rise: Why the Fed Is Making a Mistake]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/bond-yields-fed-mistake-not-inflation.webp</image:loc>
-      <image:title><![CDATA[Bond Yields Rise: Why the Fed Is Making a Mistake]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/credit-cycle-turn-downswing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[The Credit Cycle: Where Are We in the Downswing?]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/credit-cycle-turn-downswing.webp</image:loc>
-      <image:title><![CDATA[The Credit Cycle: Where Are We in the Downswing?]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/ecb-policy-mistake-european-banks-buy-safety</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[ECB Policy Mistake: Why European Banks Buy Safety]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/euro-banks-ecb-mistake.webp</image:loc>
-      <image:title><![CDATA[ECB Policy Mistake: Why European Banks Buy Safety]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/june-jobs-report-payback-labor-market-cracks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[June Jobs Report: The Labor Market Cracks Under Payback]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/nonfarm-payrolls-june-collapse.webp</image:loc>
-      <image:title><![CDATA[June Jobs Report: The Labor Market Cracks Under Payback]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/microsoft-layoffs-ai-excuse-hiring-freeze</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Microsoft Layoffs: The AI-Driven Efficiency Excuse]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/microsoft-layoffs-ai-excuse.webp</image:loc>
-      <image:title><![CDATA[Microsoft Layoffs: The AI-Driven Efficiency Excuse]]></image:title>
+      <image:loc>https://khalidnaami.com/img/araghchi-plan-b-nuclear-dimona.webp</image:loc>
+      <image:title><![CDATA[Araghchi: Plan B Will Fail Like Plan A Did]]></image:title>
     </image:image>
   </url>
 </urlset>
