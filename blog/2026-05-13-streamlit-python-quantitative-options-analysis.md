@@ -70,7 +70,6 @@ The process follows a strict hierarchy:
 
 The democratization of quantitative finance is here. Tools like Streamlit and Python have removed the barriers to entry, allowing independent researchers and specialized firms to compete with the biggest hedge funds. At **Dashboard Options**, we remain committed to pushing the boundaries of what is possible with these technologies, providing you with the intelligence needed to navigate today’s complex markets.
 
-
 _Master the markets with the right tools. Explore our advanced analytics at Dashboard Options._
 
 ---
