@@ -3,7 +3,7 @@ title: "Private Credit Squeeze: Outflows Exceed Inflows"
 description: "In Q1 2026, private credit experienced net outflows for the first time, forcing asset sales at steep discounts while Goldman & Fitch warn of rising defaults."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [Private Credit Squeeze, BDC Net Outflows, Goldman Sachs Private Credit, Fitch Default Rate 6.0, New Mountain Finance 65 Cents, Asset Gating, Augusta Precious Metals, Eurodollar University, Khalid Naami]
+keywords: [Private Credit Squeeze, BDC Net Outflows, Goldman Sachs Private Credit, Fitch Default Rate 6.0, New Mountain Finance 65 Cents, Asset Gating, Khalid Naami]
 image: /img/goldman.webp
 slug: private-credit-liquidity-squeeze-goldman-sachs-fitch
 date: 2026-05-26T13:45:00+00:00
