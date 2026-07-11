@@ -52,7 +52,7 @@ This development is a major factor in the recent [US-Iran Escalation: MQ-4C Trit
 
 The upcoming stand-off represents a 5th and 6th generation "dense electronic war." Since a U.S. first strike would likely involve fewer than 1,200 simultaneous targets, the entire offensive could be tracked and managed under the Liyuan-1's monitoring envelope. By choosing to waive a preemptive strike and focus on preparing a guided retaliatory strike, Iran is leveraging this electronic shield to deter a broader invasion.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
