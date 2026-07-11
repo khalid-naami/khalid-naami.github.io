@@ -12,9 +12,7 @@ schema_type: [ScholarlyArticle, SoftwareApplication, HowTo]
 
 # Ultimate Options Dashboard: Price Action & Greeks Analysis
 
-
 <!-- truncate -->
-
 
 ## The Power of All-In-One Analysis
 
