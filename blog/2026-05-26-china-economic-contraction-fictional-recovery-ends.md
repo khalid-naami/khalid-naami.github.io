@@ -3,7 +3,7 @@ title: "China's April Data Collapse: Fictional Recovery Ends"
 description: "China's retail sales, fixed asset investments, and housing prices collapsed in April, exposing the revisionist NPC narrative and plunging bond yields."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [China Economic Contraction, China Retail Sales April, China Fixed Asset Investment, China Housing Prices Decline, Balance Sheet Trap, Augusta Precious Metals, Eurodollar University, Bond Yields Plunge, Khalid Naami]
+keywords: [China Economic Contraction, China Retail Sales April, China Fixed Asset Investment, China Housing Prices Decline, Balance Sheet Trap, Bond Yields Plunge, Khalid Naami]
 image: /img/china-economic-contraction.webp
 slug: china-economic-contraction-fictional-recovery-ends
 date: 2026-05-26T13:15:00+00:00
