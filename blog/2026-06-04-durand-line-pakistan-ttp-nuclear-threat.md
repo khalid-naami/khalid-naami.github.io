@@ -57,4 +57,4 @@ As fighting continues along the Durand Line, the conflict threatens to draw in n
 
 ---
 
-*To analyze how South Asian geopolitical escalations and commodity supply risks influence derivatives pricing and options volatility, access our analytics at [Dashboard Options](https://dashboardoptions.com/). To hedge against currency debasement and sovereign default risks, explore physical gold and wealth protection strategies through [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how South Asian geopolitical escalations and commodity supply risks influence derivatives pricing and options volatility, access our analytics at [Dashboard Options](https://dashboardoptions.com/).*
