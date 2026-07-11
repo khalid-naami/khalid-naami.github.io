@@ -3,7 +3,7 @@ title: "Microsoft Layoffs: The AI-Driven Efficiency Excuse"
 description: "Microsoft's layoffs are blamed on AI, but JOLTS and consumer surveys reveal a traditional macro freeze: a no-hiring economy in tech-hype packaging."
 authors: [khalid]
 tags: [Global Economy, Global Macro]
-keywords: [Microsoft Layoffs, AI Job Cuts, JOLTS Turnover Data, hiring freeze, Consumer Confidence Jobs Hard To Get, AI washing, Monarch finance app, Khalid Naami]
+keywords: [Microsoft Layoffs, AI Job Cuts, JOLTS Turnover Data, hiring freeze, Consumer Confidence Jobs Hard To Get, AI washing, Khalid Naami]
 image: /img/microsoft-layoffs-ai-excuse.webp
 slug: microsoft-layoffs-ai-excuse-hiring-freeze
 date: 2026-07-06T16:00:00Z
@@ -31,13 +31,6 @@ The labor market is not weakening because algorithms have suddenly become good e
 To impress Wall Street, companies are wrapping cost-cutting measures in the language of innovation: "AI-driven efficiency." This practice, known as **AI washing**, allows businesses to package standard cyclical layoffs as forward-looking corporate evolution. 
 
 ---
-
-> ### Sponsor Spotlight: Monarch
-> Juggling between different bank accounts, credit cards, and investment portfolios can make it impossible to see your true financial picture. That's where today's sponsor, **Monarch**, comes in. 
-> 
-> Monarch pulls all your accounts into one clean, private, and ad-free dashboard. It is a read-only, fully encrypted system that gives you total clarity over your spending, net worth, and recurring bills without selling your data. 
-> 
-> To gain calm control over your finances, learn more about **[Monarch](https://www.monarchmoney.com)** today.
 
 ---
 
