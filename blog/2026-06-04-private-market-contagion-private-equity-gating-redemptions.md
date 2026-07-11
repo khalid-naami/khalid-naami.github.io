@@ -38,13 +38,6 @@ When redemption requests hit nearly 10% of NAV and the quarterly limit is 5%, th
 
 ---
 
-> ### Sponsor Spotlight: Augusta Precious Metals
-> Retirement accounts are often built around a pretty narrow set of asset types. Most people never learn what else is available to them, such as physical gold held in an IRA.
-> 
-> The reason we recommend [Augusta Precious Metals](https://eurodongold.com) is their education-first approach. They will walk you through how a gold IRA works, the mechanics, the fees, and the custodial side, letting you decide if it fits your long-term wealth strategy.
-> 
-> To learn more and receive a free guide, visit [eurodongold.com](https://eurodongold.com) or text **EURO** to **35052**.
-
 ---
 
 ## Cliffwater LLC's Redemptions Accelerate
