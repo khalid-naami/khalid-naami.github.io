@@ -3,7 +3,7 @@ title: "Dollar Strength, Rate Crashes"
 description: "A rising USD squeezes Asia while short-term US rate markets hedge for lower yields, exposing a systemic Eurodollar shortage and global recessionary trap."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [Rising Dollar Squeeze, SOFR Futures Plunge, Yield Curve Bull Steepening, Yen Collapse, South Korean Won, Monetary Metals gold yield, Eurodollar shortage, Augusta Precious Metals, Khalid Naami]
+keywords: [Rising Dollar Squeeze, SOFR Futures Plunge, Yield Curve Bull Steepening, Yen Collapse, South Korean Won, Eurodollar shortage, Augusta Precious Metals, Khalid Naami]
 image: /img/dollar-strength-rate-crashes.webp
 slug: dollar-strength-rate-crashes
 date: 2026-05-26T13:30:00+00:00
@@ -51,18 +51,6 @@ Over the past year, the Bank of Japan has aggressively hiked rates, officially e
 The rising dollar is not a speculative game driven by interest rate arbitrage. It is a fundamental **balance of payments crisis** triggered by a structural shortage of offshore ledger dollars.
 
 ---
-
-:::tip **A Word from Our Sponsor**
-I almost never run advertisements and say no to the vast majority of opportunities that are presented to me. However, I am thrilled to partner with today's sponsor, **Monetary Metals**. 
-
-They solve a major, structural problem that I have highlighted for a very long time. While gold is the ultimate long-term safe haven, simply holding gold in a safe or vault doesn't yield anything. It just sits there. 
-
-**Monetary Metals** has fixed this. They allow you to earn a real, physical yield paid *in* physical gold, without giving up ownership. This is not an ETF, a paper claim, or a speculative fund. It is your physical gold working for you, depositing more physical ounces into your account every single month.
-
-If you believe in gold as a long-term store of value, this changes everything. Visit **[monetary-metals.com](https://monetary-metals.com)** to learn more.
-
-*Disclosure: Monetary Metals is a paid sponsor. Always consult a qualified financial professional before making investment decisions.*
-:::
 
 ---
 
