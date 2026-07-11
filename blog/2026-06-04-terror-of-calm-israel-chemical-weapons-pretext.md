@@ -43,7 +43,7 @@ Furthermore, the Arrow and David’s Sling air defense networks are configured t
 
 Ultimately, the intelligence community remains in a "gray area," unable to confirm if Iran has successfully scaled these weapons. Geopolitical experts suggest Iran's calm stems from its conviction that U.S. airstrikes cannot overthrow the regime, drawing on lessons from Vietnam and Afghanistan. As U.S. and Israeli leadership prepare for the fallout, the potential for a conventional-to-non-conventional transition remains a critical concern.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
