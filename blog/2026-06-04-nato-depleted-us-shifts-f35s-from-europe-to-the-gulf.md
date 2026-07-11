@@ -52,7 +52,7 @@ However, if stealth assets fail to penetrate Iranian defenses, the entire strate
 
 With 45% of U.S. air power and 37% of its navy committed to the Gulf, Washington has gambled its global posture on this conflict. Any failure to quickly dismantle Iran's defenses would expose the limits of American power, leaving NATO's European posture severely compromised and reshaping the balance of global power.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
