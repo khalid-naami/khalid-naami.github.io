@@ -53,4 +53,4 @@ With the [U.S. Fifth Fleet base in Bahrain](/blog/iran-retaliates-us-fifth-fleet
 
 ---
 
-*To analyze the impact of Gulf security crises and early warning defense failures on options pricing and intermarket volatility, access our quantitative metrics at [Dashboard Options](https://dashboardoptions.com/). To protect capital and hedge against sovereign debt risk, explore physical gold allocations with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze the impact of Gulf security crises and early warning defense failures on options pricing and intermarket volatility, access our quantitative metrics at [Dashboard Options](https://dashboardoptions.com/).*
