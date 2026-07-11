@@ -54,4 +54,4 @@ Instead, policy appears increasingly driven by a faction prioritizing the defens
 As Kacher returns to standard duty in the Navy, the Joint Staff faces a leadership vacuum. The next Director will inherit a deeply divided institution where officers must choose between presenting realistic tactical data or self-censoring to protect their careers. As the [tactical dilemma](/blog/trump-dilemma-limited-strike-or-iran-war) over potential strikes on Iran intensifies, the loss of independent, realistic voices at the top of the Pentagon increases the risk of a miscalculated war that the US military is not fully prepared to wage.
 
 ---
-_Stay updated on regional geopolitical developments and their impact on global markets. Access our quantitative options data at [Dashboard Options](https://dashboardoptions.com/) and explore wealth protection strategies at [Augusta Precious Metals](https://eurodongold.com)._
+_Stay updated on regional geopolitical developments and their impact on global markets. Access our quantitative options data at [Dashboard Options](https://dashboardoptions.com/)._
