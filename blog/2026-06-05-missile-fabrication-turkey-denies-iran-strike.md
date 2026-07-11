@@ -52,4 +52,4 @@ Ankara's rejection of the fabricated missile story indicates that Turkey is unwi
 
 ---
 
-*To analyze how regional military fabrications, base relocations, and shipping corridor blockades affect global energy volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against U.S. systemic risks and protect capital reserves during this Mediterranean crisis, review physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional military fabrications, base relocations, and shipping corridor blockades affect global energy volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
