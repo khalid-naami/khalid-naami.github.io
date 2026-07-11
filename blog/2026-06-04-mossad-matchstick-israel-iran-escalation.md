@@ -47,4 +47,4 @@ Trump has estimated the probability of launching a preemptive strike at 60% to 7
 
 ---
 
-*To monitor how Middle Eastern geopolitical risks and energy supply shocks impact intermarket volatility and derivatives pricing, visit [Dashboard Options](https://dashboardoptions.com/). To hedge your portfolio against sovereign risk and currency debasement, discover physical gold wealth protection plans through [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor how Middle Eastern geopolitical risks and energy supply shocks impact intermarket volatility and derivatives pricing, visit [Dashboard Options](https://dashboardoptions.com/).*
