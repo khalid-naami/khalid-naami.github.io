@@ -50,4 +50,4 @@ This disruption, coupled with the [casualties suffered by U.S. intelligence pers
 
 ---
 
-*To monitor the impact of electronic warfare, combat aircraft losses, and Gulf base security on options pricing, volatility skews, and global macro assets, review the data feeds at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and protect capital during structural shifts, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor the impact of electronic warfare, combat aircraft losses, and Gulf base security on options pricing, volatility skews, and global macro assets, review the data feeds at [Dashboard Options](https://dashboardoptions.com/).*
