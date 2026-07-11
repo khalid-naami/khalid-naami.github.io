@@ -50,4 +50,4 @@ However, with the U-2 hangar compromised and [wider regional bases under fire](/
 
 ---
 
-*To analyze how regional base vulnerabilities, drone strikes on reconnaissance hubs, and shipping channel security influence global defense equities, options pricing, and intermarket volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge capital against U.S. and British systemic defense risks during this escalation, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional base vulnerabilities, drone strikes on reconnaissance hubs, and shipping channel security influence global defense equities, options pricing, and intermarket volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
