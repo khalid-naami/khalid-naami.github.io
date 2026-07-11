@@ -50,4 +50,4 @@ However, in its first real-world combat trial this morning against a wave of Ira
 
 ---
 
-*To analyze how regional air defense failures, system depletions, and military contract shifts influence global defense equities and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against U.S. systemic and defense-industrial risks, review physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional air defense failures, system depletions, and military contract shifts influence global defense equities and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
