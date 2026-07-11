@@ -3,7 +3,7 @@ title: "Dollar Strength, Rate Crashes"
 description: "A rising USD squeezes Asia while short-term US rate markets hedge for lower yields, exposing a systemic Eurodollar shortage and global recessionary trap."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [Rising Dollar Squeeze, SOFR Futures Plunge, Yield Curve Bull Steepening, Yen Collapse, South Korean Won, Eurodollar shortage, Augusta Precious Metals, Khalid Naami]
+keywords: [Rising Dollar Squeeze, SOFR Futures Plunge, Yield Curve Bull Steepening, Yen Collapse, South Korean Won, Eurodollar shortage, Khalid Naami]
 image: /img/dollar-strength-rate-crashes.webp
 slug: dollar-strength-rate-crashes
 date: 2026-05-26T13:30:00+00:00
