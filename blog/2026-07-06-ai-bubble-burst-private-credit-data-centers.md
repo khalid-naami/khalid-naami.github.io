@@ -3,7 +3,7 @@ title: "AI Bubble Burst: Private Credit & Data Centers"
 description: "Shadow banks face rising redemptions, forcing Blue Owl and Blackstone to limit exits, squeezing the credit that funds the AI data center boom."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
-keywords: [AI Data Center Squeeze, Blue Owl Redemptions, Private Credit Gates, Blackstone Asset Sale, QTS Data Center Terminated, Shadow Banking Liquidity, Monetary Metals gold yield, Khalid Naami]
+keywords: [AI Data Center Squeeze, Blue Owl Redemptions, Private Credit Gates, Blackstone Asset Sale, QTS Data Center Terminated, Shadow Banking Liquidity, Khalid Naami]
 image: /img/ai-datacenter-bubble-burst.webp
 slug: ai-bubble-burst-private-credit-data-centers
 date: 2026-07-06T18:00:00Z
@@ -35,13 +35,6 @@ But the actual behavior of these funds tells a very different story:
 When nearly two-fifths of investors ask to exit a technology credit fund in a single quarter, the problem is no longer one of messaging. It is a fundamental break in trust.
 
 ---
-
-> ### Sponsor Spotlight: Monetary Metals
-> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://monetary-metals.com), lets you do. 
-> 
-> Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it. 
-> 
-> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com](https://monetary-metals.com) to see if they're the right fit for you.
 
 ---
 
