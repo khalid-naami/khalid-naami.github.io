@@ -48,7 +48,7 @@ Rumors within the intelligence committees suggest the U.S. has discovered advanc
 
 While the administration seeks to build a public justification, intelligence officials warn that the pretexts must not repeat the intelligence failures of the 2003 Iraq War.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
