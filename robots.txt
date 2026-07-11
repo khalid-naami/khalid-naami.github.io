@@ -1,3 +1,10 @@
+# Allow Google AdSense and AdWords crawlers explicitly
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /ads.txt
+
 # Universal rule: covers all crawlers (search engines, AI bots, archivers)
 User-agent: *
 Allow: /
