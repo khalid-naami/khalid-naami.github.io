@@ -50,4 +50,4 @@ While the [Trump administration seeks a rapid de-escalation](/blog/trump-dilemma
 
 ---
 
-*To monitor the impact of aircraft carrier strikes, naval logistics interdiction, and U.S.-Israel strategic disagreements on options volatility and commodity futures, consult the quantitative models at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation during structural changes, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor the impact of aircraft carrier strikes, naval logistics interdiction, and U.S.-Israel strategic disagreements on options volatility and commodity futures, consult the quantitative models at [Dashboard Options](https://dashboardoptions.com/).*
