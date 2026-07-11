@@ -36,7 +36,6 @@ The market is constantly cycling between two states:
 *   **Momentum**: The tendency for an asset to continue moving in its current direction. This is often driven by "Supply/Demand Imbalance" where buyers or sellers overwhelm the other side for an extended period.
 *   **Mean Reversion**: The mathematical "gravity" that pulls price back to a central equilibrium. This happens when the imbalance reaches an extreme and liquidity returns to the market. For a deep dive into how to trade these regimes, see our guide on [Modern Market Strategies: Mastering Mean Reversion](/blog/modern-market-strategies-mastering-mean-reversion).
 
-
 *Visualizing the cyclical nature of market regimes and the transition between trend and reversal.*
 
 ## 3. The Core Driver: Supply and Demand
