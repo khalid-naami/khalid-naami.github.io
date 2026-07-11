@@ -52,7 +52,7 @@ With 30% of the U.S. Navy concentrated in a single maritime theater, the stakes 
 
 Furthermore, the designation of EU military forces as terrorist groups brings the world closer to a global conflict. If regional clashes escalate, the defense of "West Asia" could merge with the broader Eurasian geopolitical front, potentially triggering a wider world war. 
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
