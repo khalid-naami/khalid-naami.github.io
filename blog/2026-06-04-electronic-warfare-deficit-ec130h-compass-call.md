@@ -42,7 +42,7 @@ Because they host these critical EW assets, Ali Al Salem and Al Dhafra are prime
 
 The failure to blind Iran's air defenses has delayed preemptive strike plans. U.S. planners recognize that without complete electronic suppression, a strike would not surprise Iran. The early warning systems would remain active, allowing Iran to launch its hypersonic missile swarm (detailed in [Greek Report: Iran Preps 670 Hypersonic Missiles](/blog/greek-report-iran-missile-swarm-ababil)) instantly.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
