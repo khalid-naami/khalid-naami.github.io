@@ -49,4 +49,4 @@ As the [Trump administration seeks direct talks with the new Iranian council](/b
 
 ---
 
-*To monitor the impact of leadership security risks, regional defense system failures, and diplomatic developments on options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation during structural changes, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor the impact of leadership security risks, regional defense system failures, and diplomatic developments on options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/).*
