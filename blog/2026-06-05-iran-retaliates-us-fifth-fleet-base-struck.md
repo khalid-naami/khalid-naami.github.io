@@ -56,4 +56,4 @@ The U.S. Fifth Fleet, which oversees U.S. maritime operations across 19.5 millio
 
 ---
 
-*To monitor how Gulf security escalations and energy corridor disruptions affect intermarket volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against systemic geopolitical risk and protect capital, explore wealth preservation options in physical gold with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor how Gulf security escalations and energy corridor disruptions affect intermarket volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
