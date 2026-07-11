@@ -42,7 +42,7 @@ The closure of civilian airspace over parts of the Strait of Hormuz for military
 
 This incident arrives at a time of political transition in Tehran. U.S. media reports indicate that Iran's Supreme Leader Ali Khamenei has drafted his will and named four potential successors to ensure continuity of the regime under strict Western sanctions. With Trump's patience exhausted, the loss of this $180M asset might serve as the final trigger for a broader war.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
