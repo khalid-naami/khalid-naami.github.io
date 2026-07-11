@@ -3,7 +3,7 @@ title: "The Credit Cycle: Where Are We in the Downswing?"
 description: "Private credit is under pressure as redemptions rise. Understanding the four stages of the credit cycle and why we have entered a systemic downswing."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
-keywords: [Credit Cycle Stages, Private Credit Downswing, BDC Valuation Marks, Shadow Banking System, Hyman Minsky Financial Cycle, Hacking Fed Rates, Monetary Metals gold yield, Khalid Naami]
+keywords: [Credit Cycle Stages, Private Credit Downswing, BDC Valuation Marks, Shadow Banking System, Hyman Minsky Financial Cycle, Hacking Fed Rates, Khalid Naami]
 image: /img/credit-cycle-turn-downswing.webp
 slug: credit-cycle-turn-downswing
 date: 2026-07-06T15:00:00Z
@@ -55,13 +55,6 @@ Too much capital begins chasing too few quality loans. Competition forces lender
 Growth slows, a specific sector faces stress, or the refinancing window begins to close. The turn starts quietly. At first, problems are dismissed as isolated incidents. But soon, the same loose assumptions are exposed across the entire system, and the cycle flips into a downswing.
 
 ---
-
-> ### Sponsor Spotlight: Monetary Metals
-> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://monetary-metals.com), lets you do. 
-> 
-> Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it. 
-> 
-> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com](https://monetary-metals.com) to see if they're the right fit for you.
 
 ---
 
