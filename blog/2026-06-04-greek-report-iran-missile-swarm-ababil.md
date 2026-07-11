@@ -47,7 +47,7 @@ This scenario was indirectly addressed by Prime Minister Benjamin Netanyahu duri
 
 As diplomatic negotiations in Geneva between Washington and Tehran face total collapse, the likelihood of a miscalculation increases. A preemptive strike, coupled with a retaliatory "Ababil swarm," would instantly shift the conflict from a regional proxy war into a catastrophic global confrontation.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme geopolitical tail-risk and global currency collapse can explore physical gold options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
