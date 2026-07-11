@@ -48,4 +48,4 @@ This diplomatic push continues to face resistance from Israeli leadership. Prime
 
 ---
 
-*To analyze how regional intelligence casualties, base strikes, and U.S.-Israel strategic divisions affect options pricing, intermarket volatility, and macro hedge assets, access the data feeds at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation during structural changes, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional intelligence casualties, base strikes, and U.S.-Israel strategic divisions affect options pricing, intermarket volatility, and macro hedge assets, access the data feeds at [Dashboard Options](https://dashboardoptions.com/).*
