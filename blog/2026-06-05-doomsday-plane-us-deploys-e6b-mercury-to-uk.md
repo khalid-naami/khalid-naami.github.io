@@ -48,4 +48,4 @@ Commanders are considering the use of heavy stealth bombers, including B-2 Spiri
 
 ---
 
-*To analyze how strategic command shifts, doomsday plane deployments, and nuclear facility risks influence global energy markets, options volatility, and intermarket pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge capital reserves against systemic geopolitical and industrial risks during this crisis, review physical gold storage options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how strategic command shifts, doomsday plane deployments, and nuclear facility risks influence global energy markets, options volatility, and intermarket pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
