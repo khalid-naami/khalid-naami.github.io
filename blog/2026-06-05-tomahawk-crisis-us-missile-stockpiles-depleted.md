@@ -49,4 +49,4 @@ Without active production lines, Israel is unable to replenish its tactical rese
 
 ---
 
-*To analyze how munitions depletion, defense contract scaling, and supply chain bottlenecks influence global defense equities, energy volatility, and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge capital against U.S. industrial and fiscal risks during this prolonged conflict, review physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how munitions depletion, defense contract scaling, and supply chain bottlenecks influence global defense equities, energy volatility, and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
