@@ -1,6 +1,6 @@
 ---
-title: "Ali Al Salem Runway Struck: Iran's Heavy Missile Escalation in Kuwait"
-description: "Iranian heavy ballistic missiles destroy runway at Ali Al Salem Air Base in Kuwait, cutting US air operations by 50%. The 386th Expeditionary Wing's main hub is crippled."
+title: "Ali Al Salem Struck: Iran's Heavy Missiles in Kuwait"
+description: "Iranian heavy ballistic missiles destroy the runway at Ali Al Salem Air Base in Kuwait, cutting US air operations by 50%."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
 keywords: [Ali Al Salem Air Base strike, Iran heavy ballistic missiles Kuwait, 386th Air Expeditionary Wing, MQ-9 Reaper Kuwait, US troops Kuwait 13500, Camp Arifjan, Ahmad Al Jaber Air Base, runway destroyed Kuwait, IRGC heavy missiles Gulf, US air operations crippled, Geopolitics, Political Economy]
@@ -10,7 +10,7 @@ date: 2026-07-08T14:00:00Z
 schema_type: [TechArticle, NewsArticle]
 ---
 
-# Ali Al Salem Runway Struck: Iran's Heavy Missile Escalation in Kuwait
+# Ali Al Salem Struck: Iran's Heavy Missiles in Kuwait
 
 For the first time in this conflict, Iran has transitioned from standard ballistic missile strikes to heavy ballistic missile bombardment, and the target was the nerve center of American air power in the Gulf: Ali Al Salem Air Base in Kuwait. The strike destroyed one of the base's two runways, immediately cutting US air operations capacity by 50% and marking a qualitative escalation that redefines the operational calculus for the entire theater.
 
