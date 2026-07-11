@@ -1,5 +1,5 @@
 ---
-title: "AI Bubble Burst: Private Credit Spills Into Data Centers"
+title: "AI Bubble Burst: Private Credit & Data Centers"
 description: "Shadow banks face rising redemptions, forcing Blue Owl and Blackstone to limit exits, squeezing the credit that funds the AI data center boom."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
@@ -10,7 +10,7 @@ date: 2026-07-06T18:00:00Z
 schema_type: [TechArticle, NewsArticle]
 ---
 
-# AI Bubble Burst: Private Credit Spills Into Data Centers
+# AI Bubble Burst: Private Credit & Data Centers
 
 The private credit bust is starting to spread into the AI sector. Specifically, the massive data center buildout that was largely financed by shadow banks is now facing a severe liquidity squeeze. 
 
