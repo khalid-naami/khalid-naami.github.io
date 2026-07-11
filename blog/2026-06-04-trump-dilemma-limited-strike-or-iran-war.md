@@ -63,4 +63,4 @@ This setup—similar to the financial control mechanisms deployed against Venezu
 President Donald Trump remains the sole arbiter of the crisis, balancing the aggressive lobbying of advisors like Lindsey Graham against warnings from his military staff. As the 48-hour window for diplomacy closes, the administration must choose between a high-stakes diplomatic deal or a limited military strike that risks igniting a long-term conflict across the Middle East.
 
 ---
-_Stay updated on regional geopolitical developments and their impact on global markets. Access our quantitative options data at [Dashboard Options](https://dashboardoptions.com/) and explore wealth protection strategies at [Augusta Precious Metals](https://eurodongold.com)._
+_Stay updated on regional geopolitical developments and their impact on global markets. Access our quantitative options data at [Dashboard Options](https://dashboardoptions.com/)._
