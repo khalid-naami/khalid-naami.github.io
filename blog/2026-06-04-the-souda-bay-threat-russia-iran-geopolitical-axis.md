@@ -49,7 +49,7 @@ Despite Dugin's hardline rhetoric, the execution of this strategy depends on Vla
 
 If Putin chooses to align fully with Dugin's vision, the unified Russia-Iran strategy will challenge the foundations of U.S. global hegemony, turning the East Mediterranean into the decisive theater of conflict.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
