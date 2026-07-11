@@ -42,7 +42,7 @@ For Sahel leaders, Iran’s model of self-sufficiency under decades of Western s
 
 The Western defense establishment is increasingly alarmed. The primary concern is not merely the relocation of raw uranium, but the potential export of Iran's defense industrial model to the Global South. If successful, this partnership could establish a blueprint for other nations seeking to decouple from the Western financial and military architecture, bypassing the security containment efforts detailed in [Existential Threat: Israel Recalls All Mossad Agents](/blog/mossad-emergency-recall-security-agents) and [The Dragon's Eye: Chinese Radar Neutralizes US Stealth](/blog/dragons-eye-chinese-radar-neutralizes-us-stealth).
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
