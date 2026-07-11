@@ -50,7 +50,7 @@ Consequently, U.S. and Israeli planners have identified five primary launch poin
 
 As the diplomatic path collapses, the Supreme Leader’s official portal in Tehran published an analysis of Iran's defensive strategy, outlining a mandate of continuous resistance and maximum retaliation, indicating that any preemptive strike will be met with immediate counter-escalation, as discussed in [Greek Report: Iran Preps 670 Hypersonic Missiles](/blog/greek-report-iran-missile-swarm-ababil).
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
