@@ -52,4 +52,4 @@ With the economy halted, industrial production suspended due to [continuous air 
 
 ---
 
-*To analyze how urban destruction, war compensation claims, and air defense degradation influence Israel's sovereign credit rating, currency volatility, and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge capital against U.S. and strategic risks during this escalation, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how urban destruction, war compensation claims, and air defense degradation influence Israel's sovereign credit rating, currency volatility, and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
