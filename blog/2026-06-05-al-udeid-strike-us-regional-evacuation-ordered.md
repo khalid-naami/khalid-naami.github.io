@@ -52,4 +52,4 @@ With regional air defense grids compromised, such an escalation would result in 
 
 ---
 
-*To analyze how regional military escalations, evacuation orders, and oil infrastructure threats impact global energy markets and options implied volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against U.S. dollar instability and protect capital during systemic geopolitical crises, explore wealth preservation options in physical gold with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional military escalations, evacuation orders, and oil infrastructure threats impact global energy markets and options implied volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
