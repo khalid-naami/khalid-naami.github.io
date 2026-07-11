@@ -49,4 +49,4 @@ This rift has complicated the execution of joint operations, particularly as reg
 
 ---
 
-*To analyze the impact of leadership transitions, nuclear negotiations, and U.S.-Israeli strategic rifts on volatility surfaces, options pricing, and macro hedge assets, access the quantitative models at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and protect capital during structural shifts, explore physical gold allocations with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze the impact of leadership transitions, nuclear negotiations, and U.S.-Israeli strategic rifts on volatility surfaces, options pricing, and macro hedge assets, access the quantitative models at [Dashboard Options](https://dashboardoptions.com/).*
