@@ -50,4 +50,4 @@ As the [USS Abraham Lincoln carrier remains disabled in the Indian Ocean](/blog/
 
 ---
 
-*To analyze how air defense system failures, radar destruction, and Gulf energy infrastructure risks affect options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation during structural shifts, explore physical gold allocations with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how air defense system failures, radar destruction, and Gulf energy infrastructure risks affect options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/).*
