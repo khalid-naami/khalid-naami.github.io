@@ -61,4 +61,4 @@ If Trump chooses further military escalation, he faces a complex network of Iran
 
 ---
 
-*To understand how geopolitical escalations and energy supply risks impact derivatives pricing, access our quantitative options analysis at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic risks and currency debasement, explore physical gold and wealth protection strategies through [Augusta Precious Metals](https://eurodongold.com).*
+*To understand how geopolitical escalations and energy supply risks impact derivatives pricing, access our quantitative options analysis at [Dashboard Options](https://dashboardoptions.com/).*
