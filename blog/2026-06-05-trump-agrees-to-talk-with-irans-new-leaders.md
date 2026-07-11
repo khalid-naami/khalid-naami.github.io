@@ -49,4 +49,4 @@ However, with U.S. forces experiencing casualties and [major bases in Bahrain, K
 
 ---
 
-*To monitor the impact of diplomatic developments, regional ceasefire prospects, and U.S.-Israel strategic divisions on options volatility, volatility surfaces, and macro assets, access the data feeds at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation during structural shifts, explore physical precious metals with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor the impact of diplomatic developments, regional ceasefire prospects, and U.S.-Israel strategic divisions on options volatility, volatility surfaces, and macro assets, access the data feeds at [Dashboard Options](https://dashboardoptions.com/).*
