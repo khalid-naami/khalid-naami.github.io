@@ -48,13 +48,6 @@ Now, that does not mean every city is down year-over-year. It doesn't mean every
 
 ---
 
-> ### Sponsor Spotlight: Monetary Metals
-> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://monetary-metals.com), lets you do. 
-> 
-> Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it. 
-> 
-> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com](https://monetary-metals.com) to see if they're the right fit for you.
-
 ---
 
 ## Inventory Builds While Demand Freezes
