@@ -3,7 +3,7 @@ title: "June Jobs Report: The Labor Market Cracks Under Payback"
 description: "The June jobs report confirms serious deterioration. Household employment plunges by 507,000 as the artificial bump fades and economic payback arrives."
 authors: [khalid]
 tags: [Global Economy, Global Macro]
-keywords: [June Jobs Report 2026, Nonfarm Payrolls Slump, Household Survey Job Loss, Labor Force Participation Collapse, Unofficial Unemployment Rate, Economic Front-Loading Payback, Augusta Precious Metals, Khalid Naami]
+keywords: [June Jobs Report 2026, Nonfarm Payrolls Slump, Household Survey Job Loss, Labor Force Participation Collapse, Unofficial Unemployment Rate, Economic Front-Loading Payback, Khalid Naami]
 image: /img/nonfarm-payrolls-june-collapse.webp
 slug: june-jobs-report-payback-labor-market-cracks
 date: 2026-07-06T17:00:00Z
@@ -33,13 +33,6 @@ But the revisions make it worse:
 The establishment survey consistently makes the jobs market look resilient in real-time, only for subsequent revisions to erase the gains. June's weak 57,000 is highly likely to be revised into negative territory in the coming months.
 
 ---
-
-> ### Sponsor Spotlight: Augusta Precious Metals
-> We are proud to partner with **Augusta Precious Metals**. Like us, their approach is **education-first**. They will walk you through exactly how a gold IRA works—the mechanics, fees, and custodian setup—letting you decide if it is a fit for your wealth preservation strategy.
-> 
-> To learn more and receive a free comprehensive guide, visit **[augustapreciousmetals.com](https://www.augustapreciousmetals.com)** or text **EURO to 35052**.
-> 
-> *Disclosure: Augusta Precious Metals is a paid sponsor. This content is for educational purposes only and does not constitute investment advice. Consult a qualified financial professional before making any investment decisions.*
 
 ---
 
