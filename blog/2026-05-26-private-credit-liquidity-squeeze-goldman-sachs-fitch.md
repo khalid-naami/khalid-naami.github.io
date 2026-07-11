@@ -54,18 +54,6 @@ But when the math flips, the fund must find liquidity from other sources: cash r
 
 ---
 
-:::tip **A Word from Our Sponsor**
-Most of what we cover at Eurodollar University concerns the mechanics of the global financial ledger, balance sheet capacity, and central bank failures. But a question I receive constantly is: *"What do I do with this information?"* 
-
-While everyone's personal situation is different, it is important to understand that most retirement accounts are built around a very narrow set of assets. Physical gold held in a gold IRA is one alternative option that many are unaware of. 
-
-We are proud to partner with **Augusta Precious Metals**. Like us, their approach is **education-first**. They will walk you through exactly how a gold IRA works—the mechanics, fees, and custodian setup—letting you decide if it is a fit for your wealth preservation strategy.
-
-To learn more and receive a free comprehensive guide, visit **[augustapreciousmetals.com](https://www.augustapreciousmetals.com)** or text **EURO to 35052**.
-
-*Disclosure: Augusta Precious Metals is a paid sponsor. This content is for educational purposes only and does not constitute investment advice. Consult a qualified financial professional before making any investment decisions.*
-:::
-
 ---
 
 ## The Gating Trap and Portfolio Degradation
