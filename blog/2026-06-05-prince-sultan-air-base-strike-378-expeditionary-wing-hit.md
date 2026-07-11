@@ -51,4 +51,4 @@ This degradation of regional defenses directly impacts the [Trump administration
 
 ---
 
-*To analyze the impact of regional base strikes, air defense vulnerabilities, and oil corridor security on options volatility, volatility surfaces, and energy futures, access the data feeds at [Dashboard Options](https://dashboardoptions.com/). To protect capital and hedge against systemic geopolitical risk, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze the impact of regional base strikes, air defense vulnerabilities, and oil corridor security on options volatility, volatility surfaces, and energy futures, access the data feeds at [Dashboard Options](https://dashboardoptions.com/).*
