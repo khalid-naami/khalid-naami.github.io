@@ -51,4 +51,4 @@ Furthermore, the threat of a complete regional blockade and the deployment of [F
 
 ---
 
-*To analyze how regional escalation, military base disruptions, and defense system failures influence options pricing, volatility skews, and global macro assets, review our quantitative feeds at [Dashboard Options](https://dashboardoptions.com/). To hedge against sovereign default and geopolitical inflation, explore physical precious metals allocations with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional escalation, military base disruptions, and defense system failures influence options pricing, volatility skews, and global macro assets, review our quantitative feeds at [Dashboard Options](https://dashboardoptions.com/).*
