@@ -54,4 +54,4 @@ With [U.S. citizens ordered to evacuate the region](/blog/al-udeid-strike-us-reg
 
 ---
 
-*To analyze how the Hormuz energy blockade, production stoppages, and geopolitical shocks impact global energy markets, options pricing, and intermarket volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against systemic currency instability and protect capital during this energy crisis, explore physical gold options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how the Hormuz energy blockade, production stoppages, and geopolitical shocks impact global energy markets, options pricing, and intermarket volatility, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
