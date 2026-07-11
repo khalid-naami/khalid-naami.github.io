@@ -49,7 +49,7 @@ Despite these logistics gaps, the threat of an escalation is real. Intelligence 
 
 Furthermore, the risk of plausible deniability remains high. Rather than launching direct strikes from Iranian territory, which would trigger immediate U.S. retaliation under Trump's zero-tolerance rules, Iranian planners may opt to have Iraqi militias strike U.S. bases in Jordan. This would allow Tehran to damage Western power projection while avoiding direct culpability.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
