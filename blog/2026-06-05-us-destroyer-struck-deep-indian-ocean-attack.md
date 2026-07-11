@@ -54,4 +54,4 @@ U.S. forces now face the reality that their naval vessels are vulnerable to long
 
 ---
 
-*To monitor how naval combat, cargo disruptions, and oil shipping risks affect intermarket volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against systemic maritime risks and secure capital reserves, review wealth preservation options in physical gold with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor how naval combat, cargo disruptions, and oil shipping risks affect intermarket volatility and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
