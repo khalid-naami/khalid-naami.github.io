@@ -53,4 +53,4 @@ With the [blockade of the Strait of Hormuz](/blog/hormuz-blockade-strait-closed-
 
 ---
 
-*To monitor how multi-front military coordination, logistics blockades, and munitions deficits affect global markets and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform. To protect private capital from currency volatility and systemic risk during prolonged conflicts, explore wealth preservation options in physical gold with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor how multi-front military coordination, logistics blockades, and munitions deficits affect global markets and options pricing, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
