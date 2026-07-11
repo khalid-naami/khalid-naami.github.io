@@ -44,7 +44,7 @@ Global stockpiles of advanced interceptors—including the U.S. SM-3, Patriot PA
 
 To counter this, Israel is requesting F-22 Raptors for air superiority (detailed in [Redrawing the Map: US Deploys F-22s to Israel](/blog/two-loop-strategy-us-f22-raptors-israel-iran)), while planning to transfer F-35s to Saudi Arabia and the UAE. However, British intelligence reports reportedly conclude that a conventional air campaign will fail to defeat Iran, as its industrial base remains protected inside deep underground complexes.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
