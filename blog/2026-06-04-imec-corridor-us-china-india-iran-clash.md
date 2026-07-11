@@ -45,4 +45,4 @@ The confrontation over the IMEC corridor is not merely a regional trade dispute;
 
 ---
 
-*For investors looking to hedge systemic risk and diversify assets during times of heightened geopolitical conflict, exploring precious metals and wealth preservation solutions through [Augusta Precious Metals](https://eurodongold.com) offers a stable alternative. Additionally, for real-time geopolitical risk modeling and quantitative options analysis, access the advanced tools on the [Dashboard Options](https://dashboardoptions.com/) platform.*
+*For real-time geopolitical risk modeling and quantitative options analysis, access the advanced tools on the [Dashboard Options](https://dashboardoptions.com/) platform.*
