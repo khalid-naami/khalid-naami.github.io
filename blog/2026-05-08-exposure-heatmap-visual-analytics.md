@@ -46,7 +46,6 @@ High-intensity zones often act as magnets. If a massive "Call Wall" is visible a
 ### 2. The Shift of Sentiment
 By watching the heatmap over multiple timeframes, you can see these zones move. Are the "walls" moving higher? That’s a bullish migration. Are they dropping? Dealers are bracing for a move lower.
 
-
 ## Why Visual Analysis Wins
 Human brains are wired to recognize patterns in images much faster than in text. By using visual analytics, you can:
 *   **Spot Anomalies**: Instantly see a strike that has an unusual amount of exposure compared to its neighbors.
