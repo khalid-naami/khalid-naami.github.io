@@ -3,7 +3,7 @@ title: "ECB Policy Mistake: Why European Banks Buy Safety"
 description: "European banks are loading up on government bonds. Understanding the Euribor futures frown and why the market rejects the ECB's inflation rhetoric."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
-keywords: [ECB Policy Mistake, European Banks Bond Buying, Euribor Futures Curve Frown, German Inflation Easing, Eurozone Credit Risk, HICP Inflation Energy Shock, Monetary Metals gold yield, Khalid Naami]
+keywords: [ECB Policy Mistake, European Banks Bond Buying, Euribor Futures Curve Frown, German Inflation Easing, Eurozone Credit Risk, HICP Inflation Energy Shock, Khalid Naami]
 image: /img/euro-banks-ecb-mistake.webp
 slug: ecb-policy-mistake-european-banks-buy-safety
 date: 2026-07-06T15:30:00Z
@@ -41,13 +41,6 @@ In May 2026, European banks loaded up on an additional **46.5 billion euros** of
 Depository banks are the ultimate credit system insiders. They see deposit flows, corporate cash positions, and late payments before they show up in headline economic indicators. Piling into low-yielding government paper while the ECB is actively hiking rates is a defensive move. The banks are choosing to hold highly liquid collateral to hedge against balance sheet credit risk rather than expanding lending to fragile private borrowers.
 
 ---
-
-> ### Sponsor Spotlight: Monetary Metals
-> What if your gold could actually pay you every single month in more gold? That's what today's sponsor, [Monetary Metals](https://monetary-metals.com), lets you do. 
-> 
-> Here's how it works: You still own the gold, it's still in your name, it's fully insured, but instead of just sitting there doing nothing, it actually starts working for you. Monetary Metals has built a system that turns idle gold into productive gold, earning real yield paid in physical gold, not dollars. No selling, no trading, no converting. You keep your gold and every month you get more of it. 
-> 
-> If you're a long-term gold holder looking for a smarter way to store value, check them out at [monetary-metals.com](https://monetary-metals.com) to see if they're the right fit for you.
 
 ---
 
