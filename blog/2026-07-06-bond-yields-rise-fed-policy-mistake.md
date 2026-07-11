@@ -3,7 +3,7 @@ title: "Bond Yields Rise: Why the Fed Is Making a Mistake"
 description: "Bond yields are rising, but TIPS and consumer surveys show it's not inflation. The Fed is about to repeat a historic rate-hiking policy mistake."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
-keywords: [Bond Yields Rise, Fed Policy Error, TIPS Market Breakeven, Inflation Expectations New York Fed, Consumer Expectations Survey, Trichet Policy Mistake, Augusta Precious Metals, Khalid Naami]
+keywords: [Bond Yields Rise, Fed Policy Error, TIPS Market Breakeven, Inflation Expectations New York Fed, Consumer Expectations Survey, Trichet Policy Mistake, Khalid Naami]
 image: /img/bond-yields-fed-mistake-not-inflation.webp
 slug: bond-yields-rise-fed-policy-mistake
 date: 2026-07-06T14:00:00Z
