@@ -3,7 +3,7 @@ title: "BlackRock Probe: Private Credit Valuation Squeeze"
 description: "A DOJ investigation into BlackRock's private credit valuations, Carlyle's dividend cuts, and Blue Owl's buybacks signal Stage 2 of the credit bubble collapse."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Debt, Global Macro]
-keywords: [BlackRock DOJ Investigation, Private Credit Valuation, Carlyle BDC Dividend Cut, Blue Owl Stock Buyback, Mark-to-Legend, Payment-in-Kind PIK, Eurodollar University, BDC NAV Discounts, Khalid Naami]
+keywords: [BlackRock DOJ Investigation, Private Credit Valuation, Carlyle BDC Dividend Cut, Blue Owl Stock Buyback, Mark-to-Legend, Payment-in-Kind PIK, BDC NAV Discounts, Khalid Naami]
 image: /img/blackrock.webp
 slug: blackrock-private-credit-doj-investigation
 date: 2026-05-26T13:00:00+00:00
@@ -93,18 +93,6 @@ Carlyle’s BDC dividend cut is a classic lagging indicator of income pressure. 
 Meanwhile, Blue Owl BDCs are buying back $85 million of their own shares. While buybacks are always spun as "signs of confidence," they are actually a defensive mechanism to fight market skepticism. If public investors fully trusted Blue Owl’s reported NAV, the shares would trade at par. The fact that Blue Owl must burn cash to support its share price proves that the public market does not believe the marks.
 
 ---
-
-:::info **Eurodollar University Membership**
-If you are serious about your financial education and want clarity in a world of confusion and economic narratives, the **Eurodollar University Membership** is designed for you. We bridge the massive gaps left by mainstream education on fundamental monetary mechanics. 
-
-Unlock a comprehensive library of:
-* **Foundational & Advanced Lectures** on the global offshore money system.
-* **In-Depth Case Studies** and real-world shadow banking analyses.
-* **Weekly Q&A Sessions** and updates on global macro and central bank policy.
-* **Derivative Signal Guides** to read critical market indicators found nowhere else.
-
-Take control of your financial perspective. **[Join Eurodollar University today](https://www.eurodollar.university/memberships)** to understand how money actually works.
-:::
 
 ---
 
