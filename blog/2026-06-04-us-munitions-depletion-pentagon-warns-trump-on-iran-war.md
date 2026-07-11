@@ -53,7 +53,7 @@ In response to the escalating threats, U.S. Special Envoy Steve Witkoff question
 
 Concurrently, Iranian Army Chief General Hatami declared that a U.S. defeat is inevitable, citing U.S. failures in Vietnam and Afghanistan despite their technological superiority. Hatami noted that Iran is prepared for a "hybrid war" (political, economic, and military) and dismissed the U.S. build-up as a campaign of "strategic exhaustion" designed to wear down the Iranian public.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe geopolitical instability and currency shocks can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
