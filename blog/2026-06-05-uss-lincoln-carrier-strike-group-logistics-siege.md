@@ -49,4 +49,4 @@ As the [Pentagon purge leaves a leadership vacuum](/blog/pentagon-purge-admiral-
 
 ---
 
-*To monitor the impact of logistics interdiction, naval blockade risks, and carrier group vulnerabilities on options pricing, intermarket volatility, and energy futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/). To hedge against sovereign default and currency inflation in a high-risk environment, explore wealth preservation options with [Augusta Precious Metals](https://eurodongold.com).*
+*To monitor the impact of logistics interdiction, naval blockade risks, and carrier group vulnerabilities on options pricing, intermarket volatility, and energy futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/).*
