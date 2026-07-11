@@ -52,7 +52,7 @@ Geopolitical analysts caution that the U.S. and Israeli leadership are repeating
 
 Furthermore, a conflict would trigger an immediate closure of the **Strait of Hormuz**, through which 20% of the world's petroleum flows. The resulting global energy shock and economic collapse would be immediate. Nonetheless, Israeli security documents suggest that Netanyahus cabinet views a long-term, ten-year destabilization and civil war inside Iran as a necessary price to eliminate the threat to Israel’s border security, as detailed in [US-Israel Strategic Anxiety: Proxy War Threats in Jordan](/blog/us-israel-strategic-anxiety-proxy-war-threats-in-jordan).
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against severe global energy shocks and currency instability can explore precious metals options through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
