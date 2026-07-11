@@ -49,4 +49,4 @@ This tension comes amidst a broader blockade, including the [USS Lincoln logisti
 
 ---
 
-*To analyze how regional military escalations, base closures, and Gulf energy blockades influence global market volatility, explore the [Dashboard Options](https://dashboardoptions.com/) platform. To hedge against systemic geopolitical risks and secure private capital, review physical gold storage options with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze how regional military escalations, base closures, and Gulf energy blockades influence global market volatility, explore the [Dashboard Options](https://dashboardoptions.com/) platform.*
