@@ -50,4 +50,4 @@ For Turkey and Egypt, the path forward requires deeper technological self-relian
 
 ---
 
-*To protect assets and hedge against systemic geopolitical shifts, explore options for wealth preservation and alternative investments with [Augusta Precious Metals](https://eurodongold.com). For quantitative risk assessments and advanced derivatives modeling, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
+*For quantitative risk assessments and advanced derivatives modeling, visit the [Dashboard Options](https://dashboardoptions.com/) platform.*
