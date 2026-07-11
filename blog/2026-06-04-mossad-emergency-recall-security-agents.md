@@ -43,7 +43,7 @@ Israeli planners are actively working to sideline or replace the current U.S. Jo
 
 This conflict represents an ideological and existential clash between a theocratic Iranian regime and a biblical Israeli mindset, where standard calculations of deterrence are replaced by the threat of total war.
 
-For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/). Investors looking to hedge against extreme tail-risk events and global recessions can explore physical gold and silver IRAs through [Augusta Precious Metals](https://eurodongold.com).
+For real-time geopolitical risk modeling and quantitative analysis of these market-moving events, visit [Dashboard Options](https://dashboardoptions.com/).
 
 ***
 
