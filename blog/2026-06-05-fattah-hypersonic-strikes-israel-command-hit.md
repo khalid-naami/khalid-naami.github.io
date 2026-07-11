@@ -55,4 +55,4 @@ Furthermore, the [purge at the Pentagon and the sidelining of Admiral Kacher](/b
 
 ---
 
-*To analyze the impact of hypersonic weapons development, Gulf energy chokepoints, and regional war risks on options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/). To hedge against systemic geopolitical inflation and currency degradation, explore physical asset protection with [Augusta Precious Metals](https://eurodongold.com).*
+*To analyze the impact of hypersonic weapons development, Gulf energy chokepoints, and regional war risks on options pricing, volatility surfaces, and commodity futures, consult the quantitative metrics at [Dashboard Options](https://dashboardoptions.com/).*
