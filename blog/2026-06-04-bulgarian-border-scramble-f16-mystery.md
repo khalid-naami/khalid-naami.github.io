@@ -51,4 +51,4 @@ For Turkey, maintaining strategic independence requires securing its defense sup
 
 ---
 
-*To understand how geopolitical risk and energy supply shocks affect options pricing and market volatility, explore our quantitative derivatives data at [Dashboard Options](https://dashboardoptions.com/). To hedge against currency debasement and sovereign risk, examine wealth protection strategies with physical gold at [Augusta Precious Metals](https://eurodongold.com).*
+*To understand how geopolitical risk and energy supply shocks affect options pricing and market volatility, explore our quantitative derivatives data at [Dashboard Options](https://dashboardoptions.com/).*
