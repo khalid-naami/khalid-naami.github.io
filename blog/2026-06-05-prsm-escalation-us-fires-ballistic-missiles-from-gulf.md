@@ -3,7 +3,7 @@ title: "PrSM Escalation: US Fires Missiles from Gulf"
 description: "CENTCOM's combat debut of the Precision Strike Missile (PrSM) from Gulf deserts directly implicates regional allies in U.S. attacks on Iran."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [PrSM missile launch Gulf, HIMARS desert launch Iran, Precision Strike Missile CENTCOM, Brad Cooper Epic Fury, US missile depletion, Gulf allies implicated Iran, friendly fire F-15 Kuwait, US troop withdrawal backtrack, Lockheed Martin PrSM production, Geopolitics, Political Economy]
+keywords: [PrSM missile launch Gulf, HIMARS desert launch Iran, Precision Strike Missile CENTCOM, Brad Cooper Epic Fury, US missile depletion, Gulf allies implicated Iran, friendly fire F-15 Kuwait, US troop withdrawal backtrack, Lockheed Martin PrSM production]
 image: "/img/prsm-himars-gulf-launch.webp"
 slug: prsm-escalation-us-fires-ballistic-missiles-from-gulf
 date: 2026-06-05T19:30:00Z
