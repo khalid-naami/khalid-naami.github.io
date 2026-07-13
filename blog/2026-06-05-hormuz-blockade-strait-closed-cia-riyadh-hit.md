@@ -3,7 +3,7 @@ title: "Hormuz Blockade: Strait Closed as CIA Riyadh Hit"
 description: "Iran enforces a total blockade of the Strait of Hormuz, halting oil and gas transport, as drones strike a CIA intelligence base in Riyadh."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Strait of Hormuz blockade, CIA Riyadh station strike, Hormuz oil transport halt, Qatar gas output stoppage, Ghadr 380 Hormuz response, China Iran strategic relations, WSJ Austin Ramzy China, Sri Lanka Navy Iranian sailors, US defense exit strategy Middle East, Geopolitics, Political Economy]
+keywords: [Strait of Hormuz blockade, CIA Riyadh station strike, Hormuz oil transport halt, Qatar gas output stoppage, Ghadr 380 Hormuz response, China Iran strategic relations, WSJ Austin Ramzy China, Sri Lanka Navy Iranian sailors, US defense exit strategy Middle East]
 image: "/img/strait-of-hormuz-blockade.webp"
 slug: hormuz-blockade-strait-closed-cia-riyadh-hit
 date: 2026-06-05T18:00:00Z
