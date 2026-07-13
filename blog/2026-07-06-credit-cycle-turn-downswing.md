@@ -3,7 +3,7 @@ title: "The Credit Cycle: Where Are We in the Downswing?"
 description: "Private credit is under pressure as redemptions rise. Understanding the four stages of the credit cycle and why we have entered a systemic downswing."
 authors: [khalid]
 tags: [Global Economy, Credit Markets, Shadow Banking, Central Banks, Global Macro]
-keywords: [Credit Cycle Stages, Private Credit Downswing, BDC Valuation Marks, Shadow Banking System, Hyman Minsky Financial Cycle, Hacking Fed Rates, Khalid Naami]
+keywords: [Credit Cycle Stages, Private Credit Downswing, BDC Valuation Marks, Shadow Banking System, Hyman Minsky Financial Cycle, Hiking Fed Rates, Khalid Naami]
 image: /img/credit-cycle-turn-downswing.webp
 slug: credit-cycle-turn-downswing
 date: 2026-07-06T15:00:00Z
@@ -53,8 +53,6 @@ Too much capital begins chasing too few quality loans. Competition forces lender
 
 ### Stage 4: The Turn
 Growth slows, a specific sector faces stress, or the refinancing window begins to close. The turn starts quietly. At first, problems are dismissed as isolated incidents. But soon, the same loose assumptions are exposed across the entire system, and the cycle flips into a downswing.
-
----
 
 ---
 
