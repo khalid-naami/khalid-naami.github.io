@@ -3,7 +3,7 @@ title: "THAAD Radar Destroyed: UAE Air Defense Pierced"
 description: "Iran strikes the U.S. AN/TPY-2 THAAD radar in Ruwais, UAE, compromising Al Dhafra's air defense after the earlier Qatar radar strike."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [THAAD radar destroyed UAE, AN/TPY-2 radar Ruwais, Al Dhafra air defense failure, Qatar AN/FPS-132 strike, UAE energy security threat, Lockheed Martin THAAD interceptor, joint regional defense screen, regional intelligence installations, U.S. military bases Gulf, Geopolitics, Political Economy]
+keywords: [THAAD radar destroyed UAE, AN/TPY-2 radar Ruwais, Al Dhafra air defense failure, Qatar AN/FPS-132 strike, UAE energy security threat, Lockheed Martin THAAD interceptor, joint regional defense screen, regional intelligence installations, U.S. military bases Gulf]
 image: "/img/thaad-radar-ruwais-uae-strike.webp"
 slug: thaad-radar-destroyed-uae-air-defense-pierced
 date: 2026-06-05T18:00:00Z
