@@ -3,7 +3,7 @@ title: "Mokhber Leads Iran Transition Amid Strategic Rift"
 description: "Mohammad Mokhber manages Iran's post-Khamenei transition as a U.S.-Israel strategic rift emerges over the regime's collapse versus economic reform."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Mohammad Mokhber transition, Khamenei death succession, Masoud Pezeshkian reformist, U.S. Israel strategic rift, CIA Iran decapitation strike, Jebel Ali ammunition ship, Oman uranium negotiation, Eiko Setad conglomerate, Netanyahu regime collapse, Geopolitics, Political Economy]
+keywords: [Mohammad Mokhber transition, Khamenei death succession, Masoud Pezeshkian reformist, U.S. Israel strategic rift, CIA Iran decapitation strike, Jebel Ali ammunition ship, Oman uranium negotiation, Eiko Setad conglomerate, Netanyahu regime collapse]
 image: "/img/mohammad-mokhber-iran-transition.webp"
 slug: mokhber-leads-iran-transition-amid-strategic-rift
 date: 2026-06-05T17:20:00Z
