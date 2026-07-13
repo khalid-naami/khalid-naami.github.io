@@ -38,8 +38,6 @@ There are obvious differences, but in the grand scheme of how credit bubbles tur
 
 ---
 
----
-
 ## The Vista Gating Incident
 
 According to Bloomberg reports, a large redemption request from a Swiss pension fund helped force a Vista-managed private credit fund to limit withdrawals. This detail is critical. When people hear "redemptions," they often imagine advisors making panicky calls to retail investors. 
