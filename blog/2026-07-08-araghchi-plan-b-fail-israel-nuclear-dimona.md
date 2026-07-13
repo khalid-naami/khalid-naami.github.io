@@ -2,8 +2,8 @@
 title: "Araghchi: Plan B Will Fail Like Plan A Did"
 description: "Iran's Araghchi warns Israel's Phase 2 nuclear strikes will fail. With 42% of missiles intact and Khorramshahr targeting Dimona, the calculus shifts."
 authors: [khalid]
-tags: [Geopolitics, Political Economy]
-keywords: [Araghchi Plan B failure, Israel Phase 2 Iran nuclear strike, Khorramshahr missile Dimona, E-6B Mercury nuclear command, Iran solid fuel missiles, Fordow Isfahan UF6 risk, Israel economic losses war, B-2 Spirit Iran bunker, IRGC missile tunnels, Trump nuclear option Iran, Geopolitics, Political Economy]
+tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Iran, Israel, Nuclear Policy]
+keywords: [Araghchi Plan B failure, Israel Phase 2 Iran nuclear strike, Khorramshahr missile Dimona, E-6B Mercury nuclear command, Iran solid fuel missiles, Fordow Isfahan UF6 risk, Israel economic losses war, B-2 Spirit Iran bunker, IRGC missile tunnels, Trump nuclear option Iran]
 image: "/img/araghchi-plan-b-nuclear-dimona.webp"
 slug: araghchi-plan-b-fail-israel-nuclear-dimona
 date: 2026-07-08T13:00:00Z
