@@ -3,7 +3,7 @@ title: "Joint Command: Hezbollah Strikes Tel Aviv Command"
 description: "Hezbollah launches a coordinated 11-operation strike wave reaching Tel Aviv, targeting IDF Northern Command and disrupting Israel's air defenses."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Hezbollah Tel Aviv strike, Joint command Iran Lebanon, Dado Base Northern Command, Israel Aerospace Industries strike, Ghafaq drone base hit, Tel Hashomer base strike, Iron Dome radar Haifa, Ein Shemer air defense, Israeli munitions shortage Maariv, US weapons stockpile deplete, Geopolitics, Political Economy]
+keywords: [Hezbollah Tel Aviv strike, Joint command Iran Lebanon, Dado Base Northern Command, Israel Aerospace Industries strike, Ghafaq drone base hit, Tel Hashomer base strike, Iron Dome radar Haifa, Ein Shemer air defense, Israeli munitions shortage Maariv, US weapons stockpile deplete]
 image: "/img/hezbollah-israel-precision-strike.webp"
 slug: joint-command-hezbollah-strikes-tel-aviv-command
 date: 2026-06-05T18:30:00Z
