@@ -3,7 +3,7 @@ title: "Al Udeid Strike: U.S. Orders Regional Evacuation"
 description: "Iran strikes Al Udeid Air Base, prompting Washington to order the evacuation of all U.S. citizens from seven Middle Eastern nations."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Al Udeid Air Base strike, US regional evacuation ordered, Al Dhafra Air Base, French Rafale UAE defense, British forces Middle East, Gulf airspace closure, US citizen evacuation order, Iran oil threat regional, Middle East commercial flight halt, Geopolitics, Political Economy]
+keywords: [Al Udeid Air Base strike, US regional evacuation ordered, Al Dhafra Air Base, French Rafale UAE defense, British forces Middle East, Gulf airspace closure, US citizen evacuation order, Iran oil threat regional, Middle East commercial flight halt]
 image: "/img/al-udeid-strike-us-evacuation.webp"
 slug: al-udeid-strike-us-regional-evacuation-ordered
 date: 2026-06-05T17:00:00Z
