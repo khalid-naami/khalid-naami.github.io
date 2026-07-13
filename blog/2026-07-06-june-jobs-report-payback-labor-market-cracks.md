@@ -34,8 +34,6 @@ The establishment survey consistently makes the jobs market look resilient in re
 
 ---
 
----
-
 ## The Household Survey Disaster
 
 While the establishment survey was disappointing, the household survey was an outright disaster. 
