@@ -3,7 +3,7 @@ title: "Pentagon Purge: Admiral Kacher Sidelined"
 description: "The purge of Vice Admiral Fred Kacher reveals a split in the Pentagon over Iran war plans, as realistic military assessments clash with political strategy."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Pentagon purge, Admiral Fred Kacher, Joint Staff director fired, US Navy Seventh Fleet, Iran cyber capabilities, E-3 AWACS obsolescence, USS Abraham Lincoln carrier, Trump military purge, US Israel military strategy, Iraq war cost, Geopolitics, Political Economy]
+keywords: [Pentagon purge, Admiral Fred Kacher, Joint Staff director fired, US Navy Seventh Fleet, Iran cyber capabilities, E-3 AWACS obsolescence, USS Abraham Lincoln carrier, Trump military purge, US Israel military strategy, Iraq war cost]
 image: "/img/pentagon-purge-kacher.webp"
 slug: pentagon-purge-admiral-kacher-sidelined
 date: 2026-06-04T22:30:00Z
