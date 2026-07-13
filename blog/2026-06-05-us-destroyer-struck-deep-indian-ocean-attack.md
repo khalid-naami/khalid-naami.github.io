@@ -3,7 +3,7 @@ title: "U.S. Destroyer Struck: Deep Indian Ocean Attack"
 description: "Iran uses Ghadr-380 and Talaieh cruise missiles to strike a U.S. destroyer refueling 650 km off shores, as Reuters reports a massive explosion."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [US destroyer struck, Ghadr 380 cruise missile, Talaieh cruise missile, Indian Ocean naval attack, UKMTO Muscat explosion report, Reuters Muscat incident, deep ocean refueling strike, US Navy destroyer hit, Iranian anti ship missiles, Geopolitics, Political Economy]
+keywords: [US destroyer struck, Ghadr 380 cruise missile, Talaieh cruise missile, Indian Ocean naval attack, UKMTO Muscat explosion report, Reuters Muscat incident, deep ocean refueling strike, US Navy destroyer hit, Iranian anti ship missiles]
 image: "/img/us-destroyer-indian-ocean-strike.webp"
 slug: us-destroyer-struck-deep-indian-ocean-attack
 date: 2026-06-05T17:30:00Z
