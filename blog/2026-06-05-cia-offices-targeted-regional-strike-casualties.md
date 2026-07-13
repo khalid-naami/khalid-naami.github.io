@@ -3,7 +3,7 @@ title: "CIA Stations Struck: U.S. Intelligence Hit"
 description: "Iran and regional allies launch coordinated strikes on U.S. CIA and intelligence centers in Erbil, Kuwait, and the UAE, causing 20 casualties."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [CIA stations hit, U.S. intelligence targeted, Erbil Consulate strike, UAE CIA casualties, Kuwait Marine intelligence, Jurf al-Sakhar U.S. strike, Khamenei death mourning Iraq, Setad transition Mokhber, Trump de-escalation CIA, Geopolitics, Political Economy]
+keywords: [CIA stations hit, U.S. intelligence targeted, Erbil Consulate strike, UAE CIA casualties, Kuwait Marine intelligence, Jurf al-Sakhar U.S. strike, Khamenei death mourning Iraq, Setad transition Mokhber, Trump de-escalation CIA]
 image: "/img/cia-offices-targeted-middle-east.webp"
 slug: cia-offices-targeted-regional-strike-casualties
 date: 2026-06-05T17:50:00Z
