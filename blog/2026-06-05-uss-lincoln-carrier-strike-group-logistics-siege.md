@@ -3,7 +3,7 @@ title: "USS Lincoln Under Siege: Logistics Ships Struck"
 description: "Iran cuts off supply lines to the USS Abraham Lincoln Carrier Strike Group, hitting fuel and ammunition support ships in Jebel Ali and the Indian Ocean."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [USS Abraham Lincoln under siege, carrier strike group logistics, Jebel Ali ammunition ship strike, Qader-380 missile Indian Ocean, Kuwait U.S. naval base strike, Camp Abdullah Al-Mubarak Kuwait, True Promise 4 ocean campaign, U.S. Navy destruction threat, Gulf maritime security block, Geopolitics, Political Economy]
+keywords: [USS Abraham Lincoln under siege, carrier strike group logistics, Jebel Ali ammunition ship strike, Qader-380 missile Indian Ocean, Kuwait U.S. naval base strike, Camp Abdullah Al-Mubarak Kuwait, True Promise 4 ocean campaign, U.S. Navy destruction threat, Gulf maritime security block]
 image: "/img/uss-lincoln-logistics-siege.webp"
 slug: uss-lincoln-carrier-strike-group-logistics-siege
 date: 2026-06-05T17:10:00Z
