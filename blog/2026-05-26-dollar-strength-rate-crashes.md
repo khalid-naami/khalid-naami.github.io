@@ -52,8 +52,6 @@ The rising dollar is not a speculative game driven by interest rate arbitrage. I
 
 ---
 
----
-
 ## Energy Shocks and the Dollar Demand Loop
 
 To understand why Asian currencies are collapsing, we must look at the real economy's transmission mechanism: **Energy**.
