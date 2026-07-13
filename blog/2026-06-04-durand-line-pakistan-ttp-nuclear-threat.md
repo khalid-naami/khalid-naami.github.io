@@ -3,7 +3,7 @@ title: "Durand Line War: Pakistan's Nuclear Security"
 description: "Clashes erupt on the Durand Line as Pakistan fights TTP militants. OSINT analysts warn of a US-India-Israel axis aiming to dismantle its nuclear arsenal."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Durand line clashes, Pakistan Afghanistan border war, Tehrik-i-Taliban Pakistan, Mufti Wali Noor Mehsud, Operation Wrath of Truth, Pakistan nuclear arsenal dismantle, India Israel TTP alliance, Saleem Haqqani drone force, Kashmir ولاية كشمير propaganda, F-16 Pakistan Durand line, Geopolitics, Political Economy]
+keywords: [Durand line clashes, Pakistan Afghanistan border war, Tehrik-i-Taliban Pakistan, Mufti Wali Noor Mehsud, Operation Wrath of Truth, Pakistan nuclear arsenal dismantle, India Israel TTP alliance, Saleem Haqqani drone force, Kashmir ولاية كشمير propaganda, F-16 Pakistan Durand line]
 image: "/img/pakistan-afghanistan-open-war.webp"
 slug: durand-line-war-pakistan-ttp-nuclear-threat
 date: 2026-06-04T23:15:00Z
