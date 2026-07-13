@@ -32,8 +32,6 @@ To impress Wall Street, companies are wrapping cost-cutting measures in the lang
 
 ---
 
----
-
 ## The Real Story: JOLTS and the No-Hiring Freeze
 
 To understand what is actually happening in the labor market, we must look at turnover rather than just the headline payroll numbers. The Job Openings and Labor Turnover Survey (JOLTS) reveals a very different structure:
