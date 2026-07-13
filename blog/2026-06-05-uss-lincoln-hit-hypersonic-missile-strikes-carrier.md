@@ -3,7 +3,7 @@ title: "USS Lincoln Hit: Hypersonic Missile Strikes Carrier"
 description: "Investigations confirm the USS Abraham Lincoln was hit by an Iranian hypersonic missile, degrading operations alongside strikes on support ships."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [USS Abraham Lincoln hit, hypersonic missile carrier, Fattah missile Mach 13, carrier strike group logistics, Tasnim news carrier strike, U.S. forces force protection, Kuwait naval base strike, Jebel Ali ammunition ship, Beit Shemesh missile strike, Geopolitics, Political Economy]
+keywords: [USS Abraham Lincoln hit, hypersonic missile carrier, Fattah missile Mach 13, carrier strike group logistics, Tasnim news carrier strike, U.S. forces force protection, Kuwait naval base strike, Jebel Ali ammunition ship, Beit Shemesh missile strike]
 image: "/img/uss-lincoln-struck-hypersonic-missile.webp"
 slug: uss-lincoln-hit-hypersonic-missile-strikes-carrier
 date: 2026-06-05T17:30:00Z
