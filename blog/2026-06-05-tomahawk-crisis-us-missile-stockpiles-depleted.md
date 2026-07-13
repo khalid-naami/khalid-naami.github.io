@@ -3,7 +3,7 @@ title: "Tomahawk Crisis: US Missile Stockpiles Depleted"
 description: "The U.S. consumes 10% of its Tomahawk cruise missiles in 70 hours of combat against Iran, exposing critical global logistics vulnerabilities."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Tomahawk missile depletion, US munitions shortage, Middle East cruise missile depletion, RTX Raytheon Tomahawk contract, Anduril Barracuda cruise missile, Dark Eagle hypersonic weapon, Shahed 136 reverse engineered US, air siren economic halt Israel, Pentagon fire doctrine change, Geopolitics, Political Economy]
+keywords: [Tomahawk missile depletion, US munitions shortage, Middle East cruise missile depletion, RTX Raytheon Tomahawk contract, Anduril Barracuda cruise missile, Dark Eagle hypersonic weapon, Shahed 136 reverse engineered US, air siren economic halt Israel, Pentagon fire doctrine change]
 image: "/img/tomahawk-missile-depletion.webp"
 slug: tomahawk-crisis-us-missile-stockpiles-depleted
 date: 2026-06-05T20:00:00Z
