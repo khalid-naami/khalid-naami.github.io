@@ -3,7 +3,7 @@ title: "Akrotiri Strike: U-2 Hangar Hit in Cyprus"
 description: "A Shahed suicide drone strikes a classified U.S.-UK hangar at RAF Akrotiri in Cyprus, exposing U-2 spy plane assets to a massive fire."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [RAF Akrotiri drone strike, U-2 spy plane hangar Cyprus, John Healey Akrotiri damage, Operation Olive Harvest U2, Shahed drone Lebanon launch, Cyprus base U.S. espionage, UK defensive role Gulf, The Sun Akrotiri photo, Zelensky Shahed drone defense, Geopolitics, Political Economy]
+keywords: [RAF Akrotiri drone strike, U-2 spy plane hangar Cyprus, John Healey Akrotiri damage, Operation Olive Harvest U2, Shahed drone Lebanon launch, Cyprus base U.S. espionage, UK defensive role Gulf, The Sun Akrotiri photo, Zelensky Shahed drone defense]
 image: "/img/raf-akrotiri-u2-hangar-strike.webp"
 slug: akrotiri-strike-u2-spy-plane-hangar-hit-in-cyprus
 date: 2026-06-05T21:00:00Z
