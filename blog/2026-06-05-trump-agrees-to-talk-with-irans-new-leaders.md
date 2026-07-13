@@ -3,7 +3,7 @@ title: "Trump Agrees to Talk with Iran's New Leaders"
 description: "President Trump confirms plans to negotiate with Iran's transitional reformist leaders following the strike that killed previous negotiators."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Trump Iran negotiations, Masoud Pezeshkian reformist, Alireza Arafi Guardian Council, U.S. soldiers killed carrier, Michael Scherer Atlantic, Oman diplomatic channels, Muscat nuclear talks, Netanyahu regime change, Turkish tripartite summit, Geopolitics, Political Economy]
+keywords: [Trump Iran negotiations, Masoud Pezeshkian reformist, Alireza Arafi Guardian Council, U.S. soldiers killed carrier, Michael Scherer Atlantic, Oman diplomatic channels, Muscat nuclear talks, Netanyahu regime change, Turkish tripartite summit]
 image: "/img/trump-iran-negotiations-atlantic.webp"
 slug: trump-agrees-to-talk-with-irans-new-leaders
 date: 2026-06-05T17:40:00Z
