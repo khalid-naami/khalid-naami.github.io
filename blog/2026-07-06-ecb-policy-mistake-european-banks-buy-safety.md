@@ -42,8 +42,6 @@ Depository banks are the ultimate credit system insiders. They see deposit flows
 
 ---
 
----
-
 ## The Euribor Futures Frown: Pricing the Policy Error
 
 The forward rate market in Europe confirms this defensive outlook. The Euribor futures curve—the Eurozone's equivalent of the term SOFR futures curve—currently exhibits a pronounced "frown."
