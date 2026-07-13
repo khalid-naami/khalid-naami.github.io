@@ -94,8 +94,6 @@ Meanwhile, Blue Owl BDCs are buying back $85 million of their own shares. While 
 
 ---
 
----
-
 ## The 7 Signals of Stage 2 Squeeze
 
 As we descend deeper into Stage 2 of this credit cycle, here are the seven key indicators that will dictate the speed and severity of the private credit unwind:
