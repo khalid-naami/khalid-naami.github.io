@@ -36,8 +36,6 @@ When nearly two-fifths of investors ask to exit a technology credit fund in a si
 
 ---
 
----
-
 ## Funding the Dream: The Infrastructure Squeeze
 
 The AI boom is not just a software narrative; it is a physical, capital-intensive infrastructure boom. Developing city-sized data centers requires massive upfront debt. 
