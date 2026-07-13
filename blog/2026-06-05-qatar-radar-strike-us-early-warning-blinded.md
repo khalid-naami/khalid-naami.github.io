@@ -3,7 +3,7 @@ title: "Qatar Radar Strike: U.S. Early Warning Blinded"
 description: "Iran's missile strike destroys the $1.1B AN/FPS-132 early warning radar in Qatar, bypassing THAAD defenses and blinding CENTCOM's space surveillance."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Qatar radar strike, AN/FPS-132 UEWR Qatar, early warning radar destroyed, THAAD failure Qatar, U.S. Central Command blinded, space surveillance Gulf, ceasefire negotiations Araqchi, Ali Shamkhani targeted, Ali Larijani Iran, Israel policeman region, Geopolitics, Political Economy]
+keywords: [Qatar radar strike, AN/FPS-132 UEWR Qatar, early warning radar destroyed, THAAD failure Qatar, U.S. Central Command blinded, space surveillance Gulf, ceasefire negotiations Araqchi, Ali Shamkhani targeted, Ali Larijani Iran, Israel policeman region]
 image: "/img/an-fps-132-uewr-qatar.webp"
 slug: qatar-radar-strike-us-early-warning-blinded
 date: 2026-06-05T16:30:00Z
