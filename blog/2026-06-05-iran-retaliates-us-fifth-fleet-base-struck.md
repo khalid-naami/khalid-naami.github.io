@@ -3,7 +3,7 @@ title: "Iran Retaliates: US Fifth Fleet Base Struck"
 description: "Iran launches a ballistic missile strike on NSA Bahrain (Juffair), disabling U.S. Fifth Fleet radars after a U.S.-Israel attack on Iranian ports."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [US Fifth Fleet Juffair, NSA Bahrain missile strike, Iran Gulf base retaliation, Fifth Fleet radar damage, Bahrain Juffair evacuation, U.S. Israel Iran strike, Gulf airspace closure, Abbas Araqchi Gulf diplomacy, Saudi sovereignty violation, Trump Iran navy plan, Geopolitics, Political Economy]
+keywords: [US Fifth Fleet Juffair, NSA Bahrain missile strike, Iran Gulf base retaliation, Fifth Fleet radar damage, Bahrain Juffair evacuation, U.S. Israel Iran strike, Gulf airspace closure, Abbas Araqchi Gulf diplomacy, Saudi sovereignty violation, Trump Iran navy plan]
 image: "/img/iran-war-hits-manama.webp"
 slug: iran-retaliates-us-fifth-fleet-base-struck
 date: 2026-06-05T16:00:00Z
