@@ -48,8 +48,6 @@ Now, that does not mean every city is down year-over-year. It doesn't mean every
 
 ---
 
----
-
 ## Inventory Builds While Demand Freezes
 
 For a long time, the housing market had two conflicting forces. On the one side, affordability was historically bad. Mortgage payments were too high, prices got to be too high, and insurance, taxes, and maintenance were way too high. Buyers just got to be exhausted. 
