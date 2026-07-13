@@ -46,8 +46,6 @@ Instead, the opposite is happening:
 
 ---
 
----
-
 ## Consumer Psychology Refuses to Unanchor
 
 The Federal Reserve's own consumer surveys contradict the hawkish rhetoric of its governors. The New York Fed's May Survey of Consumer Expectations shows that:
