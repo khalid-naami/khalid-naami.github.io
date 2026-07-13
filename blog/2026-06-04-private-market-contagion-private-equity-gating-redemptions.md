@@ -38,8 +38,6 @@ When redemption requests hit nearly 10% of NAV and the quarterly limit is 5%, th
 
 ---
 
----
-
 ## Cliffwater LLC's Redemptions Accelerate
 
 While withdrawals are spreading to private equity, things are far from calming down in private credit. Cliffwater LLC’s flagship corporate lending fund capped redemptions at 5% in the second quarter after investors looked to pull about **17%** of shares.
