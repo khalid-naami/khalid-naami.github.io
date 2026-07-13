@@ -3,7 +3,7 @@ title: "IRGC Commander Named Iran's Defense Chief"
 description: "President Pezeshkian appoints IRGC Brigadier General Seyed Majid Ibn Al-Reza as acting Defense Minister, integrating command structures amid war."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Seyed Majid Ibn Al-Reza, acting Defense Minister Iran, Aziz Nasirzadeh killed, Masoud Pezeshkian decree, IRGC military integration, Gulf bases defense, Ali Larijani negotiations, civilizational state Dugin, U.S. forces local shields, Geopolitics, Political Economy]
+keywords: [Seyed Majid Ibn Al-Reza, acting Defense Minister Iran, Aziz Nasirzadeh killed, Masoud Pezeshkian decree, IRGC military integration, Gulf bases defense, Ali Larijani negotiations, civilizational state Dugin, U.S. forces local shields]
 image: "/img/iran-military-integration-defense.webp"
 slug: irgc-commander-named-irans-defense-chief
 date: 2026-06-05T18:30:00Z
