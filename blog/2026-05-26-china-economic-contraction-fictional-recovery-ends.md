@@ -51,8 +51,6 @@ Chinese households are not behaving like consumers in a recovering economy. They
 
 ---
 
----
-
 ## The Housing Collapse and the Household Balance Sheet
 
 Despite a continuous stream of historical property bailouts, mortgage easing, bank relief programs, and local government "bazookas," China’s real estate sector remains in a persistent state of decay.
