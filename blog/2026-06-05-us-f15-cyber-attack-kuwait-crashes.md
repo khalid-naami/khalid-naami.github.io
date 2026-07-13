@@ -3,7 +3,7 @@ title: "F-15 Cyber Attack: Nine U.S. Jets Lost in Kuwait"
 description: "A major electronic-cyber attack causes multiple U.S. F-15 fighter jets to crash in Kuwait, prompting technical investigations with Italy."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [U.S. F-15 crash Kuwait, Kuwait Defense Ministry Statement 7, electronic warfare cyber attack, Khatam al-Anbiya downing, F-15 avionics failure, Guido Crosetto Italy, Abdullah Ali Al-Salem Al-Sabah, Ali Al Salem Air Base, U.S. Air Force casualties, Geopolitics, Political Economy]
+keywords: [U.S. F-15 crash Kuwait, Kuwait Defense Ministry Statement 7, electronic warfare cyber attack, Khatam al-Anbiya downing, F-15 avionics failure, Guido Crosetto Italy, Abdullah Ali Al-Salem Al-Sabah, Ali Al Salem Air Base, U.S. Air Force casualties]
 image: "/img/us-f15-cyber-attack-kuwait.webp"
 slug: us-f15-cyber-attack-kuwait-crashes
 date: 2026-06-05T18:10:00Z
