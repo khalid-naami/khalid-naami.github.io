@@ -3,7 +3,7 @@ title: "Missile Fabrication: Turkey Denies Iran Strike"
 description: "Turkey rejects claims of an Iranian missile attack, confirming the target was a British base in Cyprus, exposed by wreckage in Qamishli."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Turkey denies Iran strike, Qamishli missile wreckage, Cyprus British bases, Akrotiri Dhekelia logistics, Turkey Iran Kurdish coordination, Paris Coordination Mechanism, Ahmad al Sharaa Syria, US NATO Turkey alignment, Marco Rubio Turkish counterpart, US air defense Syria intercept, Geopolitics, Political Economy]
+keywords: [Turkey denies Iran strike, Qamishli missile wreckage, Cyprus British bases, Akrotiri Dhekelia logistics, Turkey Iran Kurdish coordination, Paris Coordination Mechanism, Ahmad al Sharaa Syria, US NATO Turkey alignment, Marco Rubio Turkish counterpart, US air defense Syria intercept]
 image: "/img/cyprus-base-patriot-intercept.webp"
 slug: missile-fabrication-turkey-denies-iran-strike
 date: 2026-06-05T19:00:00Z
