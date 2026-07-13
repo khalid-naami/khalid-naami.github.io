@@ -3,7 +3,7 @@ title: "Fattah Hypersonic Strikes: Israel Command Hit"
 description: "Iran launches Fattah hypersonic missiles, bypassing defenses to strike the command center of Israel's Ramat David Airbase amid U.S. base attacks."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Fattah hypersonic missile, Ramat David Airbase command, U.S. base attacks drone, Ali Al Salem Kuwait, Al Dhafra UAE, Strait of Hormuz closure, B-2 bomber mission cost, U.S. secret drone Shamkhani, decoy missiles interception Syria, Geopolitics, Political Economy]
+keywords: [Fattah hypersonic missile, Ramat David Airbase command, U.S. base attacks drone, Ali Al Salem Kuwait, Al Dhafra UAE, Strait of Hormuz closure, B-2 bomber mission cost, U.S. secret drone Shamkhani, decoy missiles interception Syria]
 image: "/img/ramat-david-strike-fattah.webp"
 slug: fattah-hypersonic-strikes-israel-command-hit
 date: 2026-06-05T16:40:00Z
