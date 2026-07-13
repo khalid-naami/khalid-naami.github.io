@@ -3,7 +3,7 @@ title: "Netanyahu Forced Underground: Khaibar Strike Misses"
 description: "Prime Minister Netanyahu retreats to underground bunkers after a Khorramshahr-4 Khaibar missile strike targets his office, missing by ten minutes."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Benjamin Netanyahu bunker, Khorramshahr-4 Khaibar missile, Quds Force assassination target, Israeli Air Force commander, Tel Aviv office strike, Hezbollah bedroom drone, Netanyahu 50-second video, Zeev Feldman spokesperson, Beit Shemesh retaliatory strike, Geopolitics, Political Economy]
+keywords: [Benjamin Netanyahu bunker, Khorramshahr-4 Khaibar missile, Quds Force assassination target, Israeli Air Force commander, Tel Aviv office strike, Hezbollah bedroom drone, Netanyahu 50-second video, Zeev Feldman spokesperson, Beit Shemesh retaliatory strike]
 image: "/img/netanyahu-underground-bunker-khaibar-strike.webp"
 slug: netanyahu-forced-underground-khaibar-missile-strike
 date: 2026-06-05T18:20:00Z
