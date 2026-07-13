@@ -3,7 +3,7 @@ title: "Doomsday Plane: US Deploys E-6B Mercury"
 description: "The U.S. deploys E-6B Mercury command planes after ground-based radars are blinded, attempting to restore ballistic submarine launch capability."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [E-6B Mercury doomsday plane, airborne command post, submarine missile coordination, very low frequency antenna, SSBN launch halt, AN TPY 2 radars blinded, Natanz enrichment strike plan, Uranium Hexafluoride leakage, B-2 Spirit nuclear bomb, EC-130J Phoenix II, Geopolitics, Political Economy]
+keywords: [E-6B Mercury doomsday plane, airborne command post, submarine missile coordination, very low frequency antenna, SSBN launch halt, AN TPY 2 radars blinded, Natanz enrichment strike plan, Uranium Hexafluoride leakage, B-2 Spirit nuclear bomb, EC-130J Phoenix II]
 image: "/img/e6b-mercury-doomsday-plane.webp"
 slug: doomsday-plane-us-deploys-e6b-mercury-to-uk
 date: 2026-06-05T22:00:00Z
