@@ -3,7 +3,7 @@ title: "F-16 Scramble: Bulgarian Border Crash Mystery"
 description: "An unknown radar track on the Bulgarian border triggers a Turkish F-16 scramble and crash, exposing a US-backed oil play to split Turkey from Russia."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Turkish F-16 crash, Balikesir airbase, F-16 scramble Bulgaria, cockpit dashboard tampering, US Turkey energy deal, Russian drone frame, Orlan-10 drone Turkey, Merlin-VR drone Turkey, Erdogan Putin oil split, Mossad maintenance sabotage, Geopolitics, Political Economy]
+keywords: [Turkish F-16 crash, Balikesir airbase, F-16 scramble Bulgaria, cockpit dashboard tampering, US Turkey energy deal, Russian drone frame, Orlan-10 drone Turkey, Merlin-VR drone Turkey, Erdogan Putin oil split, Mossad maintenance sabotage]
 image: "/img/turkish-f16-second-plane-mystery.webp"
 slug: bulgarian-border-scramble-f16-mystery-oil-deal
 date: 2026-06-04T22:45:00Z
