@@ -54,8 +54,6 @@ But when the math flips, the fund must find liquidity from other sources: cash r
 
 ---
 
----
-
 ## The Gating Trap and Portfolio Degradation
 
 Defenders of private credit argue that gating limits protect the fund from "run-on-the-bank" scenarios. They point out that these structures prevent managers from being forced to fire-sell assets.
