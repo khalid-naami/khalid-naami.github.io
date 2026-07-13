@@ -3,7 +3,7 @@ title: "Prince Sultan Air Base: 378th Wing Struck"
 description: "Iran strikes Saudi Arabia's Prince Sultan Air Base, hitting the 378th Air Expeditionary Wing and degrading CENTCOM's joint regional air defense network."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Prince Sultan Air Base, 378th Air Expeditionary Wing, Brigadier General Scott Davis, AFCENT CENTCOM defense, KC-46A Pegasus tanker, regional air defense integration, THAAD Patriot failure, CBRN defense response, Saudi Arabia base strike, Geopolitics, Political Economy]
+keywords: [Prince Sultan Air Base, 378th Air Expeditionary Wing, Brigadier General Scott Davis, AFCENT CENTCOM defense, KC-46A Pegasus tanker, regional air defense integration, THAAD Patriot failure, CBRN defense response, Saudi Arabia base strike]
 image: "/img/prince-sultan-air-base-strike.webp"
 slug: prince-sultan-air-base-strike-378-expeditionary-wing-hit
 date: 2026-06-05T17:00:00Z
