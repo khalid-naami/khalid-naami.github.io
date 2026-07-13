@@ -3,7 +3,7 @@ title: "Israel Devastated: 4,853 Buildings Destroyed"
 description: "Israel's Tax Authority reports massive destruction with 4,853 buildings damaged, as Iranian hypersonic waves pierce defense umbrellas."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Israel property damage missile, Tax Authority compensation claims, Rehovot missile strike ruins, Naftali Bennett Netanyahu critique, Ben Gurion Airport intelligence hit, Ministry of Defense Hakirya struck, THAAD bypassed hypersonic, Tasnim Hebrew warning, Ashkelon Tel Aviv damage, Geopolitics, Political Economy]
+keywords: [Israel property damage missile, Tax Authority compensation claims, Rehovot missile strike ruins, Naftali Bennett Netanyahu critique, Ben Gurion Airport intelligence hit, Ministry of Defense Hakirya struck, THAAD bypassed hypersonic, Tasnim Hebrew warning, Ashkelon Tel Aviv damage]
 image: "/img/israel-property-damage-missile.webp"
 slug: israel-devastated-4853-buildings-destroyed-by-missiles
 date: 2026-06-05T21:30:00Z
