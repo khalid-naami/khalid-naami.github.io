@@ -3,7 +3,7 @@ title: "THAAD Blinded: AN/TPY-2 Radars Destroyed"
 description: "Iran destroys two U.S. AN/TPY-2 radars in the UAE and Jordan, blinding regional air defense grids and disabling THAAD/Aegis arrays."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [THAAD blinded, AN TPY 2 radar destroyed, regional air defense failure, UAE Jordan THAAD strike, Defense Express Ukraine, Aegis SM-3 degraded, Patriot battery failure, SAMP/T NG Qatar test, Thales Patrice Caine, Zelensky drone tactics, Geopolitics, Political Economy]
+keywords: [THAAD blinded, AN TPY 2 radar destroyed, regional air defense failure, UAE Jordan THAAD strike, Defense Express Ukraine, Aegis SM-3 degraded, Patriot battery failure, SAMP/T NG Qatar test, Thales Patrice Caine, Zelensky drone tactics]
 image: "/img/antpy2-radar-destroyed.webp"
 slug: thaad-blinded-antpy2-radars-destroyed-in-gulf
 date: 2026-06-05T20:30:00Z
