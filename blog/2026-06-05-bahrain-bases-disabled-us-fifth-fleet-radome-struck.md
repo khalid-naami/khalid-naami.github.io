@@ -3,7 +3,7 @@ title: "Bahrain Bases Disabled: Fifth Fleet Radome Struck"
 description: "Iran destroys U.S. Fifth Fleet radar domes in Mina Salman and strikes Isa Air Base, isolating Bahrain as U.S. casualties mount in Kuwait."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Bahrain bases disabled, NSA Bahrain strike, Isa Air Base attack, US Fifth Fleet radome, Mina Salman radar damage, Ali Al Salem Air Base casualties, F-15 friendly fire Kuwait, Ras Tanura false flag, Saudi oil refinery attack, Iran regional retaliation, Geopolitics, Political Economy]
+keywords: [Bahrain bases disabled, NSA Bahrain strike, Isa Air Base attack, US Fifth Fleet radome, Mina Salman radar damage, Ali Al Salem Air Base casualties, F-15 friendly fire Kuwait, Ras Tanura false flag, Saudi oil refinery attack, Iran regional retaliation]
 image: "/img/bahrain-fifth-fleet-radar-domes-strike.webp"
 slug: bahrain-bases-disabled-us-fifth-fleet-radome-struck
 date: 2026-06-05T16:30:00Z
