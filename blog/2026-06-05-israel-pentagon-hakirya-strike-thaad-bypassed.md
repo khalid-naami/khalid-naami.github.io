@@ -3,7 +3,7 @@ title: "Israel Pentagon Struck: THAAD Bypassed in Tel Aviv"
 description: "Iran strikes the Israeli Ministry of Defense (Hakirya) in Tel Aviv, bypassing advanced THAAD and Arrow 4 air defense systems in a symbolic blow."
 authors: [khalid]
 tags: [Geopolitics, Political Economy]
-keywords: [Israel Pentagon strike, Hakirya command center Tel Aviv, THAAD bypassed Israel, Arrow 4 air defense failure, Camp Rabin Rabin base struck, Eitan Ben-Eliyahu strategy, Israeli command alternative bunkers, military base stoppage Israel, Geopolitics, Political Economy]
+keywords: [Israel Pentagon strike, Hakirya command center Tel Aviv, THAAD bypassed Israel, Arrow 4 air defense failure, Camp Rabin Rabin base struck, Eitan Ben-Eliyahu strategy, Israeli command alternative bunkers, military base stoppage Israel]
 image: "/img/israel-pentagon-hakirya-strike.webp"
 slug: israel-pentagon-hakirya-strike-thaad-bypassed
 date: 2026-06-05T16:50:00Z
