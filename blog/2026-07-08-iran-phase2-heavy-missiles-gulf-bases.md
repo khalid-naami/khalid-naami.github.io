@@ -2,8 +2,8 @@
 title: "Phase 2: Iran Shifts to Heavy Missiles on Gulf Bases"
 description: "Iran escalates from drone strikes to heavy ballistic missiles targeting US bases in the Gulf. Ben Gurion and Ramat David hit as Phase 2 reshapes the war."
 authors: [khalid]
-tags: [Geopolitics, Political Economy]
-keywords: [Iran Phase 2 heavy missiles, US Gulf bases destroyed, Khorramshahr-4 Kheibar Fattah, Ben Gurion airport strike, Ramat David air base, Al-Udeid Qatar base, Kuwait US base attack, Gulf states war financing, Israel economic losses shutdown, B-2 B-52 B-21 Iran strikes, IRGC Phase 2 escalation, Geopolitics, Political Economy]
+tags: [Political Economy, Geopolitics, Middle East, Military Strategy, Iran, Nuclear Policy]
+keywords: [Iran Phase 2 heavy missiles, US Gulf bases destroyed, Khorramshahr-4 Kheibar Fattah, Ben Gurion airport strike, Ramat David air base, Al-Udeid Qatar base, Kuwait US base attack, Gulf states war financing, Israel economic losses shutdown, B-2 B-52 B-21 Iran strikes, IRGC Phase 2 escalation]
 image: "/img/iran-phase2-heavy-missiles-gulf-bases.webp"
 slug: iran-phase2-heavy-missiles-gulf-bases
 date: 2026-07-08T13:30:00Z
