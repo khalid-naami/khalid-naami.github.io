@@ -13,8 +13,6 @@ Disallow: /blog/tags/
 Disallow: /search
 Disallow: /markdown-page
 Disallow: /design-system
-Disallow: /privacy
-Disallow: /disclaimer
 Disallow: /blog/authors/
 Disallow: /blog/archive
 Disallow: /assets/
