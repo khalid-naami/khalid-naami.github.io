@@ -280,6 +280,11 @@ module.exports = async function createConfig() {
             to: '/resume/experience',
           },
           {
+            position: 'left',
+            label: 'About',
+            to: '/about',
+          },
+          {
             type: 'html',
             position: 'left',
             value: '</div>',
@@ -379,11 +384,27 @@ module.exports = async function createConfig() {
             ],
           },
           {
-            title: 'Legal',
+            title: 'Legal & Info',
             items: [
+              {
+                label: 'About Me',
+                to: '/about',
+              },
               {
                 label: 'Privacy Policy',
                 to: '/privacy',
+              },
+              {
+                label: 'Terms of Service',
+                to: '/terms',
+              },
+              {
+                label: 'Disclaimer',
+                to: '/disclaimer',
+              },
+              {
+                label: 'Contact Support',
+                to: '/contact',
               },
             ],
           },
