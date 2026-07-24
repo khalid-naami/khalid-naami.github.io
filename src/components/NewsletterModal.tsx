@@ -91,7 +91,7 @@ export default function NewsletterModal() {
           Get updates on AI, open source, startups and finance.
         </p>
         <a
-          href="https://substack.com/@khnaami"
+          href="https://x.com/khalidnaami0"
           target="_blank"
           rel="noopener noreferrer"
           className="mission-button"
@@ -102,7 +102,7 @@ export default function NewsletterModal() {
             fontSize: '14px',
           }}
         >
-          Subscribe on Substack
+          Follow my updates on X
           <span style={{ marginLeft: '6px' }}>»</span>
         </a>
       </div>
