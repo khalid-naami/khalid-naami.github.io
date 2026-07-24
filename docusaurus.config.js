@@ -308,7 +308,7 @@ module.exports = async function createConfig() {
           {
             position: 'right',
             label: 'Newsletter',
-            href: 'https://substack.com/@khnaami',
+            href: 'https://x.com/khalidnaami0',
             className: 'navbar-item-external navbar-newsletter-link',
           },
         ],
@@ -375,11 +375,11 @@ module.exports = async function createConfig() {
               },
               {
                 label: 'Newsletter',
-                href: 'https://substack.com/@khnaami',
+                href: 'https://x.com/khalidnaami0',
               },
               {
                 label: 'Subscribe',
-                href: 'https://substack.com/@khnaami',
+                href: 'https://x.com/khalidnaami0',
               },
             ],
           },
