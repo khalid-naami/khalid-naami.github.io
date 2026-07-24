@@ -280,11 +280,6 @@ module.exports = async function createConfig() {
             to: '/resume/experience',
           },
           {
-            position: 'left',
-            label: 'About',
-            to: '/about',
-          },
-          {
             type: 'html',
             position: 'left',
             value: '</div>',
