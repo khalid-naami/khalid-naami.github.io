@@ -48,4 +48,19 @@
       <image:title><![CDATA[Blinded Skies: US Launches Phase Two Heavy Bomber Campaign]]></image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-israel-heavy-casualties-dhafra-ambush-lebanon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[High Cost of War: US and Israeli Forces Face Ambushes]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-israel-casualties-ambush-dhafra.webp</image:loc>
+      <image:title><![CDATA[High Cost of War: US and Israeli Forces Face Ambushes]]></image:title>
+    </image:image>
+  </url>
 </urlset>
