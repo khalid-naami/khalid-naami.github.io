@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/corporate-battlefield-iraq-economic-warfare</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iraq-corporate-targeting.webp</image:loc>
+      <image:caption><![CDATA[Investigating the strategic shift of Iraqi resistance groups targeting US corporations like Chevron, Halliburton, and KBR to pressure Trump.]]></image:caption>
+      <image:title><![CDATA[The Corporate Battlefield: Iraq's Shift to Economic Warfare]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/ali-al-salem-runway-struck-iran-heavy-missiles-kuwait</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/ali-al-salem-runway-struck-heavy-missiles.webp</image:loc>
