@@ -1,5 +1,5 @@
 ---
-title: "War as a Shield: Trump, Netanyahu, and the Epstein Files"
+title: "War as a Shield: Trump, Netanyahu, and Epstein"
 description: "Analyzing how the U.S.-Israel confrontation with Iran serves as a political and legal shield for Donald Trump and Benjamin Netanyahu."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Middle East, US Foreign Policy, Israel, Iran]
