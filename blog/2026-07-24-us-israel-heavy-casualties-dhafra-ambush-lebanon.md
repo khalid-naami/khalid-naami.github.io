@@ -1,5 +1,5 @@
 ---
-title: "High Cost of War: US and Israeli Forces Face Ambushes"
+title: "High Cost of War: US & Israeli Forces Face Ambushes"
 description: "Analyzing the heavy toll on U.S. forces at Al Dhafra (221 casualties) and the failed Israeli commando raid in Lebanon targeting a Radwan commander."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, US Military, Israel, Middle East, Military Strategy]
