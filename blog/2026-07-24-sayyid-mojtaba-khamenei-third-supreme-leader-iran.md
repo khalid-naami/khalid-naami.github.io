@@ -1,5 +1,5 @@
 ---
-title: "The Third Leader: Mojtaba Khamenei Ascends Amid War"
+title: "The Third Leader: Mojtaba Khamenei Emerges Amid War"
 description: "Analyzing the ascension of Sayyid Mojtaba Khamenei as Iran's third Supreme Leader, representing a failure of U.S., British, and Israeli plots."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Iran, Middle East, US Foreign Policy, Military Strategy]
