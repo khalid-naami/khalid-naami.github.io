@@ -1,5 +1,5 @@
 ---
-title: "Stage of Brutality: Segula Strike & Civilian Targets"
+title: "Phase of Brutality: Segula Strike & Civilian Targets"
 description: "Analyzing the escalation of civilian targeting in Iran and the retaliatory Iranian cluster missile strike on the Segula industrial zone in Petah Tikva."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Middle East, Military Strategy, US Military]
