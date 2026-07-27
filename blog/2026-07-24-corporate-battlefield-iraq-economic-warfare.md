@@ -1,5 +1,5 @@
 ---
-title: "Corporate Battlefield: Iraq's Shift to Economic War"
+title: "Corporate Battlefield: Iraq's Pivot to Economic War"
 description: "Investigating the strategic shift of Iraqi resistance groups targeting US corporations like Chevron, Halliburton, and KBR to pressure Trump."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, US Military, Iraq, Middle East, Military Strategy]
