@@ -1,5 +1,5 @@
 ---
-title: "The Qeshm Frameup: Israel’s UAE-Iran Escalation Plot"
+title: "The Qeshm Frameup: Israel's UAE-Iran Escalation Trap"
 description: "Investigating the Israeli operation targeting Iran's Qeshm desalination plant, framed as a UAE strike to divert Iranian retaliation from U.S. bases."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Middle East, Israel, Iran, UAE]
