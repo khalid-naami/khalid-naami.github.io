@@ -1,5 +1,5 @@
 ---
-title: "Blinded Skies: US Launches Heavy Bomber Campaign"
+title: "Blinded Skies: US Launches Major Bomber Campaign"
 description: "Investigating the U.S. transition to a heavy bomber campaign after Iran successfully neutralized MQ-9 and U-2 assets at Al Dhafra base."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, US Military, Military Strategy, Middle East]
