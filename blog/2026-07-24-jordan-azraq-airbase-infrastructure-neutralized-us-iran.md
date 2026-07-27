@@ -1,5 +1,5 @@
 ---
-title: "Blinding Azraq: US Airbase Infrastructure Neutralized"
+title: "Striking Azraq: US Airbase Infrastructure Neutralized"
 description: "Analyzing the systematic neutralization of Muwaffaq Salti Airbase in Azraq, Jordan, by Iranian strikes targeting critical infrastructure."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, US Military, Military Strategy, Middle East, Iran]
