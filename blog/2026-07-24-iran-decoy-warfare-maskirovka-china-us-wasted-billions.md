@@ -1,5 +1,5 @@
 ---
-title: "Phantom Targets: How Iran’s Decoy War Wasted $4 Billion"
+title: "Phantom Targets: How Iran’s Decoy War Burned $4 Billion"
 description: "Analyzing Iran's Maskirovka strategy, using Chinese decoy tech to force the U.S. and Israel to waste $4 billion bombing fake targets."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Military Strategy, Middle East, China, Russia]
