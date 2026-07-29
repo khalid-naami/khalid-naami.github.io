@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/al-dhafra-strike-satellite-images-destroy-early-warning-fleet</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dhafra-hangar-destruction-satellite.webp</image:loc>
+      <image:caption><![CDATA[Analyzing satellite imagery of the Al Dhafra strike destroying Saab GlobalEye, MQ-4C Triton, and MQ-9 Reaper fleets at Al Dhafra base.]]></image:caption>
+      <image:title><![CDATA[Al Dhafra Strike: Satellite Shows Fleet Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/autonomous-ai-warfare-drones-pentagon-claude-hegseth</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/ai-autonomous-warfare-drones.webp</image:loc>
@@ -40,6 +48,14 @@
       <image:loc>https://khalidnaami.com/img/david-sacks-israel-destruction.webp</image:loc>
       <image:caption><![CDATA[Analyzing David Sacks' warning of Israeli destruction, the depletion of Arrow-3 interceptors, and Ron Dermer's Cyprus negotiations.]]></image:caption>
       <image:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/day-of-the-radars-iran-wave-51-strikes-prince-sultan-base</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/patriot-radar-destruction-campaign.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Iran's Day of the Radars campaign targeting U.S. Patriot radars in the Gulf and Hezbollah's deployment of cluster missiles.]]></image:caption>
+      <image:title><![CDATA[Day of the Radars: Iran Strikedown of US Air Defenses]]></image:title>
     </image:image>
   </url>
   <url>

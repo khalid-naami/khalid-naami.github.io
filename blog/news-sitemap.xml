@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/al-dhafra-strike-satellite-images-destroy-early-warning-fleet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Al Dhafra Strike: Satellite Shows Fleet Destroyed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dhafra-hangar-destruction-satellite.webp</image:loc>
+      <image:title><![CDATA[Al Dhafra Strike: Satellite Shows Fleet Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/autonomous-ai-warfare-drones-pentagon-claude-hegseth</loc>
     <news:news>
       <news:publication>
@@ -76,6 +91,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/david-sacks-israel-destruction.webp</image:loc>
       <image:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/day-of-the-radars-iran-wave-51-strikes-prince-sultan-base</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Day of the Radars: Iran Strikedown of US Air Defenses]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/patriot-radar-destruction-campaign.webp</image:loc>
+      <image:title><![CDATA[Day of the Radars: Iran Strikedown of US Air Defenses]]></image:title>
     </image:image>
   </url>
   <url>
