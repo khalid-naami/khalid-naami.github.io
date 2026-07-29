@@ -364,6 +364,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/sejgil-2-ballistic-missile-debut-eilat-us-consulate-struck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Sejgil-2 Debut: Eilat Struck, US Consulate Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/sejgil-2-missile-combat-debut.webp</image:loc>
+      <image:title><![CDATA[Sejgil-2 Debut: Eilat Struck, US Consulate Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/single-drone-strike-destroys-baghdad-embassy-c-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Point Blind: Drone Destroys US Embassy C-RAM in Iraq]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-embassy-baghdad-cram-destroyed.webp</image:loc>
+      <image:title><![CDATA[Point Blind: Drone Destroys US Embassy C-RAM in Iraq]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/somaliland-proposes-us-military-relocation-berbera-israel</loc>
     <news:news>
       <news:publication>
@@ -406,6 +436,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/kc135-tanker-shootdown-iraq.webp</image:loc>
       <image:title><![CDATA[Stratotanker Down: US KC-135 Shot Down Over Iraq]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-plans-uranium-seizure-mehrabad-runway-blocked-fordow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Runway Blocked: Iran Prepares for US Uranium Raid]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mehrabad-runway-obstruction-satellite.webp</image:loc>
+      <image:title><![CDATA[Runway Blocked: Iran Prepares for US Uranium Raid]]></image:title>
     </image:image>
   </url>
   <url>
