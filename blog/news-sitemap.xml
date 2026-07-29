@@ -49,6 +49,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/chinese-ai-tracks-b2-stealth-bomber.webp</image:loc>
+      <image:title><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</loc>
     <news:news>
       <news:publication>
@@ -181,6 +196,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/hezbollah-anti-tank-idf-lebanon-quagmire.webp</image:loc>
       <image:title><![CDATA[IDF Tank Losses: Southern Lebanon Becomes a Quagmire]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hezbollah-khaybar-1-missile-operation.webp</image:loc>
+      <image:title><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></image:title>
     </image:image>
   </url>
   <url>
@@ -586,6 +616,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/uss-gerald-ford-electrical-fire.webp</image:loc>
       <image:title><![CDATA[Blinded Carrier: Fire Disables USS Gerald R. Ford]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-gerald-ford-souda-bay-withdrawal.webp</image:loc>
+      <image:title><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></image:title>
     </image:image>
   </url>
   <url>

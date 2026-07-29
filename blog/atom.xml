@@ -113,6 +113,54 @@
         <category label="Naval Warfare" term="Naval Warfare"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></title>
+        <id>https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals</id>
+        <link href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals"/>
+        <updated>2026-07-29T23:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing Jinjiang Technology's Jingqi AI system tracking U.S. B-2 stealth bombers via signal reconstruction during Operation Epic Wrath.]]></summary>
+        <content type="html"><![CDATA[<p>A report published by a technology enterprise affiliated with the Chinese military has revealed critical vulnerabilities in the U.S. B-2 Spirit stealth bomber fleet. According to the PLA-linked Jinjiang Technology, an AI-driven signals monitoring network successfully detected, tracked, and reconstructed the flight profiles of four B-2 bombers during a strike mission over Iran. The disclosure suggests that U.S. physical stealth advantages are being compromised by advanced electronic tracking and algorithmic analysis.</p>
+<p><img decoding="async" loading="lazy" alt="Stealth Compromised: Chinese AI Tracks B-2 Bombers" src="https://khalidnaami.com/assets/images/chinese-ai-tracks-b2-stealth-bomber-16f3ba846724ded33b4361cfdd450586.webp" width="600" height="337" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-trigger-bypassing-the-chinese-hq-9b-air-defense-network">The Trigger: Bypassing the Chinese HQ-9B Air Defense Network<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#the-trigger-bypassing-the-chinese-hq-9b-air-defense-network" class="hash-link" aria-label="Direct link to The Trigger: Bypassing the Chinese HQ-9B Air Defense Network" title="Direct link to The Trigger: Bypassing the Chinese HQ-9B Air Defense Network" translate="no">​</a></h2>
+<p>The air campaign against Iran, named "Operation Epic Wrath," was launched after U.S. and Israeli planners verified they could bypass Iran's primary air defense system. Iran had deployed the Chinese-manufactured HQ-9B (H-Q-9B) surface-to-air missile system, an advanced design derived from Russia's S-300 and S-400 series.</p>
+<p>The ability to jam and bypass the HQ-9B was the primary technical trigger that allowed the U.S. to approve B-2 stealth bomber strikes. However, while the U.S. bypassed the physical radar net on the ground, China responded by exposing the vulnerability of the bombers through indirect digital tracking.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="jinjiang-technologys-bombshell-tracking-b-2-radio-signatures">Jinjiang Technology’s Bombshell: Tracking B-2 Radio Signatures<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#jinjiang-technologys-bombshell-tracking-b-2-radio-signatures" class="hash-link" aria-label="Direct link to Jinjiang Technology’s Bombshell: Tracking B-2 Radio Signatures" title="Direct link to Jinjiang Technology’s Bombshell: Tracking B-2 Radio Signatures" translate="no">​</a></h2>
+<p>The disclosure was made by Jinjiang Technology, a state-owned defense contractor based in Hangzhou that operates under the direction of the People's Liberation Army (PLA). The company revealed that its signals intelligence network has bypassed the B-2's radar-absorbent design.</p>
+<p>While the B-2's physical shape minimizes direct radar cross-section reflection, the aircraft still generates radio emissions, telemetry data, and satellite communication links. Jinjiang Technology successfully intercepted these minor radio frequency (RF) emissions, utilizing them as a digital signature to track the bombers.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-jingqi-ai-system-reconstructing-the-march-1-mission-profile">The Jingqi AI System: Reconstructing the March 1 Mission Profile<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#the-jingqi-ai-system-reconstructing-the-march-1-mission-profile" class="hash-link" aria-label="Direct link to The Jingqi AI System: Reconstructing the March 1 Mission Profile" title="Direct link to The Jingqi AI System: Reconstructing the March 1 Mission Profile" translate="no">​</a></h2>
+<p>The tracking was executed by a proprietary, PLA-funded artificial intelligence platform named "Jingqi" (جينغ تشي). During a strike mission on March 1, 2026, the Jingqi AI intercepted the communications of a formation of four B-2 Spirit bombers operating under the callsigns PETRO 41, PETRO 42, PETRO 43, and PETRO 44.</p>
+<p>By processing the raw RF emissions and combining them with open-source commercial flight logs and civil weather satellite data, the AI reconstructed the entire mission profile. The system mapped the bombers' flight path from their takeoff staging grounds, their entry into Iranian airspace, and their return routes to base.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pre-flight-detection-spotting-the-attack-weeks-in-advance">Pre-Flight Detection: Spotting the Attack Weeks in Advance<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#pre-flight-detection-spotting-the-attack-weeks-in-advance" class="hash-link" aria-label="Direct link to Pre-Flight Detection: Spotting the Attack Weeks in Advance" title="Direct link to Pre-Flight Detection: Spotting the Attack Weeks in Advance" translate="no">​</a></h2>
+<p>Crucially, the Jinjiang Technology report reveals that the Jingqi AI detected preparations for the strike weeks before B-2 wheels left the tarmac. The system identified anomalies in U.S. communication channels in January and February 2026.</p>
+<p>These early indicators were generated by pre-flight logistics coordination and ground-based radio checks. By tracing the unique data patterns while the bombers were still on the ground, the AI predicted the timing and scale of the March 1 strike, eliminating the element of operational surprise.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="algorithmic-warfare-the-shift-from-physical-stealth-to-ai-codes">Algorithmic Warfare: The Shift from Physical Stealth to AI Codes<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#algorithmic-warfare-the-shift-from-physical-stealth-to-ai-codes" class="hash-link" aria-label="Direct link to Algorithmic Warfare: The Shift from Physical Stealth to AI Codes" title="Direct link to Algorithmic Warfare: The Shift from Physical Stealth to AI Codes" translate="no">​</a></h2>
+<p>The success of the Jingqi AI highlights a transition in modern warfare. The battlefield is shifting from physical stealth (shape, paint, and radar evasion) to algorithmic and AI-driven confrontation (صراع الخوارزميات والذكاء الاصطناعي).</p>
+<p>While B-2 bombers remain difficult to target immediately with terminal fire-control radar in real-time, the ability of Chinese AI to extract high-quality intelligence out of data noise (ضوضاء البيانات) eliminates the element of surprise. It allows adversaries to study U.S. combat doctrines, map operational patterns, and prepare defensive grids.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="geopolitical-fallout-undermining-us-deterrence-over-taiwan">Geopolitical Fallout: Undermining U.S. Deterrence Over Taiwan<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#geopolitical-fallout-undermining-us-deterrence-over-taiwan" class="hash-link" aria-label="Direct link to Geopolitical Fallout: Undermining U.S. Deterrence Over Taiwan" title="Direct link to Geopolitical Fallout: Undermining U.S. Deterrence Over Taiwan" translate="no">​</a></h2>
+<p>The exposure of the B-2's operational data has strategic implications for U.S. deterrence in the Indo-Pacific. The B-2 Spirit, B-1B Lancer, and B-52 fleets are key assets in U.S. plans to defend Taiwan from a Chinese amphibious invasion.</p>
+<p>By demonstrating that its AI systems can track B-2 formations and predict their missions before takeoff, Beijing has signaled that U.S. stealth assets are no longer invisible. Having previously countered U.S. carriers via hypersonic anti-ship missiles, China has now degraded U.S. heavy bomber deterrence, changing the strategic calculations for the Western Pacific.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion-the-era-of-algorithmic-transparency">Conclusion: The Era of Algorithmic Transparency<a href="https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals#conclusion-the-era-of-algorithmic-transparency" class="hash-link" aria-label="Direct link to Conclusion: The Era of Algorithmic Transparency" title="Direct link to Conclusion: The Era of Algorithmic Transparency" translate="no">​</a></h2>
+<p>The Jinjiang Technology report on the tracking of B-2 bombers shows the limits of physical stealth in an era of AI-driven signals intelligence. The ability to reconstruct the mission profiles of the callsigns PETRO 41 to 44 proves that RF emissions can serve as a tracking vector.</p>
+<p>As the U.S. evaluates the vulnerability of its stealth fleets and adapts its communication protocols, the parameters of air power are changing. The transition to algorithmic warfare suggests that future conflicts will be defined by the ability to hide digital signatures, as physical concealment is no longer sufficient to guarantee operational surprise.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Geopolitics" term="Geopolitics"/>
+        <category label="Political Economy" term="Political Economy"/>
+        <category label="US Foreign Policy" term="US Foreign Policy"/>
+        <category label="Middle East" term="Middle East"/>
+        <category label="Military Technology" term="Military Technology"/>
+        <category label="Cyber Warfare" term="Cyber Warfare"/>
+        <category label="China" term="China"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></title>
         <id>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</id>
         <link href="https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz"/>
@@ -443,6 +491,69 @@
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion-the-litani-river-standoff-and-defensive-attrition">Conclusion: The Litani River Standoff and Defensive Attrition<a href="https://khalidnaami.com/blog/hezbollah-anti-tank-tactics-destroy-idf-tanks-lebanon-quagmire#conclusion-the-litani-river-standoff-and-defensive-attrition" class="hash-link" aria-label="Direct link to Conclusion: The Litani River Standoff and Defensive Attrition" title="Direct link to Conclusion: The Litani River Standoff and Defensive Attrition" translate="no">​</a></h2>
 <p>The loss of 16 Merkava tanks and the targeting of evacuation hubs demonstrate the challenges facing the IDF's ground campaign. By integrating anti-tank systems, suicide drones, and logistics targeting, Hezbollah has established a multi-layered defense.</p>
 <p>As the IDF coordinates ground recovery and manages delays in its offensive toward the Litani River, the limits of the armored push are clear. The vulnerability of supply lines and armored columns suggests that southern Lebanon will remain a difficult environment for ground forces, changing the timeline and costs of the campaign.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Geopolitics" term="Geopolitics"/>
+        <category label="Political Economy" term="Political Economy"/>
+        <category label="Middle East" term="Middle East"/>
+        <category label="Military Strategy" term="Military Strategy"/>
+        <category label="Military Technology" term="Military Technology"/>
+        <category label="Israel" term="Israel"/>
+        <category label="Lebanon" term="Lebanon"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></title>
+        <id>https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel</id>
+        <link href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel"/>
+        <updated>2026-07-29T23:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing Hezbollah's Operation Khaybar-1 deploying over 100 missiles, Israel's Roar of the Lion offensive, and the shadow intelligence war.]]></summary>
+        <content type="html"><![CDATA[<p>Hezbollah has officially launched "Operation Khaybar-1," executing a coordinated wave of heavy surface-to-surface missile strikes and suicide drone operations targeting military command hubs and air defense installations across northern Israel. The operation is a direct response to Israel's ground offensive, which aims to disarm the group south of the Litani River. The escalation has occurred alongside a shadow intelligence and electronic warfare standoff that has claimed key leaders on both sides.</p>
+<p><img decoding="async" loading="lazy" alt="Operation Khaybar-1: Hezbollah Rockets Northern Israel" src="https://khalidnaami.com/assets/images/hezbollah-khaybar-1-missile-operation-3b920a753243a2e40572a58a27288b6b.webp" width="600" height="337" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="operation-khaybar-1-hezbollahs-ballistic-response">Operation Khaybar-1: Hezbollah’s Ballistic Response<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#operation-khaybar-1-hezbollahs-ballistic-response" class="hash-link" aria-label="Direct link to Operation Khaybar-1: Hezbollah’s Ballistic Response" title="Direct link to Operation Khaybar-1: Hezbollah’s Ballistic Response" translate="no">​</a></h2>
+<p>Operation Khaybar-1 represents a transition to high-intensity defensive operations by Hezbollah. In the opening salvos, the group launched over 100 surface-to-surface ballistic missiles and deployed combat suicide drones targeting logistics hubs in northern Israel.</p>
+<p>Rather than concentrating on border coordinates, the strikes targeted deep military assets in Safed, Haifa, and Galilee. The volume of the salvos was designed to saturate Israel's air defense grid, allowing precision warheads to reach their targets.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="striking-the-dadu-command-and-northern-idf-bases">Striking the Dadu Command and Northern IDF Bases<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#striking-the-dadu-command-and-northern-idf-bases" class="hash-link" aria-label="Direct link to Striking the Dadu Command and Northern IDF Bases" title="Direct link to Striking the Dadu Command and Northern IDF Bases" translate="no">​</a></h2>
+<p>The primary military targets hit during the operation include:</p>
+<ul>
+<li class=""><strong>Dadu Command (Safed)</strong>: The IDF's Northern Command Headquarters was struck by rocket salvos.</li>
+<li class=""><strong>Meron Air Surveillance Base</strong>: Struck by heavy salvos, disrupting airspace monitoring and air support coordination.</li>
+<li class=""><strong>Ghabah Base</strong>: Struck by suicide drones east of Safed.</li>
+<li class=""><strong>Anzeteem Base</strong>: Struck by rocket salvos north of Safed.</li>
+<li class=""><strong>Amimim and Shimshon Bases</strong>: Struck with rocket salvos around Lake Tiberias.</li>
+<li class=""><strong>Ma'alot-Tarshiha Air Defense Site</strong>: Struck to degrade local interceptor cover.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="israels-southern-lebanon-offensive-roar-of-the-lion">Israel’s Southern Lebanon Offensive: Roar of the Lion<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#israels-southern-lebanon-offensive-roar-of-the-lion" class="hash-link" aria-label="Direct link to Israel’s Southern Lebanon Offensive: Roar of the Lion" title="Direct link to Israel’s Southern Lebanon Offensive: Roar of the Lion" translate="no">​</a></h2>
+<p>The Israeli ground offensive, named "Roar of the Lion" or "Massive Wrath," began in March 2026 under the leadership of the 91st and 36th Divisions. The campaign aims to enforce the 2024 ceasefire terms by dismantling Hezbollah's military infrastructure south of the Litani River.</p>
+<p>However, the ground offensive has faced resistance. Hezbollah's anti-tank and sniper units have restricted Israeli advances to border villages like Khiam. The IDF has resorted to mass demolition and evacuation orders, targeting local infrastructure to degrade Hezbollah's support network.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-shadow-intelligence-war-and-electronic-warfare">The Shadow Intelligence War and Electronic Warfare<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#the-shadow-intelligence-war-and-electronic-warfare" class="hash-link" aria-label="Direct link to The Shadow Intelligence War and Electronic Warfare" title="Direct link to The Shadow Intelligence War and Electronic Warfare" translate="no">​</a></h2>
+<p>The physical confrontation is mirrored by a shadow intelligence and electronic warfare (EW) battle:</p>
+<ul>
+<li class=""><strong>Hezbollah Intelligence</strong>: Despite leadership losses, the group has reconstructed its visual intelligence (VISINT) capabilities, utilizing "Hodhod" reconnaissance drones, thermal cameras, and civil camera networks to track IDF armored movements.</li>
+<li class=""><strong>IDF Counter-Intelligence</strong>: The IDF's Unit 869 (Shapak) is deployed along the border to locate anti-tank positions in real-time, while Unit 1200 operates under civilian maritime covers to gather naval intelligence.</li>
+<li class=""><strong>EW and Malware</strong>: Both sides utilize signal interception, malware, and fake social media accounts to disrupt communication loops.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="intelligence-casualties-the-mokalled-and-rayan-assassinations">Intelligence Casualties: The Mokalled and Rayan Assassinations<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#intelligence-casualties-the-mokalled-and-rayan-assassinations" class="hash-link" aria-label="Direct link to Intelligence Casualties: The Mokalled and Rayan Assassinations" title="Direct link to Intelligence Casualties: The Mokalled and Rayan Assassinations" translate="no">​</a></h2>
+<p>The intelligence duel has resulted in high-ranking casualties on both sides. In March 2026, Israel assassinated Hezbollah’s Head of Intelligence, Hassan Mokalled. Mokalled was targeted after attempting to penetrate the IDF's encrypted communication networks.</p>
+<p>Simultaneously, Israeli strikes targeted the command centers of the elite Radwan Force. These strikes killed Abu Ali Rayan, the commander of the southern sector, along with several staff officers in six command centers.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-diplomatic-ceiling-ceasefire-terms-and-unconditional-withdrawal">The Diplomatic Ceiling: Ceasefire Terms and Unconditional Withdrawal<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#the-diplomatic-ceiling-ceasefire-terms-and-unconditional-withdrawal" class="hash-link" aria-label="Direct link to The Diplomatic Ceiling: Ceasefire Terms and Unconditional Withdrawal" title="Direct link to The Diplomatic Ceiling: Ceasefire Terms and Unconditional Withdrawal" translate="no">​</a></h2>
+<p>Following the launch of Operation Khaybar-1, Hezbollah has raised its diplomatic ceiling. The group's leadership declared that any ceasefire talks are contingent upon specific conditions:</p>
+<ol>
+<li class=""><strong>Unconditional Withdrawal</strong>: The absolute withdrawal of Israeli troops from all newly occupied coordinates and the original five border points.</li>
+<li class=""><strong>Complete Halt</strong>: A total cessation of Israeli air and ground hostilities across Lebanon.</li>
+</ol>
+<p>This position rejects compromise, with the group demanding a unilateral Israeli withdrawal similar to the 2000 exit.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion-the-limits-of-the-border-land-offensive">Conclusion: The Limits of the Border Land Offensive<a href="https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel#conclusion-the-limits-of-the-border-land-offensive" class="hash-link" aria-label="Direct link to Conclusion: The Limits of the Border Land Offensive" title="Direct link to Conclusion: The Limits of the Border Land Offensive" translate="no">​</a></h2>
+<p>The launch of Operation Khaybar-1 and the strikes on the Dadu command show the limits of Israel's ground offensive. By maintaining the capability to coordinate and launch over 100 ballistic missiles despite leadership losses, Hezbollah has demonstrated that its command structures remain operational.</p>
+<p>As the IDF manages the armored losses and the intelligence challenges of the campaign, the strategic options are narrowing. The reliance of both sides on high-intensity strikes and electronic warfare suggests that the conflict will remain focused on attrition, with high costs for any attempt to advance beyond the Litani River.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
         <author>
             <name>Khalid Naami</name>
             <uri>https://x.com/khalidnaami0</uri>
@@ -1568,6 +1679,60 @@
         <category label="Middle East" term="Middle East"/>
         <category label="Military Technology" term="Military Technology"/>
         <category label="Cyber Warfare" term="Cyber Warfare"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></title>
+        <id>https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire</id>
+        <link href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire"/>
+        <updated>2026-07-29T23:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing the withdrawal of the USS Gerald R. Ford to Souda Bay after a 30-hour fire, and the shift of U.S. jets to Prince Sultan Airbase.]]></summary>
+        <content type="html"><![CDATA[<p>The U.S. Navy's lead supercarrier, the USS <em>Gerald R. Ford</em> (CVN-78), has officially departed the Middle East combat zone, transiting to Souda Bay in Crete for emergency damage assessment. This exit follows a severe internal fire that raged for over 30 hours before damage control teams could extinguish the blaze. To sustain air operations, the Pentagon has relocated the carrier's wing of F-35 and F-15 fighter jets to land bases in the Persian Gulf, exposing host installations to direct retaliatory strikes.</p>
+<p><img decoding="async" loading="lazy" alt="USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit" src="https://khalidnaami.com/assets/images/uss-gerald-ford-souda-bay-withdrawal-b0b693c9556ce07176beeeab150a34c7.webp" width="600" height="337" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-exit-uss-gerald-r-ford-departs-the-combat-zone">The Exit: USS Gerald R. Ford Departs the Combat Zone<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#the-exit-uss-gerald-r-ford-departs-the-combat-zone" class="hash-link" aria-label="Direct link to The Exit: USS Gerald R. Ford Departs the Combat Zone" title="Direct link to The Exit: USS Gerald R. Ford Departs the Combat Zone" translate="no">​</a></h2>
+<p>The departure of the $13 billion USS <em>Gerald R. Ford</em> represents a significant reduction in U.S. sea-based power projection in the region. The supercarrier has transited to the Greek naval base at Souda Bay to undergo comprehensive technical inspections.</p>
+<p>While the base can provide initial repair support, military analysts suggest the extent of the damage may require the vessel to return to its home port in Virginia for dry-dock repairs. The exit of the carrier leaves U.S. forces dependent on land-based facilities in the Gulf to coordinate operations, altering the tactical balance of the air campaign.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-30-hour-fire-laundry-room-narrative-vs-reactor-risks">The 30-Hour Fire: Laundry Room Narrative vs. Reactor Risks<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#the-30-hour-fire-laundry-room-narrative-vs-reactor-risks" class="hash-link" aria-label="Direct link to The 30-Hour Fire: Laundry Room Narrative vs. Reactor Risks" title="Direct link to The 30-Hour Fire: Laundry Room Narrative vs. Reactor Risks" translate="no">​</a></h2>
+<p>The official narrative released by the Navy and published by <em>The New York Times</em> claimed the fire originated in the carrier's main laundry room (غرفة الغسيل) due to a dryer vent malfunction. The report stated the fire spread through the central air ventilation ducts to adjacent storage compartments.</p>
+<p>However, independent military sources suggest the damage was far more severe. The fact that the fire burned for 30 hours before containment indicates it penetrated deep interior sections, affecting advanced electronics and wiring close to the ship's two A1B nuclear reactors. The extended duration of the fire forced a shutdown of non-essential systems, compromising the Electromagnetic Aircraft Launch System (EMALS).</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="grinding-schedule-the-toll-of-a-10-month-sea-deployment">Grinding Schedule: The Toll of a 10-Month Sea Deployment<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#grinding-schedule-the-toll-of-a-10-month-sea-deployment" class="hash-link" aria-label="Direct link to Grinding Schedule: The Toll of a 10-Month Sea Deployment" title="Direct link to Grinding Schedule: The Toll of a 10-Month Sea Deployment" translate="no">​</a></h2>
+<p>The technical failures on the <em>Gerald R. Ford</em> are partly due to operational over-extension. The carrier had been on continuous deployment for 10 months without scheduled maintenance cycles.</p>
+<p>Its mission profile was characterized by rapid shifts:</p>
+<ul>
+<li class=""><strong>Red Sea Operations</strong>: Executing strikes against coastal launch pads and escorting commercial shipping.</li>
+<li class=""><strong>Caribbean Deployment</strong>: Transiting to the Caribbean as part of the U.S. naval blockade of Venezuela to pressure President Nicolás Maduro.</li>
+<li class=""><strong>Middle East Redeployment</strong>: Returning to the Mediterranean and Red Sea to support the air campaign.</li>
+</ul>
+<p>This grinding schedule exhausted the crew of 4,500 sailors and placed a heavy burden on the ship's computerized launch systems, leading to component wear and safety failures.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="shifting-the-air-wing-f-35s-move-to-prince-sultan-airbase">Shifting the Air Wing: F-35s Move to Prince Sultan Airbase<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#shifting-the-air-wing-f-35s-move-to-prince-sultan-airbase" class="hash-link" aria-label="Direct link to Shifting the Air Wing: F-35s Move to Prince Sultan Airbase" title="Direct link to Shifting the Air Wing: F-35s Move to Prince Sultan Airbase" translate="no">​</a></h2>
+<p>With the carrier's catapult systems disabled and the ship heading to Crete, the Pentagon was forced to relocate the carrier's air wing. The F-35C Lightning II and F-15E Strike Eagle fighters stationed on the carrier were transferred to land bases.</p>
+<p>The primary destination for these aircraft is Prince Sultan Airbase in Saudi Arabia. This relocation allows the U.S. to maintain strike readiness over Iranian airspace, but it changes the logistical footprint of the air campaign, shifting the origin of U.S. sorties from international waters to regional sovereign territory.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="gulf-land-bases-exposed-iranian-threat-to-host-nations">Gulf Land Bases Exposed: Iranian Threat to Host Nations<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#gulf-land-bases-exposed-iranian-threat-to-host-nations" class="hash-link" aria-label="Direct link to Gulf Land Bases Exposed: Iranian Threat to Host Nations" title="Direct link to Gulf Land Bases Exposed: Iranian Threat to Host Nations" translate="no">​</a></h2>
+<p>The relocation of U.S. strike aircraft to land bases in the Gulf exposes the host nations to security risks. Iranian officials have warned that any regional state allowing its territory to be used as a staging ground for strikes on Iran will face direct retaliation.</p>
+<p>Following the transfer of F-35s, the IRGC has increased rocket and drone strikes targeting Prince Sultan Airbase. This has forced Saudi authorities to issue alerts regarding local air defenses, showing how the carrier's exit has shifted the security burden onto regional partners.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="coalition-strains-british-refusal-and-carrier-standoff">Coalition Strains: British Refusal and Carrier Standoff<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#coalition-strains-british-refusal-and-carrier-standoff" class="hash-link" aria-label="Direct link to Coalition Strains: British Refusal and Carrier Standoff" title="Direct link to Coalition Strains: British Refusal and Carrier Standoff" translate="no">​</a></h2>
+<p>The carrier's withdrawal occurred alongside diplomatic friction between Washington and London. The U.S. had requested that European allies deploy naval assets to the Red Sea to manage Houthi threats, allowing U.S. carriers (<em>Gerald R. Ford</em> and <em>Abraham Lincoln</em>) to concentrate on Iran.</p>
+<p>However, UK Prime Minister Keir Starmer refused to deploy a British aircraft carrier during the active phase of the operations. Trump expressed frustration with this decision, rejecting Starmer's later offer to send two ships after the U.S. had already degraded local coastal batteries. This friction highlights the lack of coordination within the coalition, leaving the U.S. to manage the campaign with degraded naval assets.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion-the-vulnerability-of-land-based-staging-networks">Conclusion: The Vulnerability of Land-Based Staging Networks<a href="https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire#conclusion-the-vulnerability-of-land-based-staging-networks" class="hash-link" aria-label="Direct link to Conclusion: The Vulnerability of Land-Based Staging Networks" title="Direct link to Conclusion: The Vulnerability of Land-Based Staging Networks" translate="no">​</a></h2>
+<p>The withdrawal of the USS <em>Gerald R. Ford</em> to Souda Bay and the relocation of its aircraft to Prince Sultan Airbase show the limits of carrier-based operations under high operational strain. The combination of a 30-hour fire and deferred maintenance has disabled the Navy's advanced capital ship.</p>
+<p>As the U.S. relies on land bases in the Gulf and long-range B-1B Lancer bomber runs from the UK, the strategic vulnerability of its operations is clear. The dependency on regional land bases exposes host nations to Iranian missile strikes, suggesting that the carrier's exit has limited U.S. options and raised the risks for its regional allies.</p><div style="display:flex;justify-content:center;margin-top:3rem;margin-bottom:1rem"><a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" class="mission-button" style="text-decoration:none;white-space:nowrap;padding:12px 24px;font-size:14px">Subscribe to my newsletter<span style="margin-left:6px">»</span></a></div>]]></content>
+        <author>
+            <name>Khalid Naami</name>
+            <uri>https://x.com/khalidnaami0</uri>
+        </author>
+        <category label="Geopolitics" term="Geopolitics"/>
+        <category label="Political Economy" term="Political Economy"/>
+        <category label="US Military" term="US Military"/>
+        <category label="Middle East" term="Middle East"/>
+        <category label="Military Strategy" term="Military Strategy"/>
+        <category label="Military Technology" term="Military Technology"/>
+        <category label="Greece" term="Greece"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[WSJ: US Refueling Fleet Struck, THAAD Targeted]]></title>

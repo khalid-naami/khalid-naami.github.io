@@ -27,6 +27,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/chinese-ai-tracks-b2-stealth-bomber.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Jinjiang Technology's Jingqi AI system tracking U.S. B-2 stealth bombers via signal reconstruction during Operation Epic Wrath.]]></image:caption>
+      <image:title><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/hormuz-shipping-coordinated-strikes.webp</image:loc>
@@ -96,6 +104,14 @@
       <image:loc>https://khalidnaami.com/img/hezbollah-anti-tank-idf-lebanon-quagmire.webp</image:loc>
       <image:caption><![CDATA[Analyzing Hezbollah's anti-tank tactics destroying 16 IDF Merkava tanks, and the strategic failures of Trump and Netanyahu in Lebanon.]]></image:caption>
       <image:title><![CDATA[IDF Tank Losses: Southern Lebanon Becomes a Quagmire]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hezbollah-khaybar-1-missile-operation.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Hezbollah's Operation Khaybar-1 deploying over 100 missiles, Israel's Roar of the Lion offensive, and the shadow intelligence war.]]></image:caption>
+      <image:title><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></image:title>
     </image:image>
   </url>
   <url>
@@ -312,6 +328,14 @@
       <image:loc>https://khalidnaami.com/img/uss-gerald-ford-electrical-fire.webp</image:loc>
       <image:caption><![CDATA[Analyzing the electrical fire aboard the USS Gerald R. Ford disabling its EMALS launch system in the Red Sea amid suspected cyber attacks.]]></image:caption>
       <image:title><![CDATA[Blinded Carrier: Fire Disables USS Gerald R. Ford]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-gerald-ford-souda-bay-withdrawal.webp</image:loc>
+      <image:caption><![CDATA[Analyzing the withdrawal of the USS Gerald R. Ford to Souda Bay after a 30-hour fire, and the shift of U.S. jets to Prince Sultan Airbase.]]></image:caption>
+      <image:title><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></image:title>
     </image:image>
   </url>
   <url>
