@@ -139,6 +139,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/fattah-hypersonic-strike-ben-gurion-fuel-depots-iai-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Fattah Strike: Ben Gurion Fuel Depots and IAI Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/fattah-hypersonic-strike-ben-gurion.webp</image:loc>
+      <image:title><![CDATA[Fattah Strike: Ben Gurion Fuel Depots and IAI Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/gulf-islands-strategic-battle-florida-talks-oil-cap</loc>
     <news:news>
       <news:publication>
@@ -196,6 +211,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/chevron-exxon-gulf-oil-retaliation.webp</image:loc>
       <image:title><![CDATA[Gulf Target List: Iran Threatens US Oil Assets]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israeli-navy-absent-strait-of-hormuz-coalition-alliances-collapse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Absent Fleet: Why Israel’s Navy Shuns the Strait of Hormuz]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israeli-navy-absent-hormuz-coalition.webp</image:loc>
+      <image:title><![CDATA[Absent Fleet: Why Israel’s Navy Shuns the Strait of Hormuz]]></image:title>
     </image:image>
   </url>
   <url>
