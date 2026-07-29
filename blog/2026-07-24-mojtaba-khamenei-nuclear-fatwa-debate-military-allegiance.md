@@ -1,5 +1,5 @@
 ---
-title: "The Nuclear Pivot: Will Mojtaba Khamenei Forge the Bomb?"
+title: "Will Mojtaba Khamenei Forge the Nuclear Bomb?"
 description: "Analyzing Mojtaba Khamenei's rise, the military's pledge of allegiance, and the debate over bypassing the historic nuclear fatwa."
 authors: [khalid]
 tags: [Geopolitics, Political Economy, Iran, US Foreign Policy, Military Strategy, Nuclear Weapons]
