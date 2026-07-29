@@ -11,6 +11,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/azdar-uuv-iranian-stealth-submersible-us-navy-nightmare</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/azdar-uuv-stealth-submersible.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Iran's Azdar stealth UUV, its lithium-powered silent swarms, and the threat it poses to US Navy Arleigh Burke destroyers in the Strait of Hormuz.]]></image:caption>
+      <image:title><![CDATA[Stealth Sub: The UUV Straining the US Navy in Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hormuz-shipping-coordinated-strikes.webp</image:loc>
+      <image:caption><![CDATA[How the IRGC Navy struck three commercial vessels in the Strait of Hormuz for ignoring warnings and relying on US security promises.]]></image:caption>
+      <image:title><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/der-spiegel-german-reconnaissance-hub-destroyed-azraq-jordan</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/german-azraq-base-missile-strike.webp</image:loc>
@@ -24,6 +40,22 @@
       <image:loc>https://khalidnaami.com/img/fateh-110-missile-israel-strike.webp</image:loc>
       <image:caption><![CDATA[How Hezbollah's Fateh-110 precision ballistic missile bypassed air defenses to strike Israel's satellite communication center in the Ella Valley.]]></image:caption>
       <image:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iaf-tomer-bar-acknowledges-war-shifted-israel-iranian-missiles</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tomer-bar-iaf-israel-war.webp</image:loc>
+      <image:caption><![CDATA[IAF Commander Tomer Bar admits the war has shifted into Israel, as Iran's 20-country fire zone destroys 17 US bases and disrupts coalition air logistics.]]></image:caption>
+      <image:title><![CDATA[Blown Away: IAF Chief Admits War Has Shifted to Israel]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/intel-failure-israel-subway-cyberattack-transit-hijacked</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-subway-cyberattack-transit.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Israel's massive intelligence failure on Hezbollah's 200-rocket strike and the Iranian cyberattack hacking the Tel Aviv transit system.]]></image:caption>
+      <image:title><![CDATA[Blinded: Intel Failure and Israel Subway Cyberattack]]></image:title>
     </image:image>
   </url>
   <url>
@@ -64,6 +96,14 @@
       <image:loc>https://khalidnaami.com/img/true-promise-4-missile-salvo.webp</image:loc>
       <image:caption><![CDATA[Analyzing the failure of the Trump-Putin initiative, the start of Iran's True Promise 4 operation, and the deployment of one-ton precision warheads.]]></image:caption>
       <image:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/operation-true-promise-5-hezbollah-asf-maakool-strikes</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/joint-iran-lebanon-airstrikes-meron-haifa.webp</image:loc>
+      <image:caption><![CDATA[How Iran's True Promise 5 and Hezbollah's Al-Asf al-Ma'kool operations launched 150 missiles and drones, targeting Israeli command centers.]]></image:caption>
+      <image:title><![CDATA[True Promise 5: Joint Salvos Strike Israeli Bases]]></image:title>
     </image:image>
   </url>
   <url>

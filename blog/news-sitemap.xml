@@ -19,6 +19,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/azdar-uuv-iranian-stealth-submersible-us-navy-nightmare</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Stealth Sub: The UUV Straining the US Navy in Hormuz]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/azdar-uuv-stealth-submersible.webp</image:loc>
+      <image:title><![CDATA[Stealth Sub: The UUV Straining the US Navy in Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hormuz-shipping-coordinated-strikes.webp</image:loc>
+      <image:title><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/der-spiegel-german-reconnaissance-hub-destroyed-azraq-jordan</loc>
     <news:news>
       <news:publication>
@@ -46,6 +76,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/fateh-110-missile-israel-strike.webp</image:loc>
       <image:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iaf-tomer-bar-acknowledges-war-shifted-israel-iranian-missiles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blown Away: IAF Chief Admits War Has Shifted to Israel]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tomer-bar-iaf-israel-war.webp</image:loc>
+      <image:title><![CDATA[Blown Away: IAF Chief Admits War Has Shifted to Israel]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/intel-failure-israel-subway-cyberattack-transit-hijacked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blinded: Intel Failure and Israel Subway Cyberattack]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-subway-cyberattack-transit.webp</image:loc>
+      <image:title><![CDATA[Blinded: Intel Failure and Israel Subway Cyberattack]]></image:title>
     </image:image>
   </url>
   <url>
@@ -121,6 +181,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/true-promise-4-missile-salvo.webp</image:loc>
       <image:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/operation-true-promise-5-hezbollah-asf-maakool-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[True Promise 5: Joint Salvos Strike Israeli Bases]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/joint-iran-lebanon-airstrikes-meron-haifa.webp</image:loc>
+      <image:title><![CDATA[True Promise 5: Joint Salvos Strike Israeli Bases]]></image:title>
     </image:image>
   </url>
   <url>
