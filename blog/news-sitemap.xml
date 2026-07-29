@@ -49,6 +49,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/daily-mail-dubai-finished-patriot-air-defense-failure-fujairah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Dubai Finished: Daily Mail Details Expat Exodus]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/daily-mail-dubai-exodus-war.webp</image:loc>
+      <image:title><![CDATA[Dubai Finished: Daily Mail Details Expat Exodus]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/david-sacks-warns-israel-destruction-arrow-depletion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/david-sacks-israel-destruction.webp</image:loc>
+      <image:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/der-spiegel-german-reconnaissance-hub-destroyed-azraq-jordan</loc>
     <news:news>
       <news:publication>
@@ -304,6 +334,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/somaliland-proposes-us-military-relocation-berbera-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/somaliland-us-military-proposal.webp</image:loc>
+      <image:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/trump-putin-oil-diplomacy-ukraine-iran-ceasefire</loc>
     <news:news>
       <news:publication>
@@ -361,6 +406,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/iran-drone-beidou-navigation.webp</image:loc>
       <image:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/wsj-us-refueling-fleet-losses-dhafra-thaad-radar-struck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[WSJ: US Refueling Fleet Struck, THAAD Targeted]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/thaad-radar-destruction-gulf.webp</image:loc>
+      <image:title><![CDATA[WSJ: US Refueling Fleet Struck, THAAD Targeted]]></image:title>
     </image:image>
   </url>
 </urlset>
