@@ -3,6 +3,38 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/autonomous-ai-warfare-drones-pentagon-claude-hegseth</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ai-autonomous-warfare-drones.webp</image:loc>
+      <image:caption><![CDATA[How Israel and the Pentagon use fully autonomous AI, including Anthropic's Claude, to direct drone strikes and bypass GPS jamming in Iran.]]></image:caption>
+      <image:title><![CDATA[War by Algorithm: AI Autonomous Drones in Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/joint-iranian-lebanese-strike-neutralizes-israel-satellite-stations</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-satellite-station-struck.webp</image:loc>
+      <image:caption><![CDATA[How a joint Iranian-Lebanese strike targeted Emek HaEla and SES teleport stations, blinding Israel's satellite-linked air operations.]]></image:caption>
+      <image:title><![CDATA[Blinded Space: Joint Strikes Neutralize Israeli Satellites]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/lebanon-israel-helicopter-shootdown-failed-commando-raid</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/lebanon-israel-chopper-shootdown.webp</image:loc>
+      <image:caption><![CDATA[Analyzing Israel's failed 15-helicopter commando raid in eastern Lebanon, the downing of a chopper, and joint Iranian-Lebanese retaliatory strikes.]]></image:caption>
+      <image:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/why-iranian-drones-outsmart-israeli-air-defenses</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-drone-beidou-navigation.webp</image:loc>
+      <image:caption><![CDATA[Investigating Iran's integration of the Chinese Beidou-3 (BDS-3) system, short-messaging tech, and tactical decoys that outsmart Israeli air defenses.]]></image:caption>
+      <image:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/corporate-battlefield-iraq-economic-warfare</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/iraq-corporate-targeting.webp</image:loc>
@@ -39,7 +71,7 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/mojtaba-khamenei-nuclear-fatwa-debate.webp</image:loc>
       <image:caption><![CDATA[Analyzing Mojtaba Khamenei's rise, the military's pledge of allegiance, and the debate over bypassing the historic nuclear fatwa.]]></image:caption>
-      <image:title><![CDATA[The Nuclear Pivot: Will Mojtaba Khamenei Forge the Bomb?]]></image:title>
+      <image:title><![CDATA[Will Mojtaba Khamenei Forge the Nuclear Bomb?]]></image:title>
     </image:image>
   </url>
   <url>

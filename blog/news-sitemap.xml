@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://khalidnaami.com/blog/autonomous-ai-warfare-drones-pentagon-claude-hegseth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[War by Algorithm: AI Autonomous Drones in Iran]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ai-autonomous-warfare-drones.webp</image:loc>
+      <image:title><![CDATA[War by Algorithm: AI Autonomous Drones in Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/joint-iranian-lebanese-strike-neutralizes-israel-satellite-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blinded Space: Joint Strikes Neutralize Israeli Satellites]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-satellite-station-struck.webp</image:loc>
+      <image:title><![CDATA[Blinded Space: Joint Strikes Neutralize Israeli Satellites]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/lebanon-israel-helicopter-shootdown-failed-commando-raid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/lebanon-israel-chopper-shootdown.webp</image:loc>
+      <image:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/why-iranian-drones-outsmart-israeli-air-defenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-drone-beidou-navigation.webp</image:loc>
+      <image:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></image:title>
+    </image:image>
+  </url>
+</urlset>
