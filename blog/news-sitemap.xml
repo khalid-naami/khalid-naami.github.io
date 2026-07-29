@@ -364,6 +364,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/romania-aegis-ashore-patriot-gaps-trump-russia-concessions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Romania Defense Gaps: Trump Concessions to Russia]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/romania-aegis-ashore-nato-gaps.webp</image:loc>
+      <image:title><![CDATA[Romania Defense Gaps: Trump Concessions to Russia]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/sejgil-2-ballistic-missile-debut-eilat-us-consulate-struck</loc>
     <news:news>
       <news:publication>
@@ -406,6 +421,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/somaliland-us-military-proposal.webp</image:loc>
       <image:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-financial-times-nato-warning-iran-targets-european-forces</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Warns NATO Over Hormuz: Join Us or Face End]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-financial-times-nato-warning.webp</image:loc>
+      <image:title><![CDATA[Trump Warns NATO Over Hormuz: Join Us or Face End]]></image:title>
     </image:image>
   </url>
   <url>
