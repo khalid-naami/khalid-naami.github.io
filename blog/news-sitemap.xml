@@ -19,6 +19,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/der-spiegel-german-reconnaissance-hub-destroyed-azraq-jordan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blinded in Jordan: German Recon Hub Leveled by Missile]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/german-azraq-base-missile-strike.webp</image:loc>
+      <image:title><![CDATA[Blinded in Jordan: German Recon Hub Leveled by Missile]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/fateh-110-precision-strike-neutralizes-israeli-satellite-station</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/fateh-110-missile-israel-strike.webp</image:loc>
+      <image:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/joint-iranian-lebanese-strike-neutralizes-israel-satellite-stations</loc>
     <news:news>
       <news:publication>
@@ -34,6 +64,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/khorramshahr-4-missile-salvo-foils-israeli-uranium-heist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Foiled Heist: Khorramshahr-4 Salvo Blocks Israeli Raid]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khorramshahr-missile-salvo-night.webp</image:loc>
+      <image:title><![CDATA[Foiled Heist: Khorramshahr-4 Salvo Blocks Israeli Raid]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/lebanon-israel-helicopter-shootdown-failed-commando-raid</loc>
     <news:news>
       <news:publication>
@@ -46,6 +91,66 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/lebanon-israel-chopper-shootdown.webp</image:loc>
       <image:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/negev-site-512-radar-destroyed-warning-time-reduced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Blinded Eyes: US Radar Struck, Warning Times Reduced]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/site-512-thaad-radar-struck.webp</image:loc>
+      <image:title><![CDATA[Blinded Eyes: US Radar Struck, Warning Times Reduced]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/operation-true-promise-4-failure-of-us-russian-diplomacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/true-promise-4-missile-salvo.webp</image:loc>
+      <image:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/regional-expansion-iran-threatens-azerbaijan-cyprus-support-lines</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Strategic Expansion: Iran Targets Cyprus & Azerbaijan]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/middle-east-war-geography-expansion.webp</image:loc>
+      <image:title><![CDATA[Strategic Expansion: Iran Targets Cyprus & Azerbaijan]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-putin-oil-diplomacy-ukraine-iran-ceasefire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Oil Diplomacy: The Secret Trump-Putin Deal on Iran]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-putin-oil-ceasefire-deal.webp</image:loc>
+      <image:title><![CDATA[Oil Diplomacy: The Secret Trump-Putin Deal on Iran]]></image:title>
     </image:image>
   </url>
   <url>
