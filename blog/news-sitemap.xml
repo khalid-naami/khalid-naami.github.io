@@ -259,6 +259,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/khorramshahr-missile-strike-destroys-rafael-strategic-depots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Khorramshahr-4 Strike Vaporizes Rafael Strategic Depots]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khorramshahr-strike-rafael-depots.webp</image:loc>
+      <image:title><![CDATA[Khorramshahr-4 Strike Vaporizes Rafael Strategic Depots]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/larijani-trump-clash-hypersonic-wave-41-strikes-us-troops</loc>
     <news:news>
       <news:publication>
