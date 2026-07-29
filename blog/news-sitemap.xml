@@ -49,6 +49,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/battle-of-taybeh-merkava-destroyed-hezbollah-deep-missiles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Taybeh Ambush: Hezbollah Merkava Strikes and Deep Rockets]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/taybeh-merkava-ambush-hezbollah.webp</image:loc>
+      <image:title><![CDATA[Taybeh Ambush: Hezbollah Merkava Strikes and Deep Rockets]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals</loc>
     <news:news>
       <news:publication>
@@ -406,6 +421,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/netanyahu-mojtaba-ai-warfare-standoff.webp</image:loc>
       <image:title><![CDATA[AI Warfare: The Biometric Hunt for Netanyahu and Mojtaba]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/oil-price-surges-past-110-trump-freezes-energy-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Oil Surges Past $110: Trump Freezes Iranian Energy Strikes]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/oil-surges-trump-freezes-strikes.webp</image:loc>
+      <image:title><![CDATA[Oil Surges Past $110: Trump Freezes Iranian Energy Strikes]]></image:title>
     </image:image>
   </url>
   <url>
