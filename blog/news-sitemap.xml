@@ -364,6 +364,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/netanyahu-mojtaba-khamenei-ai-biometrics-warfare-standoff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[AI Warfare: The Biometric Hunt for Netanyahu and Mojtaba]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/netanyahu-mojtaba-ai-warfare-standoff.webp</image:loc>
+      <image:title><![CDATA[AI Warfare: The Biometric Hunt for Netanyahu and Mojtaba]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/operation-true-promise-4-failure-of-us-russian-diplomacy</loc>
     <news:news>
       <news:publication>
@@ -481,6 +496,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/somaliland-us-military-proposal.webp</image:loc>
       <image:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-breaks-strategic-ambiguity-acknowledges-israel-nuclear-weapons</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Strategic Ambiguity Broken: Trump Confirms Israel’s Nukes]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-strategic-ambiguity-nuclear-israel.webp</image:loc>
+      <image:title><![CDATA[Strategic Ambiguity Broken: Trump Confirms Israel’s Nukes]]></image:title>
     </image:image>
   </url>
   <url>
