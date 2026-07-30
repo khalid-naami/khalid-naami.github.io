@@ -33,7 +33,9 @@ This dual-source tracking reveals a civilian and military death toll that far ex
 The statistical baseline for daily mortality in Israel under normal conditions is approximately 150 deaths per day. During the first 21 days of the current campaign—prior to the recent heavy strikes on Arad and Dimona—monitoring of major cemeteries revealed a persistent addition of 61 excess deaths per day above the historical average.
 
 Over the 21-day period, this average translates to 1,281 excess deaths:
-\[21 \text{ days} \times 61 \text{ excess deaths/day} = 1,281 \text{ excess deaths}\]
+
+**21 days × 61 excess deaths/day = 1,281 excess deaths**
+
 These deaths represent individuals whose lives were lost as a direct or indirect consequence of the war, including:
 *   **Direct impacts** of missile and rocket strikes in peripheral areas.
 *   **Medical emergencies** (such as cardiac arrest and strokes) suffered by elderly or vulnerable citizens in bomb shelters.
