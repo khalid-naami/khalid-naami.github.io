@@ -364,6 +364,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/hormuz-naval-standoff-us-destroyer-satellite-rebuttal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hormuz Standoff: U.S. Destroyer Rebutted by Satellite]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hormuz-naval-standoff.webp</image:loc>
+      <image:title><![CDATA[Hormuz Standoff: U.S. Destroyer Rebutted by Satellite]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/iran-secret-arsenal-unactivated-weaponry-revealed</loc>
     <news:news>
       <news:publication>
@@ -556,6 +571,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/lincoln-carrier-hit.webp</image:loc>
       <image:title><![CDATA[Lincoln Hit: Yemen Warns Bush Carrier in Red Sea]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/mitchell-institute-us-air-force-deficits-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Mitchell Report: U.S. Air Force Unprepared for China]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-china-aviation-gap.webp</image:loc>
+      <image:title><![CDATA[Mitchell Report: U.S. Air Force Unprepared for China]]></image:title>
     </image:image>
   </url>
   <url>
@@ -976,6 +1006,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/us-gulf-bases-bagram-exit.webp</image:loc>
       <image:title><![CDATA[U.S. Gulf Bases Hit: The Bagram Retreat Scenario]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-locus-drone-iranian-shahed-clone-doctrine-shift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[U.S. Locus Drone: Cloning Iran's Shahed-136]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/locus-us-shahed.webp</image:loc>
+      <image:title><![CDATA[U.S. Locus Drone: Cloning Iran's Shahed-136]]></image:title>
     </image:image>
   </url>
   <url>
