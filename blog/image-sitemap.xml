@@ -91,6 +91,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/f-35-kill-decoded-passive-thermal-imaging-ambush-iran</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f35-thermal-imaging-passive-kill-chain.webp</image:loc>
+      <image:caption><![CDATA[Decoding how Iran downed the F-35 using passive electro-optical thermal imaging with zero radar emissions, denying the pilot any warning before proximity fuze fragmentation.]]></image:caption>
+      <image:title><![CDATA[F-35 Kill Decoded: Passive Thermal Imaging Ambush]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/f-35-stealth-defeated-iran-em-scatter-reassembly-radar</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/f35-stealth-defeated-iran-radar.webp</image:loc>

@@ -169,6 +169,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/f-35-kill-decoded-passive-thermal-imaging-ambush-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[F-35 Kill Decoded: Passive Thermal Imaging Ambush]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f35-thermal-imaging-passive-kill-chain.webp</image:loc>
+      <image:title><![CDATA[F-35 Kill Decoded: Passive Thermal Imaging Ambush]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/f-35-stealth-defeated-iran-em-scatter-reassembly-radar</loc>
     <news:news>
       <news:publication>
