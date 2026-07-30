@@ -124,6 +124,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/china-energy-independence-north-korea-neutrality</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[China Energy autarky & North Korea Neutrality]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-energy-nk.webp</image:loc>
+      <image:title><![CDATA[China Energy autarky & North Korea Neutrality]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/china-evacuation-israel-april-threshold</loc>
     <news:news>
       <news:publication>
@@ -736,6 +751,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/trump-framework-kharg-island.webp</image:loc>
       <image:title><![CDATA[Trump Abandons Ultimatum, Seeks Framework Deal]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-axios-interview-reveals-rescue-failures</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Axios Interview: Failed Pilot Rescue]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/axios-trump-interview.webp</image:loc>
+      <image:title><![CDATA[Trump Axios Interview: Failed Pilot Rescue]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-channel-12-interview-pilot-rescue-trap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Channel 12: Pilot Rescue as Decoy Trap]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-channel-12.webp</image:loc>
+      <image:title><![CDATA[Trump Channel 12: Pilot Rescue as Decoy Trap]]></image:title>
     </image:image>
   </url>
   <url>
