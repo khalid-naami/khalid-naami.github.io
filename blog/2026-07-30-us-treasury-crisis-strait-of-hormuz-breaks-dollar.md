@@ -53,7 +53,9 @@ Under normal conditions, the Fed would raise interest rates to combat inflation.
 ## The Vicious Feedback Loop of War Financing
 
 The intersection of energy markets, inflation, and interest rates has created a vicious feedback loop for U.S. public finance:
-\[\text{Hormuz Closure} \rightarrow \text{High Energy Prices} \rightarrow \text{Domestic Inflation} \rightarrow \text{High Interest Rates}\]
+
+**Hormuz Closure → High Energy Prices → Domestic Inflation → High Interest Rates**
+
 The loop operates as follows:
 1.  The blockade of the strait drives up energy prices.
 2.  High energy prices prevent the Federal Reserve from cutting interest rates.
