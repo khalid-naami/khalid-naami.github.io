@@ -289,6 +289,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-nasrallah-precision-missile-ghadr-haifa-refinery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Nasrallah Missile Debut: Iran's Precision Ghadr Hits Haifa]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-nasrallah-precision-ballistic-missile.webp</image:loc>
+      <image:title><![CDATA[Nasrallah Missile Debut: Iran's Precision Ghadr Hits Haifa]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/iran-oil-target-list-us-lobby-clash-netanyahu-resignation</loc>
     <news:news>
       <news:publication>
