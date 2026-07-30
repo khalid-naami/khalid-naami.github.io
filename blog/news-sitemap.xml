@@ -349,6 +349,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-wave-70-five-us-bases-qeshm-fortress-hormuz-dubai-threat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Wave 70 Hits 5 Bases: Qeshm Fortress Blocks Hormuz]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-wave70-qeshm-fortress-hormuz.webp</image:loc>
+      <image:title><![CDATA[Wave 70 Hits 5 Bases: Qeshm Fortress Blocks Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/israeli-navy-absent-strait-of-hormuz-coalition-alliances-collapse</loc>
     <news:news>
       <news:publication>
@@ -721,6 +736,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/trump-putin-oil-ceasefire-deal.webp</image:loc>
       <image:title><![CDATA[Oil Diplomacy: The Secret Trump-Putin Deal on Iran]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/trump-rejects-gulf-ceasefire-iran-cluster-warheads-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Rejects Gulf Ceasefire as Iran Shifts to Clusters]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/trump-rejects-qatar-uae-ceasefire-cluster.webp</image:loc>
+      <image:title><![CDATA[Trump Rejects Gulf Ceasefire as Iran Shifts to Clusters]]></image:title>
     </image:image>
   </url>
   <url>
