@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/aerosol-drone-factory-destroyed-petah-tikva</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/aerosol-factory-destroyed.webp</image:loc>
+      <image:caption><![CDATA[An Iranian precision missile destroys Aerosol Aviation Solutions drone factory in Petah Tikva, suspending stock trading and halting Valorax acquisition.]]></image:caption>
+      <image:title><![CDATA[Aerosol Drone Factory Destroyed in Petah Tikva]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/al-minhad-blown-us-gulf-command-shattered</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/us-aircraft-losses-epic-fury.webp</image:loc>
@@ -59,11 +67,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/china-evacuation-israel-april-threshold</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/china-evacuation-israel.webp</image:loc>
+      <image:caption><![CDATA[China organizes final evacuation from Israel before April 7 via Taba, signaling a major escalation phase against critical infrastructure.]]></image:caption>
+      <image:title><![CDATA[China Evacuates Citizens: April 7 Threshold]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/crosetto-warns-of-imminent-global-energy-darkness</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/crosetto-italy-defense.webp</image:loc>
       <image:caption><![CDATA[Analyzing Italian Defense Minister Guido Crosetto's warning of a catastrophic energy crisis resulting from U.S. plans to seize Iranian oil.]]></image:caption>
       <image:title><![CDATA[Crosetto Warns: Imminent Global Energy Darkness]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/dei-9-air-defense-missiles-down-mq-9</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dei-9-missile-system.webp</image:loc>
+      <image:caption><![CDATA[Iran's AI-guided Dei-9 air defense system downs U.S. MQ-9 Reapers and Chinese Wing Loong drones, countering S-500 rumors with domestic technology.]]></image:caption>
+      <image:title><![CDATA[Dei-9 System: Iran's AI Air Defense Downing Drones]]></image:title>
     </image:image>
   </url>
   <url>
@@ -379,11 +403,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/underground-fortress-doctrine-zagros-mountains</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/underground-fortress.webp</image:loc>
+      <image:caption><![CDATA[How Iran's mountain fortress and the global underground axis challenge 21st-century air superiority through engineering and asymmetric economics.]]></image:caption>
+      <image:title><![CDATA[Underground Fortress: Attrition Over Airpower]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-gulf-bases-hit-the-bagram-retreat-scenario</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/us-gulf-bases-bagram-exit.webp</image:loc>
       <image:caption><![CDATA[Analyzing the NYT report on severe damage to 13 U.S. military bases in the Gulf, and the threat of a Vietnam-style Bagram exit.]]></image:caption>
       <image:title><![CDATA[U.S. Gulf Bases Hit: The Bagram Retreat Scenario]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-pilot-rescue-mission-fails-isfahan</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/rescue-mission-failure.webp</image:loc>
+      <image:caption><![CDATA[A U.S. special operations rescue mission in Isfahan costs up to $1 billion, destroying two MC-130J aircraft on the ground under heavy fire.]]></image:caption>
+      <image:title><![CDATA[US Pilot Rescue: 7 Aircraft Lost in Isfahan]]></image:title>
     </image:image>
   </url>
   <url>
