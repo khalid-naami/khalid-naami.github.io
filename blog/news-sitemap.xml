@@ -709,6 +709,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/submarine-fires-turkish-waters-natanz-turkey-sovereignty-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Submarine Fires from Turkish Waters to Hit Natanz]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/submarine-turkey-cyprus-natanz-strike.webp</image:loc>
+      <image:title><![CDATA[Submarine Fires from Turkish Waters to Hit Natanz]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/telegraph-leak-mojtaba-khamenei-narrow-escape-compound-strike</loc>
     <news:news>
       <news:publication>
