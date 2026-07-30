@@ -634,6 +634,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/sino-russian-veto-strait-of-hormuz-us-hegemony</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Sino-Russian Veto: US Loses Strait of Hormuz]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/sino-russian-veto.webp</image:loc>
+      <image:title><![CDATA[Sino-Russian Veto: US Loses Strait of Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/steel-and-cement-symmetrical-industrial-strikes</loc>
     <news:news>
       <news:publication>
@@ -859,6 +874,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/warzone-iran-missile-penetration-davids-sling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[War Zone: Iran Bypasses Israeli Missile Shield]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/warzone-missile-shield.webp</image:loc>
+      <image:title><![CDATA[War Zone: Iran Bypasses Israeli Missile Shield]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/wave-9-passover-strike-cluster-warheads-reach-israel</loc>
     <news:news>
       <news:publication>
@@ -871,6 +901,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/wave9-passover-strike.webp</image:loc>
       <image:title><![CDATA[Wave 9: Cluster Warheads Reach Israel]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/wsj-iran-15000-missiles-civilizational-state-blackout</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[WSJ: Iran Threatens 15000 Missiles & 45000 Drones]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/wsj-iran-arsenal.webp</image:loc>
+      <image:title><![CDATA[WSJ: Iran Threatens 15000 Missiles & 45000 Drones]]></image:title>
     </image:image>
   </url>
   <url>
