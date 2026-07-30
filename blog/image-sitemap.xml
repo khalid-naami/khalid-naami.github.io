@@ -3,6 +3,46 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/financial-times-leak-iran-military-strategy-replenishment-ceasefire</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-military-curriculum.webp</image:loc>
+      <image:caption><![CDATA[Leaked documents show Iran adapting lessons from Ukraine, as commanders confirm rapid missile and drone replenishment during the ceasefire.]]></image:caption>
+      <image:title><![CDATA[FT Leak: Iran Military Strategy & Ceasefire Arming]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iranian-ship-toska-seizure-hormuz-blockade-escalation</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/toska-ship-seizure.webp</image:loc>
+      <image:caption><![CDATA[The U.S. Navy destroyer USS Spruance DDG-111 intercepts and disables the Iranian cargo ship Toska, prompting the IRGC to re-close the Strait of Hormuz.]]></image:caption>
+      <image:title><![CDATA[Iranian Ship Toska Seized: Hormuz Blockade Escalates]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/irgc-aerospace-underground-video-us-war-economy-china-shipments</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/irgc-underground-missiles.webp</image:loc>
+      <image:caption><![CDATA[A leaked video shows vast IRGC underground missile depots, as the Pentagon starts converting auto factories to address weapons shortages.]]></image:caption>
+      <image:title><![CDATA[IRGC Video Leak & U.S. Transition to War Economy]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/missing-us-scientists-anti-gravity-propulsion-research-mystery</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/missing-us-scientists.webp</image:loc>
+      <image:caption><![CDATA[At least ten top U.S. scientists and defense officials vanish or die under mysterious circumstances, prompting a federal probe into anti-gravity projects.]]></image:caption>
+      <image:title><![CDATA[U.S. Scientists Disappear: Anti-Gravity Project Link]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/taiwan-strait-hormuz-blockade-us-carrier-strike-wednesday</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
+      <image:caption><![CDATA[The U.S. and its allies coordinate naval operations in the Taiwan Strait and Hormuz, as Trump threatens a return to heavy airstrikes on Wednesday.]]></image:caption>
+      <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/aerosol-drone-factory-destroyed-petah-tikva</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/aerosol-factory-destroyed.webp</image:loc>

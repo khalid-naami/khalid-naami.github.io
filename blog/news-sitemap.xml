@@ -4,6 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/financial-times-leak-iran-military-strategy-replenishment-ceasefire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[FT Leak: Iran Military Strategy & Ceasefire Arming]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-military-curriculum.webp</image:loc>
+      <image:title><![CDATA[FT Leak: Iran Military Strategy & Ceasefire Arming]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iranian-ship-toska-seizure-hormuz-blockade-escalation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iranian Ship Toska Seized: Hormuz Blockade Escalates]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/toska-ship-seizure.webp</image:loc>
+      <image:title><![CDATA[Iranian Ship Toska Seized: Hormuz Blockade Escalates]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/irgc-aerospace-underground-video-us-war-economy-china-shipments</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IRGC Video Leak & U.S. Transition to War Economy]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/irgc-underground-missiles.webp</image:loc>
+      <image:title><![CDATA[IRGC Video Leak & U.S. Transition to War Economy]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/missing-us-scientists-anti-gravity-propulsion-research-mystery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[U.S. Scientists Disappear: Anti-Gravity Project Link]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/missing-us-scientists.webp</image:loc>
+      <image:title><![CDATA[U.S. Scientists Disappear: Anti-Gravity Project Link]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/taiwan-strait-hormuz-blockade-us-carrier-strike-wednesday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
+      <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/aerosol-drone-factory-destroyed-petah-tikva</loc>
     <news:news>
       <news:publication>
