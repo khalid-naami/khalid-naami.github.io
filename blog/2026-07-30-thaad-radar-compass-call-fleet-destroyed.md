@@ -84,6 +84,15 @@ The U.S. military has released imagery designed to counter the narrative of cata
 
 ---
 
+## Trump's Retaliation: Targeting Civilian Infrastructure
+
+The strategic loss of the THAAD radar and electronic warfare aircraft forced a change in U.S. strategy:
+*   **The Retaliation**: Faced with the destruction of high-tech assets, President Trump ordered retaliatory strikes against civilian and dual-use Iranian infrastructure.
+*   **The Rationale**: This shift was intended to project strength to domestic audiences and offset the visible failure of U.S. defensive capabilities.
+*   **The Consequence**: Targeting civilian infrastructure has hardened Iranian political resolve and accelerated their development of asymmetric counter-technologies.
+
+---
+
 ## Conclusion: The Electronic Shield Shattered
 
 The confirmed destruction of the THAAD radar and half the EC-130H Compass Call fleet at Prince Sultan Air Base represents the most significant material loss suffered by the U.S. military in the Iran campaign.
