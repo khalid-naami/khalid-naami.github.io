@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/cnn-report-us-missile-depletion-blockade-munitions-shortage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[CNN Report: U.S. Precision Missile Depletion]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-munitions-depletion.webp</image:loc>
+      <image:title><![CDATA[CNN Report: U.S. Precision Missile Depletion]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/esmail-qaani-iraq-visit-saraya-awliya-dam-blockade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Esmail Qaani Iraq Visit: Iraqi Factions Alert]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/qaani-iraq-visit.webp</image:loc>
+      <image:title><![CDATA[Esmail Qaani Iraq Visit: Iraqi Factions Alert]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/financial-times-leak-iran-military-strategy-replenishment-ceasefire</loc>
     <news:news>
       <news:publication>
@@ -16,6 +46,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/iran-military-curriculum.webp</image:loc>
       <image:title><![CDATA[FT Leak: Iran Military Strategy & Ceasefire Arming]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/greek-gas-carrier-epaminondas-bridge-shelled-iranian-navy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Greek LNG Carrier Epaminondas Shelled in Gulf]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/greek-tanker-strike.webp</image:loc>
+      <image:title><![CDATA[Greek LNG Carrier Epaminondas Shelled in Gulf]]></image:title>
     </image:image>
   </url>
   <url>
@@ -49,6 +94,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/israel-energy-crisis-azerbaijan-pipeline-chevron-gas-vulnerability</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
+      <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/lebanon-ceasefire-extension-shtoula-rocket-strike-idf-breach</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Lebanon Ceasefire Extension: Shtoula Strike]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/lebanon-ceasefire-extension.webp</image:loc>
+      <image:title><![CDATA[Lebanon Ceasefire Extension: Shtoula Strike]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/missing-us-scientists-anti-gravity-propulsion-research-mystery</loc>
     <news:news>
       <news:publication>
@@ -76,6 +151,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
       <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-zumwalt-fire-hypersonic-naval-secretary-phelan-dismissed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[USS Zumwalt Fire: Navy Secretary Phelan Fired]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-zumwalt-fire.webp</image:loc>
+      <image:title><![CDATA[USS Zumwalt Fire: Navy Secretary Phelan Fired]]></image:title>
     </image:image>
   </url>
   <url>
@@ -1351,891 +1441,6 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/yazd-missile-launch.webp</image:loc>
       <image:title><![CDATA[Yazd Base Rebounds: DIA Shocked by Missile Launches]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/al-dhafra-strike-satellite-images-destroy-early-warning-fleet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Al Dhafra Strike: Satellite Shows Fleet Destroyed]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/dhafra-hangar-destruction-satellite.webp</image:loc>
-      <image:title><![CDATA[Al Dhafra Strike: Satellite Shows Fleet Destroyed]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/autonomous-ai-warfare-drones-pentagon-claude-hegseth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[War by Algorithm: AI Autonomous Drones in Iran]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/ai-autonomous-warfare-drones.webp</image:loc>
-      <image:title><![CDATA[War by Algorithm: AI Autonomous Drones in Iran]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/azdar-uuv-iranian-stealth-submersible-us-navy-nightmare</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Stealth Sub: The UUV Straining the US Navy in Hormuz]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/azdar-uuv-stealth-submersible.webp</image:loc>
-      <image:title><![CDATA[Stealth Sub: The UUV Straining the US Navy in Hormuz]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/battle-of-taybeh-merkava-destroyed-hezbollah-deep-missiles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Taybeh Ambush: Hezbollah Merkava Strikes and Deep Rockets]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/taybeh-merkava-ambush-hezbollah.webp</image:loc>
-      <image:title><![CDATA[Taybeh Ambush: Hezbollah Merkava Strikes and Deep Rockets]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/caspian-strike-moscow-carriers-risk-russia-iran-weapons</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Caspian Strike Triggers Moscow: Carriers Now at Risk]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/russia-caspian-carriers-iran-weapons.webp</image:loc>
-      <image:title><![CDATA[Caspian Strike Triggers Moscow: Carriers Now at Risk]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/chinese-ai-jingqi-tracks-b2-stealth-bomber-signals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/chinese-ai-tracks-b2-stealth-bomber.webp</image:loc>
-      <image:title><![CDATA[Stealth Compromised: Chinese AI Tracks B-2 Bombers]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/coordinated-strikes-target-commercial-ships-strait-of-hormuz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/hormuz-shipping-coordinated-strikes.webp</image:loc>
-      <image:title><![CDATA[Hormuz Blockade: Three Cargo Ships Struck in Gulf]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/daily-mail-dubai-finished-patriot-air-defense-failure-fujairah</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dubai Finished: Daily Mail Details Expat Exodus]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/daily-mail-dubai-exodus-war.webp</image:loc>
-      <image:title><![CDATA[Dubai Finished: Daily Mail Details Expat Exodus]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/david-sacks-warns-israel-destruction-arrow-depletion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/david-sacks-israel-destruction.webp</image:loc>
-      <image:title><![CDATA[David Sacks Warns of Total Israeli Destruction]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/day-of-the-radars-iran-wave-51-strikes-prince-sultan-base</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Day of the Radars: Iran Strikedown of US Air Defenses]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/patriot-radar-destruction-campaign.webp</image:loc>
-      <image:title><![CDATA[Day of the Radars: Iran Strikedown of US Air Defenses]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/der-spiegel-german-reconnaissance-hub-destroyed-azraq-jordan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blinded in Jordan: German Recon Hub Leveled by Missile]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/german-azraq-base-missile-strike.webp</image:loc>
-      <image:title><![CDATA[Blinded in Jordan: German Recon Hub Leveled by Missile]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/dimona-struck-iran-nuclear-red-line-kharg-deterrence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dimona Struck: Iran's Nuclear Red Line Warning]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/dimona-strike-iran-nuclear-deterrence.webp</image:loc>
-      <image:title><![CDATA[Dimona Struck: Iran's Nuclear Red Line Warning]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/f-35-kill-decoded-passive-thermal-imaging-ambush-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[F-35 Kill Decoded: Passive Thermal Imaging Ambush]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/f35-thermal-imaging-passive-kill-chain.webp</image:loc>
-      <image:title><![CDATA[F-35 Kill Decoded: Passive Thermal Imaging Ambush]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/f-35-stealth-defeated-iran-em-scatter-reassembly-radar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[F-35 Hit: Iran Cracks Stealth via EM Scatter Reassembly]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/f35-stealth-defeated-iran-radar.webp</image:loc>
-      <image:title><![CDATA[F-35 Hit: Iran Cracks Stealth via EM Scatter Reassembly]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/fateh-110-precision-strike-neutralizes-israeli-satellite-station</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/fateh-110-missile-israel-strike.webp</image:loc>
-      <image:title><![CDATA[Precision Strike: Fateh-110 Hits Israeli Space Hub]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/fattah-hypersonic-strike-ben-gurion-fuel-depots-iai-hit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Fattah Strike: Ben Gurion Fuel Depots and IAI Hit]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/fattah-hypersonic-strike-ben-gurion.webp</image:loc>
-      <image:title><![CDATA[Fattah Strike: Ben Gurion Fuel Depots and IAI Hit]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/gulf-islands-strategic-battle-florida-talks-oil-cap</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Gulf Battle: The Fight for the Strategic Islands]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/gulf-islands-geopolitical-battle.webp</image:loc>
-      <image:title><![CDATA[Gulf Battle: The Fight for the Strategic Islands]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/haifa-refinery-struck-massive-blackout-f-35-emergency-landing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Haifa Refinery Struck: Blackout and F-35 Emergency Landing]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/haifa-refinery-struck-blackouts.webp</image:loc>
-      <image:title><![CDATA[Haifa Refinery Struck: Blackout and F-35 Emergency Landing]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/hezbollah-anti-tank-tactics-destroy-idf-tanks-lebanon-quagmire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[IDF Tank Losses: Southern Lebanon Becomes a Quagmire]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/hezbollah-anti-tank-idf-lebanon-quagmire.webp</image:loc>
-      <image:title><![CDATA[IDF Tank Losses: Southern Lebanon Becomes a Quagmire]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/hezbollah-launches-operation-khaybar-1-missile-salvos-israel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/hezbollah-khaybar-1-missile-operation.webp</image:loc>
-      <image:title><![CDATA[Operation Khaybar-1: Hezbollah Rockets Northern Israel]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/hossein-dehghan-appointed-iran-defense-blocks-us-ground-invasion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dehghan Appointed: Iran Unifies Command, Blocks US Invasion]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/hossein-dehghan-iran-defense-coordinator.webp</image:loc>
-      <image:title><![CDATA[Dehghan Appointed: Iran Unifies Command, Blocks US Invasion]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/iaf-tomer-bar-acknowledges-war-shifted-israel-iranian-missiles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blown Away: IAF Chief Admits War Has Shifted to Israel]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/tomer-bar-iaf-israel-war.webp</image:loc>
-      <image:title><![CDATA[Blown Away: IAF Chief Admits War Has Shifted to Israel]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/intel-failure-israel-subway-cyberattack-transit-hijacked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blinded: Intel Failure and Israel Subway Cyberattack]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/israel-subway-cyberattack-transit.webp</image:loc>
-      <image:title><![CDATA[Blinded: Intel Failure and Israel Subway Cyberattack]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/iran-nasrallah-precision-missile-ghadr-haifa-refinery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Nasrallah Missile Debut: Iran's Precision Ghadr Hits Haifa]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/iran-nasrallah-precision-ballistic-missile.webp</image:loc>
-      <image:title><![CDATA[Nasrallah Missile Debut: Iran's Precision Ghadr Hits Haifa]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/iran-oil-target-list-us-lobby-clash-netanyahu-resignation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Gulf Target List: Iran Threatens US Oil Assets]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/chevron-exxon-gulf-oil-retaliation.webp</image:loc>
-      <image:title><![CDATA[Gulf Target List: Iran Threatens US Oil Assets]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/iran-wave-70-five-us-bases-qeshm-fortress-hormuz-dubai-threat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Wave 70 Hits 5 Bases: Qeshm Fortress Blocks Hormuz]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/iran-wave70-qeshm-fortress-hormuz.webp</image:loc>
-      <image:title><![CDATA[Wave 70 Hits 5 Bases: Qeshm Fortress Blocks Hormuz]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/israeli-navy-absent-strait-of-hormuz-coalition-alliances-collapse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Absent Fleet: Why Israel’s Navy Shuns the Strait of Hormuz]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/israeli-navy-absent-hormuz-coalition.webp</image:loc>
-      <image:title><![CDATA[Absent Fleet: Why Israel’s Navy Shuns the Strait of Hormuz]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/joint-iranian-lebanese-strike-neutralizes-israel-satellite-stations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blinded Space: Joint Strikes Neutralize Israeli Satellites]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/israel-satellite-station-struck.webp</image:loc>
-      <image:title><![CDATA[Blinded Space: Joint Strikes Neutralize Israeli Satellites]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/khorramshahr-4-missile-salvo-foils-israeli-uranium-heist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Foiled Heist: Khorramshahr-4 Salvo Blocks Israeli Raid]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/khorramshahr-missile-salvo-night.webp</image:loc>
-      <image:title><![CDATA[Foiled Heist: Khorramshahr-4 Salvo Blocks Israeli Raid]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/khorramshahr-missile-strike-destroys-rafael-strategic-depots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Khorramshahr-4 Strike Vaporizes Rafael Strategic Depots]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/khorramshahr-strike-rafael-depots.webp</image:loc>
-      <image:title><![CDATA[Khorramshahr-4 Strike Vaporizes Rafael Strategic Depots]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/larijani-trump-clash-hypersonic-wave-41-strikes-us-troops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Into the Dark: Larijani and Trump Clash on Grid Strikes]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/larijani-trump-wave-41-strike.webp</image:loc>
-      <image:title><![CDATA[Into the Dark: Larijani and Trump Clash on Grid Strikes]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/leaked-photos-damaged-us-kc-135-ben-gurion-carrier-lincoln</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Leaked: Damaged US Tanker Lands at Ben Gurion]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/us-kc135-ben-gurion-damage.webp</image:loc>
-      <image:title><![CDATA[Leaked: Damaged US Tanker Lands at Ben Gurion]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/lebanon-israel-helicopter-shootdown-failed-commando-raid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/lebanon-israel-chopper-shootdown.webp</image:loc>
-      <image:title><![CDATA[Failed Raid: Hezbollah Shoots Down Israeli Chopper]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/mojtaba-khamenei-first-address-doctrine-full-retaliation-compensation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Mojtaba Khamenei's Doctrine: Retaliation & Compensation]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/mojtaba-khamenei-doctrine-compensation.webp</image:loc>
-      <image:title><![CDATA[Mojtaba Khamenei's Doctrine: Retaliation & Compensation]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/negev-site-512-radar-destroyed-warning-time-reduced</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blinded Eyes: US Radar Struck, Warning Times Reduced]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/site-512-thaad-radar-struck.webp</image:loc>
-      <image:title><![CDATA[Blinded Eyes: US Radar Struck, Warning Times Reduced]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/netanyahu-mojtaba-khamenei-ai-biometrics-warfare-standoff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[AI Warfare: The Biometric Hunt for Netanyahu and Mojtaba]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/netanyahu-mojtaba-ai-warfare-standoff.webp</image:loc>
-      <image:title><![CDATA[AI Warfare: The Biometric Hunt for Netanyahu and Mojtaba]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/oil-price-surges-past-110-trump-freezes-energy-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Oil Surges Past $110: Trump Freezes Iranian Energy Strikes]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/oil-surges-trump-freezes-strikes.webp</image:loc>
-      <image:title><![CDATA[Oil Surges Past $110: Trump Freezes Iranian Energy Strikes]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/operation-true-promise-4-failure-of-us-russian-diplomacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/true-promise-4-missile-salvo.webp</image:loc>
-      <image:title><![CDATA[True Promise 4: The Collapse of Oil Diplomacy]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/operation-true-promise-5-hezbollah-asf-maakool-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[True Promise 5: Joint Salvos Strike Israeli Bases]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/joint-iran-lebanon-airstrikes-meron-haifa.webp</image:loc>
-      <image:title><![CDATA[True Promise 5: Joint Salvos Strike Israeli Bases]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/quds-day-rallies-defiance-drone-strike-idf-general-staff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Quds Day Defiance: Leaders March, IDF HQ Targeted]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/quds-day-rallies-tehran-defiance.webp</image:loc>
-      <image:title><![CDATA[Quds Day Defiance: Leaders March, IDF HQ Targeted]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/regional-expansion-iran-threatens-azerbaijan-cyprus-support-lines</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Strategic Expansion: Iran Targets Cyprus & Azerbaijan]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/middle-east-war-geography-expansion.webp</image:loc>
-      <image:title><![CDATA[Strategic Expansion: Iran Targets Cyprus & Azerbaijan]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/romania-aegis-ashore-patriot-gaps-trump-russia-concessions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Romania Defense Gaps: Trump Concessions to Russia]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/romania-aegis-ashore-nato-gaps.webp</image:loc>
-      <image:title><![CDATA[Romania Defense Gaps: Trump Concessions to Russia]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/saudi-an-fps-117-early-warning-radar-destroyed-qaisumah</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Radar Blown: Drone Destroys Saudi AN/FPS-117 Near Qaisumah]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/saudi-fps-117-radar-destroyed.webp</image:loc>
-      <image:title><![CDATA[Radar Blown: Drone Destroys Saudi AN/FPS-117 Near Qaisumah]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/sejgil-2-ballistic-missile-debut-eilat-us-consulate-struck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Sejgil-2 Debut: Eilat Struck, US Consulate Hit]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/sejgil-2-missile-combat-debut.webp</image:loc>
-      <image:title><![CDATA[Sejgil-2 Debut: Eilat Struck, US Consulate Hit]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/single-drone-strike-destroys-baghdad-embassy-c-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Point Blind: Drone Destroys US Embassy C-RAM in Iraq]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/us-embassy-baghdad-cram-destroyed.webp</image:loc>
-      <image:title><![CDATA[Point Blind: Drone Destroys US Embassy C-RAM in Iraq]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/somaliland-proposes-us-military-relocation-berbera-israel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/somaliland-us-military-proposal.webp</image:loc>
-      <image:title><![CDATA[Somaliland Proposes US Military Move to Berbera]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/south-pars-gas-field-struck-us-strips-europe-patriots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[South Pars Struck: US Strips European Air Defenses]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/south-pars-gas-strike-asaluyeh.webp</image:loc>
-      <image:title><![CDATA[South Pars Struck: US Strips European Air Defenses]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/submarine-fires-turkish-waters-natanz-turkey-sovereignty-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Submarine Fires from Turkish Waters to Hit Natanz]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/submarine-turkey-cyprus-natanz-strike.webp</image:loc>
-      <image:title><![CDATA[Submarine Fires from Turkish Waters to Hit Natanz]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/telegraph-leak-mojtaba-khamenei-narrow-escape-compound-strike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Telegraph Leak: Mojtaba Khamenei’s Narrow Escape]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/mojtaba-khamenei-survives-compound-strike.webp</image:loc>
-      <image:title><![CDATA[Telegraph Leak: Mojtaba Khamenei’s Narrow Escape]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/trump-breaks-strategic-ambiguity-acknowledges-israel-nuclear-weapons</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Strategic Ambiguity Broken: Trump Confirms Israel’s Nukes]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/trump-strategic-ambiguity-nuclear-israel.webp</image:loc>
-      <image:title><![CDATA[Strategic Ambiguity Broken: Trump Confirms Israel’s Nukes]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/trump-financial-times-nato-warning-iran-targets-european-forces</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Trump Warns NATO Over Hormuz: Join Us or Face End]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/trump-financial-times-nato-warning.webp</image:loc>
-      <image:title><![CDATA[Trump Warns NATO Over Hormuz: Join Us or Face End]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/trump-putin-oil-diplomacy-ukraine-iran-ceasefire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Oil Diplomacy: The Secret Trump-Putin Deal on Iran]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/trump-putin-oil-ceasefire-deal.webp</image:loc>
-      <image:title><![CDATA[Oil Diplomacy: The Secret Trump-Putin Deal on Iran]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/trump-rejects-gulf-ceasefire-iran-cluster-warheads-israel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Trump Rejects Gulf Ceasefire as Iran Shifts to Clusters]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/trump-rejects-qatar-uae-ceasefire-cluster.webp</image:loc>
-      <image:title><![CDATA[Trump Rejects Gulf Ceasefire as Iran Shifts to Clusters]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/us-kc-135-stratotanker-shot-down-iraq-emergency-landing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Stratotanker Down: US KC-135 Shot Down Over Iraq]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/kc135-tanker-shootdown-iraq.webp</image:loc>
-      <image:title><![CDATA[Stratotanker Down: US KC-135 Shot Down Over Iraq]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/us-plans-uranium-seizure-mehrabad-runway-blocked-fordow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Runway Blocked: Iran Prepares for US Uranium Raid]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/mehrabad-runway-obstruction-satellite.webp</image:loc>
-      <image:title><![CDATA[Runway Blocked: Iran Prepares for US Uranium Raid]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/uss-gerald-ford-electrical-fire-disables-emals-red-sea</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Blinded Carrier: Fire Disables USS Gerald R. Ford]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/uss-gerald-ford-electrical-fire.webp</image:loc>
-      <image:title><![CDATA[Blinded Carrier: Fire Disables USS Gerald R. Ford]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/uss-gerald-ford-withdrawn-souda-bay-laundry-fire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/uss-gerald-ford-souda-bay-withdrawal.webp</image:loc>
-      <image:title><![CDATA[USS Gerald R. Ford Withdrawn: Fire Forces Souda Bay Transit]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/why-iranian-drones-outsmart-israeli-air-defenses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/iran-drone-beidou-navigation.webp</image:loc>
-      <image:title><![CDATA[Smart Swarms: Why Iranian Drones Terrify Netanyahu]]></image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://khalidnaami.com/blog/wsj-us-refueling-fleet-losses-dhafra-thaad-radar-struck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Khalid Naami</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[WSJ: US Refueling Fleet Struck, THAAD Targeted]]></news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://khalidnaami.com/img/thaad-radar-destruction-gulf.webp</image:loc>
-      <image:title><![CDATA[WSJ: US Refueling Fleet Struck, THAAD Targeted]]></image:title>
     </image:image>
   </url>
 </urlset>

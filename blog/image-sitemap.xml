@@ -3,11 +3,35 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/cnn-report-us-missile-depletion-blockade-munitions-shortage</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-munitions-depletion.webp</image:loc>
+      <image:caption><![CDATA[A CNN investigation reveals severe depletion of U.S. precision-guided missiles during the Iran war, limiting future strike options.]]></image:caption>
+      <image:title><![CDATA[CNN Report: U.S. Precision Missile Depletion]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/esmail-qaani-iraq-visit-saraya-awliya-dam-blockade</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/qaani-iraq-visit.webp</image:loc>
+      <image:caption><![CDATA[IRGC Quds Force commander Esmail Qaani makes a surprise visit to Baghdad, as Iraqi factions brace for a resumption of regional hostilities.]]></image:caption>
+      <image:title><![CDATA[Esmail Qaani Iraq Visit: Iraqi Factions Alert]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/financial-times-leak-iran-military-strategy-replenishment-ceasefire</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/iran-military-curriculum.webp</image:loc>
       <image:caption><![CDATA[Leaked documents show Iran adapting lessons from Ukraine, as commanders confirm rapid missile and drone replenishment during the ceasefire.]]></image:caption>
       <image:title><![CDATA[FT Leak: Iran Military Strategy & Ceasefire Arming]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/greek-gas-carrier-epaminondas-bridge-shelled-iranian-navy</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/greek-tanker-strike.webp</image:loc>
+      <image:caption><![CDATA[The Greek-owned LNG carrier Epaminondas is shelled by an Iranian patrol boat in the Gulf due to its parent company's shipping ties to Israel.]]></image:caption>
+      <image:title><![CDATA[Greek LNG Carrier Epaminondas Shelled in Gulf]]></image:title>
     </image:image>
   </url>
   <url>
@@ -27,6 +51,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/israel-energy-crisis-azerbaijan-pipeline-chevron-gas-vulnerability</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
+      <image:caption><![CDATA[Israel faces a critical energy threat as the Baku-Tbilisi-Ceyhan pipeline and Chevron's offshore gas platforms become targets for retaliation.]]></image:caption>
+      <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/lebanon-ceasefire-extension-shtoula-rocket-strike-idf-breach</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/lebanon-ceasefire-extension.webp</image:loc>
+      <image:caption><![CDATA[Donald Trump proposes a three-week extension of the Lebanon ceasefire, as Hezbollah retaliates for IDF violations with a rocket strike on Shtoula.]]></image:caption>
+      <image:title><![CDATA[Lebanon Ceasefire Extension: Shtoula Strike]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/missing-us-scientists-anti-gravity-propulsion-research-mystery</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/missing-us-scientists.webp</image:loc>
@@ -40,6 +80,14 @@
       <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
       <image:caption><![CDATA[The U.S. and its allies coordinate naval operations in the Taiwan Strait and Hormuz, as Trump threatens a return to heavy airstrikes on Wednesday.]]></image:caption>
       <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uss-zumwalt-fire-hypersonic-naval-secretary-phelan-dismissed</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uss-zumwalt-fire.webp</image:loc>
+      <image:caption><![CDATA[U.S. Navy Secretary John V. Phelan is dismissed following a series of fires on capital warships, including the stealth destroyer USS Zumwalt.]]></image:caption>
+      <image:title><![CDATA[USS Zumwalt Fire: Navy Secretary Phelan Fired]]></image:title>
     </image:image>
   </url>
   <url>
