@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/abu-dhabi-secrets-leak-uae-covert-military-support-israel-yemen-eritrea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[UAE Covert Support for Israel: Leaked Secrets]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/abu-dhabi-secrets-leak.webp</image:loc>
+      <image:title><![CDATA[UAE Covert Support for Israel: Leaked Secrets]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/al-biyadah-clashes-death-captain-maoz-israel-recanati-golani</loc>
     <news:news>
       <news:publication>
@@ -139,6 +154,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/egypt-octagon-strategic-command-center-sisi-military-cyber-defense</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Egypt Octagon Command Center: Sisi's New Fort]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/egypt-octagon-command.webp</image:loc>
+      <image:title><![CDATA[Egypt Octagon Command Center: Sisi's New Fort]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/egyptian-electronic-warfare-sinai-gaza-negev-jamming-blackout</loc>
     <news:news>
       <news:publication>
@@ -151,6 +181,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/egypt-jamming-tower.webp</image:loc>
       <image:title><![CDATA[Egypt Jamming Envelope: 61% Negev Grid Blocked]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/erdogan-foils-us-israel-kurdish-invasion-plan-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Erdogan Foils US-Israel Kurdish Invasion Plan]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/erdogan-kurdish-diplomacy.webp</image:loc>
+      <image:title><![CDATA[Erdogan Foils US-Israel Kurdish Invasion Plan]]></image:title>
     </image:image>
   </url>
   <url>
@@ -319,6 +364,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-jet-powered-stealth-drones-debut-ben-gurion-airport-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iran Jet-Powered Drones Debut: Ben Gurion Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/jet-powered-drone-strike.webp</image:loc>
+      <image:title><![CDATA[Iran Jet-Powered Drones Debut: Ben Gurion Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/iran-kinetic-warhead-missile-oreshnik-technology-us-f35-retreat</loc>
     <news:news>
       <news:publication>
@@ -346,6 +406,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/iran-nuclear-enrichment.webp</image:loc>
       <image:title><![CDATA[Iran Nuclear Enrichment: 90% Weapons Threshold]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iranian-hypersonic-missiles-strike-ramat-david-airbase-beirut-retaliation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iran Hypersonic Salvos Strike Ramat David]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ramat-david-strike.webp</image:loc>
+      <image:title><![CDATA[Iran Hypersonic Salvos Strike Ramat David]]></image:title>
     </image:image>
   </url>
   <url>
@@ -409,6 +484,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/irgc-strikes-muwaffaq-salti-airbase-jordan-mq9-reaper-downed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IRGC Strikes Muwaffaq Salti Base: MQ-9 Downed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/muwaffaq-salti-strike.webp</image:loc>
+      <image:title><![CDATA[IRGC Strikes Muwaffaq Salti Base: MQ-9 Downed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/israel-energy-crisis-azerbaijan-pipeline-chevron-gas-vulnerability</loc>
     <news:news>
       <news:publication>
@@ -421,6 +511,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
       <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-iran-ceasefire-capital-asset-doctrine-lebanon-withdrawal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel-Iran Ceasefire: Capital Asset Target Equation]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ceasefire-financial-threat.webp</image:loc>
+      <image:title><![CDATA[Israel-Iran Ceasefire: Capital Asset Target Equation]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-strikes-iran-air-defenses-petrochemicals-irgc-retaliation-haifa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel Strikes Iran Petrochemicals: Haifa Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/petrochemical-strikes.webp</image:loc>
+      <image:title><![CDATA[Israel Strikes Iran Petrochemicals: Haifa Hit]]></image:title>
     </image:image>
   </url>
   <url>
@@ -451,6 +571,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/orbiter-drone-downed.webp</image:loc>
       <image:title><![CDATA[Israeli Orbiter Spy Drone Downed in Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/khamenei-three-sons-reappear-us-withdraws-f22-tankers-gulf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Khamenei's Sons Reappear: US Withdraws F-22s]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khamenei-sons-reappear.webp</image:loc>
+      <image:title><![CDATA[Khamenei's Sons Reappear: US Withdraws F-22s]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/kheibar-shekan-missiles-paralyze-israeli-airbase-triad-defense-failure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Kheibar Shekan Missiles Paralyze Israeli Airbases]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/kheibar-shekan-salvo.webp</image:loc>
+      <image:title><![CDATA[Kheibar Shekan Missiles Paralyze Israeli Airbases]]></image:title>
     </image:image>
   </url>
   <url>
@@ -544,6 +694,51 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/russian-debate-iranian-asymmetric-deterrence-model-strategic-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Russian Debate: The Iranian Asymmetric Model]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/russian-debate-iranian-model.webp</image:loc>
+      <image:title><![CDATA[Russian Debate: The Iranian Asymmetric Model]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/satellite-audits-khamenei-funeral-twenty-five-million-crowd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Satellite Audits: Khamenei Funeral Crowd]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khamenei-funeral-crowd.webp</image:loc>
+      <image:title><![CDATA[Satellite Audits: Khamenei Funeral Crowd]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/shahdana-stealth-drone-fiber-optic-uav-galilee-balance-shift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Shahdana Stealth Drone Debuts: Fiber-Optic UAVs]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/shahdana-stealth-drone.webp</image:loc>
+      <image:title><![CDATA[Shahdana Stealth Drone Debuts: Fiber-Optic UAVs]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/shomera-drone-strike-liam-ben-hamo-idf-artillery-destroyed</loc>
     <news:news>
       <news:publication>
@@ -571,6 +766,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
       <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/tase-collapse-us-iran-talks-netanyahu-lebanon-rift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[TASE Collapse: US-Iran Talks & Netanyahu Rift]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tase-economic-collapse.webp</image:loc>
+      <image:title><![CDATA[TASE Collapse: US-Iran Talks & Netanyahu Rift]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/tehran-stoning-trump-effigy-israel-confesses-khamenei-assassination-f15-exposure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Stoning Trump Effigy: F-15 Tech Exposed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/stoning-trump-effigy.webp</image:loc>
+      <image:title><![CDATA[Stoning Trump Effigy: F-15 Tech Exposed]]></image:title>
     </image:image>
   </url>
   <url>
@@ -664,6 +889,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/us-82nd-airborne-secret-israel-deployment-khark-island-invasion-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US 82nd Airborne in Israel: Khark Island Plan]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khark-island-invasion-plan.webp</image:loc>
+      <image:title><![CDATA[US 82nd Airborne in Israel: Khark Island Plan]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-f35-damaged-iranian-air-defense-recon-drone-downed</loc>
     <news:news>
       <news:publication>
@@ -676,6 +916,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/damaged-f35-gulf.webp</image:loc>
       <image:title><![CDATA[US F-35 Damaged: Iran Unified Air Defense Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-gao-f35-fleet-readiness-crisis-b52-crash-israeli-stealth-losses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[F-35 Fleet Readiness Crisis: B-52 Crash]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f35-readiness-crisis.webp</image:loc>
+      <image:title><![CDATA[F-35 Fleet Readiness Crisis: B-52 Crash]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-intercepts-iranian-drones-hormuz-destroyers-retreat-aludeid-caoc-destroyed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hormuz Intercept: US Destroyers Retreat to Ocean]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hormuz-drone-intercept.webp</image:loc>
+      <image:title><![CDATA[Hormuz Intercept: US Destroyers Retreat to Ocean]]></image:title>
     </image:image>
   </url>
   <url>

@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/abu-dhabi-secrets-leak-uae-covert-military-support-israel-yemen-eritrea</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/abu-dhabi-secrets-leak.webp</image:loc>
+      <image:caption><![CDATA[Leaked Abu Dhabi Secrets document reveals covert UAE military and intelligence support for Israel in Red Sea bases.]]></image:caption>
+      <image:title><![CDATA[UAE Covert Support for Israel: Leaked Secrets]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/al-biyadah-clashes-death-captain-maoz-israel-recanati-golani</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/recanati-golani.webp</image:loc>
@@ -75,11 +83,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/egypt-octagon-strategic-command-center-sisi-military-cyber-defense</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/egypt-octagon-command.webp</image:loc>
+      <image:caption><![CDATA[Egypt opens the Octagon, the largest military command center in the Middle East, equipped with advanced cyber defense.]]></image:caption>
+      <image:title><![CDATA[Egypt Octagon Command Center: Sisi's New Fort]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/egyptian-electronic-warfare-sinai-gaza-negev-jamming-blackout</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/egypt-jamming-tower.webp</image:loc>
       <image:caption><![CDATA[Egyptian electronic warfare units deploy advanced jammers from Sinai, causing a 61% disruption of communications in southern Israel and Gaza.]]></image:caption>
       <image:title><![CDATA[Egypt Jamming Envelope: 61% Negev Grid Blocked]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/erdogan-foils-us-israel-kurdish-invasion-plan-iran</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/erdogan-kurdish-diplomacy.webp</image:loc>
+      <image:caption><![CDATA[Turkish President Erdogan uses backchannel diplomacy to block a U.S.-Israeli plan for a Kurdish ground invasion of western Iran.]]></image:caption>
+      <image:title><![CDATA[Erdogan Foils US-Israel Kurdish Invasion Plan]]></image:title>
     </image:image>
   </url>
   <url>
@@ -171,6 +195,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-jet-powered-stealth-drones-debut-ben-gurion-airport-strike</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/jet-powered-drone-strike.webp</image:loc>
+      <image:caption><![CDATA[Iran debuts its jet-powered Shahdana suicide drones, striking Ben Gurion Airport's fuel depot in recent escalation.]]></image:caption>
+      <image:title><![CDATA[Iran Jet-Powered Drones Debut: Ben Gurion Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/iran-kinetic-warhead-missile-oreshnik-technology-us-f35-retreat</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/oreshnik-kinetic-missile.webp</image:loc>
@@ -184,6 +216,14 @@
       <image:loc>https://khalidnaami.com/img/iran-nuclear-enrichment.webp</image:loc>
       <image:caption><![CDATA[Iran warns it will immediately enrich uranium to 90% if U.S. or Israeli forces initiate a third round of military strikes.]]></image:caption>
       <image:title><![CDATA[Iran Nuclear Enrichment: 90% Weapons Threshold]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iranian-hypersonic-missiles-strike-ramat-david-airbase-beirut-retaliation</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ramat-david-strike.webp</image:loc>
+      <image:caption><![CDATA[Iran launches a three-wave hypersonic ballistic missile strike hitting Ramat David Airbase in retaliation for Beirut strikes.]]></image:caption>
+      <image:title><![CDATA[Iran Hypersonic Salvos Strike Ramat David]]></image:title>
     </image:image>
   </url>
   <url>
@@ -219,11 +259,35 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/irgc-strikes-muwaffaq-salti-airbase-jordan-mq9-reaper-downed</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/muwaffaq-salti-strike.webp</image:loc>
+      <image:caption><![CDATA[The IRGC strikes Jordan's Muwaffaq Salti Airbase and downs a U.S. MQ-9 Reaper in retaliation for strikes on Iran.]]></image:caption>
+      <image:title><![CDATA[IRGC Strikes Muwaffaq Salti Base: MQ-9 Downed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/israel-energy-crisis-azerbaijan-pipeline-chevron-gas-vulnerability</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
       <image:caption><![CDATA[Israel faces a critical energy threat as the Baku-Tbilisi-Ceyhan pipeline and Chevron's offshore gas platforms become targets for retaliation.]]></image:caption>
       <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-iran-ceasefire-capital-asset-doctrine-lebanon-withdrawal</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ceasefire-financial-threat.webp</image:loc>
+      <image:caption><![CDATA[Israel and Iran declare a ceasefire after airbase strikes and a threat targeting global Israeli capital assets.]]></image:caption>
+      <image:title><![CDATA[Israel-Iran Ceasefire: Capital Asset Target Equation]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-strikes-iran-air-defenses-petrochemicals-irgc-retaliation-haifa</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/petrochemical-strikes.webp</image:loc>
+      <image:caption><![CDATA[Israel strikes Iranian air defenses and petrochemical plants, triggering IRGC retaliation on Haifa energy facilities.]]></image:caption>
+      <image:title><![CDATA[Israel Strikes Iran Petrochemicals: Haifa Hit]]></image:title>
     </image:image>
   </url>
   <url>
@@ -240,6 +304,22 @@
       <image:loc>https://khalidnaami.com/img/orbiter-drone-downed.webp</image:loc>
       <image:caption><![CDATA[Iran's navy recovers the wreckage of an Israeli Orbiter spy drone launched from Cyprus to spy on Bandar Abbas missile sites.]]></image:caption>
       <image:title><![CDATA[Israeli Orbiter Spy Drone Downed in Hormuz]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/khamenei-three-sons-reappear-us-withdraws-f22-tankers-gulf</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khamenei-sons-reappear.webp</image:loc>
+      <image:caption><![CDATA[Ayatollah Khamenei's three sons reappear at his funeral as the U.S. withdraws F-22 fighters and refueling tankers from the Gulf.]]></image:caption>
+      <image:title><![CDATA[Khamenei's Sons Reappear: US Withdraws F-22s]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/kheibar-shekan-missiles-paralyze-israeli-airbase-triad-defense-failure</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/kheibar-shekan-salvo.webp</image:loc>
+      <image:caption><![CDATA[Iran's Kheibar Shekan ballistic missiles penetrate Israel's air defense triad, paralyzing Ramat David, Tel Nof, and Nevatim bases.]]></image:caption>
+      <image:title><![CDATA[Kheibar Shekan Missiles Paralyze Israeli Airbases]]></image:title>
     </image:image>
   </url>
   <url>
@@ -291,6 +371,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/russian-debate-iranian-asymmetric-deterrence-model-strategic-analysis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/russian-debate-iranian-model.webp</image:loc>
+      <image:caption><![CDATA[Russian political and military circles debate whether Moscow should adopt Iran's asymmetric model of deterrence.]]></image:caption>
+      <image:title><![CDATA[Russian Debate: The Iranian Asymmetric Model]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/satellite-audits-khamenei-funeral-twenty-five-million-crowd</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khamenei-funeral-crowd.webp</image:loc>
+      <image:caption><![CDATA[Satellite imaging verifies the historic scale of Ayatollah Khamenei's funeral, estimated at 25 million people.]]></image:caption>
+      <image:title><![CDATA[Satellite Audits: Khamenei Funeral Crowd]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/shahdana-stealth-drone-fiber-optic-uav-galilee-balance-shift</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/shahdana-stealth-drone.webp</image:loc>
+      <image:caption><![CDATA[The IRGC's jet-powered Shahdana stealth drone enters service, as fiber-optic guided UAVs threaten armored units in Galilee.]]></image:caption>
+      <image:title><![CDATA[Shahdana Stealth Drone Debuts: Fiber-Optic UAVs]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/shomera-drone-strike-liam-ben-hamo-idf-artillery-destroyed</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/shomera-drone-strike.webp</image:loc>
@@ -304,6 +408,22 @@
       <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
       <image:caption><![CDATA[The U.S. and its allies coordinate naval operations in the Taiwan Strait and Hormuz, as Trump threatens a return to heavy airstrikes on Wednesday.]]></image:caption>
       <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/tase-collapse-us-iran-talks-netanyahu-lebanon-rift</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tase-economic-collapse.webp</image:loc>
+      <image:caption><![CDATA[The Tel Aviv Stock Exchange collapses and the Shekel depreciates as U.S.-Iran talks progress, sparking a Netanyahu-Trump rift.]]></image:caption>
+      <image:title><![CDATA[TASE Collapse: US-Iran Talks & Netanyahu Rift]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/tehran-stoning-trump-effigy-israel-confesses-khamenei-assassination-f15-exposure</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/stoning-trump-effigy.webp</image:loc>
+      <image:caption><![CDATA[Tehran citizens stone Trump's effigy, as Israel admits to Khamenei's assassination and F-15 technology is exposed.]]></image:caption>
+      <image:title><![CDATA[Stoning Trump Effigy: F-15 Tech Exposed]]></image:title>
     </image:image>
   </url>
   <url>
@@ -355,11 +475,35 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/us-82nd-airborne-secret-israel-deployment-khark-island-invasion-plan</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khark-island-invasion-plan.webp</image:loc>
+      <image:caption><![CDATA[Iran discovers a joint US-Israeli plan to invade Khark Island using the secretly deployed 82nd Airborne Division.]]></image:caption>
+      <image:title><![CDATA[US 82nd Airborne in Israel: Khark Island Plan]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-f35-damaged-iranian-air-defense-recon-drone-downed</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/damaged-f35-gulf.webp</image:loc>
       <image:caption><![CDATA[A US F-35 stealth fighter is damaged by Iranian air defense fire and forced to land in the UAE, alongside a downed US recon drone.]]></image:caption>
       <image:title><![CDATA[US F-35 Damaged: Iran Unified Air Defense Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-gao-f35-fleet-readiness-crisis-b52-crash-israeli-stealth-losses</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/f35-readiness-crisis.webp</image:loc>
+      <image:caption><![CDATA[US GAO audit exposes F-35 fleet war-readiness crisis as a B-52 crash occurs and Israeli F-35 losses are assessed.]]></image:caption>
+      <image:title><![CDATA[F-35 Fleet Readiness Crisis: B-52 Crash]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-intercepts-iranian-drones-hormuz-destroyers-retreat-aludeid-caoc-destroyed</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hormuz-drone-intercept.webp</image:loc>
+      <image:caption><![CDATA[US forces intercept Iranian drones over Hormuz as warning strikes force destroyers to retreat to the Indian Ocean.]]></image:caption>
+      <image:title><![CDATA[Hormuz Intercept: US Destroyers Retreat to Ocean]]></image:title>
     </image:image>
   </url>
   <url>
