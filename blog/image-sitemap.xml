@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/abqaiq-refinery-drone-strike-jizan-shutdown</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/abqaiq-refinery-damage.webp</image:loc>
+      <image:caption><![CDATA[Aramco shuts its Jizan refinery and key Abqaiq units following precise Houthi missile and drone strikes.]]></image:caption>
+      <image:title><![CDATA[Abqaiq Refinery Strike: Jizan Shutdown]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/abu-dhabi-secrets-leak-uae-covert-military-support-israel-yemen-eritrea</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/abu-dhabi-secrets-leak.webp</image:loc>
@@ -48,6 +56,22 @@
       <image:loc>https://khalidnaami.com/img/araghchi-china-visit.webp</image:loc>
       <image:caption><![CDATA[Iran Foreign Minister Abbas Araghchi visits Beijing to coordinate a new post-war security framework with China, bypassing US terms.]]></image:caption>
       <image:title><![CDATA[Araghchi Beijing Visit: China Post-War Plan]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/aws-bahrain-struck-blinding-us-military-cloud</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/aws-bahrain-struck.webp</image:loc>
+      <image:caption><![CDATA[Precision strikes target Amazon Web Services in Bahrain, degrading U.S. military cloud computing systems.]]></image:caption>
+      <image:title><![CDATA[AWS Bahrain Struck: Blinding US Cloud]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/bayraktar-akinci-drone-shot-down-yemen</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/akinci-drone-downed.webp</image:loc>
+      <image:caption><![CDATA[Yemeni air defenses down a Turkish-built Bayraktar Akinci strategic drone over Al-Jawf.]]></image:caption>
+      <image:title><![CDATA[Bayraktar Akinci Shot Down: Houthi Defenses]]></image:title>
     </image:image>
   </url>
   <url>
@@ -123,6 +147,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/col-douglas-macgregor-analysis-us-military-crisis</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/douglas-macgregor-warning.webp</image:loc>
+      <image:caption><![CDATA[Retired Colonel Douglas Macgregor warns of systemic decay and strategic over-extension in the U.S. military.]]></image:caption>
+      <image:title><![CDATA[Douglas Macgregor: The US Military Crisis]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/complete-closure-strait-of-hormuz-galaxy-sunk-seven-bases-struck</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/hormuz-complete-closure.webp</image:loc>
@@ -152,6 +184,14 @@
       <image:loc>https://khalidnaami.com/img/major-sfray-debel.webp</image:loc>
       <image:caption><![CDATA[Major Itamar Sfray is killed in close-quarters clashes inside the Christian Maronite village of Debel in southern Lebanon.]]></image:caption>
       <image:title><![CDATA[Paratrooper Killed in Debel Maronite Village]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/drone-strike-energos-winter-lng-egypt-damietta</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/energos-winter-strike.webp</image:loc>
+      <image:caption><![CDATA[An unidentified drone strikes the Energos Winter LNG terminal in Damietta, triggering fires.]]></image:caption>
+      <image:title><![CDATA[Drone Strike on Energos Winter LNG]]></image:title>
     </image:image>
   </url>
   <url>
@@ -379,6 +419,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/irgc-strike-azraq-jordan-us-f35-destroyed</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/azraq-airbase-strike.webp</image:loc>
+      <image:caption><![CDATA[IRGC ballistic missiles strike Muwaffaq Salti Airbase in Jordan, destroying three U.S. F-35 fighter jets.]]></image:caption>
+      <image:title><![CDATA[IRGC Strike Azraq: US F-35s Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/irgc-strikes-muwaffaq-salti-airbase-jordan-mq9-reaper-downed</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/muwaffaq-salti-strike.webp</image:loc>
@@ -392,6 +440,14 @@
       <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
       <image:caption><![CDATA[Israel faces a critical energy threat as the Baku-Tbilisi-Ceyhan pipeline and Chevron's offshore gas platforms become targets for retaliation.]]></image:caption>
       <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-f35-fleet-grounded-european-parts-embargo</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-f35-parts-famine.webp</image:loc>
+      <image:caption><![CDATA[European embargoes leave over 25 percent of the Israeli F-35 fighter fleet grounded due to spare parts shortages.]]></image:caption>
+      <image:title><![CDATA[Israel F-35 Fleet Grounded: Parts Embargo]]></image:title>
     </image:image>
   </url>
   <url>
@@ -456,6 +512,14 @@
       <image:loc>https://khalidnaami.com/img/kheibar-shekan-salvo.webp</image:loc>
       <image:caption><![CDATA[Iran's Kheibar Shekan ballistic missiles penetrate Israel's air defense triad, paralyzing Ramat David, Tel Nof, and Nevatim bases.]]></image:caption>
       <image:title><![CDATA[Kheibar Shekan Missiles Paralyze Israeli Airbases]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/khyber-shekan-maneuverable-warhead-upgrades-israel</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khyber-shekan-upgraded.webp</image:loc>
+      <image:caption><![CDATA[Upgraded Khyber Shekan warheads feature terminal maneuver engines, challenging Israeli air defenses.]]></image:caption>
+      <image:title><![CDATA[Khyber Shekan: Terminal Maneuver Engine]]></image:title>
     </image:image>
   </url>
   <url>
@@ -579,6 +643,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/saudi-civil-nuclear-deal-trump-standoff</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/saudi-nuclear-standoff.webp</image:loc>
+      <image:caption><![CDATA[Donald Trump backtracks on the U.S.-Saudi civil nuclear agreement, introducing conditions that anger Riyadh.]]></image:caption>
+      <image:title><![CDATA[Saudi Nuclear Deal: The Trump Standoff]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/shahdana-stealth-drone-fiber-optic-uav-galilee-balance-shift</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/shahdana-stealth-drone.webp</image:loc>
@@ -600,6 +672,14 @@
       <image:loc>https://khalidnaami.com/img/kim-destroyer-nuclear-triad.webp</image:loc>
       <image:caption><![CDATA[A synchronized 60-day countdown unfolds across three fronts: China in East Taiwan, North Korea's destroyer, and Iran-U.S. nuclear talks.]]></image:caption>
       <image:title><![CDATA[60-Day Countdown: Triple Asian Crisis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/soldier-for-citizen-equation-trump-freezes-strikes</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/correspondents-dinner-bizarre.webp</image:loc>
+      <image:caption><![CDATA[Major General Ali Abd declares a new deterrence equation, forcing Trump to freeze air strikes on Iran.]]></image:caption>
+      <image:title><![CDATA[Soldier for Citizen: Trump Freezes Strikes]]></image:title>
     </image:image>
   </url>
   <url>
@@ -707,6 +787,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/ukraine-apologizes-iran-caspian-ship-strike</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/zelensky-apology-iran.webp</image:loc>
+      <image:caption><![CDATA[Volodymyr Zelensky offers apologies and financial compensation to Iran after a Caspian Sea ship strike.]]></image:caption>
+      <image:title><![CDATA[Ukraine Apologizes to Iran: Caspian Strike]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-332nd-air-expeditionary-wing-strike-jordan-base-burnout</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/332nd-wing-strike.webp</image:loc>
@@ -736,6 +824,14 @@
       <image:loc>https://khalidnaami.com/img/f35-readiness-crisis.webp</image:loc>
       <image:caption><![CDATA[US GAO audit exposes F-35 fleet war-readiness crisis as a B-52 crash occurs and Israeli F-35 losses are assessed.]]></image:caption>
       <image:title><![CDATA[F-35 Fleet Readiness Crisis: B-52 Crash]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-interceptor-exhaustion-iran-strike-freeze</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iranian-missile-tunnels.webp</image:loc>
+      <image:caption><![CDATA[The United States freezes planned airstrikes on Iran due to a critical depletion of Patriot interceptors.]]></image:caption>
+      <image:title><![CDATA[US Interceptor Exhaustion: Iran Strike Freeze]]></image:title>
     </image:image>
   </url>
   <url>
@@ -779,6 +875,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/us-military-infrastructure-financial-losses-gulf-audit</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-military-losses-gulf.webp</image:loc>
+      <image:caption><![CDATA[An IRGC military audit details between $20B and $35B in U.S. equipment and infrastructure losses in the Gulf.]]></image:caption>
+      <image:title><![CDATA[US Losses in the Gulf: A $20 Billion Audit]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-mq9-reaper-downed-marib-secret-ninja-missiles-captured</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/mq9-ninja-missile.webp</image:loc>
@@ -819,11 +923,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/yahya-saree-statement-houthi-strike-yanbu-oil</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/yahya-saree-statement.webp</image:loc>
+      <image:caption><![CDATA[Yemeni military spokesman Yahya Saree confirms Houthi drone strikes on Saudi oil pipelines to Yanbu.]]></image:caption>
+      <image:title><![CDATA[Yahya Saree: Houthi Strike on Yanbu]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/yemen-missile-strike-abha-airport-saudi-air-blockade</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/abha-airport-strike.webp</image:loc>
       <image:caption><![CDATA[Yemen's Houthis launch six ballistic missiles hitting Saudi Arabia's Abha Airport to break the U.S.-Saudi air blockade.]]></image:caption>
       <image:title><![CDATA[Yemen Strike Blasts Saudi Abha Airport]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/yemen-saudi-escalation-jizan-refinery-airbase-strike</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/saudi-refinery-fire.webp</image:loc>
+      <image:caption><![CDATA[Yemeni forces launch a massive missile strike on Aramco's Jizan refinery and Khamis Mushait airbase.]]></image:caption>
+      <image:title><![CDATA[Yemen Escalation: Jizan Refinery Hit]]></image:title>
     </image:image>
   </url>
   <url>

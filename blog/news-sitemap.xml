@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/abqaiq-refinery-drone-strike-jizan-shutdown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Abqaiq Refinery Strike: Jizan Shutdown]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/abqaiq-refinery-damage.webp</image:loc>
+      <image:title><![CDATA[Abqaiq Refinery Strike: Jizan Shutdown]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/abu-dhabi-secrets-leak-uae-covert-military-support-israel-yemen-eritrea</loc>
     <news:news>
       <news:publication>
@@ -91,6 +106,36 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/araghchi-china-visit.webp</image:loc>
       <image:title><![CDATA[Araghchi Beijing Visit: China Post-War Plan]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/aws-bahrain-struck-blinding-us-military-cloud</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[AWS Bahrain Struck: Blinding US Cloud]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/aws-bahrain-struck.webp</image:loc>
+      <image:title><![CDATA[AWS Bahrain Struck: Blinding US Cloud]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/bayraktar-akinci-drone-shot-down-yemen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Bayraktar Akinci Shot Down: Houthi Defenses]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/akinci-drone-downed.webp</image:loc>
+      <image:title><![CDATA[Bayraktar Akinci Shot Down: Houthi Defenses]]></image:title>
     </image:image>
   </url>
   <url>
@@ -229,6 +274,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/col-douglas-macgregor-analysis-us-military-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Douglas Macgregor: The US Military Crisis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/douglas-macgregor-warning.webp</image:loc>
+      <image:title><![CDATA[Douglas Macgregor: The US Military Crisis]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/complete-closure-strait-of-hormuz-galaxy-sunk-seven-bases-struck</loc>
     <news:news>
       <news:publication>
@@ -286,6 +346,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/major-sfray-debel.webp</image:loc>
       <image:title><![CDATA[Paratrooper Killed in Debel Maronite Village]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/drone-strike-energos-winter-lng-egypt-damietta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Drone Strike on Energos Winter LNG]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/energos-winter-strike.webp</image:loc>
+      <image:title><![CDATA[Drone Strike on Energos Winter LNG]]></image:title>
     </image:image>
   </url>
   <url>
@@ -709,6 +784,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/irgc-strike-azraq-jordan-us-f35-destroyed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IRGC Strike Azraq: US F-35s Destroyed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/azraq-airbase-strike.webp</image:loc>
+      <image:title><![CDATA[IRGC Strike Azraq: US F-35s Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/irgc-strikes-muwaffaq-salti-airbase-jordan-mq9-reaper-downed</loc>
     <news:news>
       <news:publication>
@@ -736,6 +826,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
       <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israel-f35-fleet-grounded-european-parts-embargo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Israel F-35 Fleet Grounded: Parts Embargo]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/israel-f35-parts-famine.webp</image:loc>
+      <image:title><![CDATA[Israel F-35 Fleet Grounded: Parts Embargo]]></image:title>
     </image:image>
   </url>
   <url>
@@ -856,6 +961,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/kheibar-shekan-salvo.webp</image:loc>
       <image:title><![CDATA[Kheibar Shekan Missiles Paralyze Israeli Airbases]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/khyber-shekan-maneuverable-warhead-upgrades-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Khyber Shekan: Terminal Maneuver Engine]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/khyber-shekan-upgraded.webp</image:loc>
+      <image:title><![CDATA[Khyber Shekan: Terminal Maneuver Engine]]></image:title>
     </image:image>
   </url>
   <url>
@@ -1084,6 +1204,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/saudi-civil-nuclear-deal-trump-standoff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Saudi Nuclear Deal: The Trump Standoff]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/saudi-nuclear-standoff.webp</image:loc>
+      <image:title><![CDATA[Saudi Nuclear Deal: The Trump Standoff]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/shahdana-stealth-drone-fiber-optic-uav-galilee-balance-shift</loc>
     <news:news>
       <news:publication>
@@ -1126,6 +1261,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/kim-destroyer-nuclear-triad.webp</image:loc>
       <image:title><![CDATA[60-Day Countdown: Triple Asian Crisis]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/soldier-for-citizen-equation-trump-freezes-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Soldier for Citizen: Trump Freezes Strikes]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/correspondents-dinner-bizarre.webp</image:loc>
+      <image:title><![CDATA[Soldier for Citizen: Trump Freezes Strikes]]></image:title>
     </image:image>
   </url>
   <url>
@@ -1324,6 +1474,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/ukraine-apologizes-iran-caspian-ship-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Ukraine Apologizes to Iran: Caspian Strike]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/zelensky-apology-iran.webp</image:loc>
+      <image:title><![CDATA[Ukraine Apologizes to Iran: Caspian Strike]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-332nd-air-expeditionary-wing-strike-jordan-base-burnout</loc>
     <news:news>
       <news:publication>
@@ -1381,6 +1546,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/f35-readiness-crisis.webp</image:loc>
       <image:title><![CDATA[F-35 Fleet Readiness Crisis: B-52 Crash]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-interceptor-exhaustion-iran-strike-freeze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US Interceptor Exhaustion: Iran Strike Freeze]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iranian-missile-tunnels.webp</image:loc>
+      <image:title><![CDATA[US Interceptor Exhaustion: Iran Strike Freeze]]></image:title>
     </image:image>
   </url>
   <url>
@@ -1459,6 +1639,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/us-military-infrastructure-financial-losses-gulf-audit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US Losses in the Gulf: A $20 Billion Audit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/us-military-losses-gulf.webp</image:loc>
+      <image:title><![CDATA[US Losses in the Gulf: A $20 Billion Audit]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/us-mq9-reaper-downed-marib-secret-ninja-missiles-captured</loc>
     <news:news>
       <news:publication>
@@ -1534,6 +1729,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/yahya-saree-statement-houthi-strike-yanbu-oil</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Yahya Saree: Houthi Strike on Yanbu]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/yahya-saree-statement.webp</image:loc>
+      <image:title><![CDATA[Yahya Saree: Houthi Strike on Yanbu]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/yemen-missile-strike-abha-airport-saudi-air-blockade</loc>
     <news:news>
       <news:publication>
@@ -1546,6 +1756,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/abha-airport-strike.webp</image:loc>
       <image:title><![CDATA[Yemen Strike Blasts Saudi Abha Airport]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/yemen-saudi-escalation-jizan-refinery-airbase-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Yemen Escalation: Jizan Refinery Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/saudi-refinery-fire.webp</image:loc>
+      <image:title><![CDATA[Yemen Escalation: Jizan Refinery Hit]]></image:title>
     </image:image>
   </url>
   <url>
