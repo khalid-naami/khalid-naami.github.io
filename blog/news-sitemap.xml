@@ -79,6 +79,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/china-jl3-submarine-nuclear-launch-pacific-shift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[China's JL-3: Strategic Pacific Shift]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/jl3-submarine-launch.webp</image:loc>
+      <image:title><![CDATA[China's JL-3: Strategic Pacific Shift]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/china-pakistan-joint-peace-initiative-middle-east-nuclear-guarantees</loc>
     <news:news>
       <news:publication>
@@ -751,6 +766,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/shomera-drone-strike.webp</image:loc>
       <image:title><![CDATA[Hezbollah Shomera Strike: Liam Ben Hamo Killed]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/sixty-day-countdown-triple-asian-crisis-iran-china-north-korea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[60-Day Countdown: Triple Asian Crisis]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/kim-destroyer-nuclear-triad.webp</image:loc>
+      <image:title><![CDATA[60-Day Countdown: Triple Asian Crisis]]></image:title>
     </image:image>
   </url>
   <url>
