@@ -154,6 +154,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-resumes-strikes-galilee-ceasefire-violations-escalation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hezbollah Resumes Strikes: 22 Operations Hit Galilee]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hezbollah-ceasefire-breach.webp</image:loc>
+      <image:title><![CDATA[Hezbollah Resumes Strikes: 22 Operations Hit Galilee]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-video-iron-dome-battery-destroyed-million-loss</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hezbollah Video: Iron Dome Battery Destroyed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iron-dome-drone-strike.webp</image:loc>
+      <image:title><![CDATA[Hezbollah Video: Iron Dome Battery Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/idf-98th-division-withdrawal-lebanon-casualty-crisis</loc>
     <news:news>
       <news:publication>
@@ -331,6 +361,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/uae-fujairah-strike.webp</image:loc>
       <image:title><![CDATA[UAE Fujairah Struck: US and Israel Abandon Abu Dhabi]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-ofac-sanctions-iran-technology-cooperation-china-hong-kong</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US OFAC Sanctions: Iran CITC Tech Network Hit]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ofac-sanctions-iran.webp</image:loc>
+      <image:title><![CDATA[US OFAC Sanctions: Iran CITC Tech Network Hit]]></image:title>
     </image:image>
   </url>
   <url>

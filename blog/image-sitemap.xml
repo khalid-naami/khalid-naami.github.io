@@ -83,6 +83,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-resumes-strikes-galilee-ceasefire-violations-escalation</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/hezbollah-ceasefire-breach.webp</image:loc>
+      <image:caption><![CDATA[Hezbollah executes a major escalation with 22 coordinated operations, firing rockets and drones at Israeli border posts.]]></image:caption>
+      <image:title><![CDATA[Hezbollah Resumes Strikes: 22 Operations Hit Galilee]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/hezbollah-video-iron-dome-battery-destroyed-million-loss</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iron-dome-drone-strike.webp</image:loc>
+      <image:caption><![CDATA[Hezbollah releases a video showing a kamikaze drone strike destroying an Iron Dome battery in the Galilee, causing a $100M loss.]]></image:caption>
+      <image:title><![CDATA[Hezbollah Video: Iron Dome Battery Destroyed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/idf-98th-division-withdrawal-lebanon-casualty-crisis</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/idf-withdrawal-lebanon.webp</image:loc>
@@ -176,6 +192,14 @@
       <image:loc>https://khalidnaami.com/img/uae-fujairah-strike.webp</image:loc>
       <image:caption><![CDATA[Iranian cruise missiles strike Fujairah oil facilities, as the US and Israel decline to launch retaliatory operations to protect the UAE.]]></image:caption>
       <image:title><![CDATA[UAE Fujairah Struck: US and Israel Abandon Abu Dhabi]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-ofac-sanctions-iran-technology-cooperation-china-hong-kong</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ofac-sanctions-iran.webp</image:loc>
+      <image:caption><![CDATA[The US Treasury's OFAC announces secondary sanctions targeting Iran's CITC and front companies in China, Hong Kong, and Belarus.]]></image:caption>
+      <image:title><![CDATA[US OFAC Sanctions: Iran CITC Tech Network Hit]]></image:title>
     </image:image>
   </url>
   <url>
