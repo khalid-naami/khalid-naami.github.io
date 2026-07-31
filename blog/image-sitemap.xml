@@ -3,6 +3,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/al-biyadah-clashes-death-captain-maoz-israel-recanati-golani</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/recanati-golani.webp</image:loc>
+      <image:caption><![CDATA[A fierce battle in al-Biyadah along the Litani sector leads to the death of Golani Platoon Commander Captain Ma'oz Recanati.]]></image:caption>
+      <image:title><![CDATA[Biyadah Battle: Captain Recanati Killed]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/araghchi-beijing-visit-china-four-point-post-war-framework</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/araghchi-china-visit.webp</image:loc>
@@ -32,6 +40,14 @@
       <image:loc>https://khalidnaami.com/img/dark-eagle-hypersonic.webp</image:loc>
       <image:caption><![CDATA[The US Pentagon plans to deploy the experimental Dark Eagle hypersonic missile system to East Africa to target Iran, facing Houthi threats.]]></image:caption>
       <image:title><![CDATA[US Dark Eagle Deployment: Africom Iran Blockade]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/death-major-itamar-sfray-clashes-maronite-village-debel</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/major-sfray-debel.webp</image:loc>
+      <image:caption><![CDATA[Major Itamar Sfray is killed in close-quarters clashes inside the Christian Maronite village of Debel in southern Lebanon.]]></image:caption>
+      <image:title><![CDATA[Paratrooper Killed in Debel Maronite Village]]></image:title>
     </image:image>
   </url>
   <url>
@@ -107,11 +123,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/iran-strategic-nuclear-enrichment-90-percent-weapons-threshold</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iran-nuclear-enrichment.webp</image:loc>
+      <image:caption><![CDATA[Iran warns it will immediately enrich uranium to 90% if U.S. or Israeli forces initiate a third round of military strikes.]]></image:caption>
+      <image:title><![CDATA[Iran Nuclear Enrichment: 90% Weapons Threshold]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/iranian-ship-toska-seizure-hormuz-blockade-escalation</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/toska-ship-seizure.webp</image:loc>
       <image:caption><![CDATA[The U.S. Navy destroyer USS Spruance DDG-111 intercepts and disables the Iranian cargo ship Toska, prompting the IRGC to re-close the Strait of Hormuz.]]></image:caption>
       <image:title><![CDATA[Iranian Ship Toska Seized: Hormuz Blockade Escalates]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/iranian-submarines-mediterranean-deployment-uss-alaska-standoff</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iranian-submarine-gulf.webp</image:loc>
+      <image:caption><![CDATA[Iranian strategic submarines transit to the Mediterranean, establishing an undersea stand-off with the Ohio-class USS Alaska.]]></image:caption>
+      <image:title><![CDATA[Iran Submarines Enter Med: US Sub Stand-off]]></image:title>
     </image:image>
   </url>
   <url>
@@ -128,6 +160,14 @@
       <image:loc>https://khalidnaami.com/img/israel-energy-crisis.webp</image:loc>
       <image:caption><![CDATA[Israel faces a critical energy threat as the Baku-Tbilisi-Ceyhan pipeline and Chevron's offshore gas platforms become targets for retaliation.]]></image:caption>
       <image:title><![CDATA[Israel Without Energy: Pipeline & Offshore Gas Risks]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/israeli-f15-damaged-sam-lebanon-helicopter-blanket-accident</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/iaf-f15-strike.webp</image:loc>
+      <image:caption><![CDATA[An Israeli F-15 fighter is damaged by a SAM over Lebanon, while an evacuation helicopter experiences an engine failure from a thermal blanket.]]></image:caption>
+      <image:title><![CDATA[Israeli F-15 Hit: Rescue Helicopter Accident]]></image:title>
     </image:image>
   </url>
   <url>
@@ -171,6 +211,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/tomer-rocket-factory-explosion-beit-shemesh-arrow-motors-lost</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/tomer-factory-explosion.webp</image:loc>
+      <image:caption><![CDATA[A massive explosion at the Tomer rocket motor facility in Beit Shemesh destroys 300 Arrow interceptor propulsion units.]]></image:caption>
+      <image:title><![CDATA[Tomer Rocket Factory Blast: Arrow Motors Lost]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkey-blue-homeland-law-iran-hormuz-code-east-mediterranean</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/blue-homeland-doctrine.webp</image:loc>
+      <image:caption><![CDATA[Turkey codifies its Blue Homeland (Mavi Vatan) maritime doctrine into law, while Iran prepares a Strait of Hormuz legal code.]]></image:caption>
+      <image:title><![CDATA[Turkey Blue Homeland Law: East Med Shift]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/turkey-kuzgun-kamikaze-drone-strategic-strike-saha-expo</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/kuzgun-kamikaze-drone.webp</image:loc>
@@ -192,6 +248,22 @@
       <image:loc>https://khalidnaami.com/img/uae-fujairah-strike.webp</image:loc>
       <image:caption><![CDATA[Iranian cruise missiles strike Fujairah oil facilities, as the US and Israel decline to launch retaliatory operations to protect the UAE.]]></image:caption>
       <image:title><![CDATA[UAE Fujairah Struck: US and Israel Abandon Abu Dhabi]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-f35-damaged-iranian-air-defense-recon-drone-downed</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/damaged-f35-gulf.webp</image:loc>
+      <image:caption><![CDATA[A US F-35 stealth fighter is damaged by Iranian air defense fire and forced to land in the UAE, alongside a downed US recon drone.]]></image:caption>
+      <image:title><![CDATA[US F-35 Damaged: Iran Unified Air Defense Hit]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/us-mq9-reaper-downed-marib-secret-ninja-missiles-captured</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/mq9-ninja-missile.webp</image:loc>
+      <image:caption><![CDATA[A US MQ-9 Reaper armed with secret AGM-114R9X Ninja missiles is shot down in Marib, Yemen, with the wreckage transferred.]]></image:caption>
+      <image:title><![CDATA[US MQ-9 Downed: Secret Ninja Missiles Captured]]></image:title>
     </image:image>
   </url>
   <url>
