@@ -19,6 +19,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/dark-eagle-hypersonic-missile-us-africom-iran-blockade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[US Dark Eagle Deployment: Africom Iran Blockade]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/dark-eagle-hypersonic.webp</image:loc>
+      <image:title><![CDATA[US Dark Eagle Deployment: Africom Iran Blockade]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/egypt-military-maneuvers-gaza-border-camp-david-accords-breach</loc>
     <news:news>
       <news:publication>
@@ -31,6 +46,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/egypt-sinai-maneuvers.webp</image:loc>
       <image:title><![CDATA[Egypt Sinai Maneuvers: Camp David Restraints Broken]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/egyptian-electronic-warfare-sinai-gaza-negev-jamming-blackout</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Egypt Jamming Envelope: 61% Negev Grid Blocked]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/egypt-jamming-tower.webp</image:loc>
+      <image:title><![CDATA[Egypt Jamming Envelope: 61% Negev Grid Blocked]]></image:title>
     </image:image>
   </url>
   <url>
@@ -64,6 +94,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/general-yitzhak-brick-existential-threat-egypt-turkey-alliance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[General Yitzhak Brick: Israel Existential Threat]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/general-brick-warning.webp</image:loc>
+      <image:title><![CDATA[General Yitzhak Brick: Israel Existential Threat]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/greek-gas-carrier-epaminondas-bridge-shelled-iranian-navy</loc>
     <news:news>
       <news:publication>
@@ -76,6 +121,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/greek-tanker-strike.webp</image:loc>
       <image:title><![CDATA[Greek LNG Carrier Epaminondas Shelled in Gulf]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/idf-98th-division-withdrawal-lebanon-casualty-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[IDF 98th Division Withdraws from South Lebanon]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/idf-withdrawal-lebanon.webp</image:loc>
+      <image:title><![CDATA[IDF 98th Division Withdraws from South Lebanon]]></image:title>
     </image:image>
   </url>
   <url>
@@ -166,6 +226,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/nevatim-base-report.webp</image:loc>
       <image:title><![CDATA[Nevatim Base Ruin: State Comptroller Negev Report]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/shomera-drone-strike-liam-ben-hamo-idf-artillery-destroyed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Hezbollah Shomera Strike: Liam Ben Hamo Killed]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/shomera-drone-strike.webp</image:loc>
+      <image:title><![CDATA[Hezbollah Shomera Strike: Liam Ben Hamo Killed]]></image:title>
     </image:image>
   </url>
   <url>
