@@ -3,6 +3,22 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://khalidnaami.com/blog/araghchi-beijing-visit-china-four-point-post-war-framework</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/araghchi-china-visit.webp</image:loc>
+      <image:caption><![CDATA[Iran Foreign Minister Abbas Araghchi visits Beijing to coordinate a new post-war security framework with China, bypassing US terms.]]></image:caption>
+      <image:title><![CDATA[Araghchi Beijing Visit: China Post-War Plan]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/ben-gurion-airport-us-airforce-refueling-hub-middle-east-bases</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/ben-gurion-us-hub.webp</image:loc>
+      <image:caption><![CDATA[US forces convert Ben Gurion Airport into a major refueling and cargo hub after losing access to 16 airbases across the Middle East.]]></image:caption>
+      <image:title><![CDATA[Ben Gurion Airport Transformed Into US Air Base]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/cnn-report-us-missile-depletion-blockade-munitions-shortage</loc>
     <image:image>
       <image:loc>https://khalidnaami.com/img/us-munitions-depletion.webp</image:loc>
@@ -136,6 +152,30 @@
       <image:loc>https://khalidnaami.com/img/two-straits-escalation.webp</image:loc>
       <image:caption><![CDATA[The U.S. and its allies coordinate naval operations in the Taiwan Strait and Hormuz, as Trump threatens a return to heavy airstrikes on Wednesday.]]></image:caption>
       <image:title><![CDATA[U.S. Carrier Strike Wednesday: Two Straits Escalate]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkey-kuzgun-kamikaze-drone-strategic-strike-saha-expo</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/kuzgun-kamikaze-drone.webp</image:loc>
+      <image:caption><![CDATA[STM unveils the Kuzgun autonomous kamikaze drone with a 1,000 km range and advanced anti-jamming navigation at SAHA Expo 2026.]]></image:caption>
+      <image:title><![CDATA[Turkey Kuzgun Kamikaze Drone: SAHA Expo Strategic]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/turkey-unveils-yildirimhan-icbm-doomsday-monster-6000km</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/yildirimhan-icbm.webp</image:loc>
+      <image:caption><![CDATA[Turkey officially unveils the Yildirimhan, a 6,000 km hypersonic intercontinental ballistic missile, shifting the regional balance.]]></image:caption>
+      <image:title><![CDATA[Turkey Unveils Yildirimhan ICBM Doomsday Monster]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/uae-fujairah-oil-facility-struck-iranian-cruise-missiles-abandoned</loc>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/uae-fujairah-strike.webp</image:loc>
+      <image:caption><![CDATA[Iranian cruise missiles strike Fujairah oil facilities, as the US and Israel decline to launch retaliatory operations to protect the UAE.]]></image:caption>
+      <image:title><![CDATA[UAE Fujairah Struck: US and Israel Abandon Abu Dhabi]]></image:title>
     </image:image>
   </url>
   <url>
