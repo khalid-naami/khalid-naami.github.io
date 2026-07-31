@@ -19,6 +19,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://khalidnaami.com/blog/egypt-military-maneuvers-gaza-border-camp-david-accords-breach</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Egypt Sinai Maneuvers: Camp David Restraints Broken]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/egypt-sinai-maneuvers.webp</image:loc>
+      <image:title><![CDATA[Egypt Sinai Maneuvers: Camp David Restraints Broken]]></image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://khalidnaami.com/blog/esmail-qaani-iraq-visit-saraya-awliya-dam-blockade</loc>
     <news:news>
       <news:publication>
@@ -136,6 +151,21 @@
     <image:image>
       <image:loc>https://khalidnaami.com/img/missing-us-scientists.webp</image:loc>
       <image:title><![CDATA[U.S. Scientists Disappear: Anti-Gravity Project Link]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://khalidnaami.com/blog/nevatim-airbase-destruction-state-comptroller-report-negev-bedouins</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Khalid Naami</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Nevatim Base Ruin: State Comptroller Negev Report]]></news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://khalidnaami.com/img/nevatim-base-report.webp</image:loc>
+      <image:title><![CDATA[Nevatim Base Ruin: State Comptroller Negev Report]]></image:title>
     </image:image>
   </url>
   <url>
