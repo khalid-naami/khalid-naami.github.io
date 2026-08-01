@@ -44,7 +44,7 @@ To the maximum extent permitted by applicable law, **Khalid Naami**, **Dashboard
 ---
 
 ## 6. Modification of Terms
- We reserve the right to modify or replace these Terms at any time without prior notice. Your continued use of the Site after any updates constitutes your acceptance of the revised Terms.
+We reserve the right to modify or replace these Terms at any time without prior notice. Your continued use of the Site after any updates constitutes your acceptance of the revised Terms.
 
 ---
 
@@ -54,6 +54,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 ---
 
 ## 8. Contact Information
-If you have any questions regarding these Terms, please contact us via our official social media channels:
+If you have any questions regarding these Terms, please contact us via our official email or social media channels:
+*   Email: [research@khalidnaami.com](mailto:research@khalidnaami.com)
 *   Substack: [substack.com/@khnaami](https://substack.com/@khnaami)
 *   LinkedIn: [linkedin.com/in/khalid-naami-a953263bb/](https://www.linkedin.com/in/khalid-naami-a953263bb/)
