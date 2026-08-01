@@ -117,9 +117,10 @@ export default function PrivacyPolicy() {
             <section className="margin-bottom--lg">
               <h2>9. Contact Information</h2>
               <p>
-                If you have any questions or data removal requests regarding this Privacy Policy, please reach out to us via our official social media channels:
+                If you have any questions or data removal requests regarding this Privacy Policy, please reach out to us via our official email address or support channels:
               </p>
               <ul>
+                <li>Email: <a href="mailto:research@khalidnaami.com">research@khalidnaami.com</a></li>
                 <li>Substack: <a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer">substack.com/@khnaami</a></li>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/khalid-naami-a953263bb/" target="_blank" rel="noopener noreferrer">khalid-naami-linkedin</a></li>
               </ul>
