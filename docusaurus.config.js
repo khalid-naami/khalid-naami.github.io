@@ -105,7 +105,6 @@ module.exports = async function createConfig() {
               "https://github.com/khalid-naami",
               "https://www.linkedin.com/in/khalid-naami-a953263bb/",
               "https://x.com/khalidnaami0",
-              "https://substack.com/@khnaami",
               "https://share.streamlit.io/user/khalidnaami3-wq",
               "https://cal.com/khnaami",
               "https://www.youtube.com/@khalid-naami"
