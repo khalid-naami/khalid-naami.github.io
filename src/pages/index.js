@@ -228,14 +228,14 @@ export default function Home() {
             <li><strong>Mission:</strong> Providing high-level academic analysis and bridging the gap between complex intermarket mechanics and actionable data science.</li>
             <li><strong>Education & Formation:</strong> All content is backed by solid academic formation in Business Administration, Global Macroeconomics, Programming, and Data Analysis (Studied via American and Canadian institutes).</li>
             <li><strong>Content Creation:</strong> Expert author of strategic, academically-grounded articles in the five core domains mentioned above.</li>
-            <li><strong>Quick Links:</strong> Explore my <a href="/blog/tags">Blog Tags</a>, learn about <a href="/blog/authors">Blog Authors</a>, play the <a href="/game">Game</a>, or subscribe to the <a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer">Newsletter</a> and <a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer">Updates</a>.</li>
+            <li><strong>Quick Links:</strong> Explore my <a href="/blog/tags">Blog Tags</a>, learn about <a href="/blog/authors">Blog Authors</a>, play the <a href="/game">Game</a>, or subscribe to the <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer">Newsletter</a> and <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer">Updates</a>.</li>
           </ul>
         </div>
         
         {/* Top Section: High Priority for LCP - Moved out of BrowserOnly for SSR Discovery */}
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-            <a href="https://substack.com/@khnaami" target="_blank" rel="noreferrer" className="pill-banner-link">
+            <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
               <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
             </a>
           </div>
