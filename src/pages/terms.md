@@ -56,5 +56,5 @@ These Terms shall be governed by and construed in accordance with the laws of th
 ## 8. Contact Information
 If you have any questions regarding these Terms, please contact us via our official email or social media channels:
 *   Email: [research@khalidnaami.com](mailto:research@khalidnaami.com)
-*   Substack: [substack.com/@khnaami](https://substack.com/@khnaami)
+*   X (Twitter): [x.com/khalidnaami0](https://x.com/khalidnaami0)
 *   LinkedIn: [linkedin.com/in/khalid-naami-a953263bb/](https://www.linkedin.com/in/khalid-naami-a953263bb/)
