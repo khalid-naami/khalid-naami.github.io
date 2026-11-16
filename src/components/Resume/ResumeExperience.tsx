@@ -31,10 +31,10 @@ const data = [
 		link: "#",
 		daterange: "September 2025 - Present",
 		summary: `
-- **Multi-disciplinary Engineering:** Specializing in high-performance software development by seamlessly integrating **C, C++, Python, and JavaScript**.
+- **Multi-disciplinary Engineering:** Specializing in high-performance software development by seamlessly integrating **Python** (Pandas, NumPy, SciPy, Polars, Numba, Plotly, Streamlit) and **JavaScript/TypeScript** (React.js, D3.js, Recharts, Node.js).
 - **Financial Synthesis:** Bridging the gap between **Global Macroeconomic analysis** and robust financial engineering to build sophisticated trading infrastructures.
 - **Open-Source Leadership:** Driving the creation of institutional-grade financial software, empowering the global community with transparent and scalable data analysis tools.
-- **Full-Stack Data Science:** Combining low-latency systems (C++) with flexible analytical modules (Python) to architect next-generation financial ecosystems.
+- **Full-Stack Data Science:** Combining low-latency interactive systems (**JavaScript/TypeScript, React.js, D3.js**) with flexible analytical modules (**Python, Pandas, NumPy, Polars, Numba**) to architect next-generation financial ecosystems.
 		`,
 	},
 	{
