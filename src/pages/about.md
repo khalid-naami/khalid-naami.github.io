@@ -44,8 +44,7 @@ All articles, guides, and analytical papers published here follow strict researc
 If you are interested in collaboration, academic research, or options intelligence, you can find me across my official channels:
 
 *   **Email**: [research@khalidnaami.com](mailto:research@khalidnaami.com)
-*   **Substack**: [Khalid Naami on Substack](https://substack.com/@khnaami) (Daily Analysis & Newsletter)
-*   **Personal X (Twitter)**: [@khalidnaami0](https://x.com/khalidnaami0)
+*   **Personal X (Daily Analysis & Newsletter)**: [@khalidnaami0](https://x.com/khalidnaami0)
 *   **Dashboard Options X**: [@DashboardOption](https://x.com/DashboardOption)
 *   **Personal LinkedIn**: [Khalid Naami Profile](https://www.linkedin.com/in/khalid-naami-a953263bb/)
 *   **Dashboard Options LinkedIn**: [Dashboard Options Company Page](https://www.linkedin.com/company/dashboard-options/)
