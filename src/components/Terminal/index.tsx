@@ -43,7 +43,10 @@ const Clock = () => {
                 const pointsResponse = await fetch('https://api.weather.gov/points/40.71,-74.01');
                 if (!pointsResponse.ok) throw new Error('Failed to fetch weather points');
                 const pointsData = await pointsResponse.json();
-                const forecastUrl = pointsData.properties.forecastHourly;
+                const forecastUrl = pointsData?.properties?.forecastHourly;
+                if (typeof forecastUrl !== 'string' || !forecastUrl.startsWith('https://api.weather.gov/')) {
+                    throw new Error('Untrusted forecast URL');
+                }
 
                 // Then, get the hourly forecast
                 const forecastResponse = await fetch(forecastUrl);
