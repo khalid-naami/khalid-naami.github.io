@@ -8,7 +8,7 @@ const data = [
     degree: 'Specialization in Programming Languages & Tech Architecture',
     date: '2024 - Present',
     summary: [
-      'Advanced mastery of C, C++, Python, and JavaScript integration.',
+      'Advanced mastery of Python (Pandas, NumPy, SciPy, Polars) and JavaScript/TypeScript (React.js, D3.js, Node.js) integration.',
       'Developing low-latency financial systems and scalable cloud architectures.',
       'Emphasis on cross-language software engineering and data structures.',
     ],
