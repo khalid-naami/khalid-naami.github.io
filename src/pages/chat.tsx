@@ -39,7 +39,10 @@ const Clock = ({ color }: { color: string }) => {
                 const pointsResponse = await fetch('https://api.weather.gov/points/40.71,-74.01');
                 if (!pointsResponse.ok) throw new Error('Failed to fetch weather points');
                 const pointsData = await pointsResponse.json();
-                const forecastUrl = pointsData.properties.forecastHourly;
+                const forecastUrl = pointsData?.properties?.forecastHourly;
+                if (typeof forecastUrl !== 'string' || !forecastUrl.startsWith('https://api.weather.gov/')) {
+                    throw new Error('Untrusted forecast URL');
+                }
 
                 const forecastResponse = await fetch(forecastUrl);
                 if (!forecastResponse.ok) throw new Error('Failed to fetch hourly forecast');
@@ -191,6 +194,20 @@ function cosineSimilarity(vecA: number[], vecB: number[]): number {
 function stripHtml(html: string): string {
     const doc = new DOMParser().parseFromString(html, 'text/html');
     return doc.body.textContent || "";
+}
+
+function getValidatedOllamaBaseUrl(rawUrl: string): string {
+    const trimmed = rawUrl.trim().replace(/\/+$/, '');
+    let parsed: URL;
+    try {
+        parsed = new URL(trimmed);
+    } catch {
+        throw new Error('Invalid Ollama URL format. Use http:// or https://');
+    }
+    if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') {
+        throw new Error('Ollama URL must use http:// or https:// protocol.');
+    }
+    return trimmed;
 }
 
 const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami, Founder & CEO at Dashboard Options. Builder and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
@@ -726,20 +743,29 @@ const ChatInterface = () => {
     const [indexingResult, setIndexingResult] = React.useState<{ count: number; timestamp: Date | null } | null>(null);
 
     useEffect(() => {
-        const storedUrl = localStorage.getItem('ollamaUrl');
-        if (storedUrl) {
-            setOllamaUrl(storedUrl);
-            setInputUrl(storedUrl);
+        try {
+            const storedUrl = localStorage.getItem('ollamaUrl');
+            if (storedUrl) {
+                const validated = getValidatedOllamaBaseUrl(storedUrl);
+                setOllamaUrl(validated);
+                setInputUrl(validated);
+            }
+        } catch {
+            localStorage.removeItem('ollamaUrl');
         }
 
-        const cachedStore = localStorage.getItem('blogVectorStore');
         const checkAndSetVectorStore = () => {
-            if (cachedStore) {
-                const { model, vectors, timestamp } = JSON.parse(cachedStore);
-                if (model === embeddingModel) {
-                    setVectorStore(vectors);
-                    setIndexingResult({ count: vectors.length, timestamp: new Date(timestamp) });
+            try {
+                const cachedStore = localStorage.getItem('blogVectorStore');
+                if (cachedStore) {
+                    const { model, vectors, timestamp } = JSON.parse(cachedStore);
+                    if (model === embeddingModel && Array.isArray(vectors)) {
+                        setVectorStore(vectors);
+                        setIndexingResult({ count: vectors.length, timestamp: timestamp ? new Date(timestamp) : null });
+                    }
                 }
+            } catch {
+                localStorage.removeItem('blogVectorStore');
             }
         };
 
@@ -752,7 +778,12 @@ const ChatInterface = () => {
         const timeoutId = setTimeout(() => {
             if (inputUrl !== ollamaUrl) {
                 setOllamaUrl(inputUrl);
-                localStorage.setItem('ollamaUrl', inputUrl);
+                try {
+                    const validated = getValidatedOllamaBaseUrl(inputUrl);
+                    localStorage.setItem('ollamaUrl', validated);
+                } catch {
+                    // Do not persist invalid URLs
+                }
             }
         }, 500); // 500ms debounce
 
@@ -763,8 +794,8 @@ const ChatInterface = () => {
         const checkOllamaStatusAndFetchModels = async () => {
             setOllamaStatus('pending');
             setStatusError(null);
-            const sanitizedUrl = ollamaUrl.replace(/\/+$/, ''); // Trim trailing slashes
             try {
+                const sanitizedUrl = getValidatedOllamaBaseUrl(ollamaUrl);
                 const response = await fetch(`${sanitizedUrl}/api/tags`);
                 if (!response.ok) throw new Error(`Server responded with status: ${response.status}`);
                 const data = await response.json();
@@ -806,6 +837,7 @@ const ChatInterface = () => {
         setIndexingResult(null);
 
         try {
+            const sanitizedUrl = getValidatedOllamaBaseUrl(ollamaUrl);
             const feedResponse = await fetch('/graph-data.json');
             if (!feedResponse.ok) throw new Error('Failed to fetch blog feed');
             const feedData = await feedResponse.json();
@@ -821,7 +853,6 @@ const ChatInterface = () => {
                     const imageMatch = post.content_html.match(/<img.*?src=\"(.*?)\"/);
                     const thumbnailUrl = imageMatch ? imageMatch[1] : '';
                     
-                    const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
                     const embeddingResponse = await fetch(`${sanitizedUrl}/api/embeddings`, {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
@@ -849,7 +880,11 @@ const ChatInterface = () => {
             setVectorStore(newVectorStore);
             const result = { count: newVectorStore.length, timestamp: new Date() };
             setIndexingResult(result);
-            localStorage.setItem('blogVectorStore', JSON.stringify({ model: embeddingModel, vectors: newVectorStore, timestamp: result.timestamp }));
+            try {
+                localStorage.setItem('blogVectorStore', JSON.stringify({ model: embeddingModel, vectors: newVectorStore, timestamp: result.timestamp }));
+            } catch (storageErr) {
+                console.warn('Could not cache vector store in localStorage:', storageErr);
+            }
         } catch(e) {
             console.error(e);
             setHistory(prev => [...prev, { text: `Failed to index blog: ${(e as Error).message}\n\n`, sender: 'error' }]);
@@ -884,7 +919,7 @@ const ChatInterface = () => {
         if (vectorStore.length > 0 && embeddingModel) {
             try {
                 // 1. Embed the user's query
-                const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
+                const sanitizedUrl = getValidatedOllamaBaseUrl(ollamaUrl);
                 const queryEmbeddingResponse = await fetch(`${sanitizedUrl}/api/embeddings`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
@@ -931,7 +966,7 @@ const ChatInterface = () => {
         ];
 
         try {
-          const sanitizedUrl = ollamaUrl.replace(/\/+$/, '');
+          const sanitizedUrl = getValidatedOllamaBaseUrl(ollamaUrl);
           const chatResponse = await fetch(`${sanitizedUrl}/api/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
