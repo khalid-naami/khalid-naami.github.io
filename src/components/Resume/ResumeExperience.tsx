@@ -38,15 +38,15 @@ const data = [
 		`,
 	},
 	{
-		company: "Confidential Financial Institution",
-		title: "Proprietary Financial Systems Engineer",
+		company: "Digital Solutions Organization",
+		title: "Full-Stack Systems & Platform Engineer",
 		link: "#",
 		daterange: "March 2026 - Present",
 		summary: `
-- **Collaborative Engineering:** Partnering with cross-functional engineering teams to architect and maintain mission-critical financial software and high-performance application interfaces (APIs).
-- **Institutional-Grade Solutions:** Developed and optimized secure middleware for Tier-1 financial institutions, ensuring high data integrity and seamless system integration.
-- **Security & Compliance:** Managing highly confidential, closed-source codebases with a focus on internal financial data processing and sensitive transaction monitoring.
-- **Architecture Maintenance:** Ensuring the operational excellence of robust financial frameworks designed for high-security environments.
+- **Full-Stack System Architecture:** Designing and developing modern, scalable web platforms and custom projects across any data domain—including **financial, medical, analytical, and enterprise datasets**—by combining interactive front-end interfaces (**React.js, TypeScript**) with high-efficiency backend data processing (**Python, Node.js**).
+- **Performance & UX Optimization:** Accelerating page load speeds, implementing **Lazy Loading** strategies, and engineering responsive applications that operate seamlessly across all devices.
+- **Workflow & Data Automation:** Building automation scripts and pipelines for content generation, media processing, and automated search indexing and structured data feeds (**RSS, Sitemaps, JSON**).
+- **Web Security & Integrity:** Enforcing modern web security best practices and UI hardening (**XSS Protection, Subresource Integrity [SRI], Input Validation**) to guarantee platform stability, privacy, and reliability.
 		`,
 	},
 	{
