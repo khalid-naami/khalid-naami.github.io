@@ -15,7 +15,7 @@ const LatestPosts = React.lazy(() => import('../components/home/LatestPosts'));
 const OutsideWork = React.lazy(() => import('../components/home/OutsideWork'));
 const Journey = React.lazy(() => import('../components/home/Journey'));
 
-if (typeof window !== 'undefined') {
+if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
   // Prevent TradingView cross-origin "Script error." from triggering the dev-server overlay
   window.addEventListener(
     'error',
