@@ -34,6 +34,20 @@ interface GraphCanvasProps {
 const MIN_RADIUS = 3;
 const MAX_RADIUS = 15;
 
+function escapeHtml(unsafe: string): string {
+  return unsafe
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
+function isSafeUrl(url: string | undefined): boolean {
+  if (!url) return false;
+  return url.startsWith('/') || url.startsWith('https://') || url.startsWith('http://');
+}
+
 export const GraphCanvas: FC<GraphCanvasProps> = ({ items, width, height, showThoughts, showClusters, showNodes, searchQuery, colorMode }) => {
   // Refs for DOM elements and D3 objects
   const svgRef = useRef<SVGSVGElement | null>(null);
@@ -500,9 +514,9 @@ export const GraphCanvas: FC<GraphCanvasProps> = ({ items, width, height, showTh
         const [mx, my] = d3.pointer(event);
         const [rx, ry] = transform.invert([mx, my]);
         const found = quadtree.find(rx, ry, 30 / transform.k);
-        if(found) {
+        if (found && isSafeUrl(found.url)) {
             trackEvent('node_click', found.title);
-            window.open(found.url, '_blank');
+            window.open(found.url, '_blank', 'noopener,noreferrer');
         }
     }
 
@@ -518,18 +532,22 @@ export const GraphCanvas: FC<GraphCanvasProps> = ({ items, width, height, showTh
 
         if (found) {
             let imageTag = '';
-            if (found.image) {
-                const altText = found.title ? found.title : 'Blog post image';
-                imageTag = `<img src="${found.image}" alt="${altText}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px;" />`;
+            if (found.image && isSafeUrl(found.image)) {
+                const altText = escapeHtml(found.title ? found.title : 'Blog post image');
+                const safeImgSrc = escapeHtml(found.image);
+                imageTag = `<img src="${safeImgSrc}" alt="${altText}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px;" />`;
             }
+
+            const safeTitle = escapeHtml(found.title || '');
+            const safeSummary = escapeHtml((found.summary || '').slice(0, 150));
 
             const tooltipHtml = `
                 <div>
                     <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
                         ${imageTag}
-                        <div style="flex: 1; font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500; white-space: normal; word-break: break-word;">${found.title}</div>
+                        <div style="flex: 1; font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500; white-space: normal; word-break: break-word;">${safeTitle}</div>
                     </div>
-                    <span style="font-size:0.8rem; white-space: normal; word-break: break-word;">${found.summary.slice(0, 150)}...</span>
+                    <span style="font-size:0.8rem; white-space: normal; word-break: break-word;">${safeSummary}...</span>
                 </div>
             `;
             tooltipSelection
