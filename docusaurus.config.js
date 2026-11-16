@@ -339,18 +339,6 @@ module.exports = async function createConfig() {
                 label: 'Dashboard Options X',
                 href: 'https://x.com/DashboardOption',
               },
-              {
-                label: 'Personal LinkedIn',
-                href: 'https://www.linkedin.com/in/khalid-naami-a953263bb/',
-              },
-              {
-                label: 'Dashboard Options LinkedIn',
-                href: 'https://www.linkedin.com/company/dashboard-options/',
-              },
-              {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/@khalid-naami',
-              },
             ],
           },
           {
