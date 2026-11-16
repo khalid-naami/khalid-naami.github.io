@@ -8,10 +8,17 @@ type SourceProps = {
     isLarge?: boolean;
 };
 
+const isSafeSourceUrl = (candidate: string | undefined): boolean => {
+    if (!candidate) return false;
+    return candidate.startsWith('/') || candidate.startsWith('https://') || candidate.startsWith('http://');
+};
+
 const Source: React.FC<SourceProps> = ({ url, title, thumbnail, isLarge = false }) => {
     const [isHovered, setIsHovered] = useState(false);
     const [tooltipPosition, setTooltipPosition] = useState({ top: 0, left: 0 });
     const thumbnailRef = useRef<HTMLAnchorElement>(null);
+    const safeUrl = isSafeSourceUrl(url) ? url : '#';
+    const safeThumbnail = isSafeSourceUrl(thumbnail) ? thumbnail : '/img/zoro-internal.webp';
 
     const handleMouseEnter = () => {
         if (thumbnailRef.current) {
@@ -82,13 +89,13 @@ const Source: React.FC<SourceProps> = ({ url, title, thumbnail, isLarge = false 
         <div style={containerStyle}>
             <a
                 ref={thumbnailRef}
-                href={url}
+                href={safeUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={() => setIsHovered(false)}
             >
-                <img src={thumbnail} alt={title} style={thumbnailStyle} />
+                <img src={safeThumbnail} alt={title} style={thumbnailStyle} />
             </a>
             {isHovered && <Tooltip />}
         </div>
