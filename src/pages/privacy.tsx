@@ -40,7 +40,7 @@ export default function PrivacyPolicy() {
               </p>
               <ul>
                 <li>
-                  <strong>Voluntary Information:</strong> If you subscribe to our Substack newsletter or communicate with us through official social media profiles, we receive your email address or username. This information is used strictly to deliver requested updates and reply to inquiries.
+                  <strong>Voluntary Information:</strong> If you subscribe to our newsletter or communicate with us through our official X (Twitter) or social media profiles, we receive your email address or username. This information is used strictly to deliver requested updates and reply to inquiries.
                 </li>
                 <li>
                   <strong>Automated Information:</strong> Like most websites, we collect standard log file data, including IP addresses, browser types, Internet Service Providers (ISPs), entry/exit pages, and date/time stamps. This data is aggregated and does not identify individual users.
@@ -121,7 +121,7 @@ export default function PrivacyPolicy() {
               </p>
               <ul>
                 <li>Email: <a href="mailto:research@khalidnaami.com">research@khalidnaami.com</a></li>
-                <li>Substack: <a href="https://substack.com/@khnaami" target="_blank" rel="noopener noreferrer">substack.com/@khnaami</a></li>
+                <li>X (Twitter): <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer">x.com/khalidnaami0</a></li>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/khalid-naami-a953263bb/" target="_blank" rel="noopener noreferrer">khalid-naami-linkedin</a></li>
               </ul>
             </section>
