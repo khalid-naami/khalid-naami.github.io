@@ -357,8 +357,11 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 								}
 							}}
 							onClick={(entry, index) => {
-								if (isDesktop && entry && monthlyData[index].posts[i]) {
-									window.open(monthlyData[index].posts[i].url, "_blank");
+								if (isDesktop && entry && monthlyData[index]?.posts[i]) {
+									const targetUrl = monthlyData[index].posts[i].url;
+									if (targetUrl && (targetUrl.startsWith("/") || targetUrl.startsWith("https://") || targetUrl.startsWith("http://"))) {
+										window.open(targetUrl, "_blank", "noopener,noreferrer");
+									}
 								}
 							}}
 							style={{
