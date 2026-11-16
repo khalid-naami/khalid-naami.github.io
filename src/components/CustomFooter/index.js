@@ -5,7 +5,7 @@ import TickerTape from '../TickerTape';
 import PolymarketTape from '../PolymarketTape';
 
 // Suppress TradingView cross-origin errors during development across the whole site
-if (typeof window !== 'undefined') {
+if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
   window.addEventListener(
     'error',
     (evt) => {
