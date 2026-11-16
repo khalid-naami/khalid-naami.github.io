@@ -4,8 +4,8 @@ import ExperienceList from "../General/ExperienceList";
 const data = [
 	{
 		company: "Dashboard Options",
-		title: "Founder & CEO",
-		link: "#",
+		title: "Project Founder",
+		link: "https://x.com/DashboardOption",
 		daterange: "2026",
 		summary: `
 - Engineered and bootstrapped a premier high-frequency options analytics platform from the ground up, integrating real-time data feeds from **CBOE, OPRA, Binance, and Deribit**.
