@@ -26,27 +26,15 @@ const data = [
 		`,
 	},
 	{
-		company: "Open-Source Financial Ecosystems",
-		title: "Quant Software Architect",
+		company: "Open-Source & Digital Solutions",
+		title: "Quant & Full-Stack Systems Architect",
 		link: "#",
 		daterange: "September 2025 - Present",
 		summary: `
-- **Multi-disciplinary Engineering:** Specializing in high-performance software development by seamlessly integrating **Python** (Pandas, NumPy, SciPy, Polars, Numba, Plotly, Streamlit) and **JavaScript/TypeScript** (React.js, D3.js, Recharts, Node.js).
-- **Financial Synthesis:** Bridging the gap between **Global Macroeconomic analysis** and robust financial engineering to build sophisticated trading infrastructures.
-- **Open-Source Leadership:** Driving the creation of institutional-grade financial software, empowering the global community with transparent and scalable data analysis tools.
-- **Full-Stack Data Science:** Combining low-latency interactive systems (**JavaScript/TypeScript, React.js, D3.js**) with flexible analytical modules (**Python, Pandas, NumPy, Polars, Numba**) to architect next-generation financial ecosystems.
-		`,
-	},
-	{
-		company: "Digital Solutions Organization",
-		title: "Full-Stack Systems & Platform Engineer",
-		link: "#",
-		daterange: "March 2026 - Present",
-		summary: `
-- **Full-Stack System Architecture:** Designing and developing modern, scalable web platforms and custom projects across any data domain—including **financial, medical, analytical, and enterprise datasets**—by combining interactive front-end interfaces (**React.js, TypeScript**) with high-efficiency backend data processing (**Python, Node.js**).
-- **Performance & UX Optimization:** Accelerating page load speeds, implementing **Lazy Loading** strategies, and engineering responsive applications that operate seamlessly across all devices.
-- **Workflow & Data Automation:** Building automation scripts and pipelines for content generation, media processing, and automated search indexing and structured data feeds (**RSS, Sitemaps, JSON**).
-- **Web Security & Integrity:** Enforcing modern web security best practices and UI hardening (**XSS Protection, Subresource Integrity [SRI], Input Validation**) to guarantee platform stability, privacy, and reliability.
+- **Multi-Disciplinary & Cross-Domain Architecture:** Designing and engineering scalable web platforms and custom analytical projects across any data domain—including **financial, medical, macroeconomic, and enterprise datasets**—by integrating **Python** (**Pandas, NumPy, SciPy, Polars, Numba, Plotly, Streamlit**) with **JavaScript/TypeScript** (**React.js, D3.js, Recharts, Node.js**).
+- **Quantitative Synthesis & Open-Source Leadership:** Bridging **Global Macroeconomic analysis** and software engineering to build transparent, institutional-grade tools and interactive data visualizations (**D3.js, Recharts, Plotly**) for the global community.
+- **Performance & Workflow Automation:** Accelerating load speeds (**Lazy Loading**, responsive architecture) and building automated pipelines for content generation, media optimization, search indexing, and structured data feeds (**RSS, Sitemaps, JSON**).
+- **Web Security & System Integrity:** Enforcing modern web security standards and UI hardening (**XSS Protection, Subresource Integrity [SRI], Input Validation**) to ensure platform stability, privacy, and data reliability.
 		`,
 	},
 	{
