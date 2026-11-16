@@ -598,24 +598,44 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
               fullContent
             );
 
+            const escapeXml = (/** @type {any} */ unsafe) => {
+              if (!unsafe) return '';
+              return String(unsafe).replace(/[<>&"']/g, (m) => {
+                switch (m) {
+                  case '<': return '&lt;';
+                  case '>': return '&gt;';
+                  case '&': return '&amp;';
+                  case '"': return '&quot;';
+                  case "'": return '&apos;';
+                  default: return m;
+                }
+              });
+            };
+
+            const escapeCdata = (/** @type {any} */ unsafe) => {
+              if (!unsafe) return '';
+              return String(unsafe).replace(/]]>/g, ']]&gt;');
+            };
+
             // Universal RSS Generation (Updated to match FeedBurner/Standard RSS 2.0)
             try {
               const { marked } = require('marked');
               const lastBuildDate = new Date().toUTCString();
               const rssItems = blogContent.map((post) => {
-                const postUrl = `${context.siteConfig.url}${post.url}`;
+                const postUrl = escapeXml(`${context.siteConfig.url}${post.url}`);
                 // Strip frontmatter from content_html before parsing
                 const rawMarkdown = (post.content_html || '').replace(/^---[\s\S]+?---/, '');
-                const htmlContent = marked.parse(rawMarkdown);
+                const htmlContent = escapeCdata(marked.parse(rawMarkdown));
                 const pubDate = new Date(post.date_modified).toUTCString();
                 
                 // Categories from tags
-                const categories = (post.tags || []).map((/** @type {string} */ tag) => `<category><![CDATA[${tag}]]></category>`).join('');
+                const categories = (post.tags || []).map((/** @type {string} */ tag) => `<category><![CDATA[${escapeCdata(tag)}]]></category>`).join('');
                 
                 let mediaGroupTag = '';
                 if (post.image) {
-                  const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
-                  const type = imageUrl.endsWith('.png') ? 'image/png' : (imageUrl.endsWith('.webp') ? 'image/webp' : 'image/jpeg');
+                  const rawImageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                  const imageUrl = escapeXml(rawImageUrl);
+                  const type = rawImageUrl.endsWith('.png') ? 'image/png' : (rawImageUrl.endsWith('.webp') ? 'image/webp' : 'image/jpeg');
                   mediaGroupTag = `
       <media:group>
         <media:content url="${imageUrl}" type="${type}"/>
@@ -625,14 +645,14 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
 
                 return `
     <item>
-      <title><![CDATA[${post.title}]]></title>
+      <title><![CDATA[${escapeCdata(post.title)}]]></title>
       <link>${postUrl}</link>
       <guid isPermaLink="false">${postUrl}</guid>
       <pubDate>${pubDate}</pubDate>
       <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
       ${categories}
-      <description><![CDATA[${post.summary}]]></description>
+      <description><![CDATA[${escapeCdata(post.summary)}]]></description>
       <content:encoded><![CDATA[${htmlContent}]]></content:encoded>
       <yandex:full-text><![CDATA[${htmlContent}]]></yandex:full-text>
       <yandex:genre>article</yandex:genre>
@@ -651,9 +671,9 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
      xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-    <title><![CDATA[${context.siteConfig.title}]]></title>
-    <atom:link href="${context.siteConfig.url}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
-    <link>${context.siteConfig.url}</link>
+    <title><![CDATA[${escapeCdata(context.siteConfig.title)}]]></title>
+    <atom:link href="${escapeXml(context.siteConfig.url)}/blog/universal-rss.xml" rel="self" type="application/rss+xml"/>
+    <link>${escapeXml(context.siteConfig.url)}</link>
     <description><![CDATA[Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.]]></description>
     <lastBuildDate>${lastBuildDate}</lastBuildDate>
     <language>en</language>
@@ -682,15 +702,15 @@ ${rssItems}
               const newsItems = blogContent
                 .filter(post => new Date(post.date_modified) >= twoDaysAgo)
                 .map(post => {
-                  const postUrl = `${context.siteConfig.url}${post.url}`;
+                  const postUrl = escapeXml(`${context.siteConfig.url}${post.url}`);
                   const pubDate = new Date(post.date_modified).toISOString();
                   let imageTag = '';
                   if (post.image) {
-                    const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                    const imageUrl = escapeXml(post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`);
                     imageTag = `
     <image:image>
       <image:loc>${imageUrl}</image:loc>
-      <image:title><![CDATA[${post.title}]]></image:title>
+      <image:title><![CDATA[${escapeCdata(post.title)}]]></image:title>
     </image:image>`;
                   }
 
@@ -703,7 +723,7 @@ ${rssItems}
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>${pubDate}</news:publication_date>
-      <news:title><![CDATA[${post.title}]]></news:title>
+      <news:title><![CDATA[${escapeCdata(post.title)}]]></news:title>
     </news:news>${imageTag}
   </url>`;
                 }).join('');
@@ -730,15 +750,15 @@ ${newsItems}
             try {
               const imageItems = blogContent.map(post => {
                 if (!post.image) return '';
-                const postUrl = `${context.siteConfig.url}${post.url}`;
-                const imageUrl = post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`;
+                const postUrl = escapeXml(`${context.siteConfig.url}${post.url}`);
+                const imageUrl = escapeXml(post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`);
                 return `
   <url>
     <loc>${postUrl}</loc>
     <image:image>
       <image:loc>${imageUrl}</image:loc>
-      <image:caption><![CDATA[${post.summary}]]></image:caption>
-      <image:title><![CDATA[${post.title}]]></image:title>
+      <image:caption><![CDATA[${escapeCdata(post.summary)}]]></image:caption>
+      <image:title><![CDATA[${escapeCdata(post.title)}]]></image:title>
     </image:image>
   </url>`;
               }).join('');
@@ -817,8 +837,8 @@ ${imageItems}
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
       type: 'text/css',
-      media: 'print',
-      onload: "this.media='all'",
+      integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
     },
   ],
 
