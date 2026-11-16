@@ -15,22 +15,36 @@ const PolymarketTape = () => {
   useEffect(() => {
     if (!ExecutionEnvironment.canUseDOM) return;
 
+    let isMounted = true;
+    let retryTimer = null;
+    let retryCount = 0;
+    const MAX_RETRIES = 3;
+    const controller = new AbortController();
+
+    const scheduleRetry = () => {
+      if (!isMounted || retryCount >= MAX_RETRIES) return;
+      retryCount += 1;
+      retryTimer = setTimeout(fetchMarkets, 5000);
+    };
+
     setLoading(true);
     const fetchMarkets = async () => {
+      if (!isMounted) return;
       const apiUrl = 'https://gamma-api.polymarket.com/events?order=createdAt&ascending=false&limit=60';
       try {
         let response;
         try {
-          response = await fetch(apiUrl);
+          response = await fetch(apiUrl, { signal: controller.signal });
           if (!response.ok) throw new Error('Direct fetch returned non-200');
         } catch (err) {
+          if (err.name === 'AbortError') return;
           // CORS error or network failure, use proxy
           const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(apiUrl)}`;
-          response = await fetch(proxyUrl);
+          response = await fetch(proxyUrl, { signal: controller.signal });
           if (!response.ok) throw new Error('Proxy fetch failed');
           
           const proxyData = await response.json();
-          const data = JSON.parse(proxyData.contents);
+          const data = typeof proxyData.contents === 'string' ? JSON.parse(proxyData.contents) : null;
           processData(data);
           return;
         }
@@ -39,33 +53,35 @@ const PolymarketTape = () => {
         const data = await response.json();
         processData(data);
       } catch (error) {
+        if (error.name === 'AbortError') return;
         console.error('Polymarket fetch error, retrying in 5s...', error);
-        // Silently retry after 5 seconds
-        setTimeout(fetchMarkets, 5000);
+        scheduleRetry();
       }
     };
 
     const processData = (data) => {
+      if (!isMounted) return;
       if (!data || !Array.isArray(data) || data.length === 0) {
-        // Retry if we got empty data
-        setTimeout(fetchMarkets, 5000);
+        scheduleRetry();
         return;
       }
 
       const formattedMarkets = data.map(event => {
         try {
           const market = event.markets?.[0];
-          if (!market || !market.outcomes || !market.outcomePrices) return null;
+          if (!market || !market.outcomes || !market.outcomePrices || !event.slug) return null;
           const outcomes = typeof market.outcomes === 'string' ? JSON.parse(market.outcomes) : market.outcomes;
           const outcomePrices = typeof market.outcomePrices === 'string' ? JSON.parse(market.outcomePrices) : market.outcomePrices;
-          if (!outcomes.length || !outcomePrices.length) return null;
+          if (!Array.isArray(outcomes) || !Array.isArray(outcomePrices) || !outcomes.length || !outcomePrices.length) return null;
           const price = Number.parseFloat(outcomePrices[0]);
-          const percentage = Math.round(price * 100);
+          if (Number.isNaN(price)) return null;
+          const percentage = Math.max(0, Math.min(100, Math.round(price * 100)));
+          const safeImage = typeof event.image === 'string' && event.image.startsWith('https://') ? event.image : '';
           return {
-            id: event.id,
-            title: event.title,
-            image: event.image,
-            url: `https://polymarket.com/event/${event.slug}`,
+            id: String(event.id || event.slug),
+            title: String(event.title || ''),
+            image: safeImage,
+            url: `https://polymarket.com/event/${encodeURIComponent(String(event.slug))}`,
             outcomePercentage: percentage,
             gaugeColor: getGaugeColor(percentage),
           };
@@ -75,7 +91,7 @@ const PolymarketTape = () => {
       }).filter(Boolean);
 
       if (formattedMarkets.length === 0) {
-        setTimeout(fetchMarkets, 5000);
+        scheduleRetry();
       } else {
         setMarkets(formattedMarkets.slice(0, 10));
         setLoading(false);
@@ -83,6 +99,12 @@ const PolymarketTape = () => {
     };
 
     fetchMarkets();
+
+    return () => {
+      isMounted = false;
+      controller.abort();
+      if (retryTimer) clearTimeout(retryTimer);
+    };
   }, []);
 
   if (markets.length === 0) {
