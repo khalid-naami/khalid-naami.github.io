@@ -51,7 +51,7 @@ async function notifyEngine(endpoint) {
       }
     };
 
-    console.log(`📡 Sending update to ${endpoint.name}...`);
+    console.log(`📡 Notifying ${endpoint.name} via IndexNow...`);
 
     const req = https.request(options, (res) => {
       res.on('data', () => {});
@@ -63,6 +63,10 @@ async function notifyEngine(endpoint) {
         }
         resolve();
       });
+    });
+
+    req.setTimeout(15000, () => {
+      req.destroy(new Error('Request timed out'));
     });
 
     req.on('error', (err) => {
