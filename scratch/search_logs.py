@@ -1,6 +1,7 @@
 import json
+import os
 
-log_path = r"C:\Users\khali\.gemini\antigravity\brain\00fbe5f6-5fbe-40bb-a075-38154c4374e1\.system_generated\logs\transcript.jsonl"
+log_path = os.environ.get("TRANSCRIPT_LOG_PATH", "transcript.jsonl")
 
 with open(log_path, 'r', encoding='utf-8') as f:
     for i, line in enumerate(f):
