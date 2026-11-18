@@ -20,7 +20,7 @@ if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
 
   // Hide the webpack overlay if it still sneaks in
   const style = document.createElement('style');
-  style.innerHTML = '#webpack-dev-server-client-overlay { display: none !important; }';
+  style.textContent = '#webpack-dev-server-client-overlay { display: none !important; }';
   document.head.appendChild(style);
 }
 
