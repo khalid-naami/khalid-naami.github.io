@@ -122,7 +122,6 @@ export default function PrivacyPolicy() {
               <ul>
                 <li>Email: <a href="mailto:research@khalidnaami.com">research@khalidnaami.com</a></li>
                 <li>X (Twitter): <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer">x.com/khalidnaami0</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/khalid-naami-a953263bb/" target="_blank" rel="noopener noreferrer">khalid-naami-linkedin</a></li>
               </ul>
             </section>
           </div>
