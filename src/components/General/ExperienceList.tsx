@@ -13,48 +13,25 @@ interface ExperienceListProps {
   experience: Experience[];
 }
 
+function isSafeHref(href: string | undefined): boolean {
+  if (!href) return false;
+  if (href === '#' || (href.startsWith('/') && !href.startsWith('//'))) return true;
+  return href.startsWith('https://') || href.startsWith('http://') || href.startsWith('mailto:');
+}
+
 export default function ExperienceList({ experience }: ExperienceListProps) {
   const renderSummary = (summary: string | string[]) => {
-    // If it's an array (legacy format), convert to markdown bullet list
-    if (Array.isArray(summary)) {
-      const markdownList = summary.map(point => `- ${point}`).join('\n');
-      return (
-        <div className="text-sm mb-4">
-          <ReactMarkdown
-            components={{
-              a: ({ href, children }) => (
-                <a 
-                  href={href} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="text-mission-text-color hover:underline"
-                >
-                  {children}
-                </a>
-              ),
-              p: ({ children }) => <p className="mb-2 text-gray-700 dark:text-gray-300">{children}</p>,
-              ul: ({ children }) => <ul className="list-disc pl-5 mb-2 text-gray-700 dark:text-gray-300">{children}</ul>,
-              ol: ({ children }) => <ol className="list-decimal pl-5 mb-2 text-gray-700 dark:text-gray-300">{children}</ol>,
-              li: ({ children }) => <li className="mb-1 text-gray-700 dark:text-gray-300">{children}</li>,
-              strong: ({ children }) => <strong className="font-bold text-gray-900 dark:text-gray-100">{children}</strong>,
-              em: ({ children }) => <em className="italic text-gray-700 dark:text-gray-300">{children}</em>,
-              h3: ({ children }) => <h3 className="text-base font-bold mb-2 mt-3 text-gray-900 dark:text-gray-100">{children}</h3>,
-            }}
-          >
-            {markdownList}
-          </ReactMarkdown>
-        </div>
-      );
-    }
-    
-    // If it's a string, render as markdown
+    const markdownText = Array.isArray(summary)
+      ? summary.map(point => `- ${point}`).join('\n')
+      : summary;
+
     return (
       <div className="text-sm mb-4">
         <ReactMarkdown
           components={{
             a: ({ href, children }) => (
               <a 
-                href={href} 
+                href={isSafeHref(href) ? href : '#'} 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-mission-text-color hover:underline"
@@ -71,7 +48,7 @@ export default function ExperienceList({ experience }: ExperienceListProps) {
             h3: ({ children }) => <h3 className="text-base font-bold mb-2 mt-3 text-gray-900 dark:text-gray-100">{children}</h3>,
           }}
         >
-          {summary}
+          {markdownText}
         </ReactMarkdown>
       </div>
     );
