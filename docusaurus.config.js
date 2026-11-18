@@ -109,7 +109,6 @@ module.exports = async function createConfig() {
             },
             "sameAs": [
               "https://github.com/khalid-naami",
-              "https://www.linkedin.com/in/khalid-naami-a953263bb/",
               "https://x.com/khalidnaami0",
               "https://share.streamlit.io/user/khalidnaami3-wq",
               "https://cal.com/khnaami",
@@ -133,8 +132,7 @@ module.exports = async function createConfig() {
             "founder": { "@id": "https://khalidnaami.com/#person" },
             "foundingDate": "2024-01-01",
             "sameAs": [
-              "https://x.com/DashboardOption",
-              "https://www.linkedin.com/company/dashboard-options/"
+              "https://x.com/DashboardOption"
             ]
           },
           {
@@ -650,7 +648,7 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
       <link>${postUrl}</link>
       <guid isPermaLink="false">${postUrl}</guid>
       <pubDate>${pubDate}</pubDate>
-      <author>research@khalidnaami.com (Khalid Naami)</author>
+      <author>khalidnaami66@gmail.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
       ${categories}
       <description><![CDATA[${escapeCdata(post.summary)}]]></description>
