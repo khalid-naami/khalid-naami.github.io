@@ -31,7 +31,7 @@ if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
 
   // Fallback: hide the overlay element if it still shows up
   const style = document.createElement('style');
-  style.innerHTML =
+  style.textContent =
     '#webpack-dev-server-client-overlay { display: none !important; }';
   document.head.appendChild(style);
 }
