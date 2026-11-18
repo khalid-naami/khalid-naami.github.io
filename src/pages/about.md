@@ -46,8 +46,6 @@ If you are interested in collaboration, academic research, or options intelligen
 *   **Email**: [research@khalidnaami.com](mailto:research@khalidnaami.com)
 *   **Personal X (Daily Analysis & Newsletter)**: [@khalidnaami0](https://x.com/khalidnaami0)
 *   **Dashboard Options X**: [@DashboardOption](https://x.com/DashboardOption)
-*   **Personal LinkedIn**: [Khalid Naami Profile](https://www.linkedin.com/in/khalid-naami-a953263bb/)
-*   **Dashboard Options LinkedIn**: [Dashboard Options Company Page](https://www.linkedin.com/company/dashboard-options/)
 *   **YouTube**: [Khalid Naami Channel](https://www.youtube.com/@khalid-naami)
 
 For administrative or general inquiries, feel free to contact me via email or my social media profiles.
