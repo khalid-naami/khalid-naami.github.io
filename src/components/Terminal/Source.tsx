@@ -10,7 +10,7 @@ type SourceProps = {
 
 const isSafeSourceUrl = (candidate: string | undefined): boolean => {
     if (!candidate) return false;
-    return candidate.startsWith('/') || candidate.startsWith('https://') || candidate.startsWith('http://');
+    return (candidate.startsWith('/') && !candidate.startsWith('//')) || candidate.startsWith('https://') || candidate.startsWith('http://');
 };
 
 const Source: React.FC<SourceProps> = ({ url, title, thumbnail, isLarge = false }) => {
