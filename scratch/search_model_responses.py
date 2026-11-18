@@ -1,7 +1,8 @@
 import json
+import os
 
-log_path = r"C:\Users\khali\.gemini\antigravity\brain\00fbe5f6-5fbe-40bb-a075-38154c4374e1\.system_generated\logs\transcript.jsonl"
-out_path = r"C:\Users\khali\OneDrive\Bureau\my-website-main\scratch\model_search_results.txt"
+log_path = os.environ.get("TRANSCRIPT_LOG_PATH", "transcript.jsonl")
+out_path = os.environ.get("SEARCH_RESULTS_OUT_PATH", "model_search_results.txt")
 
 matches = []
 with open(log_path, 'r', encoding='utf-8') as f:
