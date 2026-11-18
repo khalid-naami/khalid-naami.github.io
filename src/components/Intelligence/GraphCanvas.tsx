@@ -34,18 +34,9 @@ interface GraphCanvasProps {
 const MIN_RADIUS = 3;
 const MAX_RADIUS = 15;
 
-function escapeHtml(unsafe: string): string {
-  return unsafe
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
-}
-
 function isSafeUrl(url: string | undefined): boolean {
   if (!url) return false;
-  return url.startsWith('/') || url.startsWith('https://') || url.startsWith('http://');
+  return (url.startsWith('/') && !url.startsWith('//')) || url.startsWith('https://') || url.startsWith('http://');
 }
 
 export const GraphCanvas: FC<GraphCanvasProps> = ({ items, width, height, showThoughts, showClusters, showNodes, searchQuery, colorMode }) => {
@@ -531,30 +522,35 @@ export const GraphCanvas: FC<GraphCanvasProps> = ({ items, width, height, showTh
         const tooltipSelection = d3.select(tooltip);
 
         if (found) {
-            let imageTag = '';
+            const wrapper = document.createElement('div');
+            const headerRow = document.createElement('div');
+            headerRow.style.cssText = 'display: flex; align-items: center; gap: 8px; margin-bottom: 8px;';
+
             if (found.image && isSafeUrl(found.image)) {
-                const altText = escapeHtml(found.title ? found.title : 'Blog post image');
-                const safeImgSrc = escapeHtml(found.image);
-                imageTag = `<img src="${safeImgSrc}" alt="${altText}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px;" />`;
+                const img = document.createElement('img');
+                img.src = found.image;
+                img.alt = found.title || 'Blog post image';
+                img.style.cssText = 'width: 60px; height: 60px; object-fit: cover; border-radius: 4px;';
+                headerRow.appendChild(img);
             }
 
-            const safeTitle = escapeHtml(found.title || '');
-            const safeSummary = escapeHtml((found.summary || '').slice(0, 150));
+            const titleDiv = document.createElement('div');
+            titleDiv.style.cssText = "flex: 1; font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500; white-space: normal; word-break: break-word;";
+            titleDiv.textContent = found.title || '';
+            headerRow.appendChild(titleDiv);
 
-            const tooltipHtml = `
-                <div>
-                    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-                        ${imageTag}
-                        <div style="flex: 1; font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500; white-space: normal; word-break: break-word;">${safeTitle}</div>
-                    </div>
-                    <span style="font-size:0.8rem; white-space: normal; word-break: break-word;">${safeSummary}...</span>
-                </div>
-            `;
+            const summarySpan = document.createElement('span');
+            summarySpan.style.cssText = 'font-size:0.8rem; white-space: normal; word-break: break-word;';
+            summarySpan.textContent = `${(found.summary || '').slice(0, 150)}...`;
+
+            wrapper.appendChild(headerRow);
+            wrapper.appendChild(summarySpan);
+            tooltip.replaceChildren(wrapper);
+
             tooltipSelection
               .style('display', 'block')
               .style('left', `${mx + 12}px`)
-              .style('top', `${my + 12}px`)
-              .html(tooltipHtml);
+              .style('top', `${my + 12}px`);
         } else {
             tooltipSelection.style('display', 'none');
         }
