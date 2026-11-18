@@ -87,10 +87,6 @@ function WhoAmI({ level = 2 }) {
         You can reach me on{' '}
         <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer">
           X
-        </a>{' '}
-        and{' '}
-        <a href="https://www.linkedin.com/in/khalid-naami-a953263bb/" target="_blank" rel="noreferrer">
-          LinkedIn
         </a>
         , where I post frequently.
       </p>
