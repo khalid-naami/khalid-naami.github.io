@@ -3,7 +3,10 @@ name: GitHub Pages
 on:
   push:
     branches: [ main ]
-    
+
+permissions:
+  contents: read
+
 jobs:
   deployment:
     runs-on: ubuntu-latest
@@ -15,19 +18,19 @@ jobs:
     steps:
     
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
 
     - name: Setup Node
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: 20
         cache: yarn
         cache-dependency-path: yarn.lock
 
     - name: Install dependencies
-      run: yarn install
+      run: yarn install --frozen-lockfile
 
     - name: Build website
       run: yarn build
@@ -35,13 +38,8 @@ jobs:
     # Popular action to deploy to GitHub Pages:
     # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      if: >
-        (startsWith(github.ref, 'refs/heads/main')) ||
-        (github.event_name == 'pull_request' &&
-        github.event.pull_request.merged == true &&
-        github.event.pull_request.base.ref == 'develop' &&
-        startsWith(github.head_ref, 'docs/'))
+      uses: peaceiris/actions-gh-pages@v4
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
