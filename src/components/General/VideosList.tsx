@@ -15,6 +15,16 @@ interface VideosListProps {
   videos: Video[];
 }
 
+function isSafeEmbedUrl(url: string | undefined): boolean {
+  if (!url) return false;
+  try {
+    const parsed = new URL(url);
+    return parsed.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
 export default function VideosList({ videos }: VideosListProps) {
   return (
     <div className="mx-auto mt-8">
@@ -32,7 +42,7 @@ export default function VideosList({ videos }: VideosListProps) {
             <div className="font-bold text-base mb-4">
               {video.title}
             </div>
-            {video.embed && (
+            {video.embed && isSafeEmbedUrl(video.embed) && (
               <>
                 <div className="flex place-items-center justify-center items-center rounded-sm mx-auto mb-4">
                   <iframe
@@ -40,10 +50,13 @@ export default function VideosList({ videos }: VideosListProps) {
                     width="512"
                     height="256"
                     title={video.title}
+                    sandbox="allow-scripts allow-same-origin allow-presentation"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    loading="lazy"
                   />
                 </div>
                 <div className="text-sm mb-4">
-                  <p><strong>{video.time}</strong> - <span dangerouslySetInnerHTML={{ __html: video.description }} /></p>
+                  <p><strong>{video.time}</strong> - <span>{video.description}</span></p>
                 </div>
               </>
             )}
@@ -58,13 +71,13 @@ export default function VideosList({ videos }: VideosListProps) {
                   />
                 </div>
                 <div className="text-sm mb-4">
-                  <p dangerouslySetInnerHTML={{ __html: video.description }} />
+                  <p>{video.description}</p>
                 </div>
               </>
             )}
             {video.info && (
               <div className="text-sm mb-4">
-                <p dangerouslySetInnerHTML={{ __html: video.info }} />
+                <p>{video.info}</p>
               </div>
             )}
           </div>
