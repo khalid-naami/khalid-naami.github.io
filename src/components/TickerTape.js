@@ -27,7 +27,15 @@ export default function TickerTape() {
       copyright.style.opacity = '0';
       copyright.style.height = '0px';
       copyright.style.pointerEvents = 'none';
-      copyright.innerHTML = '<a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a>';
+      const copyrightLink = document.createElement('a');
+      copyrightLink.href = 'https://www.tradingview.com/';
+      copyrightLink.rel = 'noopener noreferrer nofollow';
+      copyrightLink.target = '_blank';
+      const copyrightSpan = document.createElement('span');
+      copyrightSpan.className = 'blue-text';
+      copyrightSpan.textContent = 'Track all markets on TradingView';
+      copyrightLink.appendChild(copyrightSpan);
+      copyright.appendChild(copyrightLink);
       container.current.appendChild(copyright);
 
       // Script that loads the widget
@@ -64,7 +72,7 @@ export default function TickerTape() {
         locale: 'en',
       };
 
-      script.innerHTML = JSON.stringify(widgetConfig);
+      script.textContent = JSON.stringify(widgetConfig);
 
       container.current.appendChild(script);
     };
