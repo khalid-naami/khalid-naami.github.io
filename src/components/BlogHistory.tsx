@@ -307,7 +307,7 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 												>
 													<img
 														className="rounded-xl w-full h-full"
-														src={post.image || ""}
+														src={post.image && ((post.image.startsWith("/") && !post.image.startsWith("//")) || post.image.startsWith("https://") || post.image.startsWith("http://")) ? post.image : ""}
 														alt={post.title}
 														style={{
 															objectFit: "cover",
@@ -359,7 +359,7 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 							onClick={(entry, index) => {
 								if (isDesktop && entry && monthlyData[index]?.posts[i]) {
 									const targetUrl = monthlyData[index].posts[i].url;
-									if (targetUrl && (targetUrl.startsWith("/") || targetUrl.startsWith("https://") || targetUrl.startsWith("http://"))) {
+									if (targetUrl && ((targetUrl.startsWith("/") && !targetUrl.startsWith("//")) || targetUrl.startsWith("https://") || targetUrl.startsWith("http://"))) {
 										window.open(targetUrl, "_blank", "noopener,noreferrer");
 									}
 								}
