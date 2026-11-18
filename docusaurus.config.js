@@ -40,7 +40,13 @@ module.exports = async function createConfig() {
   },
 
   headTags: [
-
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'referrer',
+        content: 'strict-origin-when-cross-origin',
+      },
+    },
     {
       tagName: 'meta',
       attributes: {
@@ -409,13 +415,20 @@ module.exports = async function createConfig() {
           const blogContent = [];
 
           /**
-           * Helper to extract frontmatter values via simple regex
+           * Helper to extract frontmatter block and values safely
            * @param {string} content
            * @param {string} key
            */
+          const getFrontmatterBlock = (content) => {
+            const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+            return fmMatch ? fmMatch[1] : '';
+          };
+
           const getFrontmatterValue = (content, key) => {
+            const fm = getFrontmatterBlock(content);
+            if (!fm) return null;
             const regex = new RegExp(`^${key}:\\s*(.*)$`, 'm');
-            const match = content.match(regex);
+            const match = fm.match(regex);
             if (!match) return null;
             let val = match[1].trim();
             // Remove quotes if present
@@ -443,8 +456,9 @@ module.exports = async function createConfig() {
                   const description = getFrontmatterValue(content, 'description') || '';
                   const image = getFrontmatterValue(content, 'image') || null;
                   
-                  // Extract tags: tags: [tag1, tag2]
-                  const tagsMatch = content.match(/^tags:\s*\[(.*)\]/m);
+                  // Extract tags: tags: [tag1, tag2] strictly from frontmatter
+                  const fmBlock = getFrontmatterBlock(content);
+                  const tagsMatch = fmBlock.match(/^tags:\s*\[(.*)\]/m);
                   const tags = tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/^["'](.*)["']$/, '$1')) : [];
 
                   // Extract date from filename if possible (YYYY-MM-DD-slug)
@@ -767,18 +781,19 @@ ${imageItems}
 
             // Sitemap Index Generation
             try {
+              const safeBaseUrl = escapeXml(context.siteConfig.url.replace(/\/+$/, ''));
               const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>${context.siteConfig.url}/sitemap.xml</loc>
+    <loc>${safeBaseUrl}/sitemap.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>${context.siteConfig.url}/blog/news-sitemap.xml</loc>
+    <loc>${safeBaseUrl}/blog/news-sitemap.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>${context.siteConfig.url}/blog/image-sitemap.xml</loc>
+    <loc>${safeBaseUrl}/blog/image-sitemap.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
 </sitemapindex>`;
