@@ -268,10 +268,9 @@ Then open [`/chat`](https://khalidnaami.com/chat), click **"Index my blog"**, an
 - **Personal Website**: [https://khalidnaami.com](https://khalidnaami.com)
 - **Personal X (Twitter)**: [@khalidnaami0](https://x.com/khalidnaami0)
 - **Dashboard Options X**: [@DashboardOption](https://x.com/DashboardOption)
-- **LinkedIn**: [Khalid Naami](https://www.linkedin.com/in/khalid-naami-a953263bb/)
 - **GitHub**: [github.com/khalid-naami](https://github.com/khalid-naami)
 - **Schedule a Call**: [cal.com/khnaami](https://cal.com/khnaami)
-- **Email**: `research@khalidnaami.com`
+- **Email**: [khalidnaami66@gmail.com](mailto:khalidnaami66@gmail.com)
 
 ---
 
