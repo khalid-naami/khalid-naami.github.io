@@ -8,6 +8,21 @@ const getGaugeColor = (percentage) => {
   return `hsl(${hue}, 90%, 50%)`;
 };
 
+const isSafePolymarketImage = (rawUrl) => {
+  if (typeof rawUrl !== 'string' || !rawUrl.startsWith('https://')) return false;
+  try {
+    const parsed = new URL(rawUrl);
+    return (
+      parsed.protocol === 'https:' &&
+      (parsed.hostname === 'polymarket.com' ||
+        parsed.hostname.endsWith('.polymarket.com') ||
+        parsed.hostname === 'polymarket-upload.s3.us-east-2.amazonaws.com')
+    );
+  } catch {
+    return false;
+  }
+};
+
 const PolymarketTape = () => {
   const [markets, setMarkets] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -66,22 +81,23 @@ const PolymarketTape = () => {
         return;
       }
 
-      const formattedMarkets = data.map(event => {
+      const formattedMarkets = data.slice(0, 60).map(event => {
         try {
           const market = event.markets?.[0];
-          if (!market || !market.outcomes || !market.outcomePrices || !event.slug) return null;
+          const rawSlug = String(event?.slug || '');
+          if (!market || !market.outcomes || !market.outcomePrices || !/^[a-zA-Z0-9_-]{1,200}$/.test(rawSlug)) return null;
           const outcomes = typeof market.outcomes === 'string' ? JSON.parse(market.outcomes) : market.outcomes;
           const outcomePrices = typeof market.outcomePrices === 'string' ? JSON.parse(market.outcomePrices) : market.outcomePrices;
           if (!Array.isArray(outcomes) || !Array.isArray(outcomePrices) || !outcomes.length || !outcomePrices.length) return null;
           const price = Number.parseFloat(outcomePrices[0]);
           if (Number.isNaN(price)) return null;
           const percentage = Math.max(0, Math.min(100, Math.round(price * 100)));
-          const safeImage = typeof event.image === 'string' && event.image.startsWith('https://') ? event.image : '';
+          const safeImage = isSafePolymarketImage(event.image) ? event.image : '';
           return {
-            id: String(event.id || event.slug),
-            title: String(event.title || ''),
+            id: String(event.id || rawSlug).slice(0, 100),
+            title: String(event.title || '').slice(0, 200),
             image: safeImage,
-            url: `https://polymarket.com/event/${encodeURIComponent(String(event.slug))}`,
+            url: `https://polymarket.com/event/${encodeURIComponent(rawSlug)}`,
             outcomePercentage: percentage,
             gaugeColor: getGaugeColor(percentage),
           };
@@ -118,7 +134,7 @@ const PolymarketTape = () => {
       <div className={styles.tape}>
         {duplicatedMarkets.map((market, index) => (
           <a href={market.url} target="_blank" rel="noopener noreferrer" key={`${market.id}-${index}`} className={styles.tapeItem}>
-            <img src={market.image} alt={market.title} className={styles.marketImage} />
+            {market.image && <img src={market.image} alt={market.title} className={styles.marketImage} referrerPolicy="no-referrer" loading="lazy" />}
             <span className={styles.title}>{market.title}</span>
             <GaugeChart
               percentage={market.outcomePercentage}
