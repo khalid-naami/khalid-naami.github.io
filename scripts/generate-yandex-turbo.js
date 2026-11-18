@@ -84,7 +84,10 @@ function generateRss() {
         }
 
         const cleanTitle = escapeXml(data.title).substring(0, 240);
-        const cleanUrl = url.substring(0, 243);
+        const cleanUrl = escapeXml(url.substring(0, 243));
+        const safeImageAttr = data.image && typeof data.image === 'string'
+            ? escapeXml(data.image.startsWith('http://') || data.image.startsWith('https://') ? data.image : `${SITE_URL}${data.image.startsWith('/') ? '' : '/'}${data.image}`)
+            : '';
 
         const itemXml = `
         <item turbo="true">
@@ -92,7 +95,7 @@ function generateRss() {
             <title>${cleanTitle}</title>
             <author>${escapeXml(data.authors ? String(data.authors).replace(/[\[\]'"]/g, '') : 'Khalid Naami')}</author>
             <category>${escapeXml(primaryCategory)}</category>
-            <pubDate>${date}</pubDate>
+            <pubDate>${escapeXml(date)}</pubDate>
             <description>${escapeXml(data.description || data.title).substring(0, 500)}</description>
             <yandex:genre>article</yandex:genre>
             <yandex:full-text>${escapeXml(cleanText)}</yandex:full-text>
@@ -100,7 +103,7 @@ function generateRss() {
                 <![CDATA[
                     <header>
                         <h1>${cleanTitle}</h1>
-                        ${data.image ? `<figure><img src="${SITE_URL}${data.image.startsWith('/') ? '' : '/'}${data.image}" /></figure>` : ''}
+                        ${safeImageAttr ? `<figure><img src="${safeImageAttr}" /></figure>` : ''}
                     </header>
                     ${htmlContent}
                 ]]>
