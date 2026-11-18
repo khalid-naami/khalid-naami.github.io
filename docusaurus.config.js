@@ -648,7 +648,7 @@ Khalid Naami is a professional academic writer, strategic analyst, and investiga
       <link>${postUrl}</link>
       <guid isPermaLink="false">${postUrl}</guid>
       <pubDate>${pubDate}</pubDate>
-      <author>khalidnaami66@gmail.com (Khalid Naami)</author>
+      <author>research@khalidnaami.com (Khalid Naami)</author>
       <dc:creator><![CDATA[Khalid Naami]]></dc:creator>
       ${categories}
       <description><![CDATA[${escapeCdata(post.summary)}]]></description>
