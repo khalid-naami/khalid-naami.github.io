@@ -270,7 +270,7 @@ Then open [`/chat`](https://khalidnaami.com/chat), click **"Index my blog"**, an
 - **Dashboard Options X**: [@DashboardOption](https://x.com/DashboardOption)
 - **GitHub**: [github.com/khalid-naami](https://github.com/khalid-naami)
 - **Schedule a Call**: [cal.com/khnaami](https://cal.com/khnaami)
-- **Email**: [khalidnaami66@gmail.com](mailto:khalidnaami66@gmail.com)
+- **Email**: [research@khalidnaami.com](mailto:research@khalidnaami.com)
 
 ---
 
