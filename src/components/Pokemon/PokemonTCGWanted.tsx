@@ -65,6 +65,9 @@ function CardItem({
 				<img
 					src={card.image}
 					alt={card.name}
+					width={200}
+					height={282}
+					loading="lazy"
 					className={styles.cardImage}
 				/>
 			</div>

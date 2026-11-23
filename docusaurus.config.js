@@ -13,7 +13,7 @@ module.exports = async function createConfig() {
 
   return {
     title: 'Khalid Naami',
-    tagline: 'Founder & CEO @ Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
+    tagline: 'Founder of Dashboard Options | Quantitative Trading, Financial AI & Data Science.',
     favicon: 'favicon.png',
 
   url: 'https://khalidnaami.com/',
@@ -95,8 +95,8 @@ module.exports = async function createConfig() {
               "contentUrl": "https://khalidnaami.com/img/khalid_profile.webp",
               "caption": "Khalid Naami"
             },
-            "jobTitle": "Founder & CEO at Dashboard Options",
-            "description": "Founder, Owner, & CEO at Dashboard Options. Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. Expert in Quantitative Finance and Financial AI systems.",
+            "jobTitle": "Founder of Dashboard Options",
+            "description": "Khalid Naami, Founder of Dashboard Options. Academic writer and investigative researcher in Quantitative Finance, Global Macroeconomics, Geopolitics (OSINT), and AI.",
             "knowsLanguage": [
               { "@type": "Language", "name": "Arabic" },
               { "@type": "Language", "name": "English" },
@@ -128,9 +128,20 @@ module.exports = async function createConfig() {
               "caption": "Dashboard Options"
             },
             "alternateName": "DashboardOptions.com",
-            "description": "Dashboard Options is a specialized quantitative research platform founded by Khalid Naami for analyzing live options data and market micro-structure.",
+            "description": "Quantitative options research project founded by Khalid Naami analyzing options Greeks, gamma exposure, and market microstructure.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
             "foundingDate": "2024-01-01",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "customer support",
+              "email": "research@khalidnaami.com",
+              "url": "https://khalidnaami.com/contact"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Rabat",
+              "addressCountry": "MA"
+            },
             "sameAs": [
               "https://x.com/DashboardOption"
             ]
@@ -139,9 +150,14 @@ module.exports = async function createConfig() {
             "@type": "WebSite",
             "@id": "https://khalidnaami.com/#website",
             "url": "https://khalidnaami.com",
-            "name": "Khalid Naami - Financial Intelligence Platform",
+            "name": "Khalid Naami - Personal Website & Research Archive",
             "publisher": { "@id": "https://khalidnaami.com/#organization" },
-            "inLanguage": "en-US"
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://khalidnaami.com/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
           }
         ]
       }),
@@ -149,9 +165,23 @@ module.exports = async function createConfig() {
     {
       tagName: 'link',
       attributes: {
-
+        rel: 'llms',
+        href: '/llms.txt',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
         rel: 'dns-prefetch',
         href: 'https://cdn.jsdelivr.net',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://unpkg.com',
         crossorigin: 'anonymous',
       },
     },
@@ -192,7 +222,7 @@ module.exports = async function createConfig() {
           routeBasePath: 'blog',
           blogTitle: 'Blog',
           blogDescription:
-            'In-depth articles on Options Greeks, Gamma Exposure strategies, Geopolitics, Global Macro analysis, and Quantitative Finance research.',
+            'Articles on Options Greeks, Gamma Exposure, Geopolitics, Global Macro, and Quantitative Finance research.',
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
           showReadingTime: true,
@@ -217,13 +247,16 @@ module.exports = async function createConfig() {
           anonymizeIP: true,
         },
         sitemap: {
-          lastmod: 'date',
+          lastmod: null,
           changefreq: 'daily',
           priority: 1.0,
           ignorePatterns: [
-            '/tags/**', 
-            '/search', 
-            '/markdown-page', 
+            '/tags/**',
+            '/blog/tags/**',
+            '/blog/authors/**',
+            '/blog/archive',
+            '/search',
+            '/markdown-page',
             '/pokemon-tcg-wanted',
             '/design-system',
             '/newsletter',
@@ -240,14 +273,16 @@ module.exports = async function createConfig() {
     ({
       metadata: [
         {name: 'keywords', content: 'Khalid Naami, Dashboard Options, Options Greeks, Options Trading, Global Macro, Geopolitics, OSINT, Financial Intelligence, Quantitative Analysis, Finance AI, Intermarket Analysis, Market Microstructure, Options Data, Trading Strategy, Academic Writer, Investigative Research'},
-        {name: 'description', content: 'Khalid Naami: Founder & CEO at Dashboard Options. Academic writer and investigative researcher in Geopolitics, Global Macro, and Financial Intelligence.'},
+        {name: 'description', content: 'Khalid Naami, Founder of Dashboard Options. Research in Quantitative Finance, Options Greeks, Global Macro, Geopolitics & AI.'},
+        {property: 'og:title', content: 'Khalid Naami — Quantitative Finance, Macro & Geopolitics'},
+        {property: 'og:description', content: 'Khalid Naami, Founder of Dashboard Options. Research in Quantitative Finance, Options Greeks, Global Macro, Geopolitics & AI.'},
         {name: 'twitter:card', content: 'summary_large_image'},
-        {property: 'og:image:width', content: '1200'},
-        {property: 'og:image:height', content: '630'},
+        {property: 'og:image:width', content: '945'},
+        {property: 'og:image:height', content: '1024'},
         {property: 'og:type', content: 'website'},
         {property: 'og:site_name', content: 'Khalid Naami - Financial Intelligence'},
         {property: 'og:image:type', content: 'image/webp'},
-        {property: 'og:image:alt', content: 'Khalid Naami - Financial Intelligence & Options Greeks Analysis'},
+        {property: 'og:image:alt', content: 'Khalid Naami - Quantitative Finance & Options Greeks Analysis'},
       ],
       // Replace with your project's social card
       image: 'img/zoro-media.webp',
@@ -263,11 +298,6 @@ module.exports = async function createConfig() {
         },
         items: [
           {
-            type: 'html',
-            position: 'left',
-            value: '<div class="navbar__items--left-wrapper">',
-          },
-          {
             position: 'left',
             label: 'Books',
             to: '/books/to-read',
@@ -281,11 +311,6 @@ module.exports = async function createConfig() {
             position: 'left',
             label: 'Resume',
             to: '/resume/experience',
-          },
-          {
-            type: 'html',
-            position: 'left',
-            value: '</div>',
           },
           {
             position: 'left',
@@ -395,7 +420,7 @@ module.exports = async function createConfig() {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Khalid Naami | Founder & CEO @ Dashboard Options. Built with Financial Intelligence.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Khalid Naami | Founder of Dashboard Options. Built with Financial Intelligence.`,
       },
     }),
 
@@ -491,6 +516,14 @@ module.exports = async function createConfig() {
                     else schemaType = 'BlogPosting';
                   }
 
+                  // Precompute clean word count at build time so the homepage chart avoids heavy client DOMParser calls
+                  const plainText = content
+                    .replace(/^---[\s\S]*?---/, '')
+                    .replace(/```[\s\S]*?```/g, '')
+                    .replace(/`[^`]*`/g, '')
+                    .replace(/<[^>]+>/g, ' ');
+                  const wordCount = plainText.trim().split(/\s+/).filter(Boolean).length;
+
                   blogContent.push({
                     path: path.relative(blogDir, fullPath),
                     id,
@@ -501,7 +534,8 @@ module.exports = async function createConfig() {
                     date_modified: date,
                     tags,
                     schema_type: schemaType,
-                    content_html: content, // The component expects this for word count
+                    word_count: wordCount,
+                    content_html: content, // Kept for RAG / full feed consumers
                   });
                 } catch (err) {
                   console.error(`Error processing file ${fullPath}:`, err);
@@ -515,10 +549,14 @@ module.exports = async function createConfig() {
           // Sort by date descending
           blogContent.sort((a, b) => new Date(b.date_modified).getTime() - new Date(a.date_modified).getTime());
 
-          // Save latest 5 posts to static folder for homepage to consume in dev/prod
-          const latestPosts = blogContent.slice(0, 5).map(({ id, url, title, summary, image, date_modified, tags, content_html }) => ({
-            id, url, title, summary, image, date_modified, tags, content_html
+          // Lightweight metadata-only index for the homepage (~100 KB vs 3.2 MB graph-data.json)
+          const homepagePosts = blogContent.map(({ id, url, title, summary, image, date_modified, tags, word_count }) => ({
+            id, url, title, summary, image, date_modified, tags, word_count
           }));
+          await fs.promises.writeFile(
+            path.join(siteDir, 'static', 'homepage-posts.json'),
+            JSON.stringify({ items: homepagePosts })
+          );
 
           const fullFeedPath = path.join(siteDir, 'static', 'graph-data.json');
           await fs.promises.writeFile(fullFeedPath, JSON.stringify({ items: blogContent }, null, 2));
@@ -551,11 +589,11 @@ module.exports = async function createConfig() {
             });
             const authorIdentity = `
 # Dashboard Options & Khalid Naami
-Founder, Owner, & CEO: Khalid Naami
+Founder of Dashboard Options: Khalid Naami
 
 ## Author Identity
-Khalid Naami is a professional academic writer, strategic analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. 
-- **Founder, Owner, & CEO at Dashboard Options.**
+Khalid Naami is an academic writer, quantitative analyst, and investigative researcher specializing in Geopolitics and Global Macroeconomics using OSINT. 
+- **Founder of the Dashboard Options project.**
 - **Expert in Quantitative Finance, Financial AI, and Options Analytics.**
 - **Specialist in Intermarket Analysis and Market Microstructure.**
 - His foundational work is anchored in deep academic formation and completed formal studies in Business Administration and Global Macroeconomics.

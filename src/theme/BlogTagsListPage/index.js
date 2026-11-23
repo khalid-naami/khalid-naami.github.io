@@ -10,7 +10,12 @@ export default function BlogTagsListPageWrapper(props) {
           name="description"
           content="Browse all blog tags. Find articles on options trading, gamma exposure, quantitative finance, geopolitics, and market analysis."
         />
-        <title>Tags | Khalid Naami</title>
+        <meta
+          property="og:description"
+          content="Browse all blog tags. Find articles on options trading, gamma exposure, quantitative finance, geopolitics, and market analysis."
+        />
+        <meta property="og:title" content="Research Topics & Blog Tags | Khalid Naami" />
+        <title>Research Topics & Blog Tags | Khalid Naami</title>
       </Head>
       <BlogTagsListPage {...props} />
     </>

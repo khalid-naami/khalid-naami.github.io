@@ -8,9 +8,14 @@ export default function BlogAuthorsListPageWrapper(props) {
       <Head>
         <meta
           name="description"
-          content="Khalid Naami: Academic investigative writer in Geopolitics and Global Macro. Founder & CEO at Dashboard Options, expert in Quantitative Finance."
+          content="Khalid Naami: Academic investigative writer in Geopolitics and Global Macro. Founder of Dashboard Options, expert in Quantitative Finance."
         />
-        <title>Authors | Khalid Naami</title>
+        <meta
+          property="og:description"
+          content="Khalid Naami: Academic investigative writer in Geopolitics and Global Macro. Founder of Dashboard Options, expert in Quantitative Finance."
+        />
+        <meta property="og:title" content="Authors & Strategic Research Contributors | Khalid Naami" />
+        <title>Authors & Strategic Research Contributors | Khalid Naami</title>
       </Head>
       <BlogAuthorsListPage {...props} />
     </>

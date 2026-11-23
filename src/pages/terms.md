@@ -7,7 +7,7 @@ description: Read the Terms of Service for Khalid Naami's Personal Website and D
 
 *Last Updated: July 24, 2026*
 
-Welcome to the personal website of **Khalid Naami** (Founder & CEO of Dashboard Options). By accessing or using this website (referred to as the "Site"), you agree to be bound by these Terms of Service (referred to as the "Terms"). If you do not agree with any part of these Terms, you must discontinue your use of the Site immediately.
+Welcome to the personal website of **Khalid Naami** (Founder of Dashboard Options). By accessing or using this website (referred to as the "Site"), you agree to be bound by these Terms of Service (referred to as the "Terms"). If you do not agree with any part of these Terms, you must discontinue your use of the Site immediately.
 
 ---
 

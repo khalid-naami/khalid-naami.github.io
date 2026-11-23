@@ -203,7 +203,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps): React.Re
   return (
     <div className={styles.terminal}>
       <div className={styles.strategicCategories}>
-        <h3 className={styles.categoriesTitle}>Strategic Analysis Sectors</h3>
+        <h2 className={styles.categoriesTitle}>Strategic Analysis Sectors</h2>
         <div className={styles.categoriesGrid}>
           {[
             { tag: 'Science & Technology', desc: 'Programming, Data Science & AI' },
@@ -239,6 +239,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps): React.Re
             <div className={styles.searchInputContainer}>
               <input
                 type="text"
+                aria-label="Search blog posts"
                 placeholder='> Search posts... (use tag:name to filter)'
                 className={`${styles.searchInput} ${selectedTags.length > 0 ? styles.searchInputActive : ''}`}
                 value={searchInput}
@@ -302,7 +303,7 @@ export default function CustomBlogList({ posts }: CustomBlogListProps): React.Re
       </div>
       {filteredPosts.length > 0 ? (
         <ul className={styles.postList}>
-          {filteredPosts.map((post: BlogPost) => (
+          {filteredPosts.map((post: BlogPost, index: number) => (
             <li className={styles.postItem} key={post.id}>
               <div className={styles.postContent}>
                 <div className={styles.postDate}>{formatDateForDisplay(post.metadata?.date)}</div>
@@ -330,33 +331,36 @@ export default function CustomBlogList({ posts }: CustomBlogListProps): React.Re
                 </div>
 
                 <Link to={post.metadata?.permalink} className={styles.postLink}>
-                  <div className={styles.postMain}>
-                    <div className={styles.leftSection}>
+                  <span className={styles.postMain}>
+                    <span className={styles.leftSection}>
                       {post.metadata?.frontMatter?.image ? (
-                        <div className={styles.postImageContainer}>
+                        <span className={styles.postImageContainer} style={{ display: 'block' }}>
                           <img
                             src={post.metadata.frontMatter.image}
                             alt={`${post.metadata.title} cover`}
+                            width={150}
+                            height={100}
+                            loading={index < 3 ? undefined : 'lazy'}
                             className={styles.postThumbnail}
                           />
-                        </div>
+                        </span>
                       ) : (
-                        <div className={styles.postImageContainer}>
-                          <div className={styles.placeholderThumbnail}>
+                        <span className={styles.postImageContainer} style={{ display: 'block' }}>
+                          <span className={styles.placeholderThumbnail}>
                             No Image
-                          </div>
-                        </div>
+                          </span>
+                        </span>
                       )}
-                    </div>
-                    <div className={styles.postInfo}>
+                    </span>
+                    <span className={styles.postInfo}>
                       <h2 className={styles.postTitle}>
                         {post.metadata?.title}
                       </h2>
-                      <div className={styles.postDescription}>
+                      <span className={styles.postDescription} style={{ display: 'block' }}>
                         {post.metadata?.description}
-                      </div>
-                    </div>
-                  </div>
+                      </span>
+                    </span>
+                  </span>
                 </Link>
               </div>
             </li>

@@ -35,7 +35,9 @@ export default function NotFound() {
               <img 
                 src="/img/zoro-media.webp" 
                 alt="Zoro Logo" 
-                style={{ width: '150px', filter: 'grayscale(100%)' }}
+                width={150}
+                height={163}
+                style={{ width: '150px', height: 'auto', filter: 'grayscale(100%)' }}
                 className="mx-auto"
               />
             </div>

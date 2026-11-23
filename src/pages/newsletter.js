@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 
 export default function Newsletter() {
   useEffect(() => {
@@ -11,7 +12,10 @@ export default function Newsletter() {
       title="Newsletter Redirect"
       description="Get Khalid Naami's latest research on Financial AI, Global Macro, and Options Greeks. Subscribe to his newsletter for elite market insights."
     >
-      <div style={{
+      <Head>
+        <meta name="robots" content="noindex" />
+      </Head>
+      <main style={{
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
@@ -35,8 +39,8 @@ export default function Newsletter() {
         }}>
           Subscribe to the official Khalid Naami Newsletter and join a growing community of traders, researchers, and technology enthusiasts dedicated to mastering the modern financial landscape. By joining our list, you will receive exclusive, high-impact research delivered directly to your inbox, focusing on the sophisticated intersection of Quantitative Finance, Artificial Intelligence, and advanced Options Greeks analysis. Our weekly insights go beyond simple market commentary, providing deep dives into market-maker positioning, structural liquidity shifts, and actionable intelligence that helps you stay ahead of the curve. Whether you are a professional quant or an aspiring algorithmic trader, our content is curated to provide the technical depth and strategic clarity needed to navigate today's volatile markets. Don't miss out on elite financial strategies and the latest developments in AI-driven trading technology. Enter your email now to secure your access to this professional resource and start elevating your market understanding today. Our newsletter provides comprehensive data-driven updates on global macro trends and derivatives market structure for the modern era of finance.
         </div>
-        <p>If you are not redirected automatically, <a href="https://x.com/khalidnaami0">click here</a>.</p>
-      </div>
+        <p>If you are not redirected automatically, <a href="https://x.com/khalidnaami0">open Khalid Naami on X</a>.</p>
+      </main>
     </Layout>
   );
 }

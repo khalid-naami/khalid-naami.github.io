@@ -12,7 +12,8 @@ import {
 // Add interface for post type
 interface Post {
 	id: string;
-	content_html: string;
+	content_html?: string;
+	word_count?: number;
 	url: string;
 	title: string;
 	summary: string;
@@ -118,34 +119,16 @@ export default function BlogHistory({ posts = [], isDesktop }: BlogHistoryProps)
 		// Create an object with individual post sizes
 		const postSizes = postsInMonth.reduce(
 			(acc: { [key: string]: number }, post, idx) => {
-				// Parse the HTML content
-				const parser = new DOMParser();
-				const doc = parser.parseFromString(post.content_html, 'text/html');
-				
-				// First, remove codeblocks from markdown-style ``` blocks
-				let htmlContent = post.content_html || '';
-				// Remove markdown code blocks (```...```)
-				htmlContent = htmlContent.replace?.(/```[\s\S]*?```/g, '') || htmlContent;
-				// Remove inline code blocks (`...`)
-				htmlContent = htmlContent.replace?.(/`[^`]*`/g, '') || htmlContent;
-				
-				// Re-parse the cleaned HTML
-				const cleanDoc = parser.parseFromString(htmlContent, 'text/html');
-				
-				// Remove CodeBlock components and other code-related elements
-				const codeBlocks = cleanDoc.querySelectorAll('pre, code, .codeblock, [class*="CodeBlock"]');
-				codeBlocks.forEach(block => block.remove());
-				
-				// Remove img tags as well
-				const images = cleanDoc.querySelectorAll('img');
-				images.forEach(img => img.remove());
-				
-				// Get all text content from the cleaned document
-				const textContent = cleanDoc.body.textContent || cleanDoc.body.innerText || '';
-				
-				// Store the size in KB (word count approximation: divide by 5 for average word length)
-				const wordCount = textContent.trim().split(/\s+/).filter(word => word.length > 0).length;
-				acc[`post${idx + 1}`] = wordCount / 1000; // Convert to thousands of words for better scale
+				if (typeof post.word_count === 'number') {
+					acc[`post${idx + 1}`] = post.word_count / 1000;
+					return acc;
+				}
+				const htmlContent = (post.content_html || '')
+					.replace(/```[\s\S]*?```/g, '')
+					.replace(/`[^`]*`/g, '')
+					.replace(/<[^>]+>/g, ' ');
+				const wordCount = htmlContent.trim().split(/\s+/).filter(Boolean).length;
+				acc[`post${idx + 1}`] = wordCount / 1000;
 				return acc;
 			},
 			{},

@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 export default function PrivacyPolicy() {
   return (
     <Layout
-      title="Privacy Policy"
+      title="Privacy Policy — GDPR & Data Safety"
       description="Privacy Policy for Khalid Naami's Personal Website and Dashboard Options. GDPR, LGPD, and COPPA compliant.">
       <main className="container margin-vert--xl">
         <div className="row">
@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
             <section className="margin-bottom--lg">
               <h2>1. Introduction</h2>
               <p>
-                Welcome to the personal website of <strong>Khalid Naami</strong> (Founder & CEO of Dashboard Options). 
+                Welcome to the personal website of <strong>Khalid Naami</strong> (Founder of Dashboard Options). 
                 Your privacy is of paramount importance to us. This Privacy Policy outlines the types of personal information 
                 that is received, collected, and processed, and how we protect your data in compliance with global standards, 
                 including the General Data Protection Regulation (GDPR), the Brazilian General Data Protection Law (LGPD), and the Children's Online Privacy Protection Act (COPPA).
@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
               <p>
                 Our <strong>AI Chat interface (Zoro)</strong> is built on a privacy-first local architecture. 
                 All chat interactions, text indexing, and prompt engineering happen locally on your device or via secure, encrypted tunnels to your Ollama instance. 
-                We **do not** collect, store, or transmit your conversations or private queries to our servers.
+                We <strong>do not</strong> collect, store, or transmit your conversations or private queries to our servers.
               </p>
             </section>
 
@@ -103,7 +103,7 @@ export default function PrivacyPolicy() {
             <section className="margin-bottom--lg">
               <h2>7. COPPA Compliance (Children's Privacy)</h2>
               <p>
-                Our Site is educational and analytical in nature, and is **not directed** at children under the age of 13. In compliance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect or solicit personal information from children under 13. If you believe a child under 13 has provided us with personal data, please contact us immediately so we can remove it.
+                Our Site is educational and analytical in nature, and is <strong>not directed</strong> at children under the age of 13. In compliance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect or solicit personal information from children under 13. If you believe a child under 13 has provided us with personal data, please contact us immediately so we can remove it.
               </p>
             </section>
 

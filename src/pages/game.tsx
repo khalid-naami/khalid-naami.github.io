@@ -5,7 +5,7 @@ import BrowserOnly from "@docusaurus/BrowserOnly";
 
 export default function GamePage(): JSX.Element {
   return (
-    <Layout title="Game" description="Master the Pokeball Game: Help Mewtwo collect falling balls with unique physics in this advanced, interactive arcade challenge. Test your skills now!" noFooter>
+    <Layout title="Mewtwo Arcade Mini-Game — Canvas" description="Play the Pokeball Collection Game: guide Mewtwo to catch falling balls with physics in an interactive arcade challenge." noFooter>
       <Head>
         <style>{`
           html, body {
@@ -14,6 +14,7 @@ export default function GamePage(): JSX.Element {
           }
         `}</style>
       </Head>
+      <main>
       <h1 style={{
         position: 'absolute',
         width: '1px',
@@ -58,6 +59,7 @@ export default function GamePage(): JSX.Element {
           </BrowserOnly>
         </div>
       </div>
+      </main>
     </Layout>
   );
 }

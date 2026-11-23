@@ -1,13 +1,13 @@
 ---
 title: About Khalid Naami
-description: Learn about Khalid Naami, Founder & CEO at Dashboard Options, quantitative analyst, and investigative researcher in global macro and geopolitics.
+description: Learn about Khalid Naami, Founder of Dashboard Options, quantitative analyst, and global macro researcher.
 ---
 
 # About Khalid Naami
 
 Welcome to the digital library and research hub of **Khalid Naami**. 
 
-I am an academic writer, quantitative analyst, and investigative researcher. As the **Founder & CEO at Dashboard Options**, my work bridges the gap between complex market microstructure, options theory, and macroeconomic geopolitical forces.
+I am an academic writer, quantitative analyst, and investigative researcher. As the **Founder of Dashboard Options**, my work bridges the gap between complex market microstructure, options theory, and macroeconomic geopolitical forces.
 
 ---
 

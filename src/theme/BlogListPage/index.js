@@ -45,7 +45,7 @@ export default function BlogListPageWrapper(props) {
   
   return (
     <Layout
-      title={metadata?.blogTitle || 'Blog'}
+      title={metadata?.blogTitle === 'Blog' ? 'Strategic Research & Financial Blog' : (metadata?.blogTitle || 'Strategic Research & Financial Blog')}
       description={metadata?.blogDescription || 'Blog posts'}
       noFooter={false}
     >
@@ -97,7 +97,7 @@ export default function BlogListPageWrapper(props) {
           })}
         </script>
       </Head>
-      <div className="blog-wrapper blog-wrapper--no-sidebar">
+      <main className="blog-wrapper blog-wrapper--no-sidebar">
         <div style={{ 
           maxWidth: '1200px', 
           margin: '0 auto', 
@@ -111,7 +111,7 @@ export default function BlogListPageWrapper(props) {
           </div>
           <CustomBlogList posts={posts} />
         </div>
-      </div>
+      </main>
       
       {/* Custom CSS to hide sidebar permanently */}
       <style>

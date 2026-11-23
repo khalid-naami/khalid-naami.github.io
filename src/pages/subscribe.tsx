@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 
 export default function Subscribe(): JSX.Element {
   useEffect(() => {
@@ -11,6 +12,9 @@ export default function Subscribe(): JSX.Element {
       title="Subscribe"
       description="Join the community of elite traders and researchers. Subscribe to Khalid Naami's updates for deep dives into quantitative finance and strategic geopolitics."
     >
+      <Head>
+        <meta name="robots" content="noindex" />
+      </Head>
       <main className="container margin-vert--xl">
         <div className="text--center">
           <h1>Redirecting to Newsletter...</h1>

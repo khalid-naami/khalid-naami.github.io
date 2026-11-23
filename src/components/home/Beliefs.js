@@ -23,9 +23,15 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
   return (
     <Section title="What I believe in" subtitle="Mastery is a journey, not a destination. Despite my deep expertise in quantitative finance and technology, I maintain a student's mindset. My core belief is that constant evolution and daily self-development are the only ways to stay ahead in an ever-changing world—because in the realm of innovation, learning never truly ends." className="px-4">
       <div className="mb-2">
-        <div className="flex overflow-x-auto snap-x snap-mandatory gap-8 pb-4" style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}>
+        <div
+          tabIndex={0}
+          role="region"
+          aria-label="GitHub profile stats and contribution chart"
+          className="flex overflow-x-auto snap-x snap-mandatory gap-8 pb-4"
+          style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}
+        >
           <div className="snap-center shrink-0 w-full flex items-center justify-center">
-            <picture className="flex justify-center">
+            <picture className="flex justify-center max-w-full">
               <source srcSet={githubSrc} />
               {/* fallback */}
               <img
@@ -33,7 +39,7 @@ function Beliefs({ isDesktop, isTablet, githubSrc, githubChartSrc }) {
                 src="https://github-stats-alpha.vercel.app/api?username=khalid-naami&cc=fff&tc=000&ic=000&bc=000"
                 width={700}
                 height={380}
-                style={{ width: '700px', height: 'auto', maxWidth: '100%' }}
+                style={{ width: '100%', maxWidth: '700px', height: 'auto' }}
               />
             </picture>
           </div>

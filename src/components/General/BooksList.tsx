@@ -34,6 +34,7 @@ export default function BooksList({ books }: BooksListProps) {
 			<div className={styles.searchContainer}>
 				<input
 					type="text"
+					aria-label={`Search from ${books.length} books by title or author`}
 					placeholder={`> Search from ${books.length} books by title or author...`}
 					className={styles.searchInput}
 					value={searchTerm}
@@ -53,6 +54,9 @@ export default function BooksList({ books }: BooksListProps) {
 								<img
 									src={book.image}
 									alt={`${book.title} cover`}
+									width={40}
+									height={60}
+									loading="lazy"
 									className={styles.bookThumbnail}
 								/>
 							</div>

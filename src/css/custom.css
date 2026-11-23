@@ -1238,6 +1238,11 @@ article header h1 {
   border-width: 0;
 }
 
+.navbar__brand {
+  min-width: 44px;
+  min-height: 44px;
+}
+
 
 
 

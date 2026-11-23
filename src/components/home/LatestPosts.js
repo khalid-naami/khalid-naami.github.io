@@ -1,4 +1,5 @@
 import React, { Suspense } from 'react';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import Section from '../common/Section';
 
 const BlogHistory = React.lazy(() => import('../BlogHistory'));
@@ -33,9 +34,13 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
   return (
     <Section title="Latest posts." subtitle="I write so I can think and communicate better.">
       {allPosts && allPosts.length > 0 && (
-        <Suspense fallback={<div className="h-[200px] flex items-center justify-center">Loading History...</div>}>
-          <BlogHistory posts={allPosts} isDesktop={isDesktop} />
-        </Suspense>
+        <BrowserOnly fallback={<div className="h-[200px] flex items-center justify-center">Loading History...</div>}>
+          {() => (
+            <Suspense fallback={<div className="h-[200px] flex items-center justify-center">Loading History...</div>}>
+              <BlogHistory posts={allPosts} isDesktop={isDesktop} />
+            </Suspense>
+          )}
+        </BrowserOnly>
       )}
       {isDesktop ? (
         <div className="relative overflow-hidden max-w-[814px] mx-auto">
@@ -46,7 +51,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                 className="flex-shrink-0 w-[250px]"
               >
                 <a href={`${post.id}`} className="block h-full">
-                  <div className="overflow-hidden rounded-xl mb-3">
+                  <span className="block overflow-hidden rounded-xl mb-3">
                     <img
                       className="w-full h-[180px] object-cover transition-transform duration-300 hover:scale-110"
                       src={post.image}
@@ -56,7 +61,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                       loading="lazy"
                       decoding="async"
                     />
-                  </div>
+                  </span>
                   <h3 className="text-left text-sm font-semibold">{post.title}</h3>
                 </a>
               </div>
@@ -71,7 +76,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                 href={`${post.id}`}
                 className="group block h-full transition-transform duration-300 hover:scale-105"
               >
-                <div className="overflow-hidden rounded-xl mb-3">
+                <span className="block overflow-hidden rounded-xl mb-3">
                   <img
                     className="w-full h-[180px] object-cover transition-transform duration-300 group-hover:scale-110"
                     src={post.image}
@@ -81,7 +86,7 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
                     loading="lazy"
                     decoding="async"
                   />
-                </div>
+                </span>
                 <h3 className="text-left text-sm font-semibold group-hover:text-blue-500 transition-colors duration-300">
                   {post.title}
                 </h3>
@@ -90,7 +95,13 @@ function LatestPosts({ allPosts, postsHighlight, isDesktop, isTablet }) {
           ))}
         </div>
       ) : (
-        <div className="flex overflow-x-auto snap-x snap-mandatory gap-4 pb-4 hide-scrollbar" style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}>
+        <div
+          tabIndex={0}
+          role="region"
+          aria-label="Latest blog posts"
+          className="flex overflow-x-auto snap-x snap-mandatory gap-4 pb-4 hide-scrollbar"
+          style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}
+        >
           {highlights.map((post) => (
             <div key={post.id} className="snap-center shrink-0 w-[260px] mx-auto text-center">
               <a href={`${post.id}`} className="group block pt-4">

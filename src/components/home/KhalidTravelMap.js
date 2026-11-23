@@ -102,7 +102,7 @@ export default function KhalidTravelMap() {
           </svg>
         </div>
         <div className="map-header-icon">
-          <img src="/img/zoro_ronono.webp" alt="Zoro Avatar" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+          <img src="/img/zoro_ronono.webp" alt="Zoro Avatar" width={40} height={40} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
         </div>
         <div className="map-header-info">
           <span className="map-header-title">Travels</span>
@@ -124,7 +124,12 @@ export default function KhalidTravelMap() {
             />
             <label htmlFor="map-visits-status">Visits</label>
           </div>
-          <div className="map-sidebar-list">
+          <div
+            tabIndex={0}
+            role="region"
+            aria-label="Visited cities list"
+            className="map-sidebar-list"
+          >
             {cities.map((city) => (
               <div 
                 key={city.name} 

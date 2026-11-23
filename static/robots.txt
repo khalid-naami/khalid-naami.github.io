@@ -15,11 +15,6 @@ Disallow: /markdown-page
 Disallow: /design-system
 Disallow: /blog/authors/
 Disallow: /blog/archive
-Disallow: /assets/
-Disallow: /img/
 
 # Sitemap Location
 Sitemap: https://khalidnaami.com/sitemap-index.xml
-Sitemap: https://khalidnaami.com/sitemap.xml
-Sitemap: https://khalidnaami.com/blog/image-sitemap.xml
-Sitemap: https://khalidnaami.com/blog/news-sitemap.xml

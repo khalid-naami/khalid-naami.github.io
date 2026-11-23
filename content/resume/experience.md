@@ -1,6 +1,6 @@
 ---
 title: Experience
-description: "Khalid Naami's professional career: Founder & CEO at Dashboard Options, Academic Researcher, and Quantitative Strategic Analyst."
+description: "Khalid Naami's career: Founder of Dashboard Options, academic researcher, and quantitative analyst."
 sidebar_position: 1
 ---
 

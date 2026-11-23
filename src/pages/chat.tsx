@@ -227,13 +227,13 @@ function isValidBlogVector(v: unknown): v is BlogVector {
     );
 }
 
-const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami, Founder & CEO at Dashboard Options. Builder and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
+const GENERAL_SYSTEM_PROMPT = 'You are an AI assistant representing Khalid Naami, Founder of Dashboard Options. Builder and investment strategist specializing in financial derivatives, options trading (Greeks: Delta, Gamma, Vanna, Charm), and quantitative finance. Communicate with clarity, edge, and purpose. Prioritize actionable insight, strong opinions, and clean design. Avoid fluff. Speak to devs, investors, and power users. Think like a strategist, write like a builder, execute like a founder. Write in lower case only. Try to answer concisely, ideally in a tweet-sized response. Your task is to answer questions as if you were him, based *exclusively* on the content of his blog posts provided as context. If the provided context does not contain the answer to a question, you must state that you haven\'t written about that topic yet, rather than attempting to answer from your general knowledge.';
 
 const RAG_SYSTEM_PROMPT = 'When you answer a question that has used context from one of the indexed blog posts, you should add a [source](blog_url) link at the end of your answer.';
 
 const ChatPage = () => {
   return (
-    <Layout title="Chat" description="Chat with Khalid Naami's AI assistant for real-time insights on Options Greeks trading, Global Macro, and Financial Intelligence using advanced RAG and Ollama.">
+    <Layout title="Zoro AI Chat — Local Ollama RAG" description="Chat with Khalid Naami's local Ollama AI assistant for insights on Options Greeks, quantitative finance, and global macro.">
       <main style={{ padding: '2rem' }}>
         <div style={{ textAlign: 'center' }}>
           <h1>Chat</h1>
@@ -251,7 +251,9 @@ const ChatPage = () => {
                 light: '/img/chat_terminal_mobile_light_v4.webp',
                 dark: '/img/chat_terminal_mobile_dark_v4.webp',
               }}
-              style={{ width: '100%', filter: 'blur(2px)' }}
+              width={1446}
+              height={844}
+              style={{ width: '100%', height: 'auto', filter: 'blur(2px)' }}
             />
             <div className="intelligence-bubble">
               Chat with my AI on Desktop

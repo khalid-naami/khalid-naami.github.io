@@ -9,18 +9,18 @@ import GraphContainer from '../components/Intelligence/GraphContainer';
 function IntelligencePage() {
   return (
     <Layout
-      title="Intelligence"
-      description="Explore the Intelligence Graph, a neural network acting as a second brain. Discover dynamic connections between quant finance, AI, and macroeconomics."
+      title="Intelligence Graph — Second Brain"
+      description="Explore the Intelligence Graph, a visual second brain mapping connections across quantitative finance, AI, and global macro."
     >
       <Head>
-        <title>Intelligence | Khalid Naami</title>
+        <title>Intelligence Graph — Second Brain | Khalid Naami</title>
         <meta
           property="og:title"
           content="Intelligence | Second Brain by Khalid Naami"
         />
         <meta
           name="description"
-          content="Explore the Intelligence Graph, a neural network acting as a second brain. Discover dynamic connections between quant finance, AI, and macroeconomics."
+          content="Explore the Intelligence Graph, a visual second brain mapping connections across quantitative finance, AI, and global macro."
         />
       </Head>
       <main style={{ padding: '2rem' }}>
@@ -42,7 +42,9 @@ function IntelligencePage() {
                     light: '/img/intelligence_graph_mobile_light_v1.webp',
                     dark: '/img/intelligence_graph_mobile_dark_v1.webp',
                 }}
-                style={{ width: '100%', filter: 'blur(2px)' }}
+                width={1500}
+                height={853}
+                style={{ width: '100%', height: 'auto', filter: 'blur(2px)' }}
                 />
                 <div className="intelligence-bubble">
                     Visualize my second brain on desktop

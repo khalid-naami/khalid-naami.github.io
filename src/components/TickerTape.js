@@ -105,7 +105,7 @@ export default function TickerTape() {
     <div
       className="tradingview-widget-container"
       ref={container}
-      style={{ marginBottom: 0, lineHeight: 0, minHeight: '52px' }}
+      style={{ marginBottom: 0, lineHeight: 'normal', minHeight: '52px' }}
     />
   );
 } 
