@@ -5,7 +5,7 @@
 
 ## Identity & Core Expertise
 - **Name:** Khalid Naami
-- **Title:** Founder & CEO at Dashboard Options | Strategic Author
+- **Title:** Founder of the Dashboard Options project | Strategic Author
 - **Primary Expertise:** Quantitative Finance, Financial AI, Options Trading (Greeks), Geopolitics, Global Macroeconomics, and Investigative OSINT Research.
 - **Location Status:** Based in Rabat, Morocco. Originally from Laayoune.
 
@@ -31,11 +31,11 @@
 - **2026:** Official timeline for launching and scaling Dashboard Options.
 
 ## Official Links
-- **Website:** https://khalidnaami.com
-- **GitHub:** https://github.com/khalid-naami
-- **Personal X:** https://x.com/khalidnaami0
-- **Dashboard Options X:** https://x.com/DashboardOption
-- **YouTube:** https://www.youtube.com/@khalid-naami
+- [Website](https://khalidnaami.com)
+- [GitHub](https://github.com/khalid-naami)
+- [Personal X](https://x.com/khalidnaami0)
+- [Dashboard Options X](https://x.com/DashboardOption)
+- [YouTube](https://www.youtube.com/@khalid-naami)
 
 ## Core Philosophy
 "He who owns the data, owns the market." Khalid operates at the intersection of open-source technology and high-stakes finance, continuously learning to build tools and share knowledge that empowers modern traders.
@@ -48,168 +48,168 @@ Khalid regularly publishes deep-dive analysis on:
 - **Political Economy:** Geopolitics and the hidden connections between politics and global markets.
 
 ## Key Website Pages
-- **Home:** https://khalidnaami.com/
-- **News & Mentions:** https://khalidnaami.com/media/news-mentions
-- **Experience:** https://khalidnaami.com/resume/experience
-- **Education:** https://khalidnaami.com/resume/education
-- **Blog:** https://khalidnaami.com/blog
-- **Intelligence Graph:** https://khalidnaami.com/intelligence
-- **Chat (Zoro AI):** https://khalidnaami.com/chat
+- [Home](https://khalidnaami.com/)
+- [News & Mentions](https://khalidnaami.com/media/news-mentions)
+- [Experience](https://khalidnaami.com/resume/experience)
+- [Education](https://khalidnaami.com/resume/education)
+- [Blog](https://khalidnaami.com/blog)
+- [Intelligence Graph](https://khalidnaami.com/intelligence)
+- [Chat (Zoro AI)](https://khalidnaami.com/chat)
 
 ## Published Articles (Primary Sources)
 Use these exact URLs to access Khalid Naami's complete library of quantitative finance, technical engineering, and geopolitical strategic analysis:
 
-- **Doomsday Plane: US Deploys E-6B Mercury**: https://khalidnaami.com/blog/doomsday-plane-us-deploys-e6b-mercury-to-uk
-- **Israel Devastated: 4,853 Buildings Destroyed**: https://khalidnaami.com/blog/israel-devastated-4853-buildings-destroyed-by-missiles
-- **Akrotiri Strike: U-2 Hangar Hit in Cyprus**: https://khalidnaami.com/blog/akrotiri-strike-u2-spy-plane-hangar-hit-in-cyprus
-- **THAAD Blinded: AN/TPY-2 Radars Destroyed**: https://khalidnaami.com/blog/thaad-blinded-antpy2-radars-destroyed-in-gulf
-- **Tomahawk Crisis: US Missile Stockpiles Depleted**: https://khalidnaami.com/blog/tomahawk-crisis-us-missile-stockpiles-depleted
-- **PrSM Escalation: US Fires Missiles from Gulf**: https://khalidnaami.com/blog/prsm-escalation-us-fires-ballistic-missiles-from-gulf
-- **Joint Command: Hezbollah Strikes Tel Aviv Command**: https://khalidnaami.com/blog/joint-command-hezbollah-strikes-tel-aviv-command
-- **Hormuz Blockade: Strait Closed as CIA Riyadh Hit**: https://khalidnaami.com/blog/hormuz-blockade-strait-closed-cia-riyadh-hit
-- **U.S. Destroyer Struck: Deep Indian Ocean Attack**: https://khalidnaami.com/blog/us-destroyer-struck-deep-indian-ocean-attack
-- **Al Udeid Strike: U.S. Orders Regional Evacuation**: https://khalidnaami.com/blog/al-udeid-strike-us-regional-evacuation-ordered
-- **Bahrain Bases Disabled: Fifth Fleet Radome Struck**: https://khalidnaami.com/blog/bahrain-bases-disabled-us-fifth-fleet-radome-struck
-- **IRGC Commander Named Iran's Defense Chief**: https://khalidnaami.com/blog/irgc-commander-named-irans-defense-chief
-- **Netanyahu Forced Underground: Khaibar Strike Misses**: https://khalidnaami.com/blog/netanyahu-forced-underground-khaibar-missile-strike
-- **F-15 Cyber Attack: Nine U.S. Jets Lost in Kuwait**: https://khalidnaami.com/blog/us-f15-cyber-attack-kuwait-crashes
-- **THAAD Radar Destroyed: UAE Air Defense Pierced**: https://khalidnaami.com/blog/thaad-radar-destroyed-uae-air-defense-pierced
-- **CIA Stations Struck: U.S. Intelligence Hit**: https://khalidnaami.com/blog/cia-offices-targeted-regional-strike-casualties
-- **Trump Agrees to Talk with Iran's New Leaders**: https://khalidnaami.com/blog/trump-agrees-to-talk-with-irans-new-leaders
-- **USS Lincoln Hit: Hypersonic Missile Strikes Carrier**: https://khalidnaami.com/blog/uss-lincoln-hit-hypersonic-missile-strikes-carrier
-- **Mokhber Leads Iran Transition Amid Strategic Rift**: https://khalidnaami.com/blog/mokhber-leads-iran-transition-amid-strategic-rift
-- **USS Lincoln Under Siege: Logistics Ships Struck**: https://khalidnaami.com/blog/uss-lincoln-carrier-strike-group-logistics-siege
-- **Prince Sultan Air Base: 378th Wing Struck**: https://khalidnaami.com/blog/prince-sultan-air-base-strike-378-expeditionary-wing-hit
-- **Israel Pentagon Struck: THAAD Bypassed in Tel Aviv**: https://khalidnaami.com/blog/israel-pentagon-hakirya-strike-thaad-bypassed
-- **Fattah Hypersonic Strikes: Israel Command Hit**: https://khalidnaami.com/blog/fattah-hypersonic-strikes-israel-command-hit
-- **Qatar Radar Strike: U.S. Early Warning Blinded**: https://khalidnaami.com/blog/qatar-radar-strike-us-early-warning-blinded
-- **Iran Retaliates: US Fifth Fleet Base Struck**: https://khalidnaami.com/blog/iran-retaliates-us-fifth-fleet-base-struck
-- **Mossad Matchstick: Israel-Iran Brinkmanship**: https://khalidnaami.com/blog/mossad-matchstick-israel-iran-brinkmanship
-- **Durand Line War: Pakistan's Nuclear Security**: https://khalidnaami.com/blog/durand-line-war-pakistan-ttp-nuclear-threat
-- **F-16 Scramble: Bulgarian Border Crash Mystery**: https://khalidnaami.com/blog/bulgarian-border-scramble-f16-mystery-oil-deal
-- **Iran Underground Fortress: Trump Dilemma**: https://khalidnaami.com/blog/iran-underground-nuclear-fortress-trump-dilemma
-- **Trump Dilemma: Limited Strike or Iran War**: https://khalidnaami.com/blog/trump-dilemma-limited-strike-or-iran-war
-- **Classified Briefing: Congress Warned on Iran War**: https://khalidnaami.com/blog/us-congress-classified-briefing-iran-war-risks
+- [Doomsday Plane: US Deploys E-6B Mercury](https://khalidnaami.com/blog/doomsday-plane-us-deploys-e6b-mercury-to-uk)
+- [Israel Devastated: 4,853 Buildings Destroyed](https://khalidnaami.com/blog/israel-devastated-4853-buildings-destroyed-by-missiles)
+- [Akrotiri Strike: U-2 Hangar Hit in Cyprus](https://khalidnaami.com/blog/akrotiri-strike-u2-spy-plane-hangar-hit-in-cyprus)
+- [THAAD Blinded: AN/TPY-2 Radars Destroyed](https://khalidnaami.com/blog/thaad-blinded-antpy2-radars-destroyed-in-gulf)
+- [Tomahawk Crisis: US Missile Stockpiles Depleted](https://khalidnaami.com/blog/tomahawk-crisis-us-missile-stockpiles-depleted)
+- [PrSM Escalation: US Fires Missiles from Gulf](https://khalidnaami.com/blog/prsm-escalation-us-fires-ballistic-missiles-from-gulf)
+- [Joint Command: Hezbollah Strikes Tel Aviv Command](https://khalidnaami.com/blog/joint-command-hezbollah-strikes-tel-aviv-command)
+- [Hormuz Blockade: Strait Closed as CIA Riyadh Hit](https://khalidnaami.com/blog/hormuz-blockade-strait-closed-cia-riyadh-hit)
+- [U.S. Destroyer Struck: Deep Indian Ocean Attack](https://khalidnaami.com/blog/us-destroyer-struck-deep-indian-ocean-attack)
+- [Al Udeid Strike: U.S. Orders Regional Evacuation](https://khalidnaami.com/blog/al-udeid-strike-us-regional-evacuation-ordered)
+- [Bahrain Bases Disabled: Fifth Fleet Radome Struck](https://khalidnaami.com/blog/bahrain-bases-disabled-us-fifth-fleet-radome-struck)
+- [IRGC Commander Named Iran's Defense Chief](https://khalidnaami.com/blog/irgc-commander-named-irans-defense-chief)
+- [Netanyahu Forced Underground: Khaibar Strike Misses](https://khalidnaami.com/blog/netanyahu-forced-underground-khaibar-missile-strike)
+- [F-15 Cyber Attack: Nine U.S. Jets Lost in Kuwait](https://khalidnaami.com/blog/us-f15-cyber-attack-kuwait-crashes)
+- [THAAD Radar Destroyed: UAE Air Defense Pierced](https://khalidnaami.com/blog/thaad-radar-destroyed-uae-air-defense-pierced)
+- [CIA Stations Struck: U.S. Intelligence Hit](https://khalidnaami.com/blog/cia-offices-targeted-regional-strike-casualties)
+- [Trump Agrees to Talk with Iran's New Leaders](https://khalidnaami.com/blog/trump-agrees-to-talk-with-irans-new-leaders)
+- [USS Lincoln Hit: Hypersonic Missile Strikes Carrier](https://khalidnaami.com/blog/uss-lincoln-hit-hypersonic-missile-strikes-carrier)
+- [Mokhber Leads Iran Transition Amid Strategic Rift](https://khalidnaami.com/blog/mokhber-leads-iran-transition-amid-strategic-rift)
+- [USS Lincoln Under Siege: Logistics Ships Struck](https://khalidnaami.com/blog/uss-lincoln-carrier-strike-group-logistics-siege)
+- [Prince Sultan Air Base: 378th Wing Struck](https://khalidnaami.com/blog/prince-sultan-air-base-strike-378-expeditionary-wing-hit)
+- [Israel Pentagon Struck: THAAD Bypassed in Tel Aviv](https://khalidnaami.com/blog/israel-pentagon-hakirya-strike-thaad-bypassed)
+- [Fattah Hypersonic Strikes: Israel Command Hit](https://khalidnaami.com/blog/fattah-hypersonic-strikes-israel-command-hit)
+- [Qatar Radar Strike: U.S. Early Warning Blinded](https://khalidnaami.com/blog/qatar-radar-strike-us-early-warning-blinded)
+- [Iran Retaliates: US Fifth Fleet Base Struck](https://khalidnaami.com/blog/iran-retaliates-us-fifth-fleet-base-struck)
+- [Mossad Matchstick: Israel-Iran Brinkmanship](https://khalidnaami.com/blog/mossad-matchstick-israel-iran-brinkmanship)
+- [Durand Line War: Pakistan's Nuclear Security](https://khalidnaami.com/blog/durand-line-war-pakistan-ttp-nuclear-threat)
+- [F-16 Scramble: Bulgarian Border Crash Mystery](https://khalidnaami.com/blog/bulgarian-border-scramble-f16-mystery-oil-deal)
+- [Iran Underground Fortress: Trump Dilemma](https://khalidnaami.com/blog/iran-underground-nuclear-fortress-trump-dilemma)
+- [Trump Dilemma: Limited Strike or Iran War](https://khalidnaami.com/blog/trump-dilemma-limited-strike-or-iran-war)
+- [Classified Briefing: Congress Warned on Iran War](https://khalidnaami.com/blog/us-congress-classified-briefing-iran-war-risks)
 
-- **Dashboard Options for Finance: The Quantitative Edge**: https://khalidnaami.com/blog/dashboard-options-finance-quantitative-edge
-- **EW Deficit: US Compass Call Fails to Blind Iran**: https://khalidnaami.com/blog/electronic-warfare-deficit-ec130h-compass-call
-- **European Banks Hoard Bonds: Shadow Credit Risk**: https://khalidnaami.com/blog/european-banks-hoard-bonds-preparing-shadow-credit-bust
-- **Existential Threat: Israel Recalls All Mossad Agents**: https://khalidnaami.com/blog/mossad-emergency-recall-security-agents
-- **F-16 Sabotage: Turkey-Egypt Fighter Upgrades**: https://khalidnaami.com/blog/turkish-f16-crash-sabotage-military-partnership
-- **Greek Report: Iran Preps 670 Hypersonic Missiles**: https://khalidnaami.com/blog/greek-report-iran-missile-swarm-ababil
-- **Gulfstream Recon: Israel's Pre-Strike Intel Ops on Iran**: https://khalidnaami.com/blog/israel-special-forces-gulfstream
-- **Home Prices Fall: Case-Shiller & FHFA Slump**: https://khalidnaami.com/blog/us-home-prices-decline-case-shiller-fhfa
-- **IMEC Corridor: US and India Strategy to Check China**: https://khalidnaami.com/blog/imec-corridor-us-china-india-iran-clash
-- **Missing F-22: Satellite Imagery Exposes Ovda Base Flaws**: https://khalidnaami.com/blog/missing-f22-raptor-ovda-satellite-mystery
-- **My Trading Principles: The Wall Street Casino and My Story**: https://khalidnaami.com/blog/my-trading-principles-wall-street-casino-my-story
-- **NATO Depleted: US Shifts F-35s from Europe to the Gulf**: https://khalidnaami.com/blog/nato-depleted-us-shifts-f35s-from-europe-to-the-gulf
-- **Private Credit Slump: Swiss Pension Fund Gate**: https://khalidnaami.com/blog/private-credit-slump-swiss-pension-fund-gate
-- **Private Market Contagion: Private Equity Gating**: https://khalidnaami.com/blog/private-market-contagion-private-equity-gating-redemptions
-- **Redrawing the Map: US Deploys F-22s to Israel**: https://khalidnaami.com/blog/two-loop-strategy-us-f22-raptors-israel-iran
-- **Sahel Alliance: Iran and Burkina Faso Deepen Ties**: https://khalidnaami.com/blog/sahel-alliance-iran-burkina-faso-technology-sharing
-- **Terror of Calm: Israel Warns of Iranian WMDs**: https://khalidnaami.com/blog/terror-of-calm-israel-chemical-weapons-pretext
-- **The Dragon's Eye: Chinese Radar Neutralizes US Stealth**: https://khalidnaami.com/blog/dragons-eye-chinese-radar-neutralizes-us-stealth
-- **The Souda Bay Threat: Russia-Iran Geopolitical Axis**: https://khalidnaami.com/blog/the-souda-bay-threat-russia-iran-geopolitical-axis
-- **US Munitions Depletion: Pentagon Warns Trump**: https://khalidnaami.com/blog/us-munitions-depletion-pentagon-warns-trump-on-iran-war
-- **US-Iran Escalation: MQ-4C Triton Drone Lost**: https://khalidnaami.com/blog/us-iran-escalation-mq4c-triton-drone-disappears-in-gulf
-- **US-Iran Gulf Escalation: F-22 vs Sayyad G3**: https://khalidnaami.com/blog/us-iran-gulf-escalation-f22-raptors-vs-sayyad-g3-missile
-- **US-Israel Strategic Anxiety: Jordan Proxy Threats**: https://khalidnaami.com/blog/us-israel-strategic-anxiety-proxy-war-threats-in-jordan
-- **Wartime Output: German Intel on Iran Missile Rates**: https://khalidnaami.com/blog/war-time-production-german-intel-iran-missile-output
-- **Dollar Strength, Rate Crashes**: https://khalidnaami.com/blog/dollar-strength-rate-crashes
+- [Dashboard Options for Finance: The Quantitative Edge](https://khalidnaami.com/blog/dashboard-options-finance-quantitative-edge)
+- [EW Deficit: US Compass Call Fails to Blind Iran](https://khalidnaami.com/blog/electronic-warfare-deficit-ec130h-compass-call)
+- [European Banks Hoard Bonds: Shadow Credit Risk](https://khalidnaami.com/blog/european-banks-hoard-bonds-preparing-shadow-credit-bust)
+- [Existential Threat: Israel Recalls All Mossad Agents](https://khalidnaami.com/blog/mossad-emergency-recall-security-agents)
+- [F-16 Sabotage: Turkey-Egypt Fighter Upgrades](https://khalidnaami.com/blog/turkish-f16-crash-sabotage-military-partnership)
+- [Greek Report: Iran Preps 670 Hypersonic Missiles](https://khalidnaami.com/blog/greek-report-iran-missile-swarm-ababil)
+- [Gulfstream Recon: Israel's Pre-Strike Intel Ops on Iran](https://khalidnaami.com/blog/israel-special-forces-gulfstream)
+- [Home Prices Fall: Case-Shiller & FHFA Slump](https://khalidnaami.com/blog/us-home-prices-decline-case-shiller-fhfa)
+- [IMEC Corridor: US and India Strategy to Check China](https://khalidnaami.com/blog/imec-corridor-us-china-india-iran-clash)
+- [Missing F-22: Satellite Imagery Exposes Ovda Base Flaws](https://khalidnaami.com/blog/missing-f22-raptor-ovda-satellite-mystery)
+- [My Trading Principles: The Wall Street Casino and My Story](https://khalidnaami.com/blog/my-trading-principles-wall-street-casino-my-story)
+- [NATO Depleted: US Shifts F-35s from Europe to the Gulf](https://khalidnaami.com/blog/nato-depleted-us-shifts-f35s-from-europe-to-the-gulf)
+- [Private Credit Slump: Swiss Pension Fund Gate](https://khalidnaami.com/blog/private-credit-slump-swiss-pension-fund-gate)
+- [Private Market Contagion: Private Equity Gating](https://khalidnaami.com/blog/private-market-contagion-private-equity-gating-redemptions)
+- [Redrawing the Map: US Deploys F-22s to Israel](https://khalidnaami.com/blog/two-loop-strategy-us-f22-raptors-israel-iran)
+- [Sahel Alliance: Iran and Burkina Faso Deepen Ties](https://khalidnaami.com/blog/sahel-alliance-iran-burkina-faso-technology-sharing)
+- [Terror of Calm: Israel Warns of Iranian WMDs](https://khalidnaami.com/blog/terror-of-calm-israel-chemical-weapons-pretext)
+- [The Dragon's Eye: Chinese Radar Neutralizes US Stealth](https://khalidnaami.com/blog/dragons-eye-chinese-radar-neutralizes-us-stealth)
+- [The Souda Bay Threat: Russia-Iran Geopolitical Axis](https://khalidnaami.com/blog/the-souda-bay-threat-russia-iran-geopolitical-axis)
+- [US Munitions Depletion: Pentagon Warns Trump](https://khalidnaami.com/blog/us-munitions-depletion-pentagon-warns-trump-on-iran-war)
+- [US-Iran Escalation: MQ-4C Triton Drone Lost](https://khalidnaami.com/blog/us-iran-escalation-mq4c-triton-drone-disappears-in-gulf)
+- [US-Iran Gulf Escalation: F-22 vs Sayyad G3](https://khalidnaami.com/blog/us-iran-gulf-escalation-f22-raptors-vs-sayyad-g3-missile)
+- [US-Israel Strategic Anxiety: Jordan Proxy Threats](https://khalidnaami.com/blog/us-israel-strategic-anxiety-proxy-war-threats-in-jordan)
+- [Wartime Output: German Intel on Iran Missile Rates](https://khalidnaami.com/blog/war-time-production-german-intel-iran-missile-output)
+- [Dollar Strength, Rate Crashes](https://khalidnaami.com/blog/dollar-strength-rate-crashes)
 
-- **BlackRock Private Credit DOJ Investigation**: https://khalidnaami.com/blog/blackrock-private-credit-doj-investigation
-- **Blackstone BCRED First-Loss Toxic Waste Spiral**: https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral
-- **China's Economic Contraction: Fictional Recovery Ends**: https://khalidnaami.com/blog/china-economic-contraction-fictional-recovery-ends
-- **China Sends HUGE Warning**: https://khalidnaami.com/blog/china-sends-huge-warning
-- **Dimon's Warning: Private Credit Probably Not Systemic**: https://khalidnaami.com/blog/dimons-warning-private-credit-probably-not-systemic
-- **European Banks Hoard Safety: Credit Crisis Spreads**: https://khalidnaami.com/blog/european-banks-hoard-safety-credit-crisis-spreads
-- **FX Interventions Fail: BoJ, RBI & Dollar Squeeze**: https://khalidnaami.com/blog/fx-interventions-fail-boj-rbi-dollar-squeeze
-- **IRS Tax Refunds & Debt Paydown: Trump's Spending**: https://khalidnaami.com/blog/irs-tax-refunds-debt-paydown-trumps-spending
-- **Oracle Layoffs: Credit Cycle Turns**: https://khalidnaami.com/blog/oracle-layoffs-credit-cycle-turns
-- **Private Credit Liquidity Squeeze: Goldman Sachs & Fitch**: https://khalidnaami.com/blog/private-credit-liquidity-squeeze-goldman-sachs-fitch
-- **Repo Fails Spike: Global Collateral Squeeze**: https://khalidnaami.com/blog/repo-fails-spike-global-collateral-squeeze
-- **UK Political Earthquake: Price of Flat Payrolls**: https://khalidnaami.com/blog/uk-political-earthquake-price-of-flat-payrolls
-- **Chinese Satellites Break US-Israel Space Monopoly**: https://khalidnaami.com/blog/chinese-satellites-breaking-us-israel-space-monopoly
-- **Iran's Su-22 Drone Russian Mi-28 Tandem**: https://khalidnaami.com/blog/iran-su-22-drone-russian-mi-28-tandem
-- **MBS & Lindsey Graham Meeting: Inside Conservative Islam**: https://khalidnaami.com/blog/mbs-lindsey-graham-meeting-conservative-islam
-- **Turkey's Akinci Drone Air Combat: Erdogan's Strategy**: https://khalidnaami.com/blog/turkey-akinci-drone-air-combat-erdogan-strategy
-- **Turkey's Hypersonic Tayfun Block 4**: https://khalidnaami.com/blog/turkey-hypersonic-missile-tayfun-block-4
-- **New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!**: https://khalidnaami.com/blog/new-home-sales-collapse-energy-shock
-- **AI Capex Off-Balance Sheet Debt: The Next 2008-Style Crisis!**: https://khalidnaami.com/blog/ai-capex-off-balance-sheet-debt
-- **Private Credit Gating: A Shocking 2007-Style Credit Crunch!!**: https://khalidnaami.com/blog/private-credit-gating-2007-style-crunch
-- **Switzerland Enters Recession: Ultimate Global Macro Warning!**: https://khalidnaami.com/blog/switzerland-recession-global-warning
-- **Home Sales PLUNGING to 2010 Levels: Real Job Market Collapse**: https://khalidnaami.com/blog/home-sales-plunging-2010-levels
-- **The US AWACS Deployment: High-Stakes Aerial War on Iran**: https://khalidnaami.com/blog/us-awacs-deployment-iran-war-strategy
-- **When MBS Said No to Trump: Inside a Dangerous US Arms Game**: https://khalidnaami.com/blog/mbs-trump-dangerous-us-arms-game
-- **US-Iran Crisis: The Khorramshahr 5 Nuclear-Fueled ICBM**: https://khalidnaami.com/blog/khorramshahr-5-nuclear-fueled-icbm-crisis
-- **Final Warning to Jordan: Lincoln and Muwaffaq Salti Base**: https://khalidnaami.com/blog/jordan-muwaffaq-salti-lincoln-iran-attack
-- **Iran's Safar-110: The System Israel Calls a Tech Advantage**: https://khalidnaami.com/blog/iran-safar-110-system-israel-tech-advantage
-- **Iran Deploys 20 Submarines, Electrifying America**: https://khalidnaami.com/blog/iran-deploys-ghadir-submarines-electrifying-america
-- **E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran**: https://khalidnaami.com/blog/e3-sentry-failing-maduro-outdated-iran
-- **Britain Blocks Trump: No UK Bases for Iran Attack**: https://khalidnaami.com/blog/britain-blocks-trump-uk-bases-iran-attack
-- **Before Zero Hour: Trump vs Khamenei's Final Dangerous Cards**: https://khalidnaami.com/blog/before-zero-hour-trump-khamenei-confrontation
-- **America & Israel's War on Iran: Trump's Deception by AI**: https://khalidnaami.com/blog/ai-deception-flawed-iran-war-model
-- **SciPy: The Engine for Scientific Computing in Python**: https://khalidnaami.com/blog/scipy-python-scientific-computing-analysis
-- **Numba: Accelerating Python for High-Speed Data Analysis**: https://khalidnaami.com/blog/numba-python-high-speed-data-analysis
-- **Polars in Fintech: Next-Gen High-Performance DataFrames**: https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames
-- **NumPy in Fintech: The Computational Engine of Finance**: https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance
-- **Trading Principles: Why Data Beats Technical Analysis**: https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis
-- **Streamlit and Python: Quantitative Options Analysis**: https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis
-- **Statistical Arbitrage: Mastering Mean Reversion**: https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading
-- **Plotly in Fintech: Interactive Data Science with Python**: https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python
-- **Pandas for Finance: High-Performance Data Engineering**: https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering
-- **Modern Market Strategies: Mastering Mean Reversion**: https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion
-- **Market Dynamics: Efficiency, Momentum & Mean Reversion**: https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion
-- **A Strategic Guide to Reading My Daily Analysis**: https://khalidnaami.com/blog/guide-to-reading-daily-analysis
-- **The Game of Probabilities: Decoding Market Expectations**: https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations
-- **Technical & Historical Analysis: The Quantitative Edge**: https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge
-- **OI & Volume Analysis: Master Options Flow and Liquidity**: https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide
-- **Delta-Adjusted Exposure: The Real Way to Measure Risk**: https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk
-- **Exposure Heatmap: Visual Options Analytics**: https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide
-- **Volatility: Log-Returns to Yang-Zhang**: https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide
-- **Scala for Finance: Functional Programming in Trading**: https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide
-- **Risk Metrics 101: VaR, Beta, Sharpe & Sortino**: https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide
-- **React.js Fintech: Scalable Trading Dashboards**: https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide
-- **R for Finance: Statistical Powerhouse of Quant Research**: https://khalidnaami.com/blog/r-language-for-financial-data-science-guide
-- **Julia for Finance: High-Performance Quant Research**: https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide
-- **HTML & CSS in Fintech: Pro Trading UI**: https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide
-- **The Game of Probabilities: Stochastic Processes**: https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide
-- **Fair Bets & Kelly Criterion: Mastering Position Sizing**: https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide
-- **C++ for Finance: The Bedrock of Low Latency Systems**: https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide
-- **Ultimate Options Dashboard: Price & Greeks**: https://khalidnaami.com/blog/ultimate-options-dashboard-guide
-- **Python for Finance: Modern Quant Analysis**: https://khalidnaami.com/blog/python-for-finance-data-analysis-guide
-- **Dashboard Options: Mastering Multi-Ticker Analysis**: https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis
-- **JavaScript in Finance: Real-Time Dashboards**: https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide
-- **Delta Dynamics: The Compass of Options Trading**: https://khalidnaami.com/blog/delta-dynamics-directional-risk
-- **Charm: The Invisible Erosion of Directional Exposure**: https://khalidnaami.com/blog/charm-the-invisible-delta-decay
-- **The Strategic Quartet: Delta, Gamma, Vanna, and Charm**: https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks
-- **The Physics of Options: Synergy Between Delta and Gamma**: https://khalidnaami.com/blog/options-physics-synergy
-- **Vanna-Charm Synergy: Protecting Your Portfolio**: https://khalidnaami.com/blog/vanna-charm-risk-management-synergy
-- **The Power of Gamma: Why It Rules the Options Market**: https://khalidnaami.com/blog/the-power-of-gamma
-- **Vanna: The Bridge Between Price and Volatility**: https://khalidnaami.com/blog/vanna-price-volatility-bridge
-- **The 3D Gamma Surface: Navigating Market Risk Topography**: https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography
-- **The IV Surface: Decoding Market Expectations**: https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations
-- **Options Color: Managing Gamma Decay and Pin Risk**: https://khalidnaami.com/blog/options-color-gamma-decay-risk
-- **Options Speed: Mastering the Gamma of Gamma**: https://khalidnaami.com/blog/options-speed-gamma-of-gamma
-- **Max Pain Theory: Why Prices Gravitate Toward Losses**: https://khalidnaami.com/blog/options-max-pain-theory-market-gravity
-- **Options Vomma: Understanding Vega Convexity**: https://khalidnaami.com/blog/options-vomma-convexity-of-vega
-- **The Butterfly Spread: Precision Targeting in Options**: https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options
-- **The Cash-Secured Put: Acquiring Assets at a Discount**: https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount
-- **The Calendar Spread: Trading Time and Volatility**: https://khalidnaami.com/blog/calendar-spread-trading-time-volatility
-- **The Covered Call: Generating Quantitative Yield**: https://khalidnaami.com/blog/covered-call-generating-quantitative-yield
-- **The Collar Strategy: Complete Portfolio Protection**: https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection
-- **How Option Dealers Use Gamma Exposure To Trade**: https://khalidnaami.com/blog/how-dealers-use-gamma-exposure
-- **Day Trading 0 DTE GEX Flow | Option Dealer Levels**: https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels
-- **How To Trade Gamma Exposure: Quantitative Guide**: https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide
-- **How Gamma Exposure Works - Advanced Option Strategies**: https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies
-- **Trading Positive Gamma: Strategies for Calm Markets**: https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets
-- **Trading Negative Gamma: Volatility Expansion**: https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-acceleration
-- **The Iron Butterfly: High-Probability Pin Targeting**: https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting
-- **How To Trade Zero Gamma: The Ultimate Volatility Pivot**: https://khalidnaami.com/blog/how-to-trade-zero-gamma-market-inflection
-- **The Poor Man's Covered Call: Capital Efficient Yield**: https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield
-- **The Iron Condor Strategy: Mastering Delta Neutrality**: https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality
-- **Trading SPY Options Like Professional Dealers**: https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers
-- **The Straddle and Strangle: Harvesting Volatility**: https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion
-- **Vertical Spreads: Mastering Directional Options**: https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options
-- **Using Gamma Exposure (GEX) to Time Your Option Trading**: https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades
-- **Why Gamma Exposure (GEX) Dominates Other Strategies**: https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies
+- [BlackRock Private Credit DOJ Investigation](https://khalidnaami.com/blog/blackrock-private-credit-doj-investigation)
+- [Blackstone BCRED First-Loss Toxic Waste Spiral](https://khalidnaami.com/blog/blackstone-bcred-first-loss-toxic-waste-spiral)
+- [China's Economic Contraction: Fictional Recovery Ends](https://khalidnaami.com/blog/china-economic-contraction-fictional-recovery-ends)
+- [China Sends HUGE Warning](https://khalidnaami.com/blog/china-sends-huge-warning)
+- [Dimon's Warning: Private Credit Probably Not Systemic](https://khalidnaami.com/blog/dimons-warning-private-credit-probably-not-systemic)
+- [European Banks Hoard Safety: Credit Crisis Spreads](https://khalidnaami.com/blog/european-banks-hoard-safety-credit-crisis-spreads)
+- [FX Interventions Fail: BoJ, RBI & Dollar Squeeze](https://khalidnaami.com/blog/fx-interventions-fail-boj-rbi-dollar-squeeze)
+- [IRS Tax Refunds & Debt Paydown: Trump's Spending](https://khalidnaami.com/blog/irs-tax-refunds-debt-paydown-trumps-spending)
+- [Oracle Layoffs: Credit Cycle Turns](https://khalidnaami.com/blog/oracle-layoffs-credit-cycle-turns)
+- [Private Credit Liquidity Squeeze: Goldman Sachs & Fitch](https://khalidnaami.com/blog/private-credit-liquidity-squeeze-goldman-sachs-fitch)
+- [Repo Fails Spike: Global Collateral Squeeze](https://khalidnaami.com/blog/repo-fails-spike-global-collateral-squeeze)
+- [UK Political Earthquake: Price of Flat Payrolls](https://khalidnaami.com/blog/uk-political-earthquake-price-of-flat-payrolls)
+- [Chinese Satellites Break US-Israel Space Monopoly](https://khalidnaami.com/blog/chinese-satellites-breaking-us-israel-space-monopoly)
+- [Iran's Su-22 Drone Russian Mi-28 Tandem](https://khalidnaami.com/blog/iran-su-22-drone-russian-mi-28-tandem)
+- [MBS & Lindsey Graham Meeting: Inside Conservative Islam](https://khalidnaami.com/blog/mbs-lindsey-graham-meeting-conservative-islam)
+- [Turkey's Akinci Drone Air Combat: Erdogan's Strategy](https://khalidnaami.com/blog/turkey-akinci-drone-air-combat-erdogan-strategy)
+- [Turkey's Hypersonic Tayfun Block 4](https://khalidnaami.com/blog/turkey-hypersonic-missile-tayfun-block-4)
+- [New Home Sales Plunge 17.6%: Disastrous 2008 Policy Repeat!!](https://khalidnaami.com/blog/new-home-sales-collapse-energy-shock)
+- [AI Capex Off-Balance Sheet Debt: The Next 2008-Style Crisis!](https://khalidnaami.com/blog/ai-capex-off-balance-sheet-debt)
+- [Private Credit Gating: A Shocking 2007-Style Credit Crunch!!](https://khalidnaami.com/blog/private-credit-gating-2007-style-crunch)
+- [Switzerland Enters Recession: Ultimate Global Macro Warning!](https://khalidnaami.com/blog/switzerland-recession-global-warning)
+- [Home Sales PLUNGING to 2010 Levels: Real Job Market Collapse](https://khalidnaami.com/blog/home-sales-plunging-2010-levels)
+- [The US AWACS Deployment: High-Stakes Aerial War on Iran](https://khalidnaami.com/blog/us-awacs-deployment-iran-war-strategy)
+- [When MBS Said No to Trump: Inside a Dangerous US Arms Game](https://khalidnaami.com/blog/mbs-trump-dangerous-us-arms-game)
+- [US-Iran Crisis: The Khorramshahr 5 Nuclear-Fueled ICBM](https://khalidnaami.com/blog/khorramshahr-5-nuclear-fueled-icbm-crisis)
+- [Final Warning to Jordan: Lincoln and Muwaffaq Salti Base](https://khalidnaami.com/blog/jordan-muwaffaq-salti-lincoln-iran-attack)
+- [Iran's Safar-110: The System Israel Calls a Tech Advantage](https://khalidnaami.com/blog/iran-safar-110-system-israel-tech-advantage)
+- [Iran Deploys 20 Submarines, Electrifying America](https://khalidnaami.com/blog/iran-deploys-ghadir-submarines-electrifying-america)
+- [E-3 Sentry Failing: Maduro's Planes Now Outdated vs Iran](https://khalidnaami.com/blog/e3-sentry-failing-maduro-outdated-iran)
+- [Britain Blocks Trump: No UK Bases for Iran Attack](https://khalidnaami.com/blog/britain-blocks-trump-uk-bases-iran-attack)
+- [Before Zero Hour: Trump vs Khamenei's Final Dangerous Cards](https://khalidnaami.com/blog/before-zero-hour-trump-khamenei-confrontation)
+- [America & Israel's War on Iran: Trump's Deception by AI](https://khalidnaami.com/blog/ai-deception-flawed-iran-war-model)
+- [SciPy: The Engine for Scientific Computing in Python](https://khalidnaami.com/blog/scipy-python-scientific-computing-analysis)
+- [Numba: Accelerating Python for High-Speed Data Analysis](https://khalidnaami.com/blog/numba-python-high-speed-data-analysis)
+- [Polars in Fintech: Next-Gen High-Performance DataFrames](https://khalidnaami.com/blog/polars-fintech-high-performance-data-frames)
+- [NumPy in Fintech: The Computational Engine of Finance](https://khalidnaami.com/blog/numpy-fintech-computational-engine-finance)
+- [Trading Principles: Why Data Beats Technical Analysis](https://khalidnaami.com/blog/trading-principles-data-vs-technical-analysis)
+- [Streamlit and Python: Quantitative Options Analysis](https://khalidnaami.com/blog/streamlit-python-quantitative-options-analysis)
+- [Statistical Arbitrage: Mastering Mean Reversion](https://khalidnaami.com/blog/statistical-arbitrage-mean-reversion-trading)
+- [Plotly in Fintech: Interactive Data Science with Python](https://khalidnaami.com/blog/plotly-fintech-interactive-data-science-python)
+- [Pandas for Finance: High-Performance Data Engineering](https://khalidnaami.com/blog/pandas-finance-high-performance-data-engineering)
+- [Modern Market Strategies: Mastering Mean Reversion](https://khalidnaami.com/blog/modern-market-strategies-mastering-mean-reversion)
+- [Market Dynamics: Efficiency, Momentum & Mean Reversion](https://khalidnaami.com/blog/market-dynamics-efficiency-momentum-mean-reversion)
+- [A Strategic Guide to Reading My Daily Analysis](https://khalidnaami.com/blog/guide-to-reading-daily-analysis)
+- [The Game of Probabilities: Decoding Market Expectations](https://khalidnaami.com/blog/the-game-of-probabilities-decoding-market-expectations)
+- [Technical & Historical Analysis: The Quantitative Edge](https://khalidnaami.com/blog/technical-historical-analysis-quantitative-edge)
+- [OI & Volume Analysis: Master Options Flow and Liquidity](https://khalidnaami.com/blog/oi-volume-options-flow-liquidity-guide)
+- [Delta-Adjusted Exposure: The Real Way to Measure Risk](https://khalidnaami.com/blog/options-delta-adjusted-exposure-true-risk)
+- [Exposure Heatmap: Visual Options Analytics](https://khalidnaami.com/blog/exposure-heatmap-visual-analytics-guide)
+- [Volatility: Log-Returns to Yang-Zhang](https://khalidnaami.com/blog/volatility-log-returns-yang-zhang-estimator-guide)
+- [Scala for Finance: Functional Programming in Trading](https://khalidnaami.com/blog/scala-in-fintech-big-data-functional-programming-guide)
+- [Risk Metrics 101: VaR, Beta, Sharpe & Sortino](https://khalidnaami.com/blog/risk-metrics-unveiled-vaR-beta-sharpe-sortino-guide)
+- [React.js Fintech: Scalable Trading Dashboards](https://khalidnaami.com/blog/react-js-fintech-scalable-dashboards-guide)
+- [R for Finance: Statistical Powerhouse of Quant Research](https://khalidnaami.com/blog/r-language-for-financial-data-science-guide)
+- [Julia for Finance: High-Performance Quant Research](https://khalidnaami.com/blog/julia-for-finance-high-performance-computing-guide)
+- [HTML & CSS in Fintech: Pro Trading UI](https://khalidnaami.com/blog/html-css-fintech-ui-ux-guide)
+- [The Game of Probabilities: Stochastic Processes](https://khalidnaami.com/blog/game-of-probabilities-stochastic-risk-management-guide)
+- [Fair Bets & Kelly Criterion: Mastering Position Sizing](https://khalidnaami.com/blog/fair-bets-kelly-criterion-optimal-position-sizing-guide)
+- [C++ for Finance: The Bedrock of Low Latency Systems](https://khalidnaami.com/blog/c-plus-plus-quantitative-finance-low-latency-guide)
+- [Ultimate Options Dashboard: Price & Greeks](https://khalidnaami.com/blog/ultimate-options-dashboard-guide)
+- [Python for Finance: Modern Quant Analysis](https://khalidnaami.com/blog/python-for-finance-data-analysis-guide)
+- [Dashboard Options: Mastering Multi-Ticker Analysis](https://khalidnaami.com/blog/comparative-edge-multi-ticker-analysis)
+- [JavaScript in Finance: Real-Time Dashboards](https://khalidnaami.com/blog/javascript-for-finance-data-visualization-guide)
+- [Delta Dynamics: The Compass of Options Trading](https://khalidnaami.com/blog/delta-dynamics-directional-risk)
+- [Charm: The Invisible Erosion of Directional Exposure](https://khalidnaami.com/blog/charm-the-invisible-delta-decay)
+- [The Strategic Quartet: Delta, Gamma, Vanna, and Charm](https://khalidnaami.com/blog/strategic-quartet-integrating-four-greeks)
+- [The Physics of Options: Synergy Between Delta and Gamma](https://khalidnaami.com/blog/options-physics-synergy)
+- [Vanna-Charm Synergy: Protecting Your Portfolio](https://khalidnaami.com/blog/vanna-charm-risk-management-synergy)
+- [The Power of Gamma: Why It Rules the Options Market](https://khalidnaami.com/blog/the-power-of-gamma)
+- [Vanna: The Bridge Between Price and Volatility](https://khalidnaami.com/blog/vanna-price-volatility-bridge)
+- [The 3D Gamma Surface: Navigating Market Risk Topography](https://khalidnaami.com/blog/dashboard-options-3d-gamma-surface-risk-topography)
+- [The IV Surface: Decoding Market Expectations](https://khalidnaami.com/blog/dashboard-options-iv-surface-market-expectations)
+- [Options Color: Managing Gamma Decay and Pin Risk](https://khalidnaami.com/blog/options-color-gamma-decay-risk)
+- [Options Speed: Mastering the Gamma of Gamma](https://khalidnaami.com/blog/options-speed-gamma-of-gamma)
+- [Max Pain Theory: Why Prices Gravitate Toward Losses](https://khalidnaami.com/blog/options-max-pain-theory-market-gravity)
+- [Options Vomma: Understanding Vega Convexity](https://khalidnaami.com/blog/options-vomma-convexity-of-vega)
+- [The Butterfly Spread: Precision Targeting in Options](https://khalidnaami.com/blog/butterfly-spread-precision-targeting-options)
+- [The Cash-Secured Put: Acquiring Assets at a Discount](https://khalidnaami.com/blog/cash-secured-put-acquiring-assets-discount)
+- [The Calendar Spread: Trading Time and Volatility](https://khalidnaami.com/blog/calendar-spread-trading-time-volatility)
+- [The Covered Call: Generating Quantitative Yield](https://khalidnaami.com/blog/covered-call-generating-quantitative-yield)
+- [The Collar Strategy: Complete Portfolio Protection](https://khalidnaami.com/blog/collar-strategy-complete-portfolio-protection)
+- [How Option Dealers Use Gamma Exposure To Trade](https://khalidnaami.com/blog/how-dealers-use-gamma-exposure)
+- [Day Trading 0 DTE GEX Flow | Option Dealer Levels](https://khalidnaami.com/blog/day-trading-0-dte-gex-flow-dealer-levels)
+- [How To Trade Gamma Exposure: Quantitative Guide](https://khalidnaami.com/blog/how-to-trade-gamma-exposure-quantitative-guide)
+- [How Gamma Exposure Works - Advanced Option Strategies](https://khalidnaami.com/blog/how-gamma-exposure-works-advanced-strategies)
+- [Trading Positive Gamma: Strategies for Calm Markets](https://khalidnaami.com/blog/how-to-trade-positive-gamma-calm-markets)
+- [Trading Negative Gamma: Volatility Expansion](https://khalidnaami.com/blog/how-to-trade-negative-gamma-volatility-acceleration)
+- [The Iron Butterfly: High-Probability Pin Targeting](https://khalidnaami.com/blog/iron-butterfly-high-probability-pin-targeting)
+- [How To Trade Zero Gamma: The Ultimate Volatility Pivot](https://khalidnaami.com/blog/how-to-trade-zero-gamma-market-inflection)
+- [The Poor Man's Covered Call: Capital Efficient Yield](https://khalidnaami.com/blog/poor-mans-covered-call-capital-efficient-yield)
+- [The Iron Condor Strategy: Mastering Delta Neutrality](https://khalidnaami.com/blog/iron-condor-strategy-delta-neutrality)
+- [Trading SPY Options Like Professional Dealers](https://khalidnaami.com/blog/trading-spy-options-how-we-trade-gex-like-dealers)
+- [The Straddle and Strangle: Harvesting Volatility](https://khalidnaami.com/blog/straddle-strangle-harvesting-volatility-expansion)
+- [Vertical Spreads: Mastering Directional Options](https://khalidnaami.com/blog/vertical-spreads-mastering-directional-options)
+- [Using Gamma Exposure (GEX) to Time Your Option Trading](https://khalidnaami.com/blog/using-gamma-exposure-to-time-trades)
+- [Why Gamma Exposure (GEX) Dominates Other Strategies](https://khalidnaami.com/blog/why-trading-gex-dominates-other-strategies)
