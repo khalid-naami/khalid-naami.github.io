@@ -31,7 +31,7 @@ const journeyData = [
   {
     year: 2023,
     icon: "🚀",
-    description: <>I started developing applications in 2023, including this one which analyzes seasonality and historical price data - [<a href="https://seasonality-data.streamlit.app/" target="_blank" rel="noreferrer">Seasonality-data</a>].</>
+    description: <>I started developing applications in 2023, including this one which analyzes seasonality and historical price data - [<a href="https://seasonality-data.streamlit.app/" target="_blank" rel="noopener noreferrer">Seasonality-data</a>].</>
   },
   {
     year: 2023,
@@ -41,12 +41,12 @@ const journeyData = [
   {
     year: 2024,
     icon: "🐙",
-    description: <>This is one of the applications that explains Greek options; I only recently published it in a repository on GitHub - [<a href="https://github.com/khalid-naami/black-scholes-option" target="_blank" rel="noreferrer">black-scholes-option</a>].</>
+    description: <>This is one of the applications that explains Greek options; I only recently published it in a repository on GitHub - [<a href="https://github.com/khalid-naami/black-scholes-option" target="_blank" rel="noopener noreferrer">black-scholes-option</a>].</>
   },
   {
     year: 2025,
     icon: "🌐",
-    description: <>This application contains several web applications, all compiled in one place, used for investment management - [<a href="https://github.com/khalid-naami/Financial-Dashboard" target="_blank" rel="noreferrer">Financial-Dashboard</a>].</>
+    description: <>This application contains several web applications, all compiled in one place, used for investment management - [<a href="https://github.com/khalid-naami/Financial-Dashboard" target="_blank" rel="noopener noreferrer">Financial-Dashboard</a>].</>
   },
   {
     year: 2022,
