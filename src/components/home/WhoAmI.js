@@ -88,7 +88,7 @@ function WhoAmI({ level = 2 }) {
 
       <p className="text-center mt-4">
         You can reach me on{' '}
-        <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer">
+        <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer">
           X (@khalidnaami0)
         </a>
         , where I post frequently.
