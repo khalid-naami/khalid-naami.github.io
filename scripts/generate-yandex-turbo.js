@@ -1,7 +1,42 @@
 const fs = require('fs');
 const path = require('path');
 const { marked } = require('marked');
-const matter = require('gray-matter');
+
+function parseFrontmatter(raw) {
+    const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+    if (!match) return { data: {}, content: raw };
+    const data = {};
+    let currentListKey = null;
+    for (const line of match[1].split(/\r?\n/)) {
+        const listItem = line.match(/^\s*-\s+(.*)$/);
+        if (listItem && currentListKey) {
+            data[currentListKey].push(listItem[1].trim().replace(/^["'](.*)["']$/, '$1'));
+            continue;
+        }
+        const kv = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
+        if (!kv) {
+            currentListKey = null;
+            continue;
+        }
+        const key = kv[1];
+        const rawVal = kv[2].trim();
+        if (!rawVal) {
+            data[key] = [];
+            currentListKey = key;
+        } else if (rawVal.startsWith('[') && rawVal.endsWith(']')) {
+            data[key] = rawVal
+                .slice(1, -1)
+                .split(',')
+                .map(v => v.trim().replace(/^["'](.*)["']$/, '$1'))
+                .filter(Boolean);
+            currentListKey = null;
+        } else {
+            data[key] = rawVal.replace(/^["'](.*)["']$/, '$1');
+            currentListKey = null;
+        }
+    }
+    return { data, content: match[2] };
+}
 
 // Configuration
 const SITE_URL = 'https://khalidnaami.com';
@@ -38,7 +73,7 @@ function generateRss() {
     files.forEach(file => {
         const fullPath = path.join(BLOG_DIR, file);
         const rawContent = fs.readFileSync(fullPath, 'utf8');
-        const { data, content } = matter(rawContent);
+        const { data, content } = parseFrontmatter(rawContent);
 
         if (!data.title || !data.slug) return;
 
