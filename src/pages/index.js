@@ -235,14 +235,14 @@ export default function Home() {
         {/* Top Section: High Priority for LCP - Moved out of BrowserOnly for SSR Discovery */}
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-            <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
+            <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" className="pill-banner-link">
               <span className="pill-banner-text">Get updates on AI, open source, startups and finance.</span>
             </a>
           </div>
         </div>
         <div className="w-full py-3 sm:py-4">
           <div className="max-w-[880px] mx-auto px-4 flex items-center justify-center">
-            <a href="https://x.com/khalidnaami0" target="_blank" rel="noreferrer" className="pill-banner-link">
+            <a href="https://x.com/khalidnaami0" target="_blank" rel="noopener noreferrer" className="pill-banner-link">
               <span className="pill-banner-text">Follow me on X to explore insights on fintech, derivatives and market analysis</span>
             </a>
           </div>
