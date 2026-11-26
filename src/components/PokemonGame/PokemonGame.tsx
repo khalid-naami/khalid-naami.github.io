@@ -165,7 +165,15 @@ function createInitialState() {
     pauseHitbox: null as { x: number; y: number; w: number; h: number } | null,
     resumeHitbox: null as { x: number; y: number; w: number; h: number } | null,
     soundHitbox: null as { x: number; y: number; w: number; h: number } | null,
-    soundEnabled: (() => { try { return localStorage.getItem("pokeball-sound") !== "off"; } catch { return true; } })(),
+    soundEnabled: (() => {
+      let savedSoundPref: string | null = null;
+      try {
+        savedSoundPref = localStorage.getItem("pokeball-sound");
+      } catch {
+        savedSoundPref = null;
+      }
+      return savedSoundPref !== "off";
+    })(),
     mouseX: 0,
     mouseY: 0,
     isTouching: false,
