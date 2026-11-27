@@ -1,9 +1,34 @@
-# Allow Google AdSense and AdWords crawlers explicitly
+# Allow Google AdSense, Google Search, and AI Search / Grounding crawlers explicitly
 User-agent: Mediapartners-Google
 Allow: /
 
 User-agent: Googlebot
+Allow: /
 Allow: /ads.txt
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
 
 # Universal rule: covers all crawlers (search engines, AI bots, archivers)
 User-agent: *
