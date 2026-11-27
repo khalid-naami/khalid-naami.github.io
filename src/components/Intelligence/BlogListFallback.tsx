@@ -13,7 +13,7 @@ const BlogListFallback: FC<Props> = ({ items }) => {
           <a
             href={item.url}
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             style={{ color: '#63B3ED', fontSize: '1.1rem', fontWeight: 500 }}
           >
             {item.title}

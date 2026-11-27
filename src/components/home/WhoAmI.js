@@ -6,7 +6,10 @@ function WhoAmI({ level = 2 }) {
     <Section title="Who am I?" level={level}>
       <div className="text-xl text-center max-w-3xl mx-auto">
         <p>
-          <strong>Founder of the <a href="https://x.com/DashboardOption" target="_blank" rel="noopener noreferrer">Dashboard Options</a> project.</strong>
+          <strong>Khalid Naami, Founder of the <a href="https://x.com/DashboardOption" target="_blank" rel="noopener noreferrer">Dashboard Options</a> project.</strong>
+        </p>
+        <p className="text-base mt-2 opacity-85">
+          Dashboard Options project — quantitative finance, options Greeks, global macro, and geopolitics research.
         </p>
       </div>
       

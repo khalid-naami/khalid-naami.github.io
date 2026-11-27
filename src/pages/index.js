@@ -179,7 +179,9 @@ export default function Home() {
       <Head>
         <meta property="og:title" content="Quantitative Finance, Macro & Geopolitics | Khalid Naami" />
         <meta property="og:description" content="Khalid Naami, Founder of Dashboard Options. Research in Quantitative Finance, Options Greeks, Global Macro, Geopolitics & AI." />
-        <meta property="og:image" content={`${siteUrl}/img/zoro-media.webp`} />
+        <meta property="og:image" content={`${siteUrl}img/og-card-1200x630.png`} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
         <meta property="og:url" content="https://khalidnaami.com/" />
         <meta name="author" content="Khalid Naami" />
         <meta name="copyright" content="Khalid Naami" />
@@ -199,7 +201,7 @@ export default function Home() {
           name="twitter:description"
           content="Khalid Naami, Founder of Dashboard Options. Research in Quantitative Finance, Options Greeks, Global Macro, Geopolitics & AI."
         />
-        <meta name="twitter:image" content={`${siteUrl}/img/zoro-media.webp`} />
+        <meta name="twitter:image" content={`${siteUrl}img/og-card-1200x630.png`} />
         
         {/* Desktop Performance Optimization: Preload LCP Image */}
         <link rel="preload" as="image" href="/img/khalid_profile.webp" fetchpriority="high" />
@@ -215,7 +217,7 @@ export default function Home() {
         <link rel="dns-prefetch" href="https://github-stats-alpha.vercel.app" />
       </Head>
       <main>
-        <h1 className="visually-hidden">Khalid Naami - Academic Strategic Analyst & Quantitative Expert</h1>
+        <h1 className="visually-hidden">Khalid Naami — Quantitative Finance, Macro & Geopolitics</h1>
         
         {/* GEO (Generative Engine Optimization) - Structured facts for LLMs, placed statically for perfect hydration */}
         <div className="visually-hidden">

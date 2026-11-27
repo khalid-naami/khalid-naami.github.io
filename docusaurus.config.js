@@ -96,7 +96,7 @@ module.exports = async function createConfig() {
               "caption": "Khalid Naami"
             },
             "jobTitle": "Founder of Dashboard Options",
-            "description": "Khalid Naami, Founder of Dashboard Options. Academic writer and investigative researcher in Quantitative Finance, Global Macroeconomics, Geopolitics (OSINT), and AI.",
+            "description": "Khalid Naami, Founder of the Dashboard Options project.",
             "knowsLanguage": [
               { "@type": "Language", "name": "Arabic" },
               { "@type": "Language", "name": "English" },
@@ -128,7 +128,7 @@ module.exports = async function createConfig() {
               "caption": "Dashboard Options"
             },
             "alternateName": "DashboardOptions.com",
-            "description": "Quantitative options research project founded by Khalid Naami analyzing options Greeks, gamma exposure, and market microstructure.",
+            "description": "Dashboard Options project — quantitative finance, options Greeks, global macro, and geopolitics research.",
             "founder": { "@id": "https://khalidnaami.com/#person" },
             "foundingDate": "2024-01-01",
             "contactPoint": {
@@ -150,7 +150,8 @@ module.exports = async function createConfig() {
             "@type": "WebSite",
             "@id": "https://khalidnaami.com/#website",
             "url": "https://khalidnaami.com",
-            "name": "Khalid Naami - Personal Website & Research Archive",
+            "name": "Khalid Naami",
+            "headline": "Khalid Naami — Quantitative Finance, Macro & Geopolitics",
             "publisher": { "@id": "https://khalidnaami.com/#organization" },
             "inLanguage": "en-US",
             "potentialAction": {
@@ -247,7 +248,7 @@ module.exports = async function createConfig() {
           anonymizeIP: true,
         },
         sitemap: {
-          lastmod: null,
+          lastmod: 'date',
           changefreq: 'daily',
           priority: 1.0,
           ignorePatterns: [
@@ -277,15 +278,15 @@ module.exports = async function createConfig() {
         {property: 'og:title', content: 'Khalid Naami — Quantitative Finance, Macro & Geopolitics'},
         {property: 'og:description', content: 'Khalid Naami, Founder of Dashboard Options. Research in Quantitative Finance, Options Greeks, Global Macro, Geopolitics & AI.'},
         {name: 'twitter:card', content: 'summary_large_image'},
-        {property: 'og:image:width', content: '945'},
-        {property: 'og:image:height', content: '1024'},
+        {property: 'og:image:width', content: '1200'},
+        {property: 'og:image:height', content: '630'},
         {property: 'og:type', content: 'website'},
         {property: 'og:site_name', content: 'Khalid Naami - Financial Intelligence'},
-        {property: 'og:image:type', content: 'image/webp'},
-        {property: 'og:image:alt', content: 'Khalid Naami - Quantitative Finance & Options Greeks Analysis'},
+        {property: 'og:image:type', content: 'image/png'},
+        {property: 'og:image:alt', content: 'Khalid Naami — Founder of Dashboard Options | Quantitative Finance, Macro & Geopolitics'},
       ],
-      // Replace with your project's social card
-      image: 'img/zoro-media.webp',
+      // Horizontal 1200x630 social share card for X, LinkedIn, and Open Graph
+      image: 'img/og-card-1200x630.png',
       navbar: {
         title: 'Khalid Naami',
         logo: {
@@ -765,6 +766,7 @@ ${rssItems}
   </url>`;
                 }).join('');
 
+              let hasNewsSitemap = false;
               if (newsItems) {
                 const newsSitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -777,61 +779,62 @@ ${newsItems}
                   path.join(buildBlogDir, 'news-sitemap.xml'),
                   newsSitemapXml
                 );
+                hasNewsSitemap = true;
                 console.log('Successfully generated news-sitemap.xml with Image Extensions');
               }
-            } catch (newsErr) {
-              console.error('Error generating News Sitemap:', newsErr);
-            }
 
-            // Comprehensive Image Sitemap Generation
+            // Enrich canonical sitemap.xml directly with <image:image> tags (avoids 438 duplicate URLs across sitemap-index)
             try {
-              const imageItems = blogContent.map(post => {
-                if (!post.image) return '';
-                const postUrl = escapeXml(`${context.siteConfig.url}${post.url}`);
-                const imageUrl = escapeXml(post.image.startsWith('http') ? post.image : `${context.siteConfig.url}${post.image}`);
-                return `
-  <url>
-    <loc>${postUrl}</loc>
-    <image:image>
-      <image:loc>${imageUrl}</image:loc>
-      <image:caption><![CDATA[${escapeCdata(post.summary)}]]></image:caption>
-      <image:title><![CDATA[${escapeCdata(post.title)}]]></image:title>
-    </image:image>
-  </url>`;
-              }).join('');
-
-              const imageSitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-${imageItems}
-</urlset>`;
-
-              await fs.promises.writeFile(
-                path.join(buildBlogDir, 'image-sitemap.xml'),
-                imageSitemapXml
-              );
-              console.log('Successfully generated image-sitemap.xml');
+              const sitemapXmlPath = path.join(outDir, 'sitemap.xml');
+              if (fs.existsSync(sitemapXmlPath)) {
+                const cleanSiteBase = context.siteConfig.url.replace(/\/+$/, '');
+                const postImageByLoc = new Map();
+                for (const post of blogContent) {
+                  if (!post.image) continue;
+                  const postUrl = `${cleanSiteBase}${post.url}`;
+                  const imageUrl = post.image.startsWith('http')
+                    ? post.image
+                    : `${cleanSiteBase}${post.image.startsWith('/') ? '' : '/'}${post.image}`;
+                  postImageByLoc.set(
+                    postUrl,
+                    `<image:image><image:loc>${escapeXml(imageUrl)}</image:loc><image:title><![CDATA[${escapeCdata(post.title)}]]></image:title></image:image>`
+                  );
+                }
+                let sitemapContent = await fs.promises.readFile(sitemapXmlPath, 'utf8');
+                if (!sitemapContent.includes('xmlns:image=')) {
+                  sitemapContent = sitemapContent.replace(
+                    '<urlset ',
+                    '<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" '
+                  );
+                }
+                sitemapContent = sitemapContent.replace(
+                  /<url><loc>([^<]+)<\/loc>([\s\S]*?)<\/url>/g,
+                  (full, loc, inner) => {
+                    const imgTag = postImageByLoc.get(loc);
+                    if (!imgTag || inner.includes('<image:image>')) return full;
+                    return `<url><loc>${loc}</loc>${inner}${imgTag}</url>`;
+                  }
+                );
+                await fs.promises.writeFile(sitemapXmlPath, sitemapContent);
+                console.log('Successfully enriched sitemap.xml with image extensions');
+              }
             } catch (imgErr) {
-              console.error('Error generating Image Sitemap:', imgErr);
+              console.error('Error enriching sitemap.xml with images:', imgErr);
             }
 
-            // Sitemap Index Generation
+            // Sitemap Index Generation (no duplicate child sitemaps; include news-sitemap only when non-empty)
             try {
               const safeBaseUrl = escapeXml(context.siteConfig.url.replace(/\/+$/, ''));
+              const nowIso = new Date().toISOString();
+              const newsSitemapEntry = hasNewsSitemap
+                ? `\n  <sitemap>\n    <loc>${safeBaseUrl}/blog/news-sitemap.xml</loc>\n    <lastmod>${nowIso}</lastmod>\n  </sitemap>`
+                : '';
               const sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>${safeBaseUrl}/sitemap.xml</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>${safeBaseUrl}/blog/news-sitemap.xml</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>${safeBaseUrl}/blog/image-sitemap.xml</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
-  </sitemap>
+    <lastmod>${nowIso}</lastmod>
+  </sitemap>${newsSitemapEntry}
 </sitemapindex>`;
 
               await fs.promises.writeFile(
@@ -841,6 +844,9 @@ ${imageItems}
               console.log('Successfully generated sitemap-index.xml');
             } catch (indexErr) {
               console.error('Error generating Sitemap Index:', indexErr);
+            }
+            } catch (newsErr) {
+              console.error('Error generating News Sitemap:', newsErr);
             }
 
             console.log('Successfully generated llms.txt and llms-full.txt files');

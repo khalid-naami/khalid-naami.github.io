@@ -1,0 +1,36 @@
+{
+  "name": "Khalid Naami Research Archive",
+  "description": "Personal website and independent research archive of Khalid Naami, Founder of the Dashboard Options project, covering Quantitative Finance, Options Greeks, Global Macroeconomics, Geopolitics (OSINT), and Financial AI.",
+  "url": "https://khalidnaami.com",
+  "version": "7.0.0",
+  "provider": {
+    "organization": "Dashboard Options",
+    "url": "https://khalidnaami.com"
+  },
+  "documentationUrl": "https://khalidnaami.com/llms.txt",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false,
+    "stateTransitionHistory": false
+  },
+  "defaultInputModes": ["text/plain", "text/markdown"],
+  "defaultOutputModes": ["text/markdown", "application/json", "text/html"],
+  "skills": [
+    {
+      "id": "research-archive-lookup",
+      "name": "Quantitative Finance, Macro & Geopolitics Research",
+      "description": "Access curated articles, structured metadata, and LLM-ready summaries covering Options Greeks, Gamma Exposure, global macroeconomics, geopolitics, and financial AI.",
+      "tags": ["quantitative-finance", "options-greeks", "macroeconomics", "geopolitics", "osint", "financial-ai"],
+      "examples": [
+        "Summarize Khalid Naami's research on Gamma Exposure and Options Greeks",
+        "List recent macroeconomic and geopolitical research articles from khalidnaami.com"
+      ]
+    }
+  ],
+  "links": {
+    "llms": "https://khalidnaami.com/llms.txt",
+    "agents": "https://khalidnaami.com/AGENTS.md",
+    "sitemap": "https://khalidnaami.com/sitemap-index.xml",
+    "rss": "https://khalidnaami.com/blog/rss.xml"
+  }
+}
