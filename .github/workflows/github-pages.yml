@@ -20,20 +20,21 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
+        fetch-depth: 0
         persist-credentials: false
 
     - name: Setup Node
       uses: actions/setup-node@v4
       with:
-        node-version: 20
-        cache: yarn
-        cache-dependency-path: yarn.lock
+        node-version: 24
+        cache: npm
+        cache-dependency-path: package-lock.json
 
     - name: Install dependencies
-      run: yarn install --frozen-lockfile
+      run: npm ci --ignore-scripts
 
     - name: Build website
-      run: yarn build
+      run: npm run build
 
     # Popular action to deploy to GitHub Pages:
     # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
